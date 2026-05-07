@@ -825,3 +825,12 @@ mdbook serve --open
 .\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -ValidatePaths
 mdbook serve --open
 ```
+
+
+---
+
+## Git / versionado
+
+Este paquete incluye configuración base para Git: `.gitignore`, `.gitattributes` y `.editorconfig`.
+
+Guía rápida: [`docs/git-workflow.md`](docs/git-workflow.md)
