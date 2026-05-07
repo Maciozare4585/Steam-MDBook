@@ -195,7 +195,6 @@
     - [V6.5.14 Parser/registry/tooltips](06-mantenimiento/v6-5-14-parser-registry-tooltips.md)
 
 - [VII. Juegos / Metadatos](07-juegos/index.md)
-  - [Detalle dinámico de juego](07-juegos/detalle.md)
   - [Juegos — 0-9](07-juegos/por-letra/0-9.md)
   - [Juegos — A](07-juegos/por-letra/a.md)
   - [Juegos — B](07-juegos/por-letra/b.md)
