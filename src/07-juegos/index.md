@@ -4,7 +4,7 @@
 
 Esta sección ya no lista todos los juegos individuales en el sidebar. Los detalles se dividen por letra y cada juego puede abrirse en una ficha dinámica única.
 
-**Total registrado:** `957` juegos/apps con `steamAppId`.
+**Total registrado:** `960` juegos/apps con `steamAppId`.
 
 ## Ficha dinámica
 
@@ -14,11 +14,11 @@ Esta sección ya no lista todos los juegos individuales en el sidebar. Los detal
 
 <div class="letter-nav">
   <a href="por-letra/0-9.html">0-9 <small>11</small></a>
-  <a href="por-letra/a.html">A <small>42</small></a>
+  <a href="por-letra/a.html">A <small>43</small></a>
   <a href="por-letra/b.html">B <small>55</small></a>
   <a href="por-letra/c.html">C <small>54</small></a>
   <a href="por-letra/d.html">D <small>88</small></a>
-  <a href="por-letra/e.html">E <small>19</small></a>
+  <a href="por-letra/e.html">E <small>20</small></a>
   <a href="por-letra/f.html">F <small>32</small></a>
   <a href="por-letra/g.html">G <small>35</small></a>
   <a href="por-letra/h.html">H <small>53</small></a>
@@ -32,7 +32,7 @@ Esta sección ya no lista todos los juegos individuales en el sidebar. Los detal
   <a href="por-letra/p.html">P <small>64</small></a>
   <a href="por-letra/q.html">Q <small>1</small></a>
   <a href="por-letra/r.html">R <small>44</small></a>
-  <a href="por-letra/s.html">S <small>102</small></a>
+  <a href="por-letra/s.html">S <small>103</small></a>
   <a href="por-letra/t.html">T <small>83</small></a>
   <a href="por-letra/u.html">U <small>15</small></a>
   <a href="por-letra/v.html">V <small>9</small></a>
@@ -89,6 +89,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-346110" class="compact-registry-link" href="detalle.html?id=346110">🎮 ARK: Survival Evolved</a>
   <a id="game-meta-407530" class="compact-registry-link" href="detalle.html?id=407530">🎮 ARK: Survival Of The Fittest</a>
   <a id="game-meta-65790" class="compact-registry-link" href="detalle.html?id=65790">🎮 Arma: Cold War Assault</a>
+  <a id="game-meta-4081740" class="compact-registry-link" href="detalle.html?id=4081740">🎮 Around - The Game</a>
   <a id="game-meta-507490" class="compact-registry-link" href="detalle.html?id=507490">🎮 Ashes of the Singularity: Escalation</a>
   <a id="game-meta-15100" class="compact-registry-link" href="detalle.html?id=15100">🎮 Assassin’s Creed</a>
   <a id="game-meta-48190" class="compact-registry-link" href="detalle.html?id=48190">🎮 Assassin’s Creed Brotherhood</a>
@@ -316,6 +317,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1065310" class="compact-registry-link" href="detalle.html?id=1065310">🎮 Evil West</a>
   <a id="game-meta-359310" class="compact-registry-link" href="detalle.html?id=359310">🎮 Evoland 2</a>
   <a id="game-meta-1020470" class="compact-registry-link" href="detalle.html?id=1020470">🎮 Evoland Legendary Edition</a>
+  <a id="game-meta-2694210" class="compact-registry-link" href="detalle.html?id=2694210">🎮 Exiled Survivors</a>
   <a id="game-meta-281820" class="compact-registry-link" href="detalle.html?id=281820">🎮 Explodemon</a>
   <a id="game-meta-21090" class="compact-registry-link" href="detalle.html?id=21090">🎮 F.E.A.R.</a>
   <a id="game-meta-16450" class="compact-registry-link" href="detalle.html?id=16450">🎮 F.E.A.R. 2: Project Origin</a>
@@ -790,6 +792,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-2138710" class="compact-registry-link" href="detalle.html?id=2138710">🎮 Sifu</a>
   <a id="game-meta-2124490" class="compact-registry-link" href="detalle.html?id=2124490">🎮 SILENT HILL 2</a>
   <a id="game-meta-2947440" class="compact-registry-link" href="detalle.html?id=2947440">🎮 SILENT HILL f</a>
+  <a id="game-meta-3362870" class="compact-registry-link" href="detalle.html?id=3362870">🎮 SIMPWALK</a>
   <a id="game-meta-245170" class="compact-registry-link" href="detalle.html?id=245170">🎮 Skullgirls 2nd Encore</a>
   <a id="game-meta-2325290" class="compact-registry-link" href="detalle.html?id=2325290">🎮 Sky: Ni&#241;os de la Luz</a>
   <a id="game-meta-646570" class="compact-registry-link" href="detalle.html?id=646570">🎮 Slay the Spire</a>

@@ -64,7 +64,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:00"
+    "updatedAt": "2026-05-07T08:51:43"
   },
   {
     "title": "100 Ninja Cats",
@@ -87,7 +87,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:03"
+    "updatedAt": "2026-05-07T08:51:45"
   },
   {
     "title": "100% Orange Juice",
@@ -176,7 +176,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:07"
+    "updatedAt": "2026-05-07T08:51:47"
   },
   {
     "title": "5D Chess With Multiverse Time Travel",
@@ -243,7 +243,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:16"
+    "updatedAt": "2026-05-07T08:51:49"
   },
   {
     "title": "911 Operator",
@@ -288,7 +288,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:19"
+    "updatedAt": "2026-05-07T08:51:51"
   },
   {
     "title": "A Plague Tale: Requiem",
@@ -443,7 +443,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:21"
+    "updatedAt": "2026-05-07T08:51:52"
   },
   {
     "title": "Aesop Rock's Black Hole Superette Experience",
@@ -466,7 +466,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:23"
+    "updatedAt": "2026-05-07T08:51:54"
   },
   {
     "title": "Age of Empires II (2013)",
@@ -775,7 +775,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:34"
+    "updatedAt": "2026-05-07T08:51:56"
   },
   {
     "title": "ANNO: Mutationem",
@@ -842,7 +842,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:44"
+    "updatedAt": "2026-05-07T08:51:58"
   },
   {
     "title": "Apex Legends",
@@ -931,6 +931,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:22:39"
+  },
+  {
+    "title": "Around - The Game",
+    "slug": "around-the-game",
+    "aliases": [],
+    "steamAppId": 4081740,
+    "officialName": "Around - The Game",
+    "steamType": "game",
+    "matchName": "Around - The Game",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/4081740/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/4081740/steam-header.jpg",
+      "steamCapsule": "src/assets/games/4081740/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/4081740/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-07T08:52:00"
   },
   {
     "title": "Ashes of the Singularity: Escalation",
@@ -1657,7 +1680,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:46"
+    "updatedAt": "2026-05-07T08:52:02"
   },
   {
     "title": "Beavers Be Dammed",
@@ -1680,7 +1703,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:49"
+    "updatedAt": "2026-05-07T08:52:04"
   },
   {
     "title": "Beholder",
@@ -1747,7 +1770,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:51"
+    "updatedAt": "2026-05-07T08:52:06"
   },
   {
     "title": "Beyond: Two Souls",
@@ -1792,7 +1815,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:53"
+    "updatedAt": "2026-05-07T08:52:07"
   },
   {
     "title": "BioShock",
@@ -2079,7 +2102,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:11:55"
+    "updatedAt": "2026-05-07T08:52:09"
   },
   {
     "title": "Bob Esponja: The Cosmic Shake",
@@ -2256,7 +2279,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:06"
+    "updatedAt": "2026-05-07T08:52:11"
   },
   {
     "title": "Brawlhalla",
@@ -2345,7 +2368,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:16"
+    "updatedAt": "2026-05-07T08:52:13"
   },
   {
     "title": "Buck Trucker in Rowdy Business",
@@ -2368,7 +2391,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:20"
+    "updatedAt": "2026-05-07T08:52:14"
   },
   {
     "title": "Buckshot Roulette",
@@ -2567,7 +2590,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:23"
+    "updatedAt": "2026-05-07T08:52:16"
   },
   {
     "title": "Cast n Chill",
@@ -2634,7 +2657,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:25"
+    "updatedAt": "2026-05-07T08:52:18"
   },
   {
     "title": "Catacombs",
@@ -2657,7 +2680,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:35"
+    "updatedAt": "2026-05-07T08:52:19"
   },
   {
     "title": "Catan Universe",
@@ -2724,7 +2747,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:45"
+    "updatedAt": "2026-05-07T08:52:21"
   },
   {
     "title": "Celeste",
@@ -2769,7 +2792,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:47"
+    "updatedAt": "2026-05-07T08:52:23"
   },
   {
     "title": "Chamber Survival",
@@ -2814,7 +2837,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:49"
+    "updatedAt": "2026-05-07T08:52:25"
   },
   {
     "title": "Child of Light",
@@ -2903,7 +2926,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:52"
+    "updatedAt": "2026-05-07T08:52:26"
   },
   {
     "title": "Chroma Squad",
@@ -3256,7 +3279,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:12:54"
+    "updatedAt": "2026-05-07T08:52:28"
   },
   {
     "title": "Crash Bandicoot N. Sane Trilogy",
@@ -3301,7 +3324,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:05"
+    "updatedAt": "2026-05-07T08:52:30"
   },
   {
     "title": "Crashlands",
@@ -3346,7 +3369,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:17"
+    "updatedAt": "2026-05-07T08:52:31"
   },
   {
     "title": "Crossout",
@@ -3391,7 +3414,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:18"
+    "updatedAt": "2026-05-07T08:52:33"
   },
   {
     "title": "Crown Champion: Legends of the Arena",
@@ -3414,7 +3437,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:21"
+    "updatedAt": "2026-05-07T08:52:35"
   },
   {
     "title": "Crypt of the NecroDancer",
@@ -3569,7 +3592,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:33"
+    "updatedAt": "2026-05-07T08:52:37"
   },
   {
     "title": "Cyberpunk 2077",
@@ -3614,7 +3637,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:44"
+    "updatedAt": "2026-05-07T08:52:38"
   },
   {
     "title": "Daisho: Survival of a Samurai",
@@ -3637,7 +3660,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:45"
+    "updatedAt": "2026-05-07T08:52:40"
   },
   {
     "title": "Dark and Darker",
@@ -3682,7 +3705,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:49"
+    "updatedAt": "2026-05-07T08:52:41"
   },
   {
     "title": "DARK SOULS REMASTERED",
@@ -3749,7 +3772,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:51"
+    "updatedAt": "2026-05-07T08:52:43"
   },
   {
     "title": "DAVE THE DIVER",
@@ -3859,7 +3882,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:13:53"
+    "updatedAt": "2026-05-07T08:52:45"
   },
   {
     "title": "Dead Cells",
@@ -4190,7 +4213,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:04"
+    "updatedAt": "2026-05-07T08:52:46"
   },
   {
     "title": "Death Fungeon",
@@ -4213,7 +4236,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:15"
+    "updatedAt": "2026-05-07T08:52:48"
   },
   {
     "title": "Death Road to Canada",
@@ -4302,7 +4325,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:18"
+    "updatedAt": "2026-05-07T08:52:50"
   },
   {
     "title": "Deiland",
@@ -4413,7 +4436,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:22"
+    "updatedAt": "2026-05-07T08:52:53"
   },
   {
     "title": "Deponia",
@@ -4458,7 +4481,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:32"
+    "updatedAt": "2026-05-07T08:52:55"
   },
   {
     "title": "Destiny 2",
@@ -4635,7 +4658,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:34"
+    "updatedAt": "2026-05-07T08:52:56"
   },
   {
     "title": "Dino D-Day",
@@ -4658,7 +4681,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:37"
+    "updatedAt": "2026-05-07T08:52:58"
   },
   {
     "title": "DiRT Rally",
@@ -4835,7 +4858,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:39"
+    "updatedAt": "2026-05-07T08:53:00"
   },
   {
     "title": "Distant Space 2",
@@ -4858,7 +4881,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:42"
+    "updatedAt": "2026-05-07T08:53:02"
   },
   {
     "title": "DISTRAINT: Deluxe Edition",
@@ -5222,7 +5245,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:43"
+    "updatedAt": "2026-05-07T08:53:06"
   },
   {
     "title": "Down the Rabbit Hole Flattened",
@@ -5267,7 +5290,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:46"
+    "updatedAt": "2026-05-07T08:53:07"
   },
   {
     "title": "Downwell",
@@ -5686,7 +5709,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:49"
+    "updatedAt": "2026-05-07T08:53:09"
   },
   {
     "title": "Enter the Gungeon",
@@ -5731,7 +5754,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:14:52"
+    "updatedAt": "2026-05-07T08:53:11"
   },
   {
     "title": "Escape the Backrooms",
@@ -5798,7 +5821,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:01"
+    "updatedAt": "2026-05-07T08:53:13"
   },
   {
     "title": "Etrian Odyssey HD",
@@ -5977,6 +6000,29 @@
     "updatedAt": "2026-05-06T22:32:29"
   },
   {
+    "title": "Exiled Survivors",
+    "slug": "exiled-survivors",
+    "aliases": [],
+    "steamAppId": 2694210,
+    "officialName": "Exiled Survivors",
+    "steamType": "game",
+    "matchName": "Exiled Survivors",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/2694210/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/2694210/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2694210/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2694210/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-07T08:53:16"
+  },
+  {
     "title": "Explodemon",
     "slug": "explodemon",
     "aliases": [],
@@ -5997,7 +6043,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:04"
+    "updatedAt": "2026-05-07T08:53:18"
   },
   {
     "title": "F.E.A.R.",
@@ -6416,7 +6462,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:06"
+    "updatedAt": "2026-05-07T08:53:20"
   },
   {
     "title": "Fight'N Rage",
@@ -6571,7 +6617,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:08"
+    "updatedAt": "2026-05-07T08:53:22"
   },
   {
     "title": "Flicker of Hope",
@@ -6858,7 +6904,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:12"
+    "updatedAt": "2026-05-07T08:53:23"
   },
   {
     "title": "GOAT OF DUTY",
@@ -6881,7 +6927,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:14"
+    "updatedAt": "2026-05-07T08:53:25"
   },
   {
     "title": "Gobotix: Duo",
@@ -6904,7 +6950,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:18"
+    "updatedAt": "2026-05-07T08:53:27"
   },
   {
     "title": "God of War",
@@ -6971,7 +7017,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:22"
+    "updatedAt": "2026-05-07T08:53:29"
   },
   {
     "title": "Golden Light",
@@ -7126,7 +7172,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:32"
+    "updatedAt": "2026-05-07T08:53:30"
   },
   {
     "title": "Graveyard Keeper",
@@ -7171,7 +7217,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:34"
+    "updatedAt": "2026-05-07T08:53:32"
   },
   {
     "title": "Green Hell",
@@ -7216,7 +7262,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:45"
+    "updatedAt": "2026-05-07T08:53:34"
   },
   {
     "title": "Grey Instinct - Part 1",
@@ -7349,7 +7395,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:48"
+    "updatedAt": "2026-05-07T08:53:36"
   },
   {
     "title": "Guacamelee!",
@@ -7526,7 +7572,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:15:50"
+    "updatedAt": "2026-05-07T08:53:37"
   },
   {
     "title": "Half-Life",
@@ -7931,7 +7977,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:00"
+    "updatedAt": "2026-05-07T08:53:39"
   },
   {
     "title": "Have a Nice Death",
@@ -8020,7 +8066,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:02"
+    "updatedAt": "2026-05-07T08:53:41"
   },
   {
     "title": "Heartopia",
@@ -8043,7 +8089,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:12"
+    "updatedAt": "2026-05-07T08:53:42"
   },
   {
     "title": "Heaven Forest NIGHTS",
@@ -8132,7 +8178,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:14"
+    "updatedAt": "2026-05-07T08:53:44"
   },
   {
     "title": "Hellblade: Senua’s Sacrifice",
@@ -8617,7 +8663,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:17"
+    "updatedAt": "2026-05-07T08:53:46"
   },
   {
     "title": "Hue",
@@ -8948,7 +8994,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:28"
+    "updatedAt": "2026-05-07T08:53:48"
   },
   {
     "title": "Isle of Jura",
@@ -8971,7 +9017,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:30"
+    "updatedAt": "2026-05-07T08:53:50"
   },
   {
     "title": "It Takes Two",
@@ -9060,7 +9106,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:32"
+    "updatedAt": "2026-05-07T08:53:52"
   },
   {
     "title": "Joe Danger",
@@ -9171,7 +9217,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:43"
+    "updatedAt": "2026-05-07T08:53:54"
   },
   {
     "title": "Just Move:Clean City Messy Battle",
@@ -9194,7 +9240,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:44"
+    "updatedAt": "2026-05-07T08:53:55"
   },
   {
     "title": "Kabounce",
@@ -9217,7 +9263,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:46"
+    "updatedAt": "2026-05-07T08:53:57"
   },
   {
     "title": "Kao the Kangaroo: Round 2",
@@ -9262,7 +9308,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:16:49"
+    "updatedAt": "2026-05-07T08:53:59"
   },
   {
     "title": "Keep Talking and Nobody Explodes",
@@ -9329,7 +9375,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:02"
+    "updatedAt": "2026-05-07T08:54:01"
   },
   {
     "title": "Kerbal Space Program",
@@ -9418,7 +9464,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:03"
+    "updatedAt": "2026-05-07T08:54:03"
   },
   {
     "title": "KILL la KILL -IF",
@@ -9749,7 +9795,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:06"
+    "updatedAt": "2026-05-07T08:54:05"
   },
   {
     "title": "LEGO Bricktales",
@@ -10256,7 +10302,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:17"
+    "updatedAt": "2026-05-07T08:54:06"
   },
   {
     "title": "Lords of the Fallen",
@@ -10300,7 +10346,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-06T22:36:14"
+    "updatedAt": "2026-05-07T08:54:08"
   },
   {
     "title": "Lost Ark",
@@ -10345,7 +10391,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:20"
+    "updatedAt": "2026-05-07T08:54:10"
   },
   {
     "title": "Lost in Anomaly",
@@ -10368,7 +10414,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:23"
+    "updatedAt": "2026-05-07T08:54:12"
   },
   {
     "title": "Lovers in a Dangerous Spacetime",
@@ -10655,7 +10701,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:25"
+    "updatedAt": "2026-05-07T08:54:15"
   },
   {
     "title": "MapleStory",
@@ -10700,7 +10746,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:28"
+    "updatedAt": "2026-05-07T08:54:17"
   },
   {
     "title": "Marvel Rivals",
@@ -10877,7 +10923,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:31"
+    "updatedAt": "2026-05-07T08:54:20"
   },
   {
     "title": "Merk Mayhem",
@@ -10900,7 +10946,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:35"
+    "updatedAt": "2026-05-07T08:54:22"
   },
   {
     "title": "Metal Gear Solid Delta Snake Eater",
@@ -11385,7 +11431,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:39"
+    "updatedAt": "2026-05-07T08:54:25"
   },
   {
     "title": "MiniRoyale",
@@ -11694,7 +11740,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:49"
+    "updatedAt": "2026-05-07T08:54:27"
   },
   {
     "title": "Muse Dash",
@@ -11739,7 +11785,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:17:59"
+    "updatedAt": "2026-05-07T08:54:29"
   },
   {
     "title": "Myrkwood: Offshoot",
@@ -11762,7 +11808,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:03"
+    "updatedAt": "2026-05-07T08:54:30"
   },
   {
     "title": "MyVoiceZoo",
@@ -11807,7 +11853,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:05"
+    "updatedAt": "2026-05-07T08:54:32"
   },
   {
     "title": "NARAKA: BLADEPOINT",
@@ -12072,7 +12118,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:15"
+    "updatedAt": "2026-05-07T08:54:34"
   },
   {
     "title": "NETHER HEROES",
@@ -12095,7 +12141,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:17"
+    "updatedAt": "2026-05-07T08:54:36"
   },
   {
     "title": "NeuroVoider",
@@ -12162,7 +12208,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:19"
+    "updatedAt": "2026-05-07T08:54:37"
   },
   {
     "title": "NIDUS",
@@ -12251,7 +12297,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:22"
+    "updatedAt": "2026-05-07T08:54:39"
   },
   {
     "title": "Night in the Woods",
@@ -12362,7 +12408,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:32"
+    "updatedAt": "2026-05-07T08:54:42"
   },
   {
     "title": "Nioh: Complete Edition",
@@ -12407,7 +12453,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:36"
+    "updatedAt": "2026-05-07T08:54:44"
   },
   {
     "title": "No Man's Sky",
@@ -12474,7 +12520,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:47"
+    "updatedAt": "2026-05-07T08:54:46"
   },
   {
     "title": "No, I'm not a Human",
@@ -12541,7 +12587,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:49"
+    "updatedAt": "2026-05-07T08:54:47"
   },
   {
     "title": "Noita",
@@ -12608,7 +12654,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:18:52"
+    "updatedAt": "2026-05-07T08:54:49"
   },
   {
     "title": "Odysseus Kosmos and his Robot Quest - Episode 1",
@@ -12631,7 +12677,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:03"
+    "updatedAt": "2026-05-07T08:54:51"
   },
   {
     "title": "Oh, Bugger!",
@@ -12654,7 +12700,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:06"
+    "updatedAt": "2026-05-07T08:54:53"
   },
   {
     "title": "OmniBus",
@@ -12677,7 +12723,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:16"
+    "updatedAt": "2026-05-07T08:54:55"
   },
   {
     "title": "OMORI",
@@ -12788,7 +12834,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:18"
+    "updatedAt": "2026-05-07T08:54:56"
   },
   {
     "title": "Ori and the Blind Forest",
@@ -12899,7 +12945,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:21"
+    "updatedAt": "2026-05-07T08:54:58"
   },
   {
     "title": "Outlast",
@@ -12966,7 +13012,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:31"
+    "updatedAt": "2026-05-07T08:55:00"
   },
   {
     "title": "Overcooked",
@@ -13187,7 +13233,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:34"
+    "updatedAt": "2026-05-07T08:55:02"
   },
   {
     "title": "Palworld",
@@ -13276,7 +13322,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:44"
+    "updatedAt": "2026-05-07T08:55:03"
   },
   {
     "title": "Paragnosia",
@@ -13299,7 +13345,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:45"
+    "updatedAt": "2026-05-07T08:55:05"
   },
   {
     "title": "Particula",
@@ -13322,7 +13368,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:48"
+    "updatedAt": "2026-05-07T08:55:07"
   },
   {
     "title": "Party Club",
@@ -13785,7 +13831,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:19:58"
+    "updatedAt": "2026-05-07T08:55:09"
   },
   {
     "title": "Pizza Tower",
@@ -13940,7 +13986,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:00"
+    "updatedAt": "2026-05-07T08:55:10"
   },
   {
     "title": "Plunder Panic",
@@ -13985,7 +14031,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:02"
+    "updatedAt": "2026-05-07T08:55:12"
   },
   {
     "title": "Police Stories",
@@ -14074,7 +14120,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:04"
+    "updatedAt": "2026-05-07T08:55:14"
   },
   {
     "title": "Polygoneer",
@@ -14229,7 +14275,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:07"
+    "updatedAt": "2026-05-07T08:55:16"
   },
   {
     "title": "Prey",
@@ -14296,7 +14342,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:10"
+    "updatedAt": "2026-05-07T08:55:17"
   },
   {
     "title": "Project Mercury",
@@ -14319,7 +14365,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:12"
+    "updatedAt": "2026-05-07T08:55:19"
   },
   {
     "title": "Project Warlock",
@@ -14584,7 +14630,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:15"
+    "updatedAt": "2026-05-07T08:55:22"
   },
   {
     "title": "Raventure",
@@ -14607,7 +14653,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:34"
+    "updatedAt": "2026-05-07T08:55:24"
   },
   {
     "title": "Rayman: Raving Rabbids",
@@ -14696,7 +14742,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:44"
+    "updatedAt": "2026-05-07T08:55:26"
   },
   {
     "title": "Red Risk",
@@ -14719,7 +14765,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:48"
+    "updatedAt": "2026-05-07T08:55:28"
   },
   {
     "title": "Refind Self: Desvela tu personalidad",
@@ -14764,7 +14810,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:50"
+    "updatedAt": "2026-05-07T08:55:29"
   },
   {
     "title": "Renegade Ops",
@@ -15139,7 +15185,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:52"
+    "updatedAt": "2026-05-07T08:55:31"
   },
   {
     "title": "Rift of the NecroDancer",
@@ -15338,7 +15384,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:54"
+    "updatedAt": "2026-05-07T08:55:33"
   },
   {
     "title": "Rogue Heroes: Ruins of Tasos",
@@ -15383,7 +15429,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:20:56"
+    "updatedAt": "2026-05-07T08:55:35"
   },
   {
     "title": "Room For One!",
@@ -15406,7 +15452,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:21:07"
+    "updatedAt": "2026-05-07T08:55:36"
   },
   {
     "title": "ROTA: Bend Gravity",
@@ -15429,7 +15475,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:21:18"
+    "updatedAt": "2026-05-07T08:55:38"
   },
   {
     "title": "Rubber Bandits",
@@ -15474,7 +15520,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:21:21"
+    "updatedAt": "2026-05-07T08:55:40"
   },
   {
     "title": "Ryse: Son of Rome",
@@ -15518,7 +15564,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:21:23"
+    "updatedAt": "2026-05-07T08:55:42"
   },
   {
     "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
@@ -15629,7 +15675,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:21:35"
+    "updatedAt": "2026-05-07T08:55:44"
   },
   {
     "title": "Sayonara Wild Hearts",
@@ -15696,7 +15742,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:21:44"
+    "updatedAt": "2026-05-07T08:55:46"
   },
   {
     "title": "SCP: Containment Breach Multiplayer",
@@ -15741,7 +15787,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:21:47"
+    "updatedAt": "2026-05-07T08:55:47"
   },
   {
     "title": "Scribblenauts Unlimited",
@@ -15852,7 +15898,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:21:49"
+    "updatedAt": "2026-05-07T08:55:49"
   },
   {
     "title": "Seen",
@@ -15897,7 +15943,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:21:51"
+    "updatedAt": "2026-05-07T08:55:51"
   },
   {
     "title": "Separated by Nightmares: Where Duty Dies",
@@ -15920,7 +15966,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:02"
+    "updatedAt": "2026-05-07T08:55:52"
   },
   {
     "title": "Serial Cleaner",
@@ -15943,7 +15989,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:05"
+    "updatedAt": "2026-05-07T08:55:54"
   },
   {
     "title": "Serious Sam 2",
@@ -16208,7 +16254,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:08"
+    "updatedAt": "2026-05-07T08:55:56"
   },
   {
     "title": "Shadow of the Tomb Raider",
@@ -16253,7 +16299,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:09"
+    "updatedAt": "2026-05-07T08:55:57"
   },
   {
     "title": "Shadowverse: Worlds Beyond",
@@ -16298,7 +16344,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:12"
+    "updatedAt": "2026-05-07T08:55:59"
   },
   {
     "title": "Shovel Knight: Treasure Trove",
@@ -16499,6 +16545,29 @@
     "updatedAt": "2026-05-06T22:27:47"
   },
   {
+    "title": "SIMPWALK",
+    "slug": "simpwalk",
+    "aliases": [],
+    "steamAppId": 3362870,
+    "officialName": "SIMPWALK",
+    "steamType": "game",
+    "matchName": "SIMPWALK",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/3362870/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/3362870/steam-header.jpg",
+      "steamCapsule": "src/assets/games/3362870/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/3362870/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-07T08:56:02"
+  },
+  {
     "title": "Skullgirls 2nd Encore",
     "slug": "skullgirls-2nd-encore",
     "steamAppId": 245170,
@@ -16607,7 +16676,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:15"
+    "updatedAt": "2026-05-07T08:56:03"
   },
   {
     "title": "Smart Factory Tycoon",
@@ -16652,7 +16721,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:18"
+    "updatedAt": "2026-05-07T08:56:05"
   },
   {
     "title": "Songs of Conquest",
@@ -16829,7 +16898,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:20"
+    "updatedAt": "2026-05-07T08:56:07"
   },
   {
     "title": "Space Hat",
@@ -16852,7 +16921,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:31"
+    "updatedAt": "2026-05-07T08:56:08"
   },
   {
     "title": "Spacelines From The Far Out",
@@ -16897,7 +16966,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:34"
+    "updatedAt": "2026-05-07T08:56:10"
   },
   {
     "title": "Spirit City: Lofi Sessions",
@@ -17250,7 +17319,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:35"
+    "updatedAt": "2026-05-07T08:56:13"
   },
   {
     "title": "STEINS;GATE",
@@ -17449,7 +17518,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:37"
+    "updatedAt": "2026-05-07T08:56:14"
   },
   {
     "title": "Suicide Squad",
@@ -17516,7 +17585,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:40"
+    "updatedAt": "2026-05-07T08:56:16"
   },
   {
     "title": "Super Fancy Pants Adventure",
@@ -17561,7 +17630,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:43"
+    "updatedAt": "2026-05-07T08:56:18"
   },
   {
     "title": "SUPER VIVE",
@@ -17672,7 +17741,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:45"
+    "updatedAt": "2026-05-07T08:56:20"
   },
   {
     "title": "Swallow the Sea",
@@ -17695,7 +17764,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:48"
+    "updatedAt": "2026-05-07T08:56:22"
   },
   {
     "title": "Sword of Convallaria",
@@ -17718,7 +17787,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:22:57"
+    "updatedAt": "2026-05-07T08:56:23"
   },
   {
     "title": "Syberia",
@@ -17917,7 +17986,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:00"
+    "updatedAt": "2026-05-07T08:56:25"
   },
   {
     "title": "Terraria",
@@ -17962,7 +18031,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:02"
+    "updatedAt": "2026-05-07T08:56:27"
   },
   {
     "title": "Thanks, She's A Rescue",
@@ -17985,7 +18054,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:05"
+    "updatedAt": "2026-05-07T08:56:29"
   },
   {
     "title": "The Anacrusis",
@@ -18052,7 +18121,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:07"
+    "updatedAt": "2026-05-07T08:56:31"
   },
   {
     "title": "The Backrooms Regret",
@@ -18449,7 +18518,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:10"
+    "updatedAt": "2026-05-07T08:56:32"
   },
   {
     "title": "The Gunk",
@@ -18670,7 +18739,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:14"
+    "updatedAt": "2026-05-07T08:56:34"
   },
   {
     "title": "The Last Hope",
@@ -18693,7 +18762,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:16"
+    "updatedAt": "2026-05-07T08:56:36"
   },
   {
     "title": "The Last King Prologue",
@@ -18716,7 +18785,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:26"
+    "updatedAt": "2026-05-07T08:56:38"
   },
   {
     "title": "The Last of Us Part I",
@@ -18871,7 +18940,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:29"
+    "updatedAt": "2026-05-07T08:56:39"
   },
   {
     "title": "The Mr. Rabbit Magic Show",
@@ -18894,7 +18963,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:30"
+    "updatedAt": "2026-05-07T08:56:41"
   },
   {
     "title": "The Odyssey of the Mammoth",
@@ -18917,7 +18986,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:33"
+    "updatedAt": "2026-05-07T08:56:43"
   },
   {
     "title": "The Silent Age",
@@ -19028,7 +19097,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:36"
+    "updatedAt": "2026-05-07T08:56:45"
   },
   {
     "title": "The Walking Dead: The Telltale Definitive Series",
@@ -19095,7 +19164,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:39"
+    "updatedAt": "2026-05-07T08:56:46"
   },
   {
     "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
@@ -19206,7 +19275,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:42"
+    "updatedAt": "2026-05-07T08:56:48"
   },
   {
     "title": "TheEscapists",
@@ -19295,7 +19364,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:46"
+    "updatedAt": "2026-05-07T08:56:50"
   },
   {
     "title": "This War of Mine",
@@ -19340,7 +19409,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:48"
+    "updatedAt": "2026-05-07T08:56:52"
   },
   {
     "title": "Tiny Tina’s Wonderlands",
@@ -19693,7 +19762,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:23:59"
+    "updatedAt": "2026-05-07T08:56:54"
   },
   {
     "title": "Unforgiving Trials: The Space Crusade",
@@ -19716,7 +19785,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:02"
+    "updatedAt": "2026-05-07T08:56:55"
   },
   {
     "title": "UNLOVED",
@@ -19739,7 +19808,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:04"
+    "updatedAt": "2026-05-07T08:56:57"
   },
   {
     "title": "UnMetal",
@@ -19784,7 +19853,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:06"
+    "updatedAt": "2026-05-07T08:56:59"
   },
   {
     "title": "Unrailed!",
@@ -19939,7 +20008,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:17"
+    "updatedAt": "2026-05-07T08:57:01"
   },
   {
     "title": "Vampire Survivors",
@@ -20050,7 +20119,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:19"
+    "updatedAt": "2026-05-07T08:57:02"
   },
   {
     "title": "Void Bastards",
@@ -20095,7 +20164,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:22"
+    "updatedAt": "2026-05-07T08:57:04"
   },
   {
     "title": "VRChat",
@@ -20183,7 +20252,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-06T22:19:32"
+    "updatedAt": "2026-05-07T08:57:06"
   },
   {
     "title": "Wandering Skies",
@@ -20206,7 +20275,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:24"
+    "updatedAt": "2026-05-07T08:57:08"
   },
   {
     "title": "War Thunder",
@@ -20251,7 +20320,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:27"
+    "updatedAt": "2026-05-07T08:57:10"
   },
   {
     "title": "Warframe",
@@ -20714,7 +20783,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:30"
+    "updatedAt": "2026-05-07T08:57:12"
   },
   {
     "title": "Will Glow the Wisp",
@@ -20737,7 +20806,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:31"
+    "updatedAt": "2026-05-07T08:57:13"
   },
   {
     "title": "Will To Live Online",
@@ -20760,7 +20829,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:41"
+    "updatedAt": "2026-05-07T08:57:15"
   },
   {
     "title": "Wizard of Legend",
@@ -21245,6 +21314,6 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T00:24:58"
+    "updatedAt": "2026-05-07T08:57:17"
   }
 ]

@@ -11,45 +11,45 @@
 | A Detective's Novel |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Absconding Zatwor |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Absconding Zatwor |  |  | not-found | No hubo match exacto; requiere override manual |
-| Adamgelion |  |  | not-found | No hubo match exacto; requiere override manual |
 | Adamgelion |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Adamgelion |  |  | not-found | No hubo match exacto; requiere override manual |
 | Aeonic |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Aesop Rock's Black Hole Superette Experience |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Analog - Skin off |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Antimatter Dimensions |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Around - The Game |  |  | not-found | No hubo match exacto; requiere override manual |
 | Around - The Game |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Around - The Game |  |  | not-found | No hubo match exacto; requiere override manual |
 | Aurora Hills: Capítulo 1 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Aurora Hills: Capítulo 1 |  |  | not-found | No hubo match exacto; requiere override manual |
 | Away |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Away |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
 | Bearly Awesome |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Beast Blaster |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
 | Beast Blaster |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Beast Blaster |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
 | Beavers Be Dammed |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Between Two Castles - Digital Edition |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Billies Wheelie |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Blood Gazm |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Blood Gazm |  |  | not-found | No hubo match exacto; requiere override manual |
+| Blood Gazm |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Blue Archive |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Bold New World |  |  | not-found | No hubo match exacto; requiere override manual |
 | Bold New World |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Bold New World |  |  | not-found | No hubo match exacto; requiere override manual |
 | Bord Killer |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
 | Bord Killer |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Braveland |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Break Into Zatwor |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Break Into Zatwor |  |  | not-found | No hubo match exacto; requiere override manual |
+| Break Into Zatwor |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Brilliant Bob |  |  | not-found | No hubo match exacto; requiere override manual |
 | Brilliant Bob |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Broken Voyage |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | BROTHER!!! - Hardcore Platformer |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | BROTHER!!! - Hardcore Platformer |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
 | Buck Trucker in Rowdy Business |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| CandySnake |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | CandySnake |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
+| CandySnake |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Cast & Spell |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Castle of Alchemists: Prologue |  |  | not-found | No hubo match exacto; requiere override manual |
 | Castle of Alchemists: Prologue |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Castle of Alchemists: Prologue |  |  | not-found | No hubo match exacto; requiere override manual |
 | Cat-aclysm |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Catacombs |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Cave Crawlers |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
@@ -76,6 +76,7 @@
 | Death Fungeon |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Deep Siege |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Deiland | 760620 | Deiland | manual-added-v6-4-2 | appdetails success=false |
+| Deiland | 760620 | Deiland | manual-added-v6-4-2 | appdetails success=false |
 | Demolish & Build 2017 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Depths Of Horror: Mushroom Day |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Dichotomy Illusion: The Coser Disassembly Incident |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
@@ -84,20 +85,20 @@
 | Distant Space 2 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Double Shoulders |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Downtown Drift |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Drop |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Drop |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
+| Drop |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Elysium Elect |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Escape From Tethys |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Etheria: Restart |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Exiled Survivors |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Exiled Survivors |  |  | not-found | No hubo match exacto; requiere override manual |
+| Exiled Survivors |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Explodemon |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Feel The Snow |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Fiends of Imprisonment |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Fiends of Imprisonment |  |  | not-found | No hubo match exacto; requiere override manual |
+| Fiends of Imprisonment |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Flash Party |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Gamecraft |  |  | not-found | No hubo match exacto; requiere override manual |
 | Gamecraft |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Gamecraft |  |  | not-found | No hubo match exacto; requiere override manual |
 | Gang of Four |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Gang of Four |  |  | not-found | No hubo match exacto; requiere override manual |
 | Go Mission: Space Travel |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
@@ -106,10 +107,10 @@
 | GOAT OF DUTY |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Gobotix: Duo |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Goddess Of Swing |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| GooCubelets |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | GooCubelets |  |  | not-found | No hubo match exacto; requiere override manual |
-| GooCubelets 2 |  |  | not-found | No hubo match exacto; requiere override manual |
+| GooCubelets |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | GooCubelets 2 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| GooCubelets 2 |  |  | not-found | No hubo match exacto; requiere override manual |
 | GooCubelets: OCD |  |  | not-found | No hubo match exacto; requiere override manual |
 | GooCubelets: OCD |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | GooCubelets: The Algoorithm |  |  | not-found | No hubo match exacto; requiere override manual |
@@ -122,8 +123,8 @@
 | GTR - Garage Town Racing |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Guardians of the Sanctree: Early Birds |  |  | not-found | No hubo match exacto; requiere override manual |
 | Guardians of the Sanctree: Early Birds |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Habbo Launcher |  |  | not-found | No hubo match exacto; requiere override manual |
 | Habbo Launcher |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Habbo Launcher |  |  | not-found | No hubo match exacto; requiere override manual |
 | Hades' Star |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Haus Of Irndrous |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Headsnatchers |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
@@ -156,19 +157,21 @@
 | Melodic Mage |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Merk Mayhem |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Metro: Last Light Complete Edition | 43160 | Metro: Last Light Complete Edition | manual-clean-override | appdetails success=false |
+| Metro: Last Light Complete Edition | 43160 | Metro: Last Light Complete Edition | manual-clean-override | appdetails success=false |
 | Mini Thief |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Murderous Pursuits |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | My life with you |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Myrkwood: Offshoot |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Nanika Game Online |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Neon Runners |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
 | Neon Runners |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| NeoRAGEx 5.0 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Neon Runners |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
 | NeoRAGEx 5.0 |  |  | not-found | No hubo match exacto; requiere override manual |
+| NeoRAGEx 5.0 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Nephise Begins |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | NETHER HEROES |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | NEXT JUMP: Shmup Tactics |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Nifty Smashers |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Night is Coming — Wrath of the Woods | 3405660 | Night is Coming — Wrath of the Woods | manual-added-v6-4-2 | appdetails success=false |
 | Night is Coming — Wrath of the Woods | 3405660 | Night is Coming — Wrath of the Woods | manual-added-v6-4-2 | appdetails success=false |
 | NineHells |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Nirvana |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
@@ -185,30 +188,31 @@
 | Paradox Soul |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Paragnosia |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Particula |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Pathologic 3: Quarantine |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Pathologic 3: Quarantine |  |  | not-found | No hubo match exacto; requiere override manual |
+| Pathologic 3: Quarantine |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Pizza Hero |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Playing Kafka |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Poco |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Polyball |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Powwow Bound: A Menominee Homecoming |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Prima Materia XXV |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Princess Remedy In A Heap of Trouble |  |  | not-found | No hubo match exacto; requiere override manual |
 | Princess Remedy In A Heap of Trouble |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Princess Remedy In A Heap of Trouble |  |  | not-found | No hubo match exacto; requiere override manual |
 | Project Mercury |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| PUBG: Experimental Server |  |  | not-found | No hubo match exacto; requiere override manual |
 | PUBG: Experimental Server |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| PUBG: Experimental Server |  |  | not-found | No hubo match exacto; requiere override manual |
+| Rage Parking Simulator 2016 | 449630 | Rage Parking Simulator 2016 | manual-added-v6-4-2 | appdetails success=false |
 | Rage Parking Simulator 2016 | 449630 | Rage Parking Simulator 2016 | manual-added-v6-4-2 | appdetails success=false |
 | Rat Quest |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Raventure |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Red Gate |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Red Risk |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Red Wings |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Red Wings |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
+| Red Wings |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Refind Self |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Relapse |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| REM: The Prologue |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | REM: The Prologue |  |  | not-found | No hubo match exacto; requiere override manual |
+| REM: The Prologue |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Resident Evil 4 Remake |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Ricochet |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Rocky Mayhem |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
@@ -220,25 +224,25 @@
 | SCP: Containment Breach 2 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Scrap Garden |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Seconda |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| SEGA Mega Drive & Genesis Classics |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | SEGA Mega Drive & Genesis Classics |  |  | not-found | No hubo match exacto; requiere override manual |
+| SEGA Mega Drive & Genesis Classics |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Sentience. The Android's Tale |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Separated by Nightmares: Where Duty Dies |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Serial Cleaner |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Shade Silver |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Shadows of Doubt |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Sharpshooter |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Showdown Bandit |  |  | not-found | No hubo match exacto; requiere override manual |
 | Showdown Bandit |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| SIMPWALK |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Showdown Bandit |  |  | not-found | No hubo match exacto; requiere override manual |
 | SIMPWALK |  |  | not-found | No hubo match exacto; requiere override manual |
+| SIMPWALK |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Sky Rhythm |  |  | not-found | No hubo match exacto; requiere override manual |
 | Sky Rhythm |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Skyrim Special Edition |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Slime Saga |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Snake Eyes Dungeon |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| SNOWBREAK |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | SNOWBREAK |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
+| SNOWBREAK |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Space Bear |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Space Hat |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Sphere vs Gravity |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
@@ -247,8 +251,8 @@
 | SUPER DISTRO |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Super Stupid Game |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | SUR5 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| SurroundDead Poly Construction |  |  | not-found | No hubo match exacto; requiere override manual |
 | SurroundDead Poly Construction |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| SurroundDead Poly Construction |  |  | not-found | No hubo match exacto; requiere override manual |
 | Swallow the Sea |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Sweet Girl Adventure |  |  | not-found | No hubo match exacto; requiere override manual |
 | Sweet Girl Adventure |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
@@ -261,8 +265,8 @@
 | The Last Flame: Prologue |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | The Last Hope |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | The Last King Prologue |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| The Last Man Survivor: Prologue |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | The Last Man Survivor: Prologue |  |  | not-found | No hubo match exacto; requiere override manual |
+| The Last Man Survivor: Prologue |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | The Monarch: First Light |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | The Mr. Rabbit Magic Show |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | The Note |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
@@ -272,12 +276,12 @@
 | The Walking Dead Telltale Definitive Series |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | The Witch's fabulous Cracker Show |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | The Zhukov Line |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| They Came From The Moon |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | They Came From The Moon |  |  | not-found | No hubo match exacto; requiere override manual |
+| They Came From The Moon |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | This Game is Ground Breaking |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Three Sisters |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Tibia |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Tibia |  |  | not-found | No hubo match exacto; requiere override manual |
+| Tibia |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Unforgiving Trials: The Darkest Crusade |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Unforgiving Trials: The Space Crusade |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | UNI |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
@@ -289,23 +293,23 @@
 | VolleySmash |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Wandering Skies |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Warfork |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| WhiteLily 1: 丽丽公主 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | WhiteLily 1: 丽丽公主 |  |  | review-no-exact-match | No hubo match exacto; requiere override manual |
-| Why So Evil |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| WhiteLily 1: 丽丽公主 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Why So Evil |  |  | not-found | No hubo match exacto; requiere override manual |
-| Why So Evil 2: Dystopia |  |  | not-found | No hubo match exacto; requiere override manual |
+| Why So Evil |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Why So Evil 2: Dystopia |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Why So Evil 2: Dystopia |  |  | not-found | No hubo match exacto; requiere override manual |
 | Wild West: Prototype |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Will Glow the Wisp |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Will To Live Online |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | WinKawaks |  |  | not-found | No hubo match exacto; requiere override manual |
 | WinKawaks |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| Yellow: The Yellow Artifact |  |  | not-found | No hubo match exacto; requiere override manual |
 | Yellow: The Yellow Artifact |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| Yellow: The Yellow Artifact |  |  | not-found | No hubo match exacto; requiere override manual |
 | Zombie Boom |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | Zombie Boom |  |  | not-found | No hubo match exacto; requiere override manual |
 | Zup! S |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
-| 贪芒之旅 Journey of Carrying Light》 |  |  | not-found | No hubo match exacto; requiere override manual |
 | 贪芒之旅 Journey of Carrying Light》 |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
+| 贪芒之旅 Journey of Carrying Light》 |  |  | not-found | No hubo match exacto; requiere override manual |
 | 趣拼拼：肖像画 Pleasure Puzzle:Portrait |  |  | markdown-discovered | Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual. |
 | 趣拼拼：肖像画 Pleasure Puzzle:Portrait |  |  | not-found | No hubo match exacto; requiere override manual |

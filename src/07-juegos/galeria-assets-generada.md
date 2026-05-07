@@ -2,7 +2,7 @@
 
 > Página generada desde `data/steam-games-registry.json`.
 
-Total de juegos con metadata: **957**.
+Total de juegos con metadata: **960**.
 
 Esta página es una galería técnica/global. No pertenece a ningún perfil personal. Para navegar con contexto, usa las colecciones; para ver metadatos, haz click en una tarjeta.
 
@@ -216,6 +216,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/65790/steam-header.jpg" alt="Arma: Cold War Assault" loading="lazy" />
   <span>Arma: Cold War Assault</span>
   <small>65790 · steam</small>
+</a>
+<a class="assets-gallery-card" href="por-letra/a.html#game-meta-4081740" title="Around - The Game">
+  <img src="../assets/games/4081740/steam-header.jpg" alt="Around - The Game" loading="lazy" />
+  <span>Around - The Game</span>
+  <small>4081740 · steam</small>
 </a>
 <a class="assets-gallery-card" href="por-letra/a.html#game-meta-507490" title="Ashes of the Singularity: Escalation">
   <img src="../assets/games/507490/steam-header.jpg" alt="Ashes of the Singularity: Escalation" loading="lazy" />
@@ -1351,6 +1356,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1020470/steam-header.jpg" alt="Evoland Legendary Edition" loading="lazy" />
   <span>Evoland Legendary Edition</span>
   <small>1020470 · steam</small>
+</a>
+<a class="assets-gallery-card" href="por-letra/e.html#game-meta-2694210" title="Exiled Survivors">
+  <img src="../assets/games/2694210/steam-header.jpg" alt="Exiled Survivors" loading="lazy" />
+  <span>Exiled Survivors</span>
+  <small>2694210 · steam</small>
 </a>
 <a class="assets-gallery-card" href="por-letra/e.html#game-meta-281820" title="Explodemon">
   <img src="../assets/games/281820/steam-header.jpg" alt="Explodemon" loading="lazy" />
@@ -3721,6 +3731,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/2947440/steam-header.jpg" alt="SILENT HILL f" loading="lazy" />
   <span>SILENT HILL f</span>
   <small>2947440 · steam</small>
+</a>
+<a class="assets-gallery-card" href="por-letra/s.html#game-meta-3362870" title="SIMPWALK">
+  <img src="../assets/games/3362870/steam-header.jpg" alt="SIMPWALK" loading="lazy" />
+  <span>SIMPWALK</span>
+  <small>3362870 · steam</small>
 </a>
 <a class="assets-gallery-card" href="por-letra/s.html#game-meta-245170" title="Skullgirls 2nd Encore">
   <img src="../assets/games/245170/steam-header.jpg" alt="Skullgirls 2nd Encore" loading="lazy" />

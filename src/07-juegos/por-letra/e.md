@@ -1,6 +1,6 @@
 # Juegos — E
 
-> Página alfabética compacta. Contiene **19** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **20** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -379,6 +379,27 @@
   <a class="steam-action steam-play" href="steam://run/1020470" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1020470" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1020470" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2694210" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2694210">
+    <img src="../../assets/games/2694210/steam-header.jpg" alt="Exiled Survivors" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2694210">🎮 Exiled Survivors</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2694210</code></span>
+      <span><strong>Oficial:</strong> Exiled Survivors</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2694210">
+  <a class="steam-action steam-play" href="steam://run/2694210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2694210" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2694210" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

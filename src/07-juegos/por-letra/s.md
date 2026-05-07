@@ -1,6 +1,6 @@
 # Juegos — S
 
-> Página alfabética compacta. Contiene **102** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **103** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -946,6 +946,27 @@
   <a class="steam-action steam-play" href="steam://run/2947440" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2947440" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2947440" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3362870" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3362870">
+    <img src="../../assets/games/3362870/steam-header.jpg" alt="SIMPWALK" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3362870">🎮 SIMPWALK</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3362870</code></span>
+      <span><strong>Oficial:</strong> SIMPWALK</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3362870">
+  <a class="steam-action steam-play" href="steam://run/3362870" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3362870" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3362870" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

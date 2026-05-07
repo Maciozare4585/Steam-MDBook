@@ -252,6 +252,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Around - The Game",
+    "slug": "around-the-game",
+    "steamAppId": 4081740,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Ashes of the Singularity: Escalation",
     "slug": "ashes-of-the-singularity-escalation",
     "steamAppId": 507490,
@@ -1611,6 +1617,12 @@
     "title": "Evoland Legendary Edition",
     "slug": "evoland-legendary-edition",
     "steamAppId": 1020470,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Exiled Survivors",
+    "slug": "exiled-survivors",
+    "steamAppId": 2694210,
     "priority": "registry-approved"
   },
   {
@@ -4455,6 +4467,12 @@
     "title": "SILENT HILL f",
     "slug": "silent-hill-f",
     "steamAppId": 2947440,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "SIMPWALK",
+    "slug": "simpwalk",
+    "steamAppId": 3362870,
     "priority": "registry-approved"
   },
   {
