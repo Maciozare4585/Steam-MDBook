@@ -1,0 +1,28 @@
+{
+  "version": "v6.5.14-git-ready",
+  "generatedAt": "2026-05-07T18:37:55.279136+00:00",
+  "sourceZip": "Steam-MDBook.zip",
+  "removedFromPackage": [
+    ".git/",
+    "book/",
+    "-UpdateMarkdownPages",
+    "-UpdateTargets",
+    "data/steam-assets-report.csv",
+    "data/steam-assets-report.json"
+  ],
+  "registryEntries": 960,
+  "gamesIndexEntries": 960,
+  "hasDetailPage": true,
+  "summaryIncludesDetail": true,
+  "gitConfigFiles": [
+    ".gitignore",
+    ".gitattributes",
+    ".editorconfig",
+    "docs/git-workflow.md"
+  ],
+  "ignoredHeavyAssetsKeptAsPlaceholders": [
+    "src/assets/games/.gitkeep",
+    "src/assets/steam/.gitkeep",
+    "src/assets/steamgriddb/.gitkeep"
+  ]
+}

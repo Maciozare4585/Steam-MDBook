@@ -1,34 +1,34 @@
 # =========================================================
 # mdBook build output
 # =========================================================
-
 /book/
-
 
 # =========================================================
 # Assets pesados generados / descargados
+# Se conservan .gitkeep para que exista la estructura base.
 # =========================================================
+/src/assets/games/*
+!/src/assets/games/.gitkeep
+/src/assets/steam/*
+!/src/assets/steam/.gitkeep
+/src/assets/steamgriddb/*
+!/src/assets/steamgriddb/.gitkeep
 
-/src/assets/games/
-/src/assets/steam/
-/src/assets/steamgriddb/
-
+# Datos generados ligeros que SÍ se versionan:
+# /src/assets/data/games-index.json
 
 # =========================================================
 # Reportes generados
 # =========================================================
-
 /data/steam-assets-report.csv
 /data/steam-assets-report.json
 /data/local-assets-existing.csv
 /data/juegos-sin-steamid.csv
 /data/juegos-con-id-sin-imagen.csv
 
-
 # =========================================================
 # Temporales / backups / exports
 # =========================================================
-
 *.zip
 *.7z
 *.rar
@@ -39,47 +39,47 @@
 *.temp
 *.log
 
+# Archivos basura creados por error de parámetros
+/-UpdateMarkdownPages
+/-UpdateTargets
 
 # =========================================================
 # Sistema operativo
 # =========================================================
-
 .DS_Store
 Thumbs.db
 desktop.ini
 
-
 # =========================================================
 # Editores
 # =========================================================
-
 .vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json
-
 .idea/
-
 
 # =========================================================
 # Node / herramientas auxiliares si luego agregas tooling
 # =========================================================
-
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
 # =========================================================
 # Python cache si usas scripts auxiliares
 # =========================================================
-
 __pycache__/
 *.pyc
-
 
 # =========================================================
 # PowerShell / historial local
 # =========================================================
-
 *.ps1xml
+
+# =========================================================
+# Variables locales / secretos
+# =========================================================
+.env
+.env.*
+!.env.example
