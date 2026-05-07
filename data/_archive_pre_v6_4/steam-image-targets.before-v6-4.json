@@ -1,0 +1,320 @@
+[
+  {
+    "title": "ELDEN RING",
+    "slug": "elden-ring",
+    "steamAppId": 1245620,
+    "priority": "key"
+  },
+  {
+    "title": "NieR:Automata",
+    "slug": "nier-automata",
+    "steamAppId": 524220,
+    "priority": "key"
+  },
+  {
+    "title": "DAVE THE DIVER",
+    "slug": "dave-the-diver",
+    "steamAppId": 1868140,
+    "priority": "key"
+  },
+  {
+    "title": "Hollow Knight",
+    "slug": "hollow-knight",
+    "steamAppId": 367520,
+    "priority": "key"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "slug": "the-witcher-3",
+    "steamAppId": 292030,
+    "priority": "key"
+  },
+  {
+    "title": "Monster Hunter: World",
+    "slug": "monster-hunter-world",
+    "steamAppId": 582010,
+    "priority": "key"
+  },
+  {
+    "title": "Resident Evil 4",
+    "slug": "resident-evil-4-remake",
+    "steamAppId": 2050650,
+    "priority": "key"
+  },
+  {
+    "title": "XCOM 2",
+    "slug": "xcom-2",
+    "steamAppId": 268500,
+    "priority": "key"
+  },
+  {
+    "title": "Cult of the Lamb",
+    "slug": "cult-of-the-lamb",
+    "steamAppId": 1313140,
+    "priority": "postgame"
+  },
+  {
+    "title": "Stardew Valley",
+    "slug": "stardew-valley",
+    "steamAppId": 413150,
+    "priority": "postgame"
+  },
+  {
+    "title": "Terraria",
+    "slug": "terraria",
+    "steamAppId": 105600,
+    "priority": "postgame"
+  },
+  {
+    "title": "No Man's Sky",
+    "slug": "no-mans-sky",
+    "steamAppId": 275850,
+    "priority": "postgame"
+  },
+  {
+    "title": "Metal: Hellsinger",
+    "slug": "metal-hellsinger",
+    "steamAppId": 1061910,
+    "priority": "postgame"
+  },
+  {
+    "title": "Plants vs. Zombies: Game of the Year",
+    "slug": "plants-vs-zombies-goty",
+    "steamAppId": 3590,
+    "priority": "postgame"
+  },
+  {
+    "title": "XCOM: Enemy Unknown",
+    "slug": "xcom-enemy-unknown",
+    "steamAppId": 200510,
+    "priority": "postgame"
+  },
+  {
+    "title": "The Last of Us Part I",
+    "slug": "the-last-of-us-part-i",
+    "steamAppId": 1888930,
+    "priority": "decision"
+  },
+  {
+    "title": "Mass Effect Legendary Edition",
+    "slug": "mass-effect-legendary-edition",
+    "steamAppId": 1328670,
+    "priority": "decision"
+  },
+  {
+    "title": "Life is Strange",
+    "slug": "life-is-strange",
+    "steamAppId": 319630,
+    "priority": "decision"
+  },
+  {
+    "title": "Cuphead",
+    "slug": "cuphead",
+    "steamAppId": 268910,
+    "priority": "decision"
+  },
+  {
+    "title": "Nine Sols",
+    "slug": "nine-sols",
+    "steamAppId": 1809540,
+    "priority": "decision"
+  },
+  {
+    "title": "Sifu",
+    "slug": "sifu",
+    "steamAppId": 2138710,
+    "priority": "decision"
+  },
+  {
+    "title": "Lies of P",
+    "slug": "lies-of-p",
+    "steamAppId": 1627720,
+    "priority": "decision"
+  },
+  {
+    "title": "Cast n Chill",
+    "slug": "cast-n-chill",
+    "steamAppId": "",
+    "priority": "decision"
+  },
+  {
+    "title": "Station to Station",
+    "slug": "station-to-station",
+    "steamAppId": 2272400,
+    "priority": "decision"
+  },
+  {
+    "title": "Viewfinder",
+    "slug": "viewfinder",
+    "steamAppId": 1382070,
+    "priority": "decision"
+  },
+  {
+    "title": "HELLDIVERS 2",
+    "slug": "helldivers-2",
+    "steamAppId": 553850,
+    "priority": "social"
+  },
+  {
+    "title": "It Takes Two",
+    "slug": "it-takes-two",
+    "steamAppId": 1426210,
+    "priority": "social"
+  },
+  {
+    "title": "Lethal Company",
+    "slug": "lethal-company",
+    "steamAppId": 1966720,
+    "priority": "social"
+  },
+  {
+    "title": "Escape the Backrooms",
+    "slug": "escape-the-backrooms",
+    "steamAppId": 1943950,
+    "priority": "social"
+  },
+  {
+    "title": "Gang Beasts",
+    "slug": "gang-beasts",
+    "steamAppId": 285900,
+    "priority": "social"
+  },
+  {
+    "title": "Mage Arena",
+    "slug": "mage-arena",
+    "steamAppId": "",
+    "priority": "social"
+  },
+  {
+    "title": "Slay the Spire",
+    "slug": "slay-the-spire",
+    "steamAppId": 646570,
+    "priority": "quick"
+  },
+  {
+    "title": "Balatro",
+    "slug": "balatro",
+    "steamAppId": 2379780,
+    "priority": "quick"
+  },
+  {
+    "title": "Vampire Survivors",
+    "slug": "vampire-survivors",
+    "steamAppId": 1794680,
+    "priority": "quick"
+  },
+  {
+    "title": "Bloons TD 6",
+    "slug": "bloons-td-6",
+    "steamAppId": 960090,
+    "priority": "quick"
+  },
+  {
+    "title": "Peggle Deluxe",
+    "slug": "peggle-deluxe",
+    "steamAppId": 3480,
+    "priority": "quick"
+  },
+  {
+    "title": "Peggle Nights",
+    "slug": "peggle-nights",
+    "steamAppId": 3540,
+    "priority": "quick"
+  },
+  {
+    "title": "Infectonator 3: Apocalypse",
+    "slug": "infectonator-3-apocalypse",
+    "steamAppId": 666570,
+    "priority": "quick"
+  },
+  {
+    "title": "The Henry Stickmin Collection",
+    "slug": "the-henry-stickmin-collection",
+    "steamAppId": 1089980,
+    "priority": "quick"
+  },
+  {
+    "title": "Portal",
+    "slug": "portal",
+    "steamAppId": 400,
+    "priority": "historical"
+  },
+  {
+    "title": "Half-Life",
+    "slug": "half-life",
+    "steamAppId": 70,
+    "priority": "historical"
+  },
+  {
+    "title": "BioShock Remastered",
+    "slug": "bioshock-remastered",
+    "steamAppId": 409710,
+    "priority": "historical"
+  },
+  {
+    "title": "SILENT HILL 2",
+    "slug": "silent-hill-2",
+    "steamAppId": 2124490,
+    "priority": "historical"
+  },
+  {
+    "title": "Warframe",
+    "slug": "warframe",
+    "steamAppId": 230410,
+    "priority": "online"
+  },
+  {
+    "title": "Path of Exile",
+    "slug": "path-of-exile",
+    "steamAppId": 238960,
+    "priority": "online"
+  },
+  {
+    "title": "Yu-Gi-Oh! Master Duel",
+    "slug": "yu-gi-oh-master-duel",
+    "steamAppId": 1449850,
+    "priority": "online"
+  },
+  {
+    "title": "Street Fighter 6",
+    "slug": "street-fighter-6",
+    "steamAppId": 1364780,
+    "priority": "online"
+  },
+  {
+    "title": "V. Juegos clave",
+    "slug": "v-juegos-clave",
+    "steamAppId": "",
+    "priority": "key-auto"
+  },
+  {
+    "title": "15. 🎮 Fichas independientes de juegos clave",
+    "slug": "15-fichas-independientes-de-juegos-clave",
+    "steamAppId": "",
+    "priority": "key-auto"
+  },
+  {
+    "title": "Fichas extendidas",
+    "slug": "fichas-extendidas",
+    "steamAppId": "",
+    "priority": "key-auto"
+  },
+  {
+    "title": "Resident Evil 4 Remake",
+    "slug": "resident-evil-4-remake",
+    "steamAppId": "",
+    "priority": "key-auto"
+  },
+  {
+    "title": "Starbound",
+    "slug": "starbound",
+    "steamAppId": "",
+    "priority": "key-auto"
+  },
+  {
+    "title": "Deep Rock Galactic",
+    "slug": "deep-rock-galactic",
+    "steamAppId": "",
+    "priority": "key-auto"
+  }
+]

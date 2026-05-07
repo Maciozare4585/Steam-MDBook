@@ -1,0 +1,15 @@
+{
+  "version": "V6.5.8",
+  "title": "Acciones Steam y limpieza visual",
+  "base": "V6.5.7 auditoría de consistencia",
+  "changes": [
+    "Added Steam action buttons: run, install and store URL.",
+    "Regenerated src/07-juegos numeric pages and index with actions.",
+    "Updated scripts/04-generate-game-pages.ps1 to preserve actions.",
+    "Updated extended key sheets and generator with Steam actions.",
+    "Added CSS readability pass for tables, code blocks, spacing and buttons.",
+    "Fixed SUMMARY.md glued line between Yu-Gi-Oh! and Géneros mecánicos.",
+    "Removed stale V6.5.9 CSS comment from this line."
+  ],
+  "generatedAtUtc": "2026-05-06T06:50:40.046690+00:00"
+}

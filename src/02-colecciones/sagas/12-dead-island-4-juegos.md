@@ -1,0 +1,10 @@
+# 🧬 Dead Island · 4 juegos · ✅
+
+**Función:** casa principal de `Dead Island`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| <span class="game-hover" data-preview-src="../../assets/games/934700/steam-header.jpg" data-game-title="Dead Island 2"><a href="../../07-juegos/detalle.html?id=934700">Dead Island 2</a><span class="game-hover-card"><img src="../../assets/games/934700/steam-header.jpg" alt="Dead Island 2" loading="lazy" /><strong>Dead Island 2</strong></span></span> | Dead Island | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/383150/steam-header.jpg" data-game-title="Dead Island Definitive Edition"><a href="../../07-juegos/detalle.html?id=383150">Dead Island Definitive Edition</a><span class="game-hover-card"><img src="../../assets/games/383150/steam-header.jpg" alt="Dead Island Definitive Edition" loading="lazy" /><strong>Dead Island Definitive Edition</strong></span></span> | Dead Island | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/222900/steam-header.jpg" data-game-title="Dead Island: Epidemic"><a href="../../07-juegos/detalle.html?id=222900">Dead Island: Epidemic</a><span class="game-hover-card"><img src="../../assets/games/222900/steam-header.jpg" alt="Dead Island: Epidemic" loading="lazy" /><strong>Dead Island: Epidemic</strong></span></span> | Dead Island | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/383180/steam-header.jpg" data-game-title="Dead Island Riptide Definitive Edition"><a href="../../07-juegos/detalle.html?id=383180">Dead Island Riptide Definitive Edition</a><span class="game-hover-card"><img src="../../assets/games/383180/steam-header.jpg" alt="Dead Island Riptide Definitive Edition" loading="lazy" /><strong>Dead Island Riptide Definitive Edition</strong></span></span> | Dead Island | Saga / universo | No, salvo excepción | Casa principal |

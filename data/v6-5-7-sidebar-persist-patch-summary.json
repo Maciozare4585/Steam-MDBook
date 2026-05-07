@@ -1,0 +1,12 @@
+{
+  "version": "V6.5.7",
+  "patch": "sidebar-persist",
+  "filesChanged": [
+    "book.toml",
+    "theme/sidebar-persist.js",
+    "theme/custom.css",
+    "src/06-mantenimiento/v6-5-7-sidebar-summary-fix.md",
+    "src/06-mantenimiento/changelog-historico.md"
+  ],
+  "purpose": "Preserve mdBook sidebar width after navigation or refresh."
+}

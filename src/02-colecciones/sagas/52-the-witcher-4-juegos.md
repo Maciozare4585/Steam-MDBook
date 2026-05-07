@@ -1,0 +1,10 @@
+# 🧬 The Witcher · 4 juegos · ✅
+
+**Función:** casa principal de `The Witcher`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| <span class="game-hover" data-preview-src="../../assets/games/1284410/steam-header.jpg" data-game-title="GWENT: The Witcher Card Game"><a href="../../07-juegos/detalle.html?id=1284410">GWENT: The Witcher Card Game</a><span class="game-hover-card"><img src="../../assets/games/1284410/steam-header.jpg" alt="GWENT: The Witcher Card Game" loading="lazy" /><strong>GWENT: The Witcher Card Game</strong></span></span> | The Witcher | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/20920/steam-header.jpg" data-game-title="The Witcher 2: Assassins of Kings Enhanced Edition"><a href="../../07-juegos/detalle.html?id=20920">The Witcher 2: Assassins of Kings Enhanced Edition</a><span class="game-hover-card"><img src="../../assets/games/20920/steam-header.jpg" alt="The Witcher 2: Assassins of Kings Enhanced Edition" loading="lazy" /><strong>The Witcher 2: Assassins of Kings Enhanced Edition</strong></span></span> | The Witcher | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/292030/steam-header.jpg" data-game-title="The Witcher 3"><a href="../../07-juegos/detalle.html?id=292030">The Witcher 3</a><span class="game-hover-card"><img src="../../assets/games/292030/steam-header.jpg" alt="The Witcher 3" loading="lazy" /><strong>The Witcher 3</strong></span></span> | The Witcher | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/20900/steam-header.jpg" data-game-title="The Witcher: Enhanced Edition"><a href="../../07-juegos/detalle.html?id=20900">The Witcher: Enhanced Edition</a><span class="game-hover-card"><img src="../../assets/games/20900/steam-header.jpg" alt="The Witcher: Enhanced Edition" loading="lazy" /><strong>The Witcher: Enhanced Edition</strong></span></span> | The Witcher | Saga / universo | No, salvo excepción | Casa principal |

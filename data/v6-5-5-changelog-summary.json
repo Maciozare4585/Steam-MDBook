@@ -1,0 +1,12 @@
+{
+  "version": "6.5.5",
+  "generatedAt": "2026-05-06T03:01:41",
+  "baseZip": "steam-high-family-mdbook-v6-5-3-floating-tooltips.zip",
+  "added": [
+    "src/06-mantenimiento/changelog-historico.md"
+  ],
+  "updated": [
+    "src/SUMMARY.md"
+  ],
+  "currentStable": "V6.5.5"
+}

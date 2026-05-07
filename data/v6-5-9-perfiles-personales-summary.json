@@ -1,0 +1,31 @@
+{
+  "version": "V6.5.9",
+  "name": "Perfiles personales",
+  "base": "V6.5.8 steam actions + formatting",
+  "changes": [
+    "Replaced global Juegos clave branch with Perfiles personales",
+    "Moved Daniel key game layer into src/05-perfiles/daniel",
+    "Created Jesse and Jovan profile templates",
+    "Moved global assets gallery to src/07-juegos",
+    "Updated scripts to avoid regenerating old src/05-juegos-clave branch",
+    "Updated changelog and SUMMARY"
+  ],
+  "profiles": {
+    "daniel": {
+      "age": 29,
+      "profile": "ingeniero en sistemas",
+      "status": "active"
+    },
+    "jesse": {
+      "age": 25,
+      "profile": "doctor",
+      "status": "template"
+    },
+    "jovan": {
+      "age": 22,
+      "profile": "ingeniero en sistemas",
+      "status": "template"
+    }
+  },
+  "generatedAt": "2026-05-06T15:29:07"
+}

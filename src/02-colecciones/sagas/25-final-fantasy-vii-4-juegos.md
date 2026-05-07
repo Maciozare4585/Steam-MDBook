@@ -1,0 +1,10 @@
+# 🧬 Final Fantasy VII · 4 juegos · ✅
+
+**Función:** casa principal de `Final Fantasy VII`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| <span class="game-hover" data-preview-src="../../assets/games/39140/steam-header.jpg" data-game-title="FINAL FANTASY VII (2013)"><a href="../../07-juegos/detalle.html?id=39140">FINAL FANTASY VII (2013)</a><span class="game-hover-card"><img src="../../assets/games/39140/steam-header.jpg" alt="FINAL FANTASY VII (2013)" loading="lazy" /><strong>FINAL FANTASY VII (2013)</strong></span></span> | Final Fantasy VII | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/39140/steam-header.jpg" data-game-title="FINAL FANTASY VII (2013)"><a href="../../07-juegos/detalle.html?id=39140">FINAL FANTASY VII (2013)</a><span class="game-hover-card"><img src="../../assets/games/39140/steam-header.jpg" alt="FINAL FANTASY VII (2013)" loading="lazy" /><strong>FINAL FANTASY VII (2013)</strong></span></span> | Final Fantasy VII | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/2909400/steam-header.jpg" data-game-title="FINAL FANTASY VII REBIRTH"><a href="../../07-juegos/detalle.html?id=2909400">FINAL FANTASY VII REBIRTH</a><span class="game-hover-card"><img src="../../assets/games/2909400/steam-header.jpg" alt="FINAL FANTASY VII REBIRTH" loading="lazy" /><strong>FINAL FANTASY VII REBIRTH</strong></span></span> | Final Fantasy VII | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/1462040/steam-header.jpg" data-game-title="FINAL FANTASY VII REMAKE INTERGRADE"><a href="../../07-juegos/detalle.html?id=1462040">FINAL FANTASY VII REMAKE INTERGRADE</a><span class="game-hover-card"><img src="../../assets/games/1462040/steam-header.jpg" alt="FINAL FANTASY VII REMAKE INTERGRADE" loading="lazy" /><strong>FINAL FANTASY VII REMAKE INTERGRADE</strong></span></span> | Final Fantasy VII | Saga / universo | No, salvo excepción | Casa principal |

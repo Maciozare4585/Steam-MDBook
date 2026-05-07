@@ -1,0 +1,85 @@
+# =========================================================
+# mdBook build output
+# =========================================================
+
+/book/
+
+
+# =========================================================
+# Assets pesados generados / descargados
+# =========================================================
+
+/src/assets/games/
+/src/assets/steam/
+/src/assets/steamgriddb/
+
+
+# =========================================================
+# Reportes generados
+# =========================================================
+
+/data/steam-assets-report.csv
+/data/steam-assets-report.json
+/data/local-assets-existing.csv
+/data/juegos-sin-steamid.csv
+/data/juegos-con-id-sin-imagen.csv
+
+
+# =========================================================
+# Temporales / backups / exports
+# =========================================================
+
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.bak
+*.tmp
+*.temp
+*.log
+
+
+# =========================================================
+# Sistema operativo
+# =========================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# =========================================================
+# Editores
+# =========================================================
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+.idea/
+
+
+# =========================================================
+# Node / herramientas auxiliares si luego agregas tooling
+# =========================================================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# =========================================================
+# Python cache si usas scripts auxiliares
+# =========================================================
+
+__pycache__/
+*.pyc
+
+
+# =========================================================
+# PowerShell / historial local
+# =========================================================
+
+*.ps1xml
