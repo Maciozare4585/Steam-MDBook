@@ -1,0 +1,92 @@
+[
+  {
+    "title": "NieR:Automata",
+    "summary": "⭐ NieR:Automata",
+    "slug": "nierautomata",
+    "steamAppId": 524220,
+    "assetHeader": "src/assets/games/524220/steam-header.jpg",
+    "mdBookImage": "../../assets/games/524220/steam-header.jpg",
+    "gamePage": "../../07-juegos/524220.html"
+  },
+  {
+    "title": "Resident Evil 4 Remake",
+    "summary": "🧟 Resident Evil 4 Remake",
+    "slug": "resident-evil-4-remake",
+    "steamAppId": 2050650,
+    "assetHeader": "src/assets/games/2050650/steam-header.jpg",
+    "mdBookImage": "../../assets/games/2050650/steam-header.jpg",
+    "gamePage": "../../07-juegos/2050650.html"
+  },
+  {
+    "title": "ELDEN RING",
+    "summary": "🔥 ELDEN RING",
+    "slug": "elden-ring",
+    "steamAppId": 1245620,
+    "assetHeader": "src/assets/games/1245620/steam-header.jpg",
+    "mdBookImage": "../../assets/games/1245620/steam-header.jpg",
+    "gamePage": "../../07-juegos/1245620.html"
+  },
+  {
+    "title": "DAVE THE DIVER",
+    "summary": "🐟 DAVE THE DIVER",
+    "slug": "dave-the-diver",
+    "steamAppId": 1868140,
+    "assetHeader": "src/assets/games/1868140/steam-header.jpg",
+    "mdBookImage": "../../assets/games/1868140/steam-header.jpg",
+    "gamePage": "../../07-juegos/1868140.html"
+  },
+  {
+    "title": "Hollow Knight",
+    "summary": "🐛 Hollow Knight",
+    "slug": "hollow-knight",
+    "steamAppId": 367520,
+    "assetHeader": "src/assets/games/367520/steam-header.jpg",
+    "mdBookImage": "../../assets/games/367520/steam-header.jpg",
+    "gamePage": "../../07-juegos/367520.html"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "summary": "🐺 The Witcher 3: Wild Hunt",
+    "slug": "the-witcher-3-wild-hunt",
+    "steamAppId": 292030,
+    "assetHeader": "src/assets/games/292030/steam-header.jpg",
+    "mdBookImage": "../../assets/games/292030/steam-header.jpg",
+    "gamePage": "../../07-juegos/292030.html"
+  },
+  {
+    "title": "Starbound",
+    "summary": "🪓 Starbound",
+    "slug": "starbound",
+    "steamAppId": 211820,
+    "assetHeader": "src/assets/games/211820/steam-header.jpg",
+    "mdBookImage": "../../assets/games/211820/steam-header.jpg",
+    "gamePage": "../../07-juegos/211820.html"
+  },
+  {
+    "title": "Deep Rock Galactic",
+    "summary": "⛏️ Deep Rock Galactic",
+    "slug": "deep-rock-galactic",
+    "steamAppId": 548430,
+    "assetHeader": "src/assets/games/548430/steam-header.jpg",
+    "mdBookImage": "../../assets/games/548430/steam-header.jpg",
+    "gamePage": "../../07-juegos/548430.html"
+  },
+  {
+    "title": "Monster Hunter: World",
+    "summary": "⚔️ Monster Hunter: World",
+    "slug": "monster-hunter-world",
+    "steamAppId": 582010,
+    "assetHeader": "src/assets/games/582010/steam-header.jpg",
+    "mdBookImage": "../../assets/games/582010/steam-header.jpg",
+    "gamePage": "../../07-juegos/582010.html"
+  },
+  {
+    "title": "XCOM 2",
+    "summary": "♟️ XCOM 2",
+    "slug": "xcom-2",
+    "steamAppId": 268500,
+    "assetHeader": "src/assets/games/268500/steam-header.jpg",
+    "mdBookImage": "../../assets/games/268500/steam-header.jpg",
+    "gamePage": "../../07-juegos/268500.html"
+  }
+]

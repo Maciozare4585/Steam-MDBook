@@ -1,0 +1,198 @@
+{
+  "version": "6.5.14",
+  "name": "Hotfix de registry, parser y ficha dinámica",
+  "removedRogueFiles": [
+    "-UpdateMarkdownPages",
+    "-UpdateTargets"
+  ],
+  "removedCorruptRegistryEntries": [
+    {
+      "title": "112 Operator112 Operator",
+      "steamAppId": 1300851,
+      "officialName": "112 Operator - Facilities",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Age of Empires II (2013)Age of Empires II (2013)",
+      "steamAppId": 239550,
+      "officialName": "Age of Empires II (2013): The Forgotten",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Cyberpunk 2077Cyberpunk 2077",
+      "steamAppId": 2060310,
+      "officialName": "Cyberpunk 2077 REDmod",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Dead Island 2Dead Island 2",
+      "steamAppId": 2813100,
+      "officialName": "Dead Island 2 - Haus",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Dead Space 3Dead Space 3",
+      "steamAppId": 1238070,
+      "officialName": "Dead Space™ 3 Awakened",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Destiny 2Destiny 2",
+      "steamAppId": 3186540,
+      "officialName": "Destiny 2: Renegades",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "DOOMDOOM",
+      "steamAppId": 2280,
+      "officialName": "DOOM + DOOM II",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Euro Truck Simulator 2Euro Truck Simulator 2",
+      "steamAppId": 2604420,
+      "officialName": "Euro Truck Simulator 2 - Greece",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Evoland 2Evoland 2",
+      "steamAppId": 396470,
+      "officialName": "Evoland 2 - Artbook",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Fallout 4Fallout 4",
+      "steamAppId": 611660,
+      "officialName": "Fallout 4 VR",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Fallout 76Fallout 76",
+      "steamAppId": 1158670,
+      "officialName": "Fallout 76: Atoms",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "GRID 2GRID 2",
+      "steamAppId": 3757110,
+      "officialName": "Guardian Grids 2",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Guacamelee!Guacamelee!",
+      "steamAppId": 534550,
+      "officialName": "Guacamelee! 2",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Half-Life 2Half-Life 2",
+      "steamAppId": 320,
+      "officialName": "Half-Life 2: Deathmatch",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "HueHue",
+      "steamAppId": 3125310,
+      "officialName": "Hue Hue Defense",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Injustice 2Injustice 2",
+      "steamAppId": 779401,
+      "officialName": "Injustice™ 2 - TMNT",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Lost ArkLost Ark",
+      "steamAppId": 3583650,
+      "officialName": "ARK: Lost Colony",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "PAYDAY 2PAYDAY 2",
+      "steamAppId": 826090,
+      "officialName": "PAYDAY 2 VR",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Resident Evil 2Resident Evil 2",
+      "steamAppId": 4249110,
+      "officialName": "Resident Evil 2 (1998)",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Resident Evil 6Resident Evil 6",
+      "steamAppId": 236080,
+      "officialName": "Resident Evil 6 Wallpaper",
+      "matchType": "storesearch-first"
+    },
+    {
+      "title": "Warhammer: Vermintide 2Warhammer: Vermintide 2",
+      "steamAppId": 3283450,
+      "officialName": "Warhammer: Vermintide 2 - Versus",
+      "matchType": "storesearch-first"
+    }
+  ],
+  "registryCount": 782,
+  "reviewNeededCount": 240,
+  "updatedTooltipFilesCount": 98,
+  "updatedTooltipFilesSample": [
+    "src/02-colecciones/experiencias/01-campana-46-juegos.md",
+    "src/02-colecciones/experiencias/02-chill-relax-13-juegos.md",
+    "src/02-colecciones/experiencias/03-cozy-farming-vida-tranquila-8-juegos.md",
+    "src/02-colecciones/experiencias/04-internet-persistente-59-juegos.md",
+    "src/02-colecciones/experiencias/05-grind-loot-progreso-11-juegos.md",
+    "src/02-colecciones/experiencias/06-vr-16-juegos.md",
+    "src/02-colecciones/experiencias/07-narrativos-experiencia-34-juegos.md",
+    "src/02-colecciones/generos/01-arcade-casual-23-juegos.md",
+    "src/02-colecciones/generos/02-carreras-12-juegos.md",
+    "src/02-colecciones/generos/03-estrategia-19-juegos.md",
+    "src/02-colecciones/generos/04-gestion-11-juegos.md",
+    "src/02-colecciones/generos/05-metroidvania-14-juegos.md",
+    "src/02-colecciones/generos/07-peleas-16-juegos.md",
+    "src/02-colecciones/generos/08-plataformas-24-juegos.md",
+    "src/02-colecciones/generos/09-puzzle-ingenio-30-juegos.md",
+    "src/02-colecciones/generos/10-roguelike-roguelite-31-juegos.md",
+    "src/02-colecciones/generos/11-rpg-12-juegos.md",
+    "src/02-colecciones/generos/12-shooter-49-juegos.md",
+    "src/02-colecciones/generos/13-simulator-23-juegos.md",
+    "src/02-colecciones/generos/14-souls-soulslike-13-juegos.md",
+    "src/02-colecciones/generos/15-supervivencia-crafting-21-juegos.md",
+    "src/02-colecciones/generos/16-tactico-por-turnos-10-juegos.md",
+    "src/02-colecciones/generos/17-terror-26-juegos.md",
+    "src/02-colecciones/generos/06-musica-ritmo-7-juegos.md",
+    "src/02-colecciones/mrd/inventario-57.md",
+    "src/02-colecciones/pozo/inventario-185.md",
+    "src/02-colecciones/sagas/01-age-of-empires-3-juegos.md",
+    "src/02-colecciones/sagas/02-assassins-creed-5-juegos.md",
+    "src/02-colecciones/sagas/03-batman-6-juegos.md",
+    "src/02-colecciones/sagas/04-battlefield-4-juegos.md"
+  ],
+  "generatedFiles": [
+    "src/assets/data/games-index.json",
+    "src/07-juegos/detalle.md",
+    "theme/game-detail.js",
+    "src/06-mantenimiento/v6-5-14-parser-registry-tooltips.md"
+  ],
+  "validation": {
+    "registryHasExactDuplicateTitles": false,
+    "registryExactDuplicateTitles": [],
+    "deadAsDiscoInRegistry": true,
+    "deadAsDiscoInMusicPage": true,
+    "gameIndexCount": 782,
+    "registryCount": 782,
+    "reviewNeededCount": 240,
+    "oldGameHoverLinksRemaining": 0,
+    "oldGameHoverFiles": [],
+    "missingSummaryLinks": [],
+    "rogueRootFiles": [],
+    "registryIdsMissingInGameIndex": [],
+    "gameIndexIdsMissingInRegistry": [],
+    "tooltipsWithDynamicDetailCount": 1386
+  },
+  "notes": [
+    "No se consultaron APIs externas en esta reparación; los faltantes quedan en review-needed para resolver localmente.",
+    "Los matches fuzzy ya no deben escribirse al registry salvo que se use -AcceptFuzzyMatches.",
+    "La ficha dinámica depende de theme/game-detail.js y src/assets/data/games-index.json."
+  ]
+}

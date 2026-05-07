@@ -1,0 +1,33 @@
+{
+  "version": "6.5.1",
+  "generatedAt": "2026-05-06T02:05:43",
+  "collectionLinksPatched": 83,
+  "patchedFilesSample": [
+    "src/02-colecciones/experiencias/01-campana-46-juegos.md",
+    "src/02-colecciones/experiencias/02-chill-relax-13-juegos.md",
+    "src/02-colecciones/experiencias/03-cozy-farming-vida-tranquila-8-juegos.md",
+    "src/02-colecciones/experiencias/04-internet-persistente-55-juegos.md",
+    "src/02-colecciones/experiencias/05-grind-loot-progreso-11-juegos.md",
+    "src/02-colecciones/experiencias/06-vr-16-juegos.md",
+    "src/02-colecciones/experiencias/07-narrativos-experiencia-34-juegos.md",
+    "src/02-colecciones/generos/01-arcade-casual-23-juegos.md",
+    "src/02-colecciones/generos/02-carreras-12-juegos.md",
+    "src/02-colecciones/generos/03-estrategia-23-juegos.md",
+    "src/02-colecciones/generos/04-gestion-12-juegos.md",
+    "src/02-colecciones/generos/05-metroidvania-14-juegos.md",
+    "src/02-colecciones/generos/06-musica-ritmo-6-juegos.md",
+    "src/02-colecciones/generos/07-peleas-16-juegos.md",
+    "src/02-colecciones/generos/08-plataformas-24-juegos.md",
+    "src/02-colecciones/generos/09-puzzle-ingenio-30-juegos.md",
+    "src/02-colecciones/generos/10-roguelike-roguelite-31-juegos.md",
+    "src/02-colecciones/generos/11-rpg-12-juegos.md",
+    "src/02-colecciones/generos/12-shooter-49-juegos.md",
+    "src/02-colecciones/generos/13-simulator-23-juegos.md"
+  ],
+  "publicGameMetadataPage": "src/07-juegos/index.md",
+  "linkPattern": "07-juegos/index.html#game-meta-<steamAppId>",
+  "notes": [
+    "Los archivos src/07-juegos/<appid>.md se conservan, pero no se usan como enlace público porque mdBook no renderiza páginas fuera de SUMMARY.",
+    "El tooltip ya no debería quedar recortado por table-wrapper."
+  ]
+}

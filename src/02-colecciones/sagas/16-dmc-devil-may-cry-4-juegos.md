@@ -1,0 +1,10 @@
+# 🧬 DMC / Devil May Cry · 4 juegos · ✅
+
+**Función:** casa principal de `DMC / Devil May Cry`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| <span class="game-hover" data-preview-src="../../assets/games/329050/steam-header.jpg" data-game-title="Devil May Cry 4 Special Edition"><a href="../../07-juegos/detalle.html?id=329050">Devil May Cry 4 Special Edition</a><span class="game-hover-card"><img src="../../assets/games/329050/steam-header.jpg" alt="Devil May Cry 4 Special Edition" loading="lazy" /><strong>Devil May Cry 4 Special Edition</strong></span></span> | DMC / Devil May Cry | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/601150/steam-header.jpg" data-game-title="Devil May Cry 5"><a href="../../07-juegos/detalle.html?id=601150">Devil May Cry 5</a><span class="game-hover-card"><img src="../../assets/games/601150/steam-header.jpg" alt="Devil May Cry 5" loading="lazy" /><strong>Devil May Cry 5</strong></span></span> | DMC / Devil May Cry | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/631510/steam-header.jpg" data-game-title="Devil May Cry HD Collection"><a href="../../07-juegos/detalle.html?id=631510">Devil May Cry HD Collection</a><span class="game-hover-card"><img src="../../assets/games/631510/steam-header.jpg" alt="Devil May Cry HD Collection" loading="lazy" /><strong>Devil May Cry HD Collection</strong></span></span> | DMC / Devil May Cry | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/220440/steam-header.jpg" data-game-title="DmC Devil May Cry"><a href="../../07-juegos/detalle.html?id=220440">DmC Devil May Cry</a><span class="game-hover-card"><img src="../../assets/games/220440/steam-header.jpg" alt="DmC Devil May Cry" loading="lazy" /><strong>DmC Devil May Cry</strong></span></span> | DMC / Devil May Cry | Saga / universo | No, salvo excepción | Casa principal |

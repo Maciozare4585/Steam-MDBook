@@ -1,0 +1,38 @@
+{
+  "version": "6.4.1",
+  "generatedAt": "2026-05-05T23:56:08",
+  "registryCount": 665,
+  "targetsCount": 666,
+  "reviewNeededCount": 70,
+  "retryNeededCount": 0,
+  "ignoredCount": 3,
+  "movedFromIgnored": [
+    {
+      "title": "DmC Devil May Cry",
+      "slug": "dmc-devil-may-cry",
+      "detectedSteamAppId": "",
+      "detectedName": "",
+      "matchType": "needs-manual-override",
+      "reason": "Era falso positivo de filtro roman numeral; requiere ID manual o match exacto",
+      "updatedAt": "2026-05-05T23:56:08"
+    },
+    {
+      "title": "I’m not a Monster",
+      "slug": "im-not-a-monster",
+      "detectedSteamAppId": "",
+      "detectedName": "",
+      "matchType": "needs-manual-override",
+      "reason": "Era falso positivo de filtro roman numeral; requiere ID manual o match exacto",
+      "updatedAt": "2026-05-05T23:56:08"
+    }
+  ],
+  "removedNoiseFromReviewCount": 0,
+  "changes": [
+    "DmC Devil May Cry dejó de tratarse como encabezado; se aprobó con override manual limpio.",
+    "I’m not a Monster dejó de tratarse como encabezado; se movió a review-needed.",
+    "Entradas basura como Juego/Juego 1/Galería/Fichas se eliminan de review-needed.",
+    "Errores 429 Too Many Requests se mueven a retry-needed.",
+    "Se endurece Test-HeadingNoise sin confundir DmC/I'm con numerales romanos.",
+    "Se separan scripts para IDs, Steam images, SteamGridDB y generación de páginas."
+  ]
+}

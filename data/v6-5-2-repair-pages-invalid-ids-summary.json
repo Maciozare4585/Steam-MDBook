@@ -1,0 +1,13 @@
+{
+  "version": "6.5.2",
+  "generatedAt": "2026-05-06T02:17:21",
+  "movedInvalidRegistryEntries": 0,
+  "reviewPageExists": true,
+  "retryPageExists": true,
+  "ignoredPageExists": true,
+  "fixes": [
+    "02-download skips steamAppId <= 0.",
+    "09-repair-mdbook-pages regenerates missing auxiliary pages.",
+    "05-run-full-sync runs repair before and after sync."
+  ]
+}

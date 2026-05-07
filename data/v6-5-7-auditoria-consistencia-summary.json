@@ -1,0 +1,19 @@
+{
+  "version": "V6.5.7",
+  "patch": "auditoria-consistencia",
+  "changes": [
+    "Removed premature V6.5.8/V6.5.9 changelog sections from V6.5.7 package",
+    "Added Assassin’s Creed II to Assassin’s Creed saga",
+    "Removed four games from Estrategia",
+    "Removed Graveyard Keeper from Gestión",
+    "Added four games to Internet Persistente",
+    "Sorted affected visible lists/tables alphabetically"
+  ],
+  "counts": {
+    "Assassin’s Creed": 5,
+    "Estrategia": 19,
+    "Gestión": 11,
+    "Internet Persistente": 59
+  },
+  "updatedAt": "2026-05-06"
+}

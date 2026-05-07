@@ -1,0 +1,11 @@
+# 🧬 BioShock · 5 juegos · ✅
+
+**Función:** casa principal de `BioShock`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| <span class="game-hover" data-preview-src="../../assets/games/7670/steam-header.jpg" data-game-title="BioShock"><a href="../../07-juegos/detalle.html?id=7670">BioShock</a><span class="game-hover-card"><img src="../../assets/games/7670/steam-header.jpg" alt="BioShock" loading="lazy" /><strong>BioShock</strong></span></span> | BioShock | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/409710/steam-header.jpg" data-game-title="BioShock Remastered"><a href="../../07-juegos/detalle.html?id=409710">BioShock Remastered</a><span class="game-hover-card"><img src="../../assets/games/409710/steam-header.jpg" alt="BioShock Remastered" loading="lazy" /><strong>BioShock Remastered</strong></span></span> | BioShock | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/8850/steam-header.jpg" data-game-title="BioShock 2"><a href="../../07-juegos/detalle.html?id=8850">BioShock 2</a><span class="game-hover-card"><img src="../../assets/games/8850/steam-header.jpg" alt="BioShock 2" loading="lazy" /><strong>BioShock 2</strong></span></span> | BioShock | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/409720/steam-header.jpg" data-game-title="BioShock 2 Remastered"><a href="../../07-juegos/detalle.html?id=409720">BioShock 2 Remastered</a><span class="game-hover-card"><img src="../../assets/games/409720/steam-header.jpg" alt="BioShock 2 Remastered" loading="lazy" /><strong>BioShock 2 Remastered</strong></span></span> | BioShock | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/8870/steam-header.jpg" data-game-title="BioShock Infinite"><a href="../../07-juegos/detalle.html?id=8870">BioShock Infinite</a><span class="game-hover-card"><img src="../../assets/games/8870/steam-header.jpg" alt="BioShock Infinite" loading="lazy" /><strong>BioShock Infinite</strong></span></span> | BioShock | Saga / universo | No, salvo excepción | Casa principal |

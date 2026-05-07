@@ -1,0 +1,10 @@
+# 🧬 Mafia · 4 juegos · ✅
+
+**Función:** casa principal de `Mafia`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| <span class="game-hover" data-preview-src="../../assets/games/1030840/steam-header.jpg" data-game-title="Mafia: Edici&#243;n Definitiva"><a href="../../07-juegos/detalle.html?id=1030840">Mafia: Edici&#243;n Definitiva</a><span class="game-hover-card"><img src="../../assets/games/1030840/steam-header.jpg" alt="Mafia: Edici&#243;n Definitiva" loading="lazy" /><strong>Mafia: Edici&#243;n Definitiva</strong></span></span> | Mafia | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/50130/steam-header.jpg" data-game-title="Mafia II Classic"><a href="../../07-juegos/detalle.html?id=50130">Mafia II Classic</a><span class="game-hover-card"><img src="../../assets/games/50130/steam-header.jpg" alt="Mafia II Classic" loading="lazy" /><strong>Mafia II Classic</strong></span></span> | Mafia | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/1030830/steam-header.jpg" data-game-title="Mafia II: Edici&#243;n Definitiva"><a href="../../07-juegos/detalle.html?id=1030830">Mafia II: Edici&#243;n Definitiva</a><span class="game-hover-card"><img src="../../assets/games/1030830/steam-header.jpg" alt="Mafia II: Edici&#243;n Definitiva" loading="lazy" /><strong>Mafia II: Edici&#243;n Definitiva</strong></span></span> | Mafia | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/360430/steam-header.jpg" data-game-title="Mafia III: Definitive Edition"><a href="../../07-juegos/detalle.html?id=360430">Mafia III: Definitive Edition</a><span class="game-hover-card"><img src="../../assets/games/360430/steam-header.jpg" alt="Mafia III: Definitive Edition" loading="lazy" /><strong>Mafia III: Definitive Edition</strong></span></span> | Mafia | Saga / universo | No, salvo excepción | Casa principal |

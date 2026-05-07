@@ -1,0 +1,20 @@
+{
+  "version": "V6.5.13",
+  "title": "MRD como sección propia",
+  "mrdGames": 57,
+  "verdictCounts": {
+    "✅ Sí, candidato real": 4,
+    "🟨 Quizá, revisar primero": 28,
+    "🧪 Solo curiosidad / baja prioridad": 11,
+    "🟥 No priorizar": 14
+  },
+  "createdFiles": [
+    "src/02-colecciones/mrd/index.md",
+    "src/02-colecciones/mrd/inventario-57.md",
+    "src/02-colecciones/mrd/criterios-de-evaluacion.md",
+    "data/mrd-inventario-v6-5-13.json",
+    "data/v6-5-13-mrd-inventario-summary.json",
+    "src/06-mantenimiento/v6-5-13-mrd-inventario.md"
+  ],
+  "rule": "MRD queda como cuarentena dura; no se promueve por lote."
+}

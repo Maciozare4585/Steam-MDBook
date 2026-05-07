@@ -1,0 +1,802 @@
+:root {
+  --content-max-width: 1120px;
+}
+
+.content main {
+  line-height: 1.55;
+}
+
+h1 {
+  margin-top: 0.35rem;
+  border-bottom: 1px solid rgba(128,128,128,.22);
+  padding-bottom: .35rem;
+}
+
+h2 {
+  margin-top: 1.55rem;
+}
+
+table {
+  width: 100%;
+}
+
+blockquote {
+  border-left: 4px solid #4f8cff;
+  padding: .25rem 1rem;
+  background: rgba(79, 140, 255, .08);
+}
+
+.game-card {
+  display: grid;
+  grid-template-columns: minmax(220px, 320px) 1fr;
+  gap: 1rem;
+  align-items: start;
+  margin: 1rem 0;
+}
+
+.game-card img {
+  width: 100%;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.25);
+}
+
+.game-cover-placeholder {
+  min-height: 150px;
+  border: 1px dashed rgba(128,128,128,.65);
+  border-radius: 14px;
+  padding: 1rem;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  opacity: .85;
+}
+
+.callout {
+  border: 1px solid rgba(128,128,128,.25);
+  border-left: 5px solid #4f8cff;
+  border-radius: 10px;
+  padding: .85rem 1rem;
+  margin: 1rem 0;
+  background: rgba(79, 140, 255, .07);
+}
+
+@media (max-width: 760px) {
+  .game-card {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* Generated asset gallery */
+td img {
+  border-radius: 10px;
+  max-width: 260px;
+  height: auto;
+}
+
+
+/* V6.4 game registry pages */
+.game-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.game-tile {
+  display: block;
+  border: 1px solid rgba(128, 128, 128, .25);
+  border-radius: 14px;
+  overflow: hidden;
+  text-decoration: none;
+  background: rgba(255, 255, 255, .035);
+  transition: transform .12s ease, border-color .12s ease;
+}
+
+.game-tile:hover {
+  transform: translateY(-2px);
+  border-color: rgba(79, 140, 255, .75);
+}
+
+.game-tile img {
+  width: 100%;
+  aspect-ratio: 460 / 215;
+  object-fit: cover;
+  display: block;
+  background: rgba(255,255,255,.05);
+}
+
+.game-tile span {
+  display: block;
+  padding: .7rem .85rem;
+  font-weight: 650;
+}
+
+.game-hero {
+  width: 100%;
+  max-width: 720px;
+  border-radius: 16px;
+  box-shadow: 0 12px 32px rgba(0,0,0,.32);
+  display: block;
+  margin: 1rem 0;
+}
+
+
+/* V6.5 — sidebar, game hover previews and image cards */
+.game-hover {
+  position: relative;
+  display: inline-block;
+}
+
+.game-hover > a {
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(125, 170, 255, .65);
+}
+
+.game-hover-card {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 1.65em;
+  z-index: 9999;
+  width: min(340px, 70vw);
+  padding: .55rem;
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--bg) 92%, #101827 8%);
+  border: 1px solid rgba(125, 170, 255, .35);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, .42);
+}
+
+.game-hover-card img {
+  width: 100%;
+  display: block;
+  border-radius: 10px;
+  background: rgba(255,255,255,.04);
+}
+
+.game-hover-card strong {
+  display: block;
+  margin-top: .45rem;
+  font-size: .92rem;
+  line-height: 1.2;
+}
+
+.game-hover:hover .game-hover-card,
+.game-hover:focus-within .game-hover-card {
+  display: block;
+}
+
+.game-hero {
+  width: 100%;
+  max-width: 760px;
+  border-radius: 16px;
+  box-shadow: 0 14px 34px rgba(0,0,0,.36);
+  display: block;
+  margin: 1rem 0;
+}
+
+.game-key-index {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.game-key-index a {
+  display: block;
+  border: 1px solid rgba(125, 170, 255, .25);
+  border-radius: 14px;
+  overflow: hidden;
+  text-decoration: none;
+  background: rgba(255,255,255,.035);
+}
+
+.game-key-index img {
+  width: 100%;
+  aspect-ratio: 460 / 215;
+  object-fit: cover;
+  display: block;
+}
+
+.game-key-index span {
+  display: block;
+  padding: .7rem .85rem;
+  font-weight: 700;
+}
+
+
+/* V6.5.1 — fix hover previews clipped by mdBook table wrappers */
+.table-wrapper:has(.game-hover),
+.table-wrapper:has(.game-hover-card) {
+  overflow: visible !important;
+}
+
+table:has(.game-hover),
+tbody:has(.game-hover),
+tr:has(.game-hover),
+td:has(.game-hover) {
+  overflow: visible !important;
+}
+
+td:has(.game-hover) {
+  position: relative;
+}
+
+.game-hover {
+  position: relative;
+  z-index: 10;
+}
+
+.game-hover:hover,
+.game-hover:focus-within {
+  z-index: 10000;
+}
+
+.game-hover-card {
+  z-index: 10001;
+  pointer-events: none;
+  transform: translateY(.25rem);
+}
+
+/* Reduce preview size inside dense tables */
+td .game-hover-card {
+  width: min(300px, 65vw);
+}
+
+/* Single rendered metadata page */
+.game-meta-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.game-meta-section {
+  scroll-margin-top: 5rem;
+  border: 1px solid rgba(125, 170, 255, .25);
+  border-radius: 16px;
+  padding: 1rem;
+  background: rgba(255,255,255,.025);
+}
+
+.game-meta-section img {
+  width: 100%;
+  max-width: 520px;
+  border-radius: 12px;
+  display: block;
+  margin: .5rem 0 1rem;
+  box-shadow: 0 10px 28px rgba(0,0,0,.32);
+}
+
+.game-meta-section h2 {
+  margin-top: 0;
+}
+
+
+/* V6.5.3 — floating tooltips outside table overflow */
+.game-hover-card {
+  display: none !important;
+}
+
+.game-floating-preview {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 2147483647;
+  width: min(360px, 72vw);
+  pointer-events: none;
+  opacity: 0;
+  transform: translate3d(0, 6px, 0) scale(.985);
+  transition: opacity .08s ease, transform .08s ease;
+  padding: .55rem;
+  border-radius: 14px;
+  background: rgba(12, 18, 32, .97);
+  border: 1px solid rgba(125, 170, 255, .45);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, .55);
+  backdrop-filter: blur(8px);
+}
+
+.game-floating-preview.is-visible {
+  opacity: 1;
+  transform: translate3d(0, 0, 0) scale(1);
+}
+
+.game-floating-preview__img {
+  width: 100%;
+  display: block;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, .05);
+}
+
+.game-floating-preview__title {
+  margin-top: .5rem;
+  font-weight: 750;
+  font-size: .95rem;
+  line-height: 1.22;
+  color: var(--fg);
+}
+
+/* Keep table scroll behavior intact. The preview is rendered outside the table now. */
+.game-hover {
+  position: static;
+}
+
+.game-hover > a {
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(125, 170, 255, .65);
+}
+
+
+/* V6.5.6 — generated assets gallery cards */
+.assets-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.assets-gallery-card {
+  display: block;
+  border: 1px solid rgba(125, 170, 255, .24);
+  border-radius: 16px;
+  overflow: hidden;
+  background: rgba(255,255,255,.032);
+  text-decoration: none;
+  transition: transform .12s ease, border-color .12s ease, background .12s ease;
+}
+
+.assets-gallery-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(125, 170, 255, .72);
+  background: rgba(255,255,255,.055);
+}
+
+.assets-gallery-card img {
+  width: 100%;
+  aspect-ratio: 460 / 215;
+  object-fit: cover;
+  display: block;
+  background: rgba(255,255,255,.045);
+}
+
+.assets-gallery-card span {
+  display: block;
+  padding: .7rem .85rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.assets-gallery-card small {
+  display: block;
+  padding: 0 .85rem .75rem;
+  opacity: .72;
+  font-family: var(--mono-font);
+}
+
+/* Extended key game sheets */
+.extended-key-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.extended-key-card {
+  border: 1px solid rgba(125, 170, 255, .24);
+  border-radius: 18px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, .03);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, .18);
+}
+
+.extended-key-card img {
+  width: 100%;
+  aspect-ratio: 460 / 215;
+  object-fit: cover;
+  display: block;
+  background: rgba(255,255,255,.045);
+}
+
+.extended-key-card__body {
+  padding: 1rem;
+}
+
+.extended-key-card h2 {
+  margin: 0 0 .35rem;
+  font-size: 1.25rem;
+}
+
+.extended-key-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin: .4rem 0 .8rem;
+}
+
+.extended-key-pill {
+  display: inline-block;
+  padding: .2rem .5rem;
+  border: 1px solid rgba(125, 170, 255, .28);
+  border-radius: 999px;
+  background: rgba(125, 170, 255, .08);
+  font-size: .82rem;
+  line-height: 1.2;
+}
+
+.extended-key-card dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: .35rem .65rem;
+  margin: .75rem 0;
+}
+
+.extended-key-card dt {
+  font-weight: 800;
+  opacity: .9;
+}
+
+.extended-key-card dd {
+  margin: 0;
+}
+
+.extended-key-actions {
+  display: flex;
+  gap: .5rem;
+  flex-wrap: wrap;
+  margin-top: .85rem;
+}
+
+.extended-key-actions a {
+  border: 1px solid rgba(125, 170, 255, .28);
+  border-radius: 10px;
+  padding: .35rem .55rem;
+  text-decoration: none;
+  background: rgba(255,255,255,.035);
+}
+
+/* V6.5.7 — persistencia de ancho del sidebar */
+.steam-sidebar-resizing {
+  user-select: none;
+  cursor: ew-resize;
+}
+
+#sidebar-resize-handle {
+  cursor: ew-resize;
+}
+
+
+/* V6.5.8 — Steam actions and reading-format pass */
+:root {
+  --content-readable-width: 78ch;
+  --steam-card-radius: 16px;
+  --steam-soft-border: rgba(125, 170, 255, .24);
+  --steam-soft-bg: rgba(255, 255, 255, .035);
+}
+
+.content main {
+  max-width: var(--content-max-width);
+  padding-bottom: 4rem;
+  line-height: 1.68;
+}
+
+.content main > p,
+.content main > ul,
+.content main > ol,
+.content main > blockquote {
+  max-width: var(--content-readable-width);
+}
+
+.content main p {
+  margin: .75rem 0 1rem;
+}
+
+.content main li {
+  margin: .26rem 0;
+}
+
+.content main h1,
+.content main h2,
+.content main h3,
+.content main h4 {
+  line-height: 1.22;
+  letter-spacing: -.015em;
+}
+
+.content main h2 {
+  margin-top: 2.2rem;
+  padding-top: .9rem;
+  border-top: 1px solid rgba(128, 128, 128, .18);
+}
+
+.content main h3 {
+  margin-top: 1.55rem;
+}
+
+.table-wrapper {
+  margin: 1rem 0 1.65rem;
+}
+
+table th,
+table td {
+  padding: .62rem .78rem;
+  line-height: 1.45;
+}
+
+table th {
+  white-space: nowrap;
+}
+
+pre {
+  padding: 1rem 1.1rem;
+  border-radius: 14px;
+  overflow: auto;
+  line-height: 1.5;
+}
+
+:not(pre) > code {
+  padding: .12rem .32rem;
+  border-radius: 6px;
+  background: rgba(125, 170, 255, .10);
+}
+
+blockquote,
+.callout,
+.change-note {
+  max-width: var(--content-readable-width);
+}
+
+.steam-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  align-items: center;
+  margin: .85rem 0 1.2rem;
+}
+
+.steam-actions--compact {
+  margin: .55rem 0 1rem;
+}
+
+.steam-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: .35rem;
+  min-height: 2rem;
+  padding: .38rem .72rem;
+  border: 1px solid var(--steam-soft-border);
+  border-radius: 999px;
+  background: rgba(125, 170, 255, .10);
+  color: var(--fg);
+  font-size: .86rem;
+  font-weight: 750;
+  line-height: 1.1;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: transform .12s ease, border-color .12s ease, background .12s ease;
+}
+
+.steam-action:hover {
+  transform: translateY(-1px);
+  border-color: rgba(125, 170, 255, .72);
+  background: rgba(125, 170, 255, .18);
+  text-decoration: none;
+}
+
+.steam-action:focus-visible {
+  outline: 2px solid rgba(125, 170, 255, .85);
+  outline-offset: 2px;
+}
+
+.steam-play {
+  border-color: rgba(130, 190, 255, .42);
+}
+
+.steam-install {
+  border-color: rgba(150, 225, 170, .36);
+}
+
+.steam-store {
+  border-color: rgba(255, 215, 150, .36);
+}
+
+.extended-key-actions {
+  align-items: center;
+}
+
+.extended-key-actions .steam-action {
+  border-radius: 999px;
+  padding: .35rem .6rem;
+}
+
+.game-meta-section .steam-actions {
+  margin-top: -.25rem;
+}
+
+@media (max-width: 760px) {
+  .content main {
+    line-height: 1.62;
+  }
+
+  table th,
+  table td {
+    padding: .52rem .6rem;
+  }
+
+  .steam-actions {
+    gap: .42rem;
+  }
+}
+
+/* =========================================================
+   V6.5.9 — Perfiles personales
+   ========================================================= */
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+  margin: 18px 0;
+}
+
+.profile-card {
+  border: 1px solid rgba(120, 170, 255, 0.22);
+  border-radius: 14px;
+  padding: 14px 16px;
+  background: rgba(120, 170, 255, 0.06);
+}
+
+.profile-card h3 {
+  margin-top: 0;
+}
+
+.profile-note {
+  border-left: 4px solid rgba(120, 170, 255, 0.75);
+  border-radius: 10px;
+  padding: 12px 14px;
+  background: rgba(120, 170, 255, 0.08);
+  margin: 16px 0;
+}
+
+
+/* =========================================================
+   V6.5.11 — Compact game metadata navigation
+   ========================================================= */
+
+.letter-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .55rem;
+  margin: 1rem 0 1.6rem;
+}
+
+.letter-nav a {
+  display: inline-flex;
+  align-items: baseline;
+  gap: .35rem;
+  padding: .42rem .7rem;
+  border: 1px solid rgba(125, 170, 255, .26);
+  border-radius: 999px;
+  background: rgba(125, 170, 255, .08);
+  text-decoration: none;
+  font-weight: 800;
+}
+
+.letter-nav a:hover {
+  border-color: rgba(125, 170, 255, .74);
+  background: rgba(125, 170, 255, .16);
+  text-decoration: none;
+}
+
+.letter-nav small {
+  opacity: .72;
+  font-weight: 650;
+}
+
+.compact-registry-index {
+  columns: 3 240px;
+  column-gap: 1.5rem;
+  margin: 1rem 0 2rem;
+}
+
+.compact-registry-link {
+  display: block;
+  break-inside: avoid;
+  margin: 0 0 .38rem;
+  padding: .25rem .35rem;
+  border-radius: 8px;
+  text-decoration: none;
+  line-height: 1.25;
+}
+
+.compact-registry-link:hover {
+  background: rgba(125, 170, 255, .10);
+  text-decoration: none;
+}
+
+.compact-game-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.compact-game-card {
+  scroll-margin-top: 5rem;
+  display: grid;
+  grid-template-columns: minmax(180px, 260px) 1fr;
+  gap: 1rem;
+  border: 1px solid rgba(125, 170, 255, .24);
+  border-radius: 18px;
+  padding: .85rem;
+  background: rgba(255, 255, 255, .028);
+}
+
+.compact-game-card__cover img {
+  width: 100%;
+  aspect-ratio: 460 / 215;
+  object-fit: cover;
+  display: block;
+  border-radius: 13px;
+  background: rgba(255,255,255,.045);
+  box-shadow: 0 10px 24px rgba(0,0,0,.20);
+}
+
+.compact-game-card__body {
+  min-width: 0;
+}
+
+.compact-game-card__title {
+  font-size: 1.05rem;
+  font-weight: 850;
+  line-height: 1.25;
+  margin: .1rem 0 .45rem;
+}
+
+.compact-game-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem .8rem;
+  font-size: .9rem;
+  opacity: .92;
+}
+
+.compact-game-card__meta span {
+  max-width: 100%;
+}
+
+@media (max-width: 760px) {
+  .compact-game-card {
+    grid-template-columns: 1fr;
+  }
+
+  .compact-registry-index {
+    columns: 1;
+  }
+}
+
+
+/* V6.5.12 · El Pozo */
+.pozo-note {
+  border-left: 4px solid rgba(125, 170, 255, .75);
+  padding: .8rem 1rem;
+  background: rgba(125, 170, 255, .08);
+  border-radius: 10px;
+}
+
+.verdict-table td:nth-child(3),
+.verdict-table th:nth-child(3) {
+  min-width: 11rem;
+  white-space: nowrap;
+}
+
+
+/* V6.5.14: ficha dinámica única de juego */
+.game-detail-root { margin-top: 1rem; }
+.game-detail { border: 1px solid color-mix(in srgb, currentColor 18%, transparent); border-radius: 18px; padding: 1rem; }
+.game-detail__hero { display: grid; grid-template-columns: minmax(220px, 420px) 1fr; gap: 1rem; align-items: center; }
+.game-detail__hero img { width: 100%; border-radius: 14px; object-fit: cover; }
+.game-detail__eyebrow, .game-detail__muted { opacity: .75; }
+.game-detail__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; margin-top: 1rem; }
+.game-detail__panel { border: 1px solid color-mix(in srgb, currentColor 14%, transparent); border-radius: 14px; padding: 1rem; }
+.game-detail__chips { margin: .45rem 0; }
+.game-detail__chips span { display: inline-block; margin: .15rem; padding: .15rem .45rem; border-radius: 999px; border: 1px solid color-mix(in srgb, currentColor 18%, transparent); font-size: .9em; }
+@media (max-width: 760px) { .game-detail__hero { grid-template-columns: 1fr; } }

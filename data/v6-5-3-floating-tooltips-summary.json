@@ -1,0 +1,17 @@
+{
+  "version": "6.5.3",
+  "generatedAt": "2026-05-06T02:23:27",
+  "baseZip": "steam-high-family-mdbook-v6-5-2-repair-pages-invalid-ids.zip",
+  "patchedCollectionFiles": 83,
+  "tooltipMode": "floating document.body overlay",
+  "files": [
+    "theme/game-tooltips.js",
+    "theme/custom.css",
+    "book.toml",
+    "scripts/07-generate-collection-tooltips.ps1"
+  ],
+  "notes": [
+    "El preview ya no se renderiza dentro de la tabla.",
+    "Si no se ve el cambio, usar Ctrl+F5 porque el navegador puede cachear JS/CSS."
+  ]
+}

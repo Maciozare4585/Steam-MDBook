@@ -1,0 +1,857 @@
+{
+  "version": "6.4.2",
+  "generatedAt": "2026-05-06T01:10:54",
+  "addedOverrideCount": 129,
+  "newRegistryEntriesCount": 108,
+  "removedReviewEntriesCount": 190,
+  "remainingReviewNeededCount": 7,
+  "registryCount": 775,
+  "targetsCount": 785,
+  "notes": [
+    "Se agregaron IDs para juegos que existían en Steam pero no estaban resolviendo por match exacto.",
+    "Se limpió review-needed para quitar títulos ya resueltos.",
+    "Se conservaron en review-needed entradas externas, no-Steam, genéricas o no confirmadas.",
+    "Las rutas de assets siguen usando Steam App ID como identidad canónica."
+  ],
+  "added": [
+    {
+      "title": "AdventureQuest 3D",
+      "slug": "adventurequest-3d",
+      "steamAppId": 429790,
+      "officialName": "AdventureQuest 3D",
+      "steamType": "game"
+    },
+    {
+      "title": "Age of Empires III (2007)",
+      "slug": "age-of-empires-iii-2007",
+      "steamAppId": 105450,
+      "officialName": "Age of Empires® III (2007)",
+      "steamType": "game"
+    },
+    {
+      "title": "ARK: Survival Of The Fittest",
+      "slug": "ark-survival-of-the-fittest",
+      "steamAppId": 407530,
+      "officialName": "ARK: The Survival Of The Fittest",
+      "steamType": "game"
+    },
+    {
+      "title": "Auto Sale Life: Fresh Start",
+      "slug": "auto-sale-life-fresh-start",
+      "steamAppId": 2877220,
+      "officialName": "Auto Sale Life: Fresh Start",
+      "steamType": "game"
+    },
+    {
+      "title": "Batman: Arkham Asylum GOTY Edition",
+      "slug": "batman-arkham-asylum-goty-edition",
+      "steamAppId": 35140,
+      "officialName": "Batman: Arkham Asylum Game of the Year Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "BattleBlock Theater",
+      "slug": "battleblock-theater",
+      "steamAppId": 238460,
+      "officialName": "BattleBlock Theater®",
+      "steamType": "game"
+    },
+    {
+      "title": "Battlefield: Bad Company 2",
+      "slug": "battlefield-bad-company-2",
+      "steamAppId": 24960,
+      "officialName": "Battlefield: Bad Company™ 2",
+      "steamType": "game"
+    },
+    {
+      "title": "BioShock 2 Remastered",
+      "slug": "bioshock-2-remastered",
+      "steamAppId": 409720,
+      "officialName": "BioShock™ 2 Remastered",
+      "steamType": "game"
+    },
+    {
+      "title": "Black Desert",
+      "slug": "black-desert",
+      "steamAppId": 582660,
+      "officialName": "Black Desert",
+      "steamType": "game"
+    },
+    {
+      "title": "Blast Zone! Tournament",
+      "slug": "blast-zone-tournament",
+      "steamAppId": 649190,
+      "officialName": "Blast Zone! Tournament",
+      "steamType": "game"
+    },
+    {
+      "title": "Bob Esponja: The Cosmic Shake",
+      "slug": "bob-esponja-the-cosmic-shake",
+      "steamAppId": 1282150,
+      "officialName": "SpongeBob SquarePants: The Cosmic Shake",
+      "steamType": "game"
+    },
+    {
+      "title": "Borderlands GOTY",
+      "slug": "borderlands-goty",
+      "steamAppId": 8980,
+      "officialName": "Borderlands Game of the Year",
+      "steamType": "game"
+    },
+    {
+      "title": "Borderlands GOTY Enhanced",
+      "slug": "borderlands-goty-enhanced",
+      "steamAppId": 729040,
+      "officialName": "Borderlands Game of the Year Enhanced",
+      "steamType": "game"
+    },
+    {
+      "title": "Car Dealer Simulator: Prologue",
+      "slug": "car-dealer-simulator-prologue",
+      "steamAppId": 3115010,
+      "officialName": "Car Dealer Simulator: Prologue - Early Days",
+      "steamType": "game"
+    },
+    {
+      "title": "Civilization V",
+      "slug": "civilization-v",
+      "steamAppId": 8930,
+      "officialName": "Sid Meier's Civilization® V",
+      "steamType": "game"
+    },
+    {
+      "title": "Civilization VI",
+      "slug": "civilization-vi",
+      "steamAppId": 289070,
+      "officialName": "Sid Meier’s Civilization® VI",
+      "steamType": "game"
+    },
+    {
+      "title": "Counter-Strike: Condition Zero Deleted Scenes",
+      "slug": "counter-strike-condition-zero-deleted-scenes",
+      "steamAppId": 100,
+      "officialName": "Counter-Strike: Condition Zero Deleted Scenes",
+      "steamType": "game"
+    },
+    {
+      "title": "DOOM 3: Resurrection of Evil",
+      "slug": "doom-3-resurrection-of-evil",
+      "steamAppId": 9070,
+      "officialName": "DOOM 3: Resurrection of Evil",
+      "steamType": "game"
+    },
+    {
+      "title": "Dead Island: Epidemic",
+      "slug": "dead-island-epidemic",
+      "steamAppId": 222900,
+      "officialName": "Dead Island: Epidemic",
+      "steamType": "game"
+    },
+    {
+      "title": "Dead Rising 3",
+      "slug": "dead-rising-3",
+      "steamAppId": 265550,
+      "officialName": "Dead Rising 3 Apocalypse Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "Deiland",
+      "slug": "deiland",
+      "steamAppId": 760620,
+      "officialName": "Deiland",
+      "steamType": "game"
+    },
+    {
+      "title": "DiRT Rally",
+      "slug": "dirt-rally",
+      "steamAppId": 310560,
+      "officialName": "DiRT Rally",
+      "steamType": "game"
+    },
+    {
+      "title": "Disco Elysium",
+      "slug": "disco-elysium",
+      "steamAppId": 632470,
+      "officialName": "Disco Elysium - The Final Cut",
+      "steamType": "game"
+    },
+    {
+      "title": "Disney Epic Mickey 2",
+      "slug": "disney-epic-mickey-2",
+      "steamAppId": 245300,
+      "officialName": "Disney Epic Mickey 2: The Power of Two",
+      "steamType": "game"
+    },
+    {
+      "title": "Disney's Treasure Planet: Battle of Procyon",
+      "slug": "disney-s-treasure-planet-battle-of-procyon",
+      "steamAppId": 331970,
+      "officialName": "Disney's Treasure Planet: Battle of Procyon",
+      "steamType": "game"
+    },
+    {
+      "title": "DoronkoWanko",
+      "slug": "doronkowanko",
+      "steamAppId": 2512840,
+      "officialName": "DORONKO WANKO",
+      "steamType": "game"
+    },
+    {
+      "title": "Dungeonborne",
+      "slug": "dungeonborne",
+      "steamAppId": 2448970,
+      "officialName": "Dungeonborne",
+      "steamType": "game"
+    },
+    {
+      "title": "Dying Light 2: Reloaded Edition",
+      "slug": "dying-light-2-reloaded-edition",
+      "steamAppId": 534380,
+      "officialName": "Dying Light 2: Reloaded Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "El Escudero Valiente",
+      "slug": "el-escudero-valiente",
+      "steamAppId": 1627570,
+      "officialName": "The Plucky Squire",
+      "steamType": "game"
+    },
+    {
+      "title": "Euro Truck Simulator 2",
+      "slug": "euro-truck-simulator-2",
+      "steamAppId": 227300,
+      "officialName": "Euro Truck Simulator 2",
+      "steamType": "game"
+    },
+    {
+      "title": "F.E.A.R.: Extraction Point",
+      "slug": "f-e-a-r-extraction-point",
+      "steamAppId": 21110,
+      "officialName": "F.E.A.R.: Extraction Point",
+      "steamType": "game"
+    },
+    {
+      "title": "F.E.A.R.: Perseus Mandate",
+      "slug": "f-e-a-r-perseus-mandate",
+      "steamAppId": 21120,
+      "officialName": "F.E.A.R.: Perseus Mandate",
+      "steamType": "game"
+    },
+    {
+      "title": "F1 2015",
+      "slug": "f1-2015",
+      "steamAppId": 286570,
+      "officialName": "F1 2015",
+      "steamType": "game"
+    },
+    {
+      "title": "FINAL FANTASY VII (2013)",
+      "slug": "final-fantasy-vii-2013",
+      "steamAppId": 39140,
+      "officialName": "FINAL FANTASY VII (2013)",
+      "steamType": "game"
+    },
+    {
+      "title": "Fallout",
+      "slug": "fallout",
+      "steamAppId": 38400,
+      "officialName": "Fallout: A Post Nuclear Role Playing Game",
+      "steamType": "game"
+    },
+    {
+      "title": "Fallout 2",
+      "slug": "fallout-2",
+      "steamAppId": 38410,
+      "officialName": "Fallout 2: A Post Nuclear Role Playing Game",
+      "steamType": "game"
+    },
+    {
+      "title": "Forza Horizon 4",
+      "slug": "forza-horizon-4",
+      "steamAppId": 1293830,
+      "officialName": "Forza Horizon 4",
+      "steamType": "game"
+    },
+    {
+      "title": "GRID 2",
+      "slug": "grid-2",
+      "steamAppId": 44350,
+      "officialName": "GRID 2",
+      "steamType": "game"
+    },
+    {
+      "title": "GTA San Andreas",
+      "slug": "gta-san-andreas",
+      "steamAppId": 12120,
+      "officialName": "Grand Theft Auto: San Andreas",
+      "steamType": "game"
+    },
+    {
+      "title": "GTA5_Enhanced",
+      "slug": "gta5-enhanced",
+      "steamAppId": 3240220,
+      "officialName": "Grand Theft Auto V Enhanced",
+      "steamType": "game"
+    },
+    {
+      "title": "Garro GT",
+      "slug": "garro-gt",
+      "steamAppId": 1990740,
+      "officialName": "Barro GT",
+      "steamType": "game"
+    },
+    {
+      "title": "Grand Theft Auto III",
+      "slug": "grand-theft-auto-iii",
+      "steamAppId": 12100,
+      "officialName": "Grand Theft Auto III",
+      "steamType": "game"
+    },
+    {
+      "title": "Grand Theft Auto: San Andreas",
+      "slug": "grand-theft-auto-san-andreas",
+      "steamAppId": 12120,
+      "officialName": "Grand Theft Auto: San Andreas",
+      "steamType": "game"
+    },
+    {
+      "title": "Grey Instinct - Part 1",
+      "slug": "grey-instinct-part-1",
+      "steamAppId": 1570960,
+      "officialName": "Grey Instinct - Part 1",
+      "steamType": "game"
+    },
+    {
+      "title": "Guacamelee!",
+      "slug": "guacamelee",
+      "steamAppId": 214770,
+      "officialName": "Guacamelee! Gold Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "HELLDIVERS",
+      "slug": "helldivers",
+      "steamAppId": 394510,
+      "officialName": "HELLDIVERS™ Dive Harder Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "HITMAN",
+      "slug": "hitman",
+      "steamAppId": 236870,
+      "officialName": "HITMAN™",
+      "steamType": "game"
+    },
+    {
+      "title": "HITMAN 2",
+      "slug": "hitman-2",
+      "steamAppId": 863550,
+      "officialName": "HITMAN™ 2",
+      "steamType": "game"
+    },
+    {
+      "title": "Half-Life 2: Episode One",
+      "slug": "half-life-2-episode-one",
+      "steamAppId": 380,
+      "officialName": "Half-Life 2: Episode One",
+      "steamType": "game"
+    },
+    {
+      "title": "Half-Life 2: Episode Two",
+      "slug": "half-life-2-episode-two",
+      "steamAppId": 420,
+      "officialName": "Half-Life 2: Episode Two",
+      "steamType": "game"
+    },
+    {
+      "title": "Half-Life 2: Lost Coast",
+      "slug": "half-life-2-lost-coast",
+      "steamAppId": 340,
+      "officialName": "Half-Life 2: Lost Coast",
+      "steamType": "game"
+    },
+    {
+      "title": "Half-Life: Source",
+      "slug": "half-life-source",
+      "steamAppId": 280,
+      "officialName": "Half-Life: Source",
+      "steamType": "game"
+    },
+    {
+      "title": "HoloCure - Save the Fans!",
+      "slug": "holocure-save-the-fans",
+      "steamAppId": 2420510,
+      "officialName": "HoloCure - Save the Fans!",
+      "steamType": "game"
+    },
+    {
+      "title": "Idle Slayer - Incremental RPG",
+      "slug": "idle-slayer-incremental-rpg",
+      "steamAppId": 1353300,
+      "officialName": "Idle Slayer",
+      "steamType": "game"
+    },
+    {
+      "title": "Indigo Park",
+      "slug": "indigo-park",
+      "steamAppId": 2504480,
+      "officialName": "Indigo Park: Chapter 1",
+      "steamType": "game"
+    },
+    {
+      "title": "Inunaki Tunnel",
+      "slug": "inunaki-tunnel",
+      "steamAppId": 1185160,
+      "officialName": "[Chilla's Art] Inunaki Tunnel | 犬鳴トンネル",
+      "steamType": "game"
+    },
+    {
+      "title": "I’m not a Monster",
+      "slug": "i-m-not-a-monster",
+      "steamAppId": 826600,
+      "officialName": "I am not a Monster: First Contact",
+      "steamType": "game"
+    },
+    {
+      "title": "Jagged Alliance Gold",
+      "slug": "jagged-alliance-gold",
+      "steamAppId": 283270,
+      "officialName": "Jagged Alliance 1: Gold Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "slug": "jojo-s-bizarre-adventure-all-star-battle-r",
+      "steamAppId": 1372110,
+      "officialName": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "steamType": "game"
+    },
+    {
+      "title": "KIDS",
+      "slug": "kids",
+      "steamAppId": 793370,
+      "officialName": "KIDS",
+      "steamType": "game"
+    },
+    {
+      "title": "Kao the Kangaroo: Round 2",
+      "slug": "kao-the-kangaroo-round-2",
+      "steamAppId": 1048540,
+      "officialName": "Kao the Kangaroo: Round 2 (2003 re-release)",
+      "steamType": "game"
+    },
+    {
+      "title": "Killer is Dead",
+      "slug": "killer-is-dead",
+      "steamAppId": 261110,
+      "officialName": "Killer is Dead - Nightmare Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "Kulebra and the Souls of Limbo",
+      "slug": "kulebra-and-the-souls-of-limbo",
+      "steamAppId": 2246470,
+      "officialName": "Kulebra and the Souls of Limbo: Closure Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "LEGO Star Wars: La Saga De Skywalker",
+      "slug": "lego-star-wars-la-saga-de-skywalker",
+      "steamAppId": 920210,
+      "officialName": "LEGO® Star Wars™: The Skywalker Saga",
+      "steamType": "game"
+    },
+    {
+      "title": "LISA",
+      "slug": "lisa",
+      "steamAppId": 335670,
+      "officialName": "LISA: The Painful",
+      "steamType": "game"
+    },
+    {
+      "title": "Legend of Keepers",
+      "slug": "legend-of-keepers",
+      "steamAppId": 978520,
+      "officialName": "Legend of Keepers: Career of a Dungeon Manager",
+      "steamType": "game"
+    },
+    {
+      "title": "LivingForest",
+      "slug": "livingforest",
+      "steamAppId": 3027490,
+      "officialName": "LivingForest",
+      "steamType": "game"
+    },
+    {
+      "title": "Mafia: Edición Definitiva",
+      "slug": "mafia-edici-n-definitiva",
+      "steamAppId": 1030840,
+      "officialName": "Mafia: Definitive Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "MapleStory",
+      "slug": "maplestory",
+      "steamAppId": 216150,
+      "officialName": "MapleStory",
+      "steamType": "game"
+    },
+    {
+      "title": "Metro 2033",
+      "slug": "metro-2033",
+      "steamAppId": 43110,
+      "officialName": "Metro 2033",
+      "steamType": "game"
+    },
+    {
+      "title": "Metro Exodus Enhanced Edition",
+      "slug": "metro-exodus-enhanced-edition",
+      "steamAppId": 1449560,
+      "officialName": "Metro Exodus Enhanced Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "Microsoft Flight Simulator X",
+      "slug": "microsoft-flight-simulator-x",
+      "steamAppId": 314160,
+      "officialName": "Microsoft Flight Simulator X: Steam Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "MiniRoyale",
+      "slug": "miniroyale",
+      "steamAppId": 1657090,
+      "officialName": "Mini Royale",
+      "steamType": "game"
+    },
+    {
+      "title": "Mortal Kombat 11",
+      "slug": "mortal-kombat-11",
+      "steamAppId": 976310,
+      "officialName": "Mortal Kombat 11",
+      "steamType": "game"
+    },
+    {
+      "title": "MultiVersus",
+      "slug": "multiversus",
+      "steamAppId": 1818750,
+      "officialName": "MultiVersus",
+      "steamType": "game"
+    },
+    {
+      "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
+      "slug": "naruto-shippuden-ultimate-ninja-storm-3-full-burst",
+      "steamAppId": 234670,
+      "officialName": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD",
+      "steamType": "game"
+    },
+    {
+      "title": "NieR Replicant",
+      "slug": "nier-replicant",
+      "steamAppId": 1113560,
+      "officialName": "NieR Replicant™ ver.1.22474487139...",
+      "steamType": "game"
+    },
+    {
+      "title": "Night is Coming — Wrath of the Woods",
+      "slug": "night-is-coming-wrath-of-the-woods",
+      "steamAppId": 3405660,
+      "officialName": "Night is Coming — Wrath of the Woods",
+      "steamType": "game"
+    },
+    {
+      "title": "Overcooked2",
+      "slug": "overcooked2",
+      "steamAppId": 728880,
+      "officialName": "Overcooked! 2",
+      "steamType": "game"
+    },
+    {
+      "title": "PUBG",
+      "slug": "pubg",
+      "steamAppId": 578080,
+      "officialName": "PUBG: BATTLEGROUNDS",
+      "steamType": "game"
+    },
+    {
+      "title": "Pathfinder: Wrath of the Righteous",
+      "slug": "pathfinder-wrath-of-the-righteous",
+      "steamAppId": 1184370,
+      "officialName": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "Portal 2 Sixense Perceptual Pack",
+      "slug": "portal-2-sixense-perceptual-pack",
+      "steamAppId": 247120,
+      "officialName": "Portal 2 Sixense Perceptual Pack",
+      "steamType": "game"
+    },
+    {
+      "title": "Portal: Revolution",
+      "slug": "portal-revolution",
+      "steamAppId": 601360,
+      "officialName": "Portal: Revolution",
+      "steamType": "mod"
+    },
+    {
+      "title": "RESIDENT EVIL RESISTANCE",
+      "slug": "resident-evil-resistance",
+      "steamAppId": 952070,
+      "officialName": "RESIDENT EVIL RESISTANCE",
+      "steamType": "game"
+    },
+    {
+      "title": "Refind Self",
+      "slug": "refind-self",
+      "steamAppId": 2514960,
+      "officialName": "Refind Self: The Personality Test Game",
+      "steamType": "game"
+    },
+    {
+      "title": "Refind Self: Desvela tu personalidad",
+      "slug": "refind-self-desvela-tu-personalidad",
+      "steamAppId": 2514960,
+      "officialName": "Refind Self: The Personality Test Game",
+      "steamType": "game"
+    },
+    {
+      "title": "Resident Evil Re:Verse",
+      "slug": "resident-evil-re-verse",
+      "steamAppId": 1236300,
+      "officialName": "Resident Evil Re:Verse",
+      "steamType": "game"
+    },
+    {
+      "title": "RoboCop: Rogue City",
+      "slug": "robocop-rogue-city",
+      "steamAppId": 1681430,
+      "officialName": "RoboCop: Rogue City",
+      "steamType": "game"
+    },
+    {
+      "title": "Rocket League",
+      "slug": "rocket-league",
+      "steamAppId": 252950,
+      "officialName": "Rocket League",
+      "steamType": "game"
+    },
+    {
+      "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+      "steamAppId": 4500,
+      "officialName": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "steamType": "game"
+    },
+    {
+      "title": "SUPER VIVE",
+      "slug": "super-vive",
+      "steamAppId": 1283700,
+      "officialName": "SUPERVIVE",
+      "steamType": "game"
+    },
+    {
+      "title": "SUPERVIVE",
+      "slug": "supervive",
+      "steamAppId": 1283700,
+      "officialName": "SUPERVIVE",
+      "steamType": "game"
+    },
+    {
+      "title": "Scribblenauts Unmasked",
+      "slug": "scribblenauts-unmasked",
+      "steamAppId": 249870,
+      "officialName": "Scribblenauts Unmasked: A DC Comics Adventure",
+      "steamType": "game"
+    },
+    {
+      "title": "Sea of Thieves",
+      "slug": "sea-of-thieves",
+      "steamAppId": 1172620,
+      "officialName": "Sea of Thieves: 2026 Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "Serious Sam 2",
+      "slug": "serious-sam-2",
+      "steamAppId": 204340,
+      "officialName": "Serious Sam 2",
+      "steamType": "game"
+    },
+    {
+      "title": "Sid Meier's Civilization IV: Beyond the Sword",
+      "slug": "sid-meier-s-civilization-iv-beyond-the-sword",
+      "steamAppId": 8800,
+      "officialName": "Civilization IV: Beyond the Sword",
+      "steamType": "game"
+    },
+    {
+      "title": "Sid Meier's Civilization IV: Warlords",
+      "slug": "sid-meier-s-civilization-iv-warlords",
+      "steamAppId": 3990,
+      "officialName": "Civilization IV®: Warlords",
+      "steamType": "game"
+    },
+    {
+      "title": "Sky: Niños de la Luz",
+      "slug": "sky-ni-os-de-la-luz",
+      "steamAppId": 2325290,
+      "officialName": "Sky: Children of the Light",
+      "steamType": "game"
+    },
+    {
+      "title": "Skyrim Special Edition",
+      "slug": "skyrim-special-edition",
+      "steamAppId": 489830,
+      "officialName": "The Elder Scrolls V: Skyrim Special Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "Spiritfarer",
+      "slug": "spiritfarer",
+      "steamAppId": 972660,
+      "officialName": "Spiritfarer®: Farewell Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+      "slug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
+      "steamAppId": 969990,
+      "officialName": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+      "steamType": "game"
+    },
+    {
+      "title": "Suicide Squad",
+      "slug": "suicide-squad",
+      "steamAppId": 315210,
+      "officialName": "Suicide Squad: Kill the Justice League",
+      "steamType": "game"
+    },
+    {
+      "title": "Syberia 2",
+      "slug": "syberia-2",
+      "steamAppId": 46510,
+      "officialName": "Syberia II",
+      "steamType": "game"
+    },
+    {
+      "title": "The Division",
+      "slug": "the-division",
+      "steamAppId": 365590,
+      "officialName": "Tom Clancy's The Division",
+      "steamType": "game"
+    },
+    {
+      "title": "The Division 2",
+      "slug": "the-division-2",
+      "steamAppId": 2221490,
+      "officialName": "Tom Clancy’s The Division® 2",
+      "steamType": "game"
+    },
+    {
+      "title": "The Dream Machine",
+      "slug": "the-dream-machine",
+      "steamAppId": 94300,
+      "officialName": "The Dream Machine",
+      "steamType": "game"
+    },
+    {
+      "title": "The Walking Dead Telltale Definitive Series",
+      "slug": "the-walking-dead-telltale-definitive-series",
+      "steamAppId": 1449690,
+      "officialName": "The Walking Dead: The Telltale Definitive Series",
+      "steamType": "game"
+    },
+    {
+      "title": "The Witcher: Enhanced Edition",
+      "slug": "the-witcher-enhanced-edition",
+      "steamAppId": 20900,
+      "officialName": "The Witcher: Enhanced Edition Director's Cut",
+      "steamType": "game"
+    },
+    {
+      "title": "TheEscapists",
+      "slug": "theescapists",
+      "steamAppId": 298630,
+      "officialName": "The Escapists",
+      "steamType": "game"
+    },
+    {
+      "title": "TheOuterWorldsSpacersChoiceEdition",
+      "slug": "theouterworldsspacerschoiceedition",
+      "steamAppId": 1920490,
+      "officialName": "The Outer Worlds: Spacer's Choice Edition",
+      "steamType": "game"
+    },
+    {
+      "title": "Tomb Raider",
+      "slug": "tomb-raider",
+      "steamAppId": 203160,
+      "officialName": "Tomb Raider",
+      "steamType": "game"
+    },
+    {
+      "title": "Velocity Ultra",
+      "slug": "velocity-ultra",
+      "steamAppId": 244890,
+      "officialName": "Velocity®Ultra",
+      "steamType": "game"
+    },
+    {
+      "title": "We Become What We Behold",
+      "slug": "we-become-what-we-behold",
+      "steamAppId": 1103210,
+      "officialName": "We Become What We Behold [Fan-Made Port]",
+      "steamType": "game"
+    },
+    {
+      "title": "Wolfenstein II",
+      "slug": "wolfenstein-ii",
+      "steamAppId": 612880,
+      "officialName": "Wolfenstein II: The New Colossus",
+      "steamType": "game"
+    },
+    {
+      "title": "WorldBox - God Simulator",
+      "slug": "worldbox-god-simulator",
+      "steamAppId": 1206560,
+      "officialName": "WorldBox - God Simulator",
+      "steamType": "game"
+    },
+    {
+      "title": "Zombie Army 4",
+      "slug": "zombie-army-4",
+      "steamAppId": 694280,
+      "officialName": "Zombie Army 4: Dead War",
+      "steamType": "game"
+    },
+    {
+      "title": "theHunter: Call of the Wild",
+      "slug": "thehunter-call-of-the-wild",
+      "steamAppId": 518790,
+      "officialName": "theHunter: Call of the Wild™",
+      "steamType": "game"
+    },
+    {
+      "title": "Rage Parking Simulator 2016",
+      "slug": "rage-parking-simulator-2016",
+      "steamAppId": 449630,
+      "officialName": "Rage Parking Simulator 2016",
+      "steamType": "game"
+    }
+  ],
+  "aliases": {
+    "spongebob-squarepants-the-cosmic-shake": 1282150,
+    "the-plucky-squire": 1627570,
+    "the-elder-scrolls-v-skyrim-special-edition": 489830,
+    "tom-clancys-the-division": 365590,
+    "tom-clancys-the-division-2": 2221490,
+    "the-outer-worlds-spacers-choice-edition": 1920490,
+    "grand-theft-auto-v-enhanced": 3240220,
+    "gta-v-enhanced": 3240220,
+    "resident-evil-reverse": 1236300,
+    "resident-evil-resistance": 952070,
+    "sky-children-of-the-light": 2325290
+  }
+}

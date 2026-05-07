@@ -1,0 +1,9 @@
+# 🧬 The Elder Scrolls · 3 juegos · ✅
+
+**Función:** casa principal de `The Elder Scrolls`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| <span class="game-hover" data-preview-src="../../assets/games/1812290/steam-header.jpg" data-game-title="The Elder Scrolls: Arena"><a href="../../07-juegos/detalle.html?id=1812290">The Elder Scrolls: Arena</a><span class="game-hover-card"><img src="../../assets/games/1812290/steam-header.jpg" alt="The Elder Scrolls: Arena" loading="lazy" /><strong>The Elder Scrolls: Arena</strong></span></span> | The Elder Scrolls | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/1812390/steam-header.jpg" data-game-title="The Elder Scrolls II: Daggerfall"><a href="../../07-juegos/detalle.html?id=1812390">The Elder Scrolls II: Daggerfall</a><span class="game-hover-card"><img src="../../assets/games/1812390/steam-header.jpg" alt="The Elder Scrolls II: Daggerfall" loading="lazy" /><strong>The Elder Scrolls II: Daggerfall</strong></span></span> | The Elder Scrolls | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/489830/steam-header.jpg" data-game-title="The Elder Scrolls V: Skyrim Special Edition"><a href="../../07-juegos/detalle.html?id=489830">The Elder Scrolls V: Skyrim Special Edition</a><span class="game-hover-card"><img src="../../assets/games/489830/steam-header.jpg" alt="The Elder Scrolls V: Skyrim Special Edition" loading="lazy" /><strong>The Elder Scrolls V: Skyrim Special Edition</strong></span></span> | The Elder Scrolls | Saga / universo | No, salvo excepción | Casa principal |

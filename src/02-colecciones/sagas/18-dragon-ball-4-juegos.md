@@ -1,0 +1,10 @@
+# 🧬 Dragon Ball · 4 juegos · ✅
+
+**Función:** casa principal de `Dragon Ball`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| <span class="game-hover" data-preview-src="../../assets/games/678950/steam-header.jpg" data-game-title="DRAGON BALL FighterZ"><a href="../../07-juegos/detalle.html?id=678950">DRAGON BALL FighterZ</a><span class="game-hover-card"><img src="../../assets/games/678950/steam-header.jpg" alt="DRAGON BALL FighterZ" loading="lazy" /><strong>DRAGON BALL FighterZ</strong></span></span> | Dragon Ball | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/1790600/steam-header.jpg" data-game-title="DRAGON BALL: Sparking! ZERO"><a href="../../07-juegos/detalle.html?id=1790600">DRAGON BALL: Sparking! ZERO</a><span class="game-hover-card"><img src="../../assets/games/1790600/steam-header.jpg" alt="DRAGON BALL: Sparking! ZERO" loading="lazy" /><strong>DRAGON BALL: Sparking! ZERO</strong></span></span> | Dragon Ball | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/454650/steam-header.jpg" data-game-title="DRAGON BALL XENOVERSE 2"><a href="../../07-juegos/detalle.html?id=454650">DRAGON BALL XENOVERSE 2</a><span class="game-hover-card"><img src="../../assets/games/454650/steam-header.jpg" alt="DRAGON BALL XENOVERSE 2" loading="lazy" /><strong>DRAGON BALL XENOVERSE 2</strong></span></span> | Dragon Ball | Saga / universo | No, salvo excepción | Casa principal |
+| <span class="game-hover" data-preview-src="../../assets/games/851850/steam-header.jpg" data-game-title="DRAGON BALL Z: KAKAROT"><a href="../../07-juegos/detalle.html?id=851850">DRAGON BALL Z: KAKAROT</a><span class="game-hover-card"><img src="../../assets/games/851850/steam-header.jpg" alt="DRAGON BALL Z: KAKAROT" loading="lazy" /><strong>DRAGON BALL Z: KAKAROT</strong></span></span> | Dragon Ball | Saga / universo | No, salvo excepción | Casa principal |

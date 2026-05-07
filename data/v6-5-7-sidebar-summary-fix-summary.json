@@ -1,0 +1,11 @@
+{
+  "version": "6.5.7",
+  "generatedAt": "2026-05-06T04:03:36",
+  "baseZip": "steam-high-family-mdbook-v6-5-6-gallery-script-fix.zip",
+  "fixed": [
+    "Templates were nested under V6.5.3 Tooltips flotantes",
+    "Rebuilt VI. Mantenimiento block in SUMMARY.md"
+  ],
+  "templatesCount": 15,
+  "maintenanceItems": 30
+}

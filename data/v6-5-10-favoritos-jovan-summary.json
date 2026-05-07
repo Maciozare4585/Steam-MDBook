@@ -1,0 +1,21 @@
+{
+  "version": "V6.5.10",
+  "title": "Favoritos de Jovan",
+  "base": "V6.5.9 — Perfiles personales",
+  "changes": [
+    "Favoritos iniciales de Jovan registrados desde captura",
+    "Cyberpunk 2077 agregado manualmente",
+    "Página de favoritos de Jovan reemplazada por galería y tabla alfabética",
+    "Acciones Steam Jugar/Instalar/Tienda agregadas por favorito",
+    "Perfil de Jovan actualizado a curaduría parcial iniciada",
+    "Entradas mínimas agregadas para Lossless Scaling y Wallpaper Engine"
+  ],
+  "favoritesCount": 35,
+  "manualAdditions": [
+    "Cyberpunk 2077"
+  ],
+  "registryAdditions": [
+    "Lossless Scaling",
+    "Wallpaper Engine"
+  ]
+}

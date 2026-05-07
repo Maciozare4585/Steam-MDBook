@@ -1,0 +1,19 @@
+{
+  "version": "V6.5.12",
+  "title": "El Pozo como sección propia + columna de valor de prueba",
+  "pozoCount": 185,
+  "verdictCounts": {
+    "🧪 Solo curiosidad / baja prioridad": 83,
+    "🟨 Quizá, revisar primero": 52,
+    "✅ Sí, candidato real": 19,
+    "🟥 No priorizar": 31
+  },
+  "musicRitmoUpdatedTo": 7,
+  "newMusicGame": "Dead as Disco",
+  "notes": [
+    "ZZZ) El Pozo se movió a sección propia bajo 02-colecciones/pozo.",
+    "Se agregó inventario completo de 185 juegos con columna ¿Vale la pena probarlo?.",
+    "Los juegos no se agregaron automáticamente a colecciones limpias para evitar contaminación.",
+    "Dead as Disco se agregó a Música / Ritmo como pendiente de steamAppId."
+  ]
+}
