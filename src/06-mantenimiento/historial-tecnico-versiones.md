@@ -53,3 +53,19 @@ Las páginas `V6.x` viven debajo de **Historial técnico de versiones**.
 - [V6.5.14 Parser/registry/tooltips](v6-5-14-parser-registry-tooltips.md)
 - Se corrige discovery de `ZZZ) El Pozo` y `ZZZ) MRD`.
 - Se limpia registry contaminado y se agrega ficha dinámica única por `steamAppId`.
+
+
+## V6.6.1 — Parche de limpieza, CSS y enriquecimiento
+
+- [V6.6.1 Limpieza, CSS y enriquecimiento](v6-6-1-limpieza-css-enriquecimiento.md)
+- Se archivan 2 archivos huérfanos (`06-vr-16-juegos.md`, `02-yyy-party-versus-mesa-32-juegos.md`).
+- CSS: estados `--empty/--missing/--loading`, barras de prioridad, zebra en tablas, print styles.
+- `game-detail.js`: loading state, fallback de imagen, fetch multi-ruta.
+- Nuevo script `17-enrich-steam-metadata.ps1`: enriquece metadata desde Steam Store API.
+- Nueva sección `VIII. Estadísticas` con dashboard dinámico.
+
+## V6.6.0 — Metadata base y ficha extendida
+
+- [V6.6.0 Metadata base](v6-6-0-metadata-base.md)
+- Se agrega `games-metadata.json` como fuente extendida de ficha.
+- Se agrega estructura para DLC, checkboxes personales, perfiles y reglas de colección.

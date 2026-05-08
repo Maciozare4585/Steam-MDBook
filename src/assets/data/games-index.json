@@ -6265,6 +6265,29 @@
     "metadata": {}
   },
   {
+    "title": "Exploding Kittens® 2",
+    "slug": "exploding-kittens-2",
+    "aliases": [],
+    "steamAppId": 2999030,
+    "officialName": "Exploding Kittens® 2",
+    "steamType": "game",
+    "matchType": "provided",
+    "preferredImageSource": "steam",
+    "steamUrl": "https://store.steampowered.com/app/2999030",
+    "playUrl": "steam://run/2999030",
+    "installUrl": "steam://install/2999030",
+    "assets": {
+      "steamHeader": "src/assets/games/2999030/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2999030/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2999030/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "metadata": {}
+  },
+  {
     "title": "F.E.A.R.",
     "slug": "f-e-a-r",
     "aliases": [],
@@ -6832,6 +6855,32 @@
       "steamHeader": "src/assets/games/3222970/steam-header.jpg",
       "steamCapsule": "src/assets/games/3222970/steam-capsule.jpg",
       "steamBackground": "src/assets/games/3222970/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "metadata": {}
+  },
+  {
+    "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "slug": "five-nights-at-freddy-s-help-wanted",
+    "aliases": [
+      "Five Nights at Freddy's VR: Help Wanted",
+      "FNAF Help Wanted"
+    ],
+    "steamAppId": 732690,
+    "officialName": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "steamType": "game",
+    "matchType": "provided",
+    "preferredImageSource": "steam",
+    "steamUrl": "https://store.steampowered.com/app/732690",
+    "playUrl": "steam://run/732690",
+    "installUrl": "steam://install/732690",
+    "assets": {
+      "steamHeader": "src/assets/games/732690/steam-header.jpg",
+      "steamCapsule": "src/assets/games/732690/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/732690/steam-background.jpg",
       "sgdbHero": "",
       "sgdbGrid": "",
       "sgdbLogo": "",

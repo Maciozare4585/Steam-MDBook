@@ -953,7 +953,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T08:52:00"
+    "updatedAt": "2026-05-07T17:20:56"
   },
   {
     "title": "Ashes of the Singularity: Escalation",
@@ -6020,7 +6020,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T08:53:16"
+    "updatedAt": "2026-05-07T17:21:07"
   },
   {
     "title": "Explodemon",
@@ -6044,6 +6044,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-07T08:53:18"
+  },
+  {
+    "title": "Exploding Kittens® 2",
+    "slug": "exploding-kittens-2",
+    "aliases": [],
+    "steamAppId": 2999030,
+    "officialName": "Exploding Kittens® 2",
+    "steamType": "game",
+    "matchName": "Exploding Kittens® 2",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/2999030/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/2999030/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2999030/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2999030/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-07T17:21:10"
   },
   {
     "title": "F.E.A.R.",
@@ -6595,6 +6618,32 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T21:59:59"
+  },
+  {
+    "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "slug": "five-nights-at-freddy-s-help-wanted",
+    "aliases": [
+      "Five Nights at Freddy's VR: Help Wanted",
+      "FNAF Help Wanted"
+    ],
+    "steamAppId": 732690,
+    "officialName": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "steamType": "game",
+    "matchName": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/732690/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/732690/steam-header.jpg",
+      "steamCapsule": "src/assets/games/732690/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/732690/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-07T17:21:12"
   },
   {
     "title": "Flash Party",
@@ -16565,7 +16614,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T08:56:02"
+    "updatedAt": "2026-05-07T17:21:27"
   },
   {
     "title": "Skullgirls 2nd Encore",

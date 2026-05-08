@@ -1632,6 +1632,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Exploding Kittens® 2",
+    "slug": "exploding-kittens-2",
+    "steamAppId": 2999030,
+    "priority": "registry-approved"
+  },
+  {
     "title": "F.E.A.R.",
     "slug": "f-e-a-r",
     "steamAppId": 21090,
@@ -1779,6 +1785,12 @@
     "title": "Find 100 Ducks and Blast Them!",
     "slug": "find-100-ducks-and-blast-them",
     "steamAppId": 3222970,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "slug": "five-nights-at-freddy-s-help-wanted",
+    "steamAppId": 732690,
     "priority": "registry-approved"
   },
   {

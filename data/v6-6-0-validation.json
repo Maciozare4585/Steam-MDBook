@@ -1,0 +1,38 @@
+{
+  "version": "6.6.0",
+  "updatedAt": "2026-05-07T23:59:00Z",
+  "registryEntries": 962,
+  "gamesMetadataEntries": 962,
+  "gamesIndexEntries": 962,
+  "newGames": [
+    {
+      "title": "Exploding Kittens® 2",
+      "steamAppId": 2999030,
+      "collection": "YYY) Party / Versus / Mesa"
+    },
+    {
+      "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+      "steamAppId": 732690,
+      "collection": "VR"
+    }
+  ],
+  "files": {
+    "data/games-metadata.json": true,
+    "data/collection-rules.json": true,
+    "data/schemas/game-metadata.schema.json": true,
+    "src/assets/data/games-index.json": true,
+    "src/07-juegos/detalle.md": true,
+    "theme/game-detail.js": true,
+    "scripts/14-generate-games-metadata-base.ps1": true,
+    "scripts/15-build-games-index-with-metadata.ps1": true,
+    "scripts/16-preview-collection-rules.ps1": true,
+    "scripts/05-run-full-sync.ps1": true
+  },
+  "notes": [
+    "No se incluyen carpetas de imágenes pesadas; se respetan .gitkeep y rutas existentes.",
+    "mdbook build no se ejecutó aquí porque mdbook no está instalado en el entorno."
+  ],
+  "summaryLinksMissing": [],
+  "assetHeavyFilesIncluded": [],
+  "readmeHasV660Commands": true
+}

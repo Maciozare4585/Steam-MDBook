@@ -4,7 +4,7 @@
 
 Esta sección ya no lista todos los juegos individuales en el sidebar. Los detalles se dividen por letra y cada juego puede abrirse en una ficha dinámica única.
 
-**Total registrado:** `960` juegos/apps con `steamAppId`.
+**Total registrado:** `962` juegos/apps con `steamAppId`.
 
 ## Ficha dinámica
 
@@ -18,8 +18,8 @@ Esta sección ya no lista todos los juegos individuales en el sidebar. Los detal
   <a href="por-letra/b.html">B <small>55</small></a>
   <a href="por-letra/c.html">C <small>54</small></a>
   <a href="por-letra/d.html">D <small>88</small></a>
-  <a href="por-letra/e.html">E <small>20</small></a>
-  <a href="por-letra/f.html">F <small>32</small></a>
+  <a href="por-letra/e.html">E <small>21</small></a>
+  <a href="por-letra/f.html">F <small>33</small></a>
   <a href="por-letra/g.html">G <small>35</small></a>
   <a href="por-letra/h.html">H <small>53</small></a>
   <a href="por-letra/i.html">I <small>15</small></a>
@@ -319,6 +319,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1020470" class="compact-registry-link" href="detalle.html?id=1020470">🎮 Evoland Legendary Edition</a>
   <a id="game-meta-2694210" class="compact-registry-link" href="detalle.html?id=2694210">🎮 Exiled Survivors</a>
   <a id="game-meta-281820" class="compact-registry-link" href="detalle.html?id=281820">🎮 Explodemon</a>
+  <a id="game-meta-2999030" class="compact-registry-link" href="detalle.html?id=2999030">🎮 Exploding Kittens&#174; 2</a>
   <a id="game-meta-21090" class="compact-registry-link" href="detalle.html?id=21090">🎮 F.E.A.R.</a>
   <a id="game-meta-16450" class="compact-registry-link" href="detalle.html?id=16450">🎮 F.E.A.R. 2: Project Origin</a>
   <a id="game-meta-21100" class="compact-registry-link" href="detalle.html?id=21100">🎮 F.E.A.R. 3</a>
@@ -344,6 +345,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-2909400" class="compact-registry-link" href="detalle.html?id=2909400">🎮 FINAL FANTASY VII REBIRTH</a>
   <a id="game-meta-1462040" class="compact-registry-link" href="detalle.html?id=1462040">🎮 FINAL FANTASY VII REMAKE INTERGRADE</a>
   <a id="game-meta-3222970" class="compact-registry-link" href="detalle.html?id=3222970">🎮 Find 100 Ducks and Blast Them!</a>
+  <a id="game-meta-732690" class="compact-registry-link" href="detalle.html?id=732690">🎮 FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED</a>
   <a id="game-meta-1799370" class="compact-registry-link" href="detalle.html?id=1799370">🎮 Flash Party</a>
   <a id="game-meta-1314460" class="compact-registry-link" href="detalle.html?id=1314460">🎮 Flicker of Hope</a>
   <a id="game-meta-304390" class="compact-registry-link" href="detalle.html?id=304390">🎮 FOR HONOR</a>

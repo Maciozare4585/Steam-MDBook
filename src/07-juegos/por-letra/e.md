@@ -1,6 +1,6 @@
 # Juegos — E
 
-> Página alfabética compacta. Contiene **20** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **21** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -421,6 +421,27 @@
   <a class="steam-action steam-play" href="steam://run/281820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/281820" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/281820" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2999030" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2999030">
+    <img src="../../assets/games/2999030/steam-header.jpg" alt="Exploding Kittens&#174; 2" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2999030">🎮 Exploding Kittens&#174; 2</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2999030</code></span>
+      <span><strong>Oficial:</strong> Exploding Kittens&#174; 2</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2999030">
+  <a class="steam-action steam-play" href="steam://run/2999030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2999030" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2999030" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

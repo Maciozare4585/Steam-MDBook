@@ -2,7 +2,7 @@
 
 > Página generada desde `data/steam-games-registry.json`.
 
-Total de juegos con metadata: **960**.
+Total de juegos con metadata: **962**.
 
 Esta página es una galería técnica/global. No pertenece a ningún perfil personal. Para navegar con contexto, usa las colecciones; para ver metadatos, haz click en una tarjeta.
 
@@ -1367,6 +1367,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Explodemon</span>
   <small>281820 · steam</small>
 </a>
+<a class="assets-gallery-card" href="por-letra/e.html#game-meta-2999030" title="Exploding Kittens&#174; 2">
+  <img src="../assets/games/2999030/steam-header.jpg" alt="Exploding Kittens&#174; 2" loading="lazy" />
+  <span>Exploding Kittens&#174; 2</span>
+  <small>2999030 · steam</small>
+</a>
 <a class="assets-gallery-card" href="por-letra/f.html#game-meta-21090" title="F.E.A.R.">
   <img src="../assets/games/21090/steam-header.jpg" alt="F.E.A.R." loading="lazy" />
   <span>F.E.A.R.</span>
@@ -1491,6 +1496,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/3222970/steam-header.jpg" alt="Find 100 Ducks and Blast Them!" loading="lazy" />
   <span>Find 100 Ducks and Blast Them!</span>
   <small>3222970 · steam</small>
+</a>
+<a class="assets-gallery-card" href="por-letra/f.html#game-meta-732690" title="FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED">
+  <img src="../assets/games/732690/steam-header.jpg" alt="FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED" loading="lazy" />
+  <span>FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED</span>
+  <small>732690 · steam</small>
 </a>
 <a class="assets-gallery-card" href="por-letra/f.html#game-meta-1799370" title="Flash Party">
   <img src="../assets/games/1799370/steam-header.jpg" alt="Flash Party" loading="lazy" />

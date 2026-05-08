@@ -54,19 +54,19 @@
     "slug": "absconding-zatwor",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:05:36"
   },
   {
     "title": "Absconding Zatwor",
     "slug": "absconding-zatwor",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:05:36"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Adamgelion",
@@ -170,6 +170,16 @@
     "slug": "away",
     "detectedSteamAppId": "",
     "detectedName": "",
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
+  },
+  {
+    "title": "Away",
+    "slug": "away",
+    "detectedSteamAppId": "",
+    "detectedName": "",
     "matchType": "review-no-exact-match",
     "reason": "No hubo match exacto; requiere override manual",
     "updatedAt": "2026-05-07T00:07:55"
@@ -177,16 +187,34 @@
   {
     "title": "Away",
     "slug": "away",
-    "detectedSteamAppId": "",
-    "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "detectedSteamAppId": 3468400,
+    "detectedName": "Log Away",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:47"
   },
   {
     "title": "Bearly Awesome",
     "slug": "bearly-awesome",
+    "detectedSteamAppId": "",
+    "detectedName": "",
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
+  },
+  {
+    "title": "Beast Blaster",
+    "slug": "beast-blaster",
+    "detectedSteamAppId": 2479440,
+    "detectedName": "Beast Blasters",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:00"
+  },
+  {
+    "title": "Beast Blaster",
+    "slug": "beast-blaster",
     "detectedSteamAppId": "",
     "detectedName": "",
     "matchType": "markdown-discovered",
@@ -202,16 +230,6 @@
     "matchType": "review-no-exact-match",
     "reason": "No hubo match exacto; requiere override manual",
     "updatedAt": "2026-05-07T00:03:13"
-  },
-  {
-    "title": "Beast Blaster",
-    "slug": "beast-blaster",
-    "detectedSteamAppId": "",
-    "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Beavers Be Dammed",
@@ -277,29 +295,19 @@
     "slug": "bold-new-world",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:04:45"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Bold New World",
     "slug": "bold-new-world",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
-  },
-  {
-    "title": "Bord Killer",
-    "slug": "bord-killer",
-    "detectedSteamAppId": "",
-    "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:04:45"
   },
   {
     "title": "Bord Killer",
@@ -309,6 +317,25 @@
     "matchType": "review-no-exact-match",
     "reason": "No hubo match exacto; requiere override manual",
     "updatedAt": "2026-05-07T00:01:56"
+  },
+  {
+    "title": "Bord Killer",
+    "slug": "bord-killer",
+    "detectedSteamAppId": 2370660,
+    "detectedName": "Börd Killer",
+    "matchType": "storesearch-first",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:13:05"
+  },
+  {
+    "title": "Bord Killer",
+    "slug": "bord-killer",
+    "detectedSteamAppId": "",
+    "detectedName": "",
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Braveland",
@@ -388,18 +415,17 @@
     "updatedAt": "2026-05-07T00:05:43"
   },
   {
-    "title": "Buck Trucker in Rowdy Business",
-    "slug": "buck-trucker-in-rowdy-business",
-    "detectedSteamAppId": "",
-    "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "title": "BROTHER!!! - Hardcore Platformer",
+    "slug": "brother-hardcore-platformer",
+    "detectedSteamAppId": 1286560,
+    "detectedName": "BROTHER!!! Save him! - Hardcore Platformer",
+    "matchType": "storesearch-first",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:02"
   },
   {
-    "title": "CandySnake",
-    "slug": "candysnake",
+    "title": "Buck Trucker in Rowdy Business",
+    "slug": "buck-trucker-in-rowdy-business",
     "detectedSteamAppId": "",
     "detectedName": "",
     "matchType": "markdown-discovered",
@@ -415,6 +441,25 @@
     "matchType": "review-no-exact-match",
     "reason": "No hubo match exacto; requiere override manual",
     "updatedAt": "2026-05-06T23:59:01"
+  },
+  {
+    "title": "CandySnake",
+    "slug": "candysnake",
+    "detectedSteamAppId": "",
+    "detectedName": "",
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
+  },
+  {
+    "title": "CandySnake",
+    "slug": "candysnake",
+    "detectedSteamAppId": 781500,
+    "detectedName": "Candy Snake Master",
+    "matchType": "storesearch-first",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:11:48"
   },
   {
     "title": "Cast & Spell",
@@ -510,19 +555,19 @@
     "slug": "codestrike",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:03:45"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "CodeStrike",
     "slug": "codestrike",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:03:45"
   },
   {
     "title": "Construction Simulator: Prologue",
@@ -700,7 +745,7 @@
     "matchType": "manual-added-v6-4-2",
     "steamType": "game",
     "reason": "appdetails success=false",
-    "updatedAt": "2026-05-07T11:56:06"
+    "updatedAt": "2026-05-07T18:13:27"
   },
   {
     "title": "Deiland",
@@ -710,7 +755,7 @@
     "matchType": "manual-added-v6-4-2",
     "steamType": "game",
     "reason": "appdetails success=false",
-    "updatedAt": "2026-05-07T08:52:51"
+    "updatedAt": "2026-05-07T18:07:35"
   },
   {
     "title": "Demolish & Build 2017",
@@ -797,6 +842,15 @@
     "slug": "drop",
     "detectedSteamAppId": "",
     "detectedName": "",
+    "matchType": "review-no-exact-match",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-06T23:58:09"
+  },
+  {
+    "title": "Drop",
+    "slug": "drop",
+    "detectedSteamAppId": "",
+    "detectedName": "",
     "matchType": "markdown-discovered",
     "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
     "source": "src/02-colecciones/mrd/inventario-57.md",
@@ -805,11 +859,11 @@
   {
     "title": "Drop",
     "slug": "drop",
-    "detectedSteamAppId": "",
-    "detectedName": "",
-    "matchType": "review-no-exact-match",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-06T23:58:09"
+    "detectedSteamAppId": 2525310,
+    "detectedName": "Drop Duchy",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:13:06"
   },
   {
     "title": "Elysium Elect",
@@ -885,19 +939,19 @@
     "slug": "fiends-of-imprisonment",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:10:35"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Fiends of Imprisonment",
     "slug": "fiends-of-imprisonment",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:10:35"
   },
   {
     "title": "Flash Party",
@@ -1011,19 +1065,29 @@
     "slug": "goocubelets",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:08:18"
   },
   {
     "title": "GooCubelets",
     "slug": "goocubelets",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:08:18"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
+  },
+  {
+    "title": "GooCubelets 2",
+    "slug": "goocubelets-2",
+    "detectedSteamAppId": "",
+    "detectedName": "",
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "GooCubelets 2",
@@ -1035,26 +1099,6 @@
     "updatedAt": "2026-05-07T00:08:23"
   },
   {
-    "title": "GooCubelets 2",
-    "slug": "goocubelets-2",
-    "detectedSteamAppId": "",
-    "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
-  },
-  {
-    "title": "GooCubelets: OCD",
-    "slug": "goocubelets-ocd",
-    "detectedSteamAppId": "",
-    "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
-  },
-  {
     "title": "GooCubelets: OCD",
     "slug": "goocubelets-ocd",
     "detectedSteamAppId": "",
@@ -1062,6 +1106,16 @@
     "matchType": "not-found",
     "reason": "No hubo match exacto; requiere override manual",
     "updatedAt": "2026-05-06T23:58:40"
+  },
+  {
+    "title": "GooCubelets: OCD",
+    "slug": "goocubelets-ocd",
+    "detectedSteamAppId": "",
+    "detectedName": "",
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "GooCubelets: The Algoorithm",
@@ -1087,19 +1141,19 @@
     "slug": "goocubelets-the-void",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-06T23:58:32"
   },
   {
     "title": "GooCubelets: The Void",
     "slug": "goocubelets-the-void",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-06T23:58:32"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Grapples Galore",
@@ -1146,19 +1200,19 @@
     "slug": "guardians-of-the-sanctree-early-birds",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:02:13"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Guardians of the Sanctree: Early Birds",
     "slug": "guardians-of-the-sanctree-early-birds",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:02:13"
   },
   {
     "title": "Habbo Launcher",
@@ -1237,6 +1291,15 @@
     "matchType": "review-no-exact-match",
     "reason": "No hubo match exacto; requiere override manual",
     "updatedAt": "2026-05-07T00:02:09"
+  },
+  {
+    "title": "HELLION",
+    "slug": "hellion",
+    "detectedSteamAppId": 3686390,
+    "detectedName": "Hotel Hellion",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:07"
   },
   {
     "title": "HELLION",
@@ -1351,6 +1414,15 @@
   {
     "title": "League of Legends",
     "slug": "league-of-legends",
+    "detectedSteamAppId": 1759380,
+    "detectedName": "Bandle Tale: A League of Legends Story",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:40"
+  },
+  {
+    "title": "League of Legends",
+    "slug": "league-of-legends",
     "detectedSteamAppId": "",
     "detectedName": "",
     "matchType": "markdown-discovered",
@@ -1380,12 +1452,11 @@
   {
     "title": "Legendary",
     "slug": "legendary",
-    "detectedSteamAppId": "",
-    "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "detectedSteamAppId": 1465070,
+    "detectedName": "Legendary Tales",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:13:19"
   },
   {
     "title": "Legendary",
@@ -1395,6 +1466,16 @@
     "matchType": "review-no-exact-match",
     "reason": "No hubo match exacto; requiere override manual",
     "updatedAt": "2026-05-06T23:59:08"
+  },
+  {
+    "title": "Legendary",
+    "slug": "legendary",
+    "detectedSteamAppId": "",
+    "detectedName": "",
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Loot Hero DX",
@@ -1431,19 +1512,19 @@
     "slug": "loutra-virtual-artist-residency",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:03:25"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Loutra: Virtual Artist Residency",
     "slug": "loutra-virtual-artist-residency",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:03:25"
   },
   {
     "title": "Mangui",
@@ -1503,7 +1584,7 @@
     "matchType": "manual-clean-override",
     "steamType": "game",
     "reason": "appdetails success=false",
-    "updatedAt": "2026-05-07T11:56:08"
+    "updatedAt": "2026-05-07T18:13:29"
   },
   {
     "title": "Mini Thief",
@@ -1558,6 +1639,15 @@
   {
     "title": "Neon Runners",
     "slug": "neon-runners",
+    "detectedSteamAppId": 2785860,
+    "detectedName": "Neon Runners: Craft & Dash",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:16"
+  },
+  {
+    "title": "Neon Runners",
+    "slug": "neon-runners",
     "detectedSteamAppId": "",
     "detectedName": "",
     "matchType": "review-no-exact-match",
@@ -1579,19 +1669,19 @@
     "slug": "neoragex-5-0",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/03-estados/estados/02-8-abandonado-x-razon-25-juegos.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:03:49"
   },
   {
     "title": "NeoRAGEx 5.0",
     "slug": "neoragex-5-0",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:03:49"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/03-estados/estados/02-8-abandonado-x-razon-25-juegos.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Nephise Begins",
@@ -1641,7 +1731,7 @@
     "matchType": "manual-added-v6-4-2",
     "steamType": "game",
     "reason": "appdetails success=false",
-    "updatedAt": "2026-05-07T00:18:23"
+    "updatedAt": "2026-05-07T18:13:30"
   },
   {
     "title": "Night is Coming — Wrath of the Woods",
@@ -1651,7 +1741,7 @@
     "matchType": "manual-added-v6-4-2",
     "steamType": "game",
     "reason": "appdetails success=false",
-    "updatedAt": "2026-05-07T11:56:09"
+    "updatedAt": "2026-05-07T17:21:16"
   },
   {
     "title": "NineHells",
@@ -1938,7 +2028,7 @@
     "matchType": "manual-added-v6-4-2",
     "steamType": "game",
     "reason": "appdetails success=false",
-    "updatedAt": "2026-05-07T11:56:11"
+    "updatedAt": "2026-05-07T18:13:32"
   },
   {
     "title": "Rage Parking Simulator 2016",
@@ -1948,7 +2038,7 @@
     "matchType": "manual-added-v6-4-2",
     "steamType": "game",
     "reason": "appdetails success=false",
-    "updatedAt": "2026-05-07T08:55:21"
+    "updatedAt": "2026-05-07T18:07:40"
   },
   {
     "title": "Rat Quest",
@@ -1998,6 +2088,15 @@
     "matchType": "review-no-exact-match",
     "reason": "No hubo match exacto; requiere override manual",
     "updatedAt": "2026-05-07T00:01:48"
+  },
+  {
+    "title": "Red Wings",
+    "slug": "red-wings",
+    "detectedSteamAppId": 1654680,
+    "detectedName": "Red Wings: American Aces",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:10"
   },
   {
     "title": "Red Wings",
@@ -2163,19 +2262,19 @@
     "slug": "sega-mega-drive-and-genesis-classics",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:02:37"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "SEGA Mega Drive & Genesis Classics",
     "slug": "sega-mega-drive-and-genesis-classics",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:02:37"
   },
   {
     "title": "Sentience. The Android's Tale",
@@ -2242,19 +2341,19 @@
     "slug": "showdown-bandit",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:01:00"
   },
   {
     "title": "Showdown Bandit",
     "slug": "showdown-bandit",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:01:00"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "SIMPWALK",
@@ -2280,19 +2379,19 @@
     "slug": "sky-rhythm",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:05:34"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Sky Rhythm",
     "slug": "sky-rhythm",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:05:34"
   },
   {
     "title": "Skyrim Special Edition",
@@ -2329,6 +2428,15 @@
     "slug": "snowbreak",
     "detectedSteamAppId": "",
     "detectedName": "",
+    "matchType": "review-no-exact-match",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:06:44"
+  },
+  {
+    "title": "SNOWBREAK",
+    "slug": "snowbreak",
+    "detectedSteamAppId": "",
+    "detectedName": "",
     "matchType": "markdown-discovered",
     "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
     "source": "src/02-colecciones/pozo/inventario-185.md",
@@ -2337,11 +2445,11 @@
   {
     "title": "SNOWBREAK",
     "slug": "snowbreak",
-    "detectedSteamAppId": "",
-    "detectedName": "",
-    "matchType": "review-no-exact-match",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:06:44"
+    "detectedSteamAppId": 2668080,
+    "detectedName": "Snowbreak: Containment Zone",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:19"
   },
   {
     "title": "Space Bear",
@@ -2566,19 +2674,19 @@
     "slug": "the-last-man-survivor-prologue",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-06T23:58:10"
   },
   {
     "title": "The Last Man Survivor: Prologue",
     "slug": "the-last-man-survivor-prologue",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-06T23:58:10"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "The Monarch: First Light",
@@ -2618,6 +2726,15 @@
     "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
     "source": "src/02-colecciones/pozo/inventario-185.md",
     "updatedAt": "2026-05-07T00:00:00"
+  },
+  {
+    "title": "The Note",
+    "slug": "the-note",
+    "detectedSteamAppId": 1211350,
+    "detectedName": "The Note of Red Evil",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:03"
   },
   {
     "title": "The Odyssey of the Mammoth",
@@ -2674,19 +2791,19 @@
     "slug": "they-came-from-the-moon",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:08:22"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "They Came From The Moon",
     "slug": "they-came-from-the-moon",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:08:22"
   },
   {
     "title": "This Game is Ground Breaking",
@@ -2752,19 +2869,28 @@
     "slug": "uni",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/mrd/inventario-57.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "review-no-exact-match",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:07:29"
+  },
+  {
+    "title": "UNI",
+    "slug": "uni",
+    "detectedSteamAppId": 394690,
+    "detectedName": "Tower Unite",
+    "matchType": "storesearch-contains",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:12:21"
   },
   {
     "title": "UNI",
     "slug": "uni",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "review-no-exact-match",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:07:29"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/mrd/inventario-57.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "UNLOVED",
@@ -2841,19 +2967,28 @@
     "slug": "whitelily-1",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "review-no-exact-match",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:09:32"
+  },
+  {
+    "title": "WhiteLily 1: 丽丽公主",
+    "slug": "whitelily-1",
+    "detectedSteamAppId": 876850,
+    "detectedName": "WhiteLily 1：丽丽公主",
+    "matchType": "storesearch-first",
+    "reason": "Candidato fuzzy detectado; no se escribe al registry sin -AcceptFuzzyMatches",
+    "updatedAt": "2026-05-07T18:13:22"
   },
   {
     "title": "WhiteLily 1: 丽丽公主",
     "slug": "whitelily-1",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "review-no-exact-match",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:09:32"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "Why So Evil",
@@ -2995,19 +3130,19 @@
     "slug": "journey-of-carrying-light",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "markdown-discovered",
-    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
-    "source": "src/02-colecciones/pozo/inventario-185.md",
-    "updatedAt": "2026-05-07T00:00:00"
+    "matchType": "not-found",
+    "reason": "No hubo match exacto; requiere override manual",
+    "updatedAt": "2026-05-07T00:10:07"
   },
   {
     "title": "贪芒之旅 Journey of Carrying Light》",
     "slug": "journey-of-carrying-light",
     "detectedSteamAppId": "",
     "detectedName": "",
-    "matchType": "not-found",
-    "reason": "No hubo match exacto; requiere override manual",
-    "updatedAt": "2026-05-07T00:10:07"
+    "matchType": "markdown-discovered",
+    "reason": "Título descubierto en Markdown sin steamAppId en registry; requiere sync/override manual.",
+    "source": "src/02-colecciones/pozo/inventario-185.md",
+    "updatedAt": "2026-05-07T00:00:00"
   },
   {
     "title": "趣拼拼：肖像画 Pleasure Puzzle:Portrait",

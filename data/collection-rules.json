@@ -1,0 +1,122 @@
+{
+  "version": "6.6.0",
+  "updatedAt": "2026-05-07T23:59:00Z",
+  "ruleModes": {
+    "auto": "se puede aplicar automáticamente",
+    "suggest": "se recomienda y requiere confirmación",
+    "manual_only": "nunca se aplica automáticamente"
+  },
+  "rules": [
+    {
+      "id": "auto-musica-ritmo",
+      "collection": "Música / Ritmo",
+      "mode": "suggest",
+      "priority": 80,
+      "conditions": {
+        "anyTags": [
+          "Rhythm",
+          "Music",
+          "Soundtrack",
+          "musica",
+          "ritmo"
+        ],
+        "anyGenres": [
+          "Rhythm"
+        ]
+      }
+    },
+    {
+      "id": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40,
+      "conditions": {
+        "playModes.singlePlayer": true
+      }
+    },
+    {
+      "id": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45,
+      "conditions": {
+        "playModes.onlineMultiplayer": true
+      }
+    },
+    {
+      "id": "auto-vr",
+      "collection": "VR",
+      "mode": "suggest",
+      "priority": 70,
+      "conditions": {
+        "steamFeatures.vrSupported": true
+      }
+    },
+    {
+      "id": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100,
+      "conditions": {
+        "playerState.checkboxes.started": true,
+        "playerState.checkboxes.finishedMainStory": false,
+        "playerState.checkboxes.abandoned": false
+      }
+    },
+    {
+      "id": "auto-terminados",
+      "collection": "2) TERMINADOS",
+      "mode": "auto",
+      "priority": 100,
+      "conditions": {
+        "playerState.checkboxes.finishedMainStory": true
+      }
+    },
+    {
+      "id": "auto-pa-platinar",
+      "collection": "5) PA PLATINAR",
+      "mode": "auto",
+      "priority": 95,
+      "conditions": {
+        "playerState.checkboxes.wantsToPlatinum": true
+      }
+    },
+    {
+      "id": "auto-reiniciar-partida",
+      "collection": "4) REINICIAR PARTIDA (X RAZÓN)",
+      "mode": "auto",
+      "priority": 95,
+      "conditions": {
+        "playerState.checkboxes.needsRestart": true
+      }
+    },
+    {
+      "id": "auto-daniel-juegos-core",
+      "collection": "Daniel / Juegos core",
+      "mode": "auto",
+      "priority": 100,
+      "conditions": {
+        "profileMetadata.daniel.importanceLevel": "core_gamer"
+      }
+    },
+    {
+      "id": "auto-jovan-favoritos",
+      "collection": "Jovan / Favoritos",
+      "mode": "auto",
+      "priority": 100,
+      "conditions": {
+        "profileMetadata.jovan.importanceLevel": "favorito"
+      }
+    },
+    {
+      "id": "protect-zzz-quarantine",
+      "collection": "ZZZ / Cuarentena",
+      "mode": "manual_only",
+      "priority": 1000,
+      "lockPromotion": true,
+      "conditions": {
+        "libraryPlacement.quarantineSource": "ZZZ"
+      }
+    }
+  ]
+}
