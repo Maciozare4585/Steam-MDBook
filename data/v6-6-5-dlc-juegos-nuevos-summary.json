@@ -1,0 +1,70 @@
+{
+  "version": "6.6.5",
+  "generatedAt": "2026-05-11T04:57:26Z",
+  "newGamesAdded": [
+    {
+      "title": "Blue Protocol: Star Resonance",
+      "steamAppId": 3681810,
+      "steamType": "game"
+    },
+    {
+      "title": "Desktop Mate",
+      "steamAppId": 3301060,
+      "steamType": "software"
+    },
+    {
+      "title": "Supermarket Together",
+      "steamAppId": 2709570,
+      "steamType": "game"
+    },
+    {
+      "title": "Transformice",
+      "steamAppId": 335240,
+      "steamType": "game"
+    }
+  ],
+  "dlcUpdatedAppIds": [
+    8930,
+    22370,
+    22380,
+    200510,
+    221380,
+    239140,
+    268500,
+    268910,
+    282070,
+    289070,
+    292030,
+    377160,
+    524220,
+    588650,
+    678950,
+    701160,
+    813780,
+    976310,
+    976730,
+    1061910,
+    1113560,
+    1151340,
+    1245620,
+    1868140,
+    1999360,
+    2050650,
+    3489700
+  ],
+  "collectionFilesUpdated": [
+    "src/02-colecciones/experiencias/04-internet-persistente-61-juegos.md",
+    "src/02-colecciones/generos/11-rpg-13-juegos.md",
+    "src/02-colecciones/tecnicas/02-zzz-demos-y-otros-tecnica-39-elementos.md",
+    "src/02-colecciones/generos/13-simulator-24-juegos.md",
+    "src/02-colecciones/experiencias/02-chill-relax-14-juegos.md",
+    "src/02-colecciones/generos/01-arcade-casual-25-juegos.md",
+    "src/02-colecciones/sociales/02-yyy-party-versus-mesa-35-juegos.md",
+    "src/02-colecciones/generos/08-plataformas-25-juegos.md",
+    "src/02-colecciones/sociales/03-yyy-pve-accion-26-juegos.md"
+  ],
+  "notes": [
+    "Assets de juegos nuevos requieren correr 02-download-steam-images.ps1 o 05-run-full-sync.ps1 para descargar imágenes locales.",
+    "La metadata DLC es manual y no pretende ser auditoría exacta de todos los DLC de Steam."
+  ]
+}

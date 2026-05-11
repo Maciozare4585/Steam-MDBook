@@ -800,3 +800,225 @@ blockquote,
 .game-detail__chips { margin: .45rem 0; }
 .game-detail__chips span { display: inline-block; margin: .15rem; padding: .15rem .45rem; border-radius: 999px; border: 1px solid color-mix(in srgb, currentColor 18%, transparent); font-size: .9em; }
 @media (max-width: 760px) { .game-detail__hero { grid-template-columns: 1fr; } }
+
+
+/* V6.6.0: metadata extendida de ficha dinámica */
+.game-detail__panel--wide { grid-column: 1 / -1; }
+.game-detail table { width: 100%; border-collapse: collapse; }
+.game-detail th { text-align: left; width: 42%; opacity: .82; }
+.game-detail td, .game-detail th { padding: .25rem .35rem; border-bottom: 1px solid color-mix(in srgb, currentColor 9%, transparent); vertical-align: top; }
+.game-detail__mini-table th, .game-detail__mini-table td { font-size: .92em; }
+.game-detail__profile-card { border: 1px solid color-mix(in srgb, currentColor 12%, transparent); border-radius: 12px; padding: .8rem; margin: .65rem 0; background: rgba(255,255,255,.025); }
+.game-detail__profile-card h4 { margin: 0 0 .4rem; }
+
+
+/* ============================================================
+   V6.6.1 — Mejoras generales de UI y estados faltantes
+   ============================================================ */
+
+/* --- Fallback / estados de la ficha dinámica --- */
+.game-detail--empty,
+.game-detail--missing {
+  display: grid;
+  place-items: center;
+  min-height: 220px;
+  text-align: center;
+  opacity: .75;
+}
+.game-detail--empty h2::before { content: "📂 "; }
+.game-detail--missing h2::before { content: "🔍 "; }
+
+/* --- Loading skeleton para game-detail --- */
+.game-detail--loading {
+  min-height: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .75rem;
+  opacity: .65;
+  font-style: italic;
+}
+
+@keyframes pulse-opacity {
+  0%, 100% { opacity: .5; }
+  50% { opacity: 1; }
+}
+
+.game-detail--loading::before {
+  content: "";
+  width: 22px;
+  height: 22px;
+  border: 3px solid rgba(79, 140, 255, .5);
+  border-top-color: #4f8cff;
+  border-radius: 50%;
+  animation: spin 0.85s linear infinite;
+  display: inline-block;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* --- Imagen de hero con fallback visual --- */
+.game-detail__hero img.img-error {
+  min-height: 140px;
+  background: linear-gradient(135deg,
+    rgba(79, 140, 255, .12),
+    rgba(79, 140, 255, .04));
+  border: 1px dashed rgba(79, 140, 255, .35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* --- Número de juegos en chips de estado --- */
+.state-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.5em;
+  height: 1.5em;
+  padding: 0 .4em;
+  border-radius: 999px;
+  font-size: .78em;
+  font-weight: 700;
+  background: rgba(79, 140, 255, .18);
+  color: inherit;
+  margin-left: .3em;
+  vertical-align: middle;
+}
+
+/* --- Mejor separación de secciones en paneles de detalle --- */
+.game-detail__panel h3 {
+  margin-top: 0;
+  margin-bottom: .6rem;
+  font-size: 1rem;
+  border-bottom: 1px solid color-mix(in srgb, currentColor 10%, transparent);
+  padding-bottom: .35rem;
+}
+
+/* --- Tarjetas de perfil: nivel de importancia coloreado --- */
+.game-detail__profile-card [data-level="high"] { color: #f8c650; }
+.game-detail__profile-card [data-level="very-high"] { color: #ff7a56; }
+.game-detail__profile-card [data-level="iconic"] { color: #c084fc; }
+
+/* --- Table zebra suave dentro de game-detail --- */
+.game-detail tbody tr:nth-child(even) td,
+.game-detail tbody tr:nth-child(even) th {
+  background: rgba(255, 255, 255, .018);
+}
+
+/* --- Sticky header en tablas largas de colección --- */
+.verdict-table thead th {
+  position: sticky;
+  top: 0;
+  background: var(--bg, #1e2127);
+  z-index: 2;
+}
+
+/* --- Backlog activo: badge de prioridad --- */
+.priority-badge {
+  display: inline-block;
+  padding: .1rem .45rem;
+  border-radius: 999px;
+  font-size: .78em;
+  font-weight: 700;
+  vertical-align: middle;
+}
+.priority-badge--alta { background: rgba(248, 113, 113, .22); color: #fca5a5; }
+.priority-badge--media { background: rgba(251, 191, 36, .18); color: #fde68a; }
+.priority-badge--baja  { background: rgba(110, 231, 183, .15); color: #6ee7b7; }
+
+/* --- Responsive: collapsible sidebar en móvil ya existe en mdBook,
+      pero los cards de juego deben comprimirse mejor --- */
+@media (max-width: 600px) {
+  .compact-game-card {
+    padding: .6rem;
+  }
+
+  .compact-game-card__cover img {
+    aspect-ratio: 16 / 7;
+  }
+
+  .game-detail__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .game-detail__panel--wide {
+    grid-column: 1;
+  }
+
+  .game-tile-title {
+    font-size: .85rem;
+  }
+}
+
+/* --- Print: ocultar navegación, mostrar solo contenido --- */
+@media print {
+  .sidebar, .nav-chapters, .nav-wrapper, .menu-bar { display: none !important; }
+  .page-wrapper { margin: 0; }
+  .content { max-width: 100%; }
+  .game-detail__hero { grid-template-columns: 1fr; }
+  .steam-actions { display: none; }
+}
+
+
+.game-detail__note {
+  border: 1px solid var(--theme-popup-border, #334155);
+  border-radius: 0.75rem;
+  padding: 0.75rem 1rem;
+  margin: 0.75rem 0;
+  background: rgba(148, 163, 184, 0.08);
+}
+
+.game-detail__note ul {
+  margin: 0.5rem 0 0 1.25rem;
+}
+
+/* V6.6.6 — DLC catalog table with manual ownership checkboxes */
+.game-detail__dlc-table th:first-child,
+.game-detail__dlc-table td:first-child {
+  width: 8rem;
+  white-space: nowrap;
+}
+
+.game-detail__dlc-checkbox {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  font-weight: 700;
+  opacity: .9;
+}
+
+.game-detail__dlc-checkbox input[type="checkbox"] {
+  width: 1rem;
+  height: 1rem;
+  margin: 0;
+  accent-color: #4f8cff;
+}
+
+.game-detail__dlc-checkbox input[type="checkbox"]:disabled {
+  cursor: default;
+  opacity: .85;
+}
+
+.game-detail__dlc-subline {
+  margin-top: .15rem;
+  font-size: .82em;
+  opacity: .72;
+}
+
+.game-detail__dlc-muted {
+  margin-left: .45rem;
+  opacity: .78;
+}
+
+.game-detail__dlc-badge {
+  display: inline-block;
+  margin-left: .45rem;
+  padding: .05rem .38rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  font-size: .78em;
+  opacity: .85;
+}

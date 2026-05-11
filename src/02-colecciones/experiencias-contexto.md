@@ -10,4 +10,4 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 - [💎 Grind / Loot / Progreso · 11 juegos · ✅](experiencias/05-grind-loot-progreso-11-juegos.md)
 - [🌐 Internet Persistente · 59 juegos · ✅](experiencias/04-internet-persistente-59-juegos.md)
 - [📖 Narrativos / Experiencia · 34 juegos · ✅](experiencias/07-narrativos-experiencia-34-juegos.md)
-- [🥽 VR · 16 juegos · ✅](experiencias/06-vr-16-juegos.md)
+- [🥽 VR · 17 juegos · ✅](experiencias/06-vr-17-juegos.md)

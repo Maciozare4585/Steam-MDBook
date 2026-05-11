@@ -1,6 +1,6 @@
 # Juegos — S
 
-> Página alfabética compacta. Contiene **103** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **104** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -2059,6 +2059,27 @@
   <a class="steam-action steam-play" href="steam://run/2670630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2670630" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2670630" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2709570" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2709570">
+    <img src="../../assets/games/2709570/steam-header.jpg" alt="Supermarket Together" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2709570">🎮 Supermarket Together</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2709570</code></span>
+      <span><strong>Oficial:</strong> Supermarket Together</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2709570">
+  <a class="steam-action steam-play" href="steam://run/2709570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2709570" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2709570" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

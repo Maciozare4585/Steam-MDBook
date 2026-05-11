@@ -570,6 +570,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Blue Protocol: Star Resonance",
+    "slug": "blue-protocol-star-resonance",
+    "steamAppId": 3681810,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Bob Esponja: The Cosmic Shake",
     "slug": "bob-esponja-the-cosmic-shake",
     "steamAppId": 1282150,
@@ -1212,6 +1218,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Desktop Mate",
+    "slug": "desktop-mate",
+    "steamAppId": 3301060,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Destiny 2",
     "slug": "destiny-2",
     "steamAppId": 1085660,
@@ -1632,6 +1644,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Exploding Kittens® 2",
+    "slug": "exploding-kittens-2",
+    "steamAppId": 2999030,
+    "priority": "registry-approved"
+  },
+  {
     "title": "F.E.A.R.",
     "slug": "f-e-a-r",
     "steamAppId": 21090,
@@ -1779,6 +1797,12 @@
     "title": "Find 100 Ducks and Blast Them!",
     "slug": "find-100-ducks-and-blast-them",
     "steamAppId": 3222970,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "slug": "five-nights-at-freddy-s-help-wanted",
+    "steamAppId": 732690,
     "priority": "registry-approved"
   },
   {
@@ -4788,6 +4812,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Supermarket Together",
+    "slug": "supermarket-together",
+    "steamAppId": 2709570,
+    "priority": "registry-approved"
+  },
+  {
     "title": "SUR5",
     "slug": "sur5",
     "steamAppId": 2159120,
@@ -5295,6 +5325,12 @@
     "title": "Trailmakers",
     "slug": "trailmakers",
     "steamAppId": 585420,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Transformice",
+    "slug": "transformice",
+    "steamAppId": 335240,
     "priority": "registry-approved"
   },
   {

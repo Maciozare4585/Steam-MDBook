@@ -1,5 +1,6 @@
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
+    [string]$MetadataPath = ".\data\games-metadata.json",
     [string]$OutDir = ".\src\07-juegos",
     [string]$DataOutDir = ".\src\assets\data",
     [switch]$IncludeIndividualPages
@@ -9,6 +10,18 @@ param(
 
 $registry = @(Load-JsonFile $RegistryPath @()) | Where-Object { $_.steamAppId }
 $registry = @($registry | Sort-Object title)
+
+$metadataById = @{}
+if (Test-Path $MetadataPath) {
+    $metadataFile = Load-JsonFile $MetadataPath ([pscustomobject]@{ games = @() })
+    foreach ($m in @($metadataFile.games)) {
+        if ($m.steamAppId) { $metadataById[[int]$m.steamAppId] = $m }
+    }
+    Write-Step "Metadata extendida detectada para $($metadataById.Count) juegos."
+}
+else {
+    Write-Warn "No se encontró $MetadataPath. Se generará games-index.json con metadata mínima de registry."
+}
 
 if (-not (Test-Path $OutDir)) { New-Item -ItemType Directory -Path $OutDir -Force | Out-Null }
 if (-not (Test-Path $DataOutDir)) { New-Item -ItemType Directory -Path $DataOutDir -Force | Out-Null }
@@ -76,8 +89,31 @@ function New-GameIndexEntry {
     param($Game)
 
     $appid = [int]$Game.steamAppId
-    $metadata = @{}
-    if ($Game.metadata) { $metadata = $Game.metadata }
+    $extended = $null
+    if ($metadataById.ContainsKey($appid)) { $extended = $metadataById[$appid] }
+
+    $steamMetadata = @{}
+    if ($extended -and $extended.steamMetadata) { $steamMetadata = $extended.steamMetadata }
+    elseif ($Game.metadata) { $steamMetadata = $Game.metadata }
+
+    $images = $Game.images
+    $steamHeader = if ($images -and $images.steamHeader) { [string]$images.steamHeader } else { "src/assets/games/$appid/steam-header.jpg" }
+    $steamCapsule = if ($images -and $images.steamCapsule) { [string]$images.steamCapsule } else { "src/assets/games/$appid/steam-capsule.jpg" }
+    $steamBackground = if ($images -and $images.steamBackground) { [string]$images.steamBackground } else { "src/assets/games/$appid/steam-background.jpg" }
+    $sgdbHero = if ($images) { [string]$images.sgdbHero } else { "" }
+    $sgdbGrid = if ($images) { [string]$images.sgdbGrid } else { "" }
+    $sgdbLogo = if ($images) { [string]$images.sgdbLogo } else { "" }
+    $sgdbIcon = if ($images) { [string]$images.sgdbIcon } else { "" }
+
+    $playModes = if ($extended) { $extended.playModes } else { $null }
+    $steamFeatures = if ($extended) { $extended.steamFeatures } else { $null }
+    $dlcInfo = if ($extended) { $extended.dlcInfo } else { $null }
+    $playerState = if ($extended) { $extended.playerState } else { $null }
+    $recommendationMetadata = if ($extended) { $extended.recommendationMetadata } else { $null }
+    $profileMetadata = if ($extended) { $extended.profileMetadata } else { $null }
+    $libraryPlacement = if ($extended) { $extended.libraryPlacement } else { $null }
+    $platforms = if ($extended) { $extended.platforms } else { $null }
+    $dataQuality = if ($extended) { $extended.dataQuality } else { $null }
 
     return [pscustomobject]@{
         title = [string]$Game.title
@@ -92,15 +128,25 @@ function New-GameIndexEntry {
         playUrl = "steam://run/$appid"
         installUrl = "steam://install/$appid"
         assets = [pscustomobject]@{
-            steamHeader = "src/assets/games/$appid/steam-header.jpg"
-            steamCapsule = "src/assets/games/$appid/steam-capsule.jpg"
-            steamBackground = "src/assets/games/$appid/steam-background.jpg"
-            sgdbHero = [string]$Game.images.sgdbHero
-            sgdbGrid = [string]$Game.images.sgdbGrid
-            sgdbLogo = [string]$Game.images.sgdbLogo
-            sgdbIcon = [string]$Game.images.sgdbIcon
+            steamHeader = $steamHeader
+            steamCapsule = $steamCapsule
+            steamBackground = $steamBackground
+            sgdbHero = $sgdbHero
+            sgdbGrid = $sgdbGrid
+            sgdbLogo = $sgdbLogo
+            sgdbIcon = $sgdbIcon
         }
-        metadata = $metadata
+        metadata = $steamMetadata
+        steamMetadata = $steamMetadata
+        playModes = $playModes
+        steamFeatures = $steamFeatures
+        dlcInfo = $dlcInfo
+        playerState = $playerState
+        recommendationMetadata = $recommendationMetadata
+        profileMetadata = $profileMetadata
+        libraryPlacement = $libraryPlacement
+        platforms = $platforms
+        dataQuality = $dataQuality
     }
 }
 

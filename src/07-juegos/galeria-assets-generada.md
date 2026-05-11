@@ -2,7 +2,7 @@
 
 > Página generada desde `data/steam-games-registry.json`.
 
-Total de juegos con metadata: **960**.
+Total de juegos con metadata: **966**.
 
 Esta página es una galería técnica/global. No pertenece a ningún perfil personal. Para navegar con contexto, usa las colecciones; para ver metadatos, haz click en una tarjeta.
 
@@ -481,6 +481,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/3557620/steam-header.jpg" alt="Blue Archive" loading="lazy" />
   <span>Blue Archive</span>
   <small>3557620 · steam</small>
+</a>
+<a class="assets-gallery-card" href="por-letra/b.html#game-meta-3681810" title="Blue Protocol: Star Resonance">
+  <img src="../assets/games/3681810/steam-header.jpg" alt="Blue Protocol: Star Resonance" loading="lazy" />
+  <span>Blue Protocol: Star Resonance</span>
+  <small>3681810 · steam</small>
 </a>
 <a class="assets-gallery-card" href="por-letra/b.html#game-meta-1282150" title="Bob Esponja: The Cosmic Shake">
   <img src="../assets/games/1282150/steam-header.jpg" alt="Bob Esponja: The Cosmic Shake" loading="lazy" />
@@ -1017,6 +1022,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Depths Of Horror: Mushroom Day</span>
   <small>1590840 · steam</small>
 </a>
+<a class="assets-gallery-card" href="por-letra/d.html#game-meta-3301060" title="Desktop Mate">
+  <img src="../assets/games/3301060/steam-header.jpg" alt="Desktop Mate" loading="lazy" />
+  <span>Desktop Mate</span>
+  <small>3301060 · steam</small>
+</a>
 <a class="assets-gallery-card" href="por-letra/d.html#game-meta-1085660" title="Destiny 2">
   <img src="../assets/games/1085660/steam-header.jpg" alt="Destiny 2" loading="lazy" />
   <span>Destiny 2</span>
@@ -1367,6 +1377,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Explodemon</span>
   <small>281820 · steam</small>
 </a>
+<a class="assets-gallery-card" href="por-letra/e.html#game-meta-2999030" title="Exploding Kittens&#174; 2">
+  <img src="../assets/games/2999030/steam-header.jpg" alt="Exploding Kittens&#174; 2" loading="lazy" />
+  <span>Exploding Kittens&#174; 2</span>
+  <small>2999030 · steam</small>
+</a>
 <a class="assets-gallery-card" href="por-letra/f.html#game-meta-21090" title="F.E.A.R.">
   <img src="../assets/games/21090/steam-header.jpg" alt="F.E.A.R." loading="lazy" />
   <span>F.E.A.R.</span>
@@ -1491,6 +1506,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/3222970/steam-header.jpg" alt="Find 100 Ducks and Blast Them!" loading="lazy" />
   <span>Find 100 Ducks and Blast Them!</span>
   <small>3222970 · steam</small>
+</a>
+<a class="assets-gallery-card" href="por-letra/f.html#game-meta-732690" title="FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED">
+  <img src="../assets/games/732690/steam-header.jpg" alt="FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED" loading="lazy" />
+  <span>FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED</span>
+  <small>732690 · steam</small>
 </a>
 <a class="assets-gallery-card" href="por-letra/f.html#game-meta-1799370" title="Flash Party">
   <img src="../assets/games/1799370/steam-header.jpg" alt="Flash Party" loading="lazy" />
@@ -3997,6 +4017,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Supermarket Simulator</span>
   <small>2670630 · steam</small>
 </a>
+<a class="assets-gallery-card" href="por-letra/s.html#game-meta-2709570" title="Supermarket Together">
+  <img src="../assets/games/2709570/steam-header.jpg" alt="Supermarket Together" loading="lazy" />
+  <span>Supermarket Together</span>
+  <small>2709570 · steam</small>
+</a>
 <a class="assets-gallery-card" href="por-letra/s.html#game-meta-2159120" title="SUR5">
   <img src="../assets/games/2159120/steam-header.jpg" alt="SUR5" loading="lazy" />
   <span>SUR5</span>
@@ -4421,6 +4446,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/585420/steam-header.jpg" alt="Trailmakers" loading="lazy" />
   <span>Trailmakers</span>
   <small>585420 · steam</small>
+</a>
+<a class="assets-gallery-card" href="por-letra/t.html#game-meta-335240" title="Transformice">
+  <img src="../assets/games/335240/steam-header.jpg" alt="Transformice" loading="lazy" />
+  <span>Transformice</span>
+  <small>335240 · steam</small>
 </a>
 <a class="assets-gallery-card" href="por-letra/t.html#game-meta-1969130" title="Trash Patrol - Academic Version">
   <img src="../assets/games/1969130/steam-header.jpg" alt="Trash Patrol - Academic Version" loading="lazy" />
