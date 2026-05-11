@@ -199,7 +199,6 @@
     - [V6.6.0 Metadata base](06-mantenimiento/v6-6-0-metadata-base.md)
 
 - [VII. Juegos / Metadatos](07-juegos/index.md)
-  - [Índice alfabético](07-juegos/index.md)
   - [Detalle dinámico de juego](07-juegos/detalle.md)
   - [Juegos — 0-9](07-juegos/por-letra/0-9.md)
   - [Juegos — A](07-juegos/por-letra/a.md)
