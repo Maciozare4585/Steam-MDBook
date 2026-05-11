@@ -1,0 +1,6295 @@
+{
+  "version": "6.6.6",
+  "generatedAt": "2026-05-11T18:08:59Z",
+  "processed": 966,
+  "updated": 962,
+  "withoutDlc": 473,
+  "failed": 4,
+  "items": [
+    {
+      "steamAppId": 454320,
+      "title": "[the Sequence]",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 435790,
+      "title": "10 Second Ninja X",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2782380,
+      "title": "100 Cats New York",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2776810,
+      "title": "100 Ninja Cats",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 282800,
+      "title": "100% Orange Juice",
+      "status": "dlc-found",
+      "dlcCount": 43,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 793460,
+      "title": "112 Operator",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 322110,
+      "title": "20XX",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2466890,
+      "title": "3D PUZZLE - Medieval Inn",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1349230,
+      "title": "5D Chess With Multiverse Time Travel",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 251570,
+      "title": "7 Days to Die",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2835590,
+      "title": "8AM",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 503560,
+      "title": "911 Operator",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 503820,
+      "title": "A Detective's Novel",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1182900,
+      "title": "A Plague Tale: Requiem",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 278360,
+      "title": "A Story About My Uncle",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1222700,
+      "title": "A Way Out",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 728240,
+      "title": "Adventure Time: Pirates of the Enchiridion",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 429790,
+      "title": "AdventureQuest 3D",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 371140,
+      "title": "Aegis Defenders",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3277530,
+      "title": "Aeonic",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3741350,
+      "title": "Aesop Rock's Black Hole Superette Experience",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 221380,
+      "title": "Age of Empires II (2013)",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 813780,
+      "title": "Age of Empires II: Definitive Edition",
+      "status": "dlc-found",
+      "dlcCount": 15,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 105450,
+      "title": "Age of Empires III (2007)",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 266840,
+      "title": "Age of Mythology: Extended Edition",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 226840,
+      "title": "Age of Wonders III",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 761890,
+      "title": "Albion Online",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 19680,
+      "title": "Alice: Madness Returns",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 563560,
+      "title": "Alien Swarm: Reactive Drop",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 214490,
+      "title": "Alien: Isolation",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 34010,
+      "title": "Alpha Protocol",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 239200,
+      "title": "Amnesia: A Machine for Pigs",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 57300,
+      "title": "Amnesia: The Dark Descent",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 945360,
+      "title": "Among Us",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3544080,
+      "title": "Analog - Skin off",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1368030,
+      "title": "ANNO: Mutationem",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1887840,
+      "title": "Another Crab’s Treasure",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1399720,
+      "title": "Antimatter Dimensions",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1172470,
+      "title": "Apex Legends",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 346110,
+      "title": "ARK: Survival Evolved",
+      "status": "dlc-found",
+      "dlcCount": 18,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 407530,
+      "title": "ARK: Survival Of The Fittest",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 65790,
+      "title": "Arma: Cold War Assault",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 4081740,
+      "title": "Around - The Game",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 507490,
+      "title": "Ashes of the Singularity: Escalation",
+      "status": "dlc-found",
+      "dlcCount": 13,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 15100,
+      "title": "Assassin’s Creed",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 48190,
+      "title": "Assassin’s Creed Brotherhood",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 33230,
+      "title": "Assassin’s Creed II",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 201870,
+      "title": "Assassin’s Creed Revelations",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 289650,
+      "title": "Assassin’s Creed Unity",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 244210,
+      "title": "Assetto Corsa",
+      "status": "dlc-found",
+      "dlcCount": 11,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 361420,
+      "title": "ASTRONEER",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 668580,
+      "title": "Atomic Heart",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 12900,
+      "title": "Audiosurf",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2877220,
+      "title": "Auto Sale Life: Fresh Start",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 348510,
+      "title": "Autobahn Police Simulator",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1640320,
+      "title": "B.I.O.T.A.",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 736260,
+      "title": "Baba Is You",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 924970,
+      "title": "Back 4 Blood",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2379780,
+      "title": "Balatro",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1086940,
+      "title": "Baldur's Gate 3",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 371970,
+      "title": "Barony",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 618140,
+      "title": "Barro",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 35140,
+      "title": "Batman: Arkham Asylum GOTY Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 200260,
+      "title": "Batman: Arkham City GOTY",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 208650,
+      "title": "Batman: Arkham Knight",
+      "status": "dlc-found",
+      "dlcCount": 24,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 209000,
+      "title": "Batman: Arkham Origins",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 502820,
+      "title": "Batman: Arkham VR",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 599390,
+      "title": "Battle for Wesnoth",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2623090,
+      "title": "Battle Simulator: Counter Stickman",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 238460,
+      "title": "BattleBlock Theater",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1238840,
+      "title": "Battlefield 1",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2807960,
+      "title": "Battlefield 6",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1238810,
+      "title": "Battlefield V",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 24960,
+      "title": "Battlefield: Bad Company 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 460790,
+      "title": "Bayonetta",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3560160,
+      "title": "Bearly Awesome",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 764570,
+      "title": "Beavers Be Dammed",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 475550,
+      "title": "Beholder",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 250680,
+      "title": "BELOW",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1158500,
+      "title": "Between Two Castles - Digital Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 960990,
+      "title": "Beyond: Two Souls",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3180310,
+      "title": "Billies Wheelie",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 7670,
+      "title": "BioShock",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 8850,
+      "title": "BioShock 2",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 409720,
+      "title": "BioShock 2 Remastered",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 8870,
+      "title": "BioShock Infinite",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 409710,
+      "title": "BioShock Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3454650,
+      "title": "BitCraft Online",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 582660,
+      "title": "Black Desert",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 362890,
+      "title": "Black Mesa",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 774361,
+      "title": "Blasphemous",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2114740,
+      "title": "Blasphemous 2",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 649190,
+      "title": "Blast Zone! Tournament",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 960090,
+      "title": "Bloons TD 6",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3557620,
+      "title": "Blue Archive",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3681810,
+      "title": "Blue Protocol: Star Resonance",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1282150,
+      "title": "Bob Esponja: The Cosmic Shake",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 49520,
+      "title": "Borderlands 2",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 991260,
+      "title": "Borderlands 2 VR",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 397540,
+      "title": "Borderlands 3",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 8980,
+      "title": "Borderlands GOTY",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 729040,
+      "title": "Borderlands GOTY Enhanced",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 261640,
+      "title": "Borderlands: The Pre-Sequel",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 285800,
+      "title": "Braveland",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 291550,
+      "title": "Brawlhalla",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1607680,
+      "title": "Bread & Fred",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 274190,
+      "title": "Broforce",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 4422650,
+      "title": "Broken Voyage",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3617560,
+      "title": "Buck Trucker in Rowdy Business",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2835570,
+      "title": "Buckshot Roulette",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1238080,
+      "title": "Burnout Paradise Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 399810,
+      "title": "Call of Cthulhu",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 311210,
+      "title": "Call of Duty: Black Ops III",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 204450,
+      "title": "Call of Juarez Gunslinger",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1515950,
+      "title": "Capcom Arcade Stadium",
+      "status": "dlc-found",
+      "dlcCount": 43,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3115010,
+      "title": "Car Dealer Simulator: Prologue",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 953490,
+      "title": "CARRION",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3032020,
+      "title": "Cast & Spell",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3483740,
+      "title": "Cast n Chill",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 204360,
+      "title": "Castle Crashers",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2431320,
+      "title": "Cat-aclysm",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3017800,
+      "title": "Catacombs",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 544730,
+      "title": "Catan Universe",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1999520,
+      "title": "CATO: Buttered Cat",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2143030,
+      "title": "Cave Crawlers",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 504230,
+      "title": "Celeste",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 977400,
+      "title": "Cell to Singularity - Evolution Never Ends",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2943780,
+      "title": "Chamber Survival",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3329730,
+      "title": "Chef Strikes Back",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 256290,
+      "title": "Child of Light",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 330020,
+      "title": "Children of Morta",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1749630,
+      "title": "Chill Corner",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 292570,
+      "title": "Chompy Chomp Chomp",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 251130,
+      "title": "Chroma Squad",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 255710,
+      "title": "Cities: Skylines",
+      "status": "dlc-found",
+      "dlcCount": 76,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 8930,
+      "title": "Civilization V",
+      "status": "dlc-found",
+      "dlcCount": 15,
+      "ownedCount": 15
+    },
+    {
+      "steamAppId": 289070,
+      "title": "Civilization VI",
+      "status": "dlc-found",
+      "dlcCount": 10,
+      "ownedCount": 10
+    },
+    {
+      "steamAppId": 1903340,
+      "title": "Clair Obscur: Expedition 33",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 228200,
+      "title": "Company of Heroes",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 4560,
+      "title": "Company of Heroes - Legacy Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 231430,
+      "title": "Company of Heroes 2",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 870780,
+      "title": "Control Ultimate Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1621690,
+      "title": "Core Keeper",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 10,
+      "title": "Counter-Strike",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 730,
+      "title": "Counter-Strike 2",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 80,
+      "title": "Counter-Strike: Condition Zero",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 100,
+      "title": "Counter-Strike: Condition Zero Deleted Scenes",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 240,
+      "title": "Counter-Strike: Source",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 595440,
+      "title": "CPU Invaders",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 731490,
+      "title": "Crash Bandicoot N. Sane Trilogy",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3405100,
+      "title": "Crashed",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 391730,
+      "title": "Crashlands",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2070880,
+      "title": "Creative Console",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 386180,
+      "title": "Crossout",
+      "status": "dlc-found",
+      "dlcCount": 41,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1269500,
+      "title": "Crowalt: Traces of the Lost Colony",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 527710,
+      "title": "Crown Champion: Legends of the Arena",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 247080,
+      "title": "Crypt of the NecroDancer",
+      "status": "dlc-found",
+      "dlcCount": 14,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2096600,
+      "title": "Crysis 2 Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2096610,
+      "title": "Crysis 3 Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1715130,
+      "title": "Crysis Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1313140,
+      "title": "Cult of the Lamb",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 268910,
+      "title": "Cuphead",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 1
+    },
+    {
+      "steamAppId": 928840,
+      "title": "Cybarian: The Time Travelling Warrior",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1091500,
+      "title": "Cyberpunk 2077",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2635670,
+      "title": "Cycle Idle RPG",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2502650,
+      "title": "Daisho: Survival of a Samurai",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2016590,
+      "title": "Dark and Darker",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 962810,
+      "title": "Dark Roll",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 570940,
+      "title": "DARK SOULS REMASTERED",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 262060,
+      "title": "Darkest Dungeon",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 490860,
+      "title": "DashBored",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1868140,
+      "title": "DAVE THE DIVER",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 5
+    },
+    {
+      "steamAppId": 30,
+      "title": "Day of Defeat",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 300,
+      "title": "Day of Defeat: Source",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1259420,
+      "title": "Days Gone",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3404260,
+      "title": "Dead as Disco",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 588650,
+      "title": "Dead Cells",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 934700,
+      "title": "Dead Island 2",
+      "status": "dlc-found",
+      "dlcCount": 14,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 383150,
+      "title": "Dead Island Definitive Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 383180,
+      "title": "Dead Island Riptide Definitive Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 222900,
+      "title": "Dead Island: Epidemic",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 45740,
+      "title": "Dead Rising 2",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 45770,
+      "title": "Dead Rising 2: Off the Record",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 265550,
+      "title": "Dead Rising 3",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 543460,
+      "title": "Dead Rising 4",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2527390,
+      "title": "Dead Rising Deluxe Remaster",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1693980,
+      "title": "Dead Space",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 47780,
+      "title": "Dead Space 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1238060,
+      "title": "Dead Space 3",
+      "status": "dlc-found",
+      "dlcCount": 12,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1422450,
+      "title": "Deadlock",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1131080,
+      "title": "Deadswitch 3",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 897630,
+      "title": "Death Fungeon",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 252610,
+      "title": "Death Road to Canada",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 40,
+      "title": "Deathmatch Classic",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 548430,
+      "title": "Deep Rock Galactic",
+      "status": "dlc-found",
+      "dlcCount": 14,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3384270,
+      "title": "Deep Siege",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 760620,
+      "title": "Deiland",
+      "status": "no-store-data",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3785590,
+      "title": "Delfini",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2507950,
+      "title": "Delta Force",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1671210,
+      "title": "DELTARUNE",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 470740,
+      "title": "Demolish & Build 2017",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 214340,
+      "title": "Deponia",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1590840,
+      "title": "Depths Of Horror: Mushroom Day",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3301060,
+      "title": "Desktop Mate",
+      "status": "dlc-found",
+      "dlcCount": 33,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1085660,
+      "title": "Destiny 2",
+      "status": "dlc-found",
+      "dlcCount": 16,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1222140,
+      "title": "Detroit: Become Human",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 238010,
+      "title": "Deus Ex: Human Revolution - Director's Cut",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 337000,
+      "title": "Deus Ex: Mankind Divided",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 329050,
+      "title": "Devil May Cry 4 Special Edition",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 601150,
+      "title": "Devil May Cry 5",
+      "status": "dlc-found",
+      "dlcCount": 32,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 631510,
+      "title": "Devil May Cry HD Collection",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3679440,
+      "title": "Dichotomy Illusion: The Coser Disassembly Incident",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 70000,
+      "title": "Dino D-Day",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 310560,
+      "title": "DiRT Rally",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 632470,
+      "title": "Disco Elysium",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 205100,
+      "title": "Dishonored",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 403640,
+      "title": "Dishonored 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 614570,
+      "title": "Dishonored: Death of the Outsider",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 245300,
+      "title": "Disney Epic Mickey 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 331970,
+      "title": "Disney's Treasure Planet: Battle of Procyon",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1911980,
+      "title": "Dissonance",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 729460,
+      "title": "Distant Space 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 395170,
+      "title": "DISTRAINT: Deluxe Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 252130,
+      "title": "Divide by Sheep",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 220440,
+      "title": "DmC Devil May Cry",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 658850,
+      "title": "Do Not Feed the Monkeys",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1637320,
+      "title": "Dome Keeper",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 219740,
+      "title": "Don’t Starve",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 322330,
+      "title": "Don’t Starve Together",
+      "status": "dlc-found",
+      "dlcCount": 49,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 379720,
+      "title": "DOOM",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2280,
+      "title": "DOOM + DOOM II",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 208200,
+      "title": "DOOM 3",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 9070,
+      "title": "DOOM 3: Resurrection of Evil",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 782330,
+      "title": "DOOM Eternal",
+      "status": "dlc-found",
+      "dlcCount": 13,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 650000,
+      "title": "DOOM VFR",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3017860,
+      "title": "DOOM: The Dark Ages",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2512840,
+      "title": "DoronkoWanko",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3393620,
+      "title": "Double Shoulders",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3399980,
+      "title": "Down the Rabbit Hole Flattened",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1077340,
+      "title": "Downtown Drift",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 360740,
+      "title": "Downwell",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1222690,
+      "title": "Dragon Age: Inquisition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 678950,
+      "title": "DRAGON BALL FighterZ",
+      "status": "dlc-found",
+      "dlcCount": 30,
+      "ownedCount": 30
+    },
+    {
+      "steamAppId": 454650,
+      "title": "DRAGON BALL XENOVERSE 2",
+      "status": "dlc-found",
+      "dlcCount": 30,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 851850,
+      "title": "DRAGON BALL Z: KAKAROT",
+      "status": "dlc-found",
+      "dlcCount": 13,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1790600,
+      "title": "DRAGON BALL: Sparking! ZERO",
+      "status": "dlc-found",
+      "dlcCount": 11,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 418270,
+      "title": "Draw Slasher",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 442070,
+      "title": "Drawful 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1562430,
+      "title": "DREDGE",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 682990,
+      "title": "Drug Dealer Simulator",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 312530,
+      "title": "Duck Game",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2448970,
+      "title": "Dungeonborne",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 239140,
+      "title": "Dying Light",
+      "status": "dlc-found",
+      "dlcCount": 38,
+      "ownedCount": 38
+    },
+    {
+      "steamAppId": 534380,
+      "title": "Dying Light 2: Reloaded Edition",
+      "status": "dlc-found",
+      "dlcCount": 14,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3293010,
+      "title": "Easy Delivery Co.",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3302080,
+      "title": "Effulgence RPG",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1627570,
+      "title": "El Escudero Valiente",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1245620,
+      "title": "ELDEN RING",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 2
+    },
+    {
+      "steamAppId": 3642030,
+      "title": "Elysium Elect",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 311690,
+      "title": "Enter the Gungeon",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 822540,
+      "title": "Escape From Tethys",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1943950,
+      "title": "Escape the Backrooms",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 981600,
+      "title": "Eternium",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2084970,
+      "title": "Etheria: Restart",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1868180,
+      "title": "Etrian Odyssey HD",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1868170,
+      "title": "Etrian Odyssey II HD",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1810820,
+      "title": "Etrian Odyssey III HD",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 227300,
+      "title": "Euro Truck Simulator 2",
+      "status": "dlc-found",
+      "dlcCount": 107,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 8500,
+      "title": "EVE Online",
+      "status": "dlc-found",
+      "dlcCount": 22,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1065310,
+      "title": "Evil West",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 359310,
+      "title": "Evoland 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1020470,
+      "title": "Evoland Legendary Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2694210,
+      "title": "Exiled Survivors",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 281820,
+      "title": "Explodemon",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2999030,
+      "title": "Exploding Kittens® 2",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 21090,
+      "title": "F.E.A.R.",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 16450,
+      "title": "F.E.A.R. 2: Project Origin",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 21100,
+      "title": "F.E.A.R. 3",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 21110,
+      "title": "F.E.A.R.: Extraction Point",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 21120,
+      "title": "F.E.A.R.: Perseus Mandate",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 286570,
+      "title": "F1 2015",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 38400,
+      "title": "Fallout",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 38410,
+      "title": "Fallout 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 22370,
+      "title": "Fallout 3 - Game of the Year Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 377160,
+      "title": "Fallout 4",
+      "status": "dlc-found",
+      "dlcCount": 10,
+      "ownedCount": 10
+    },
+    {
+      "steamAppId": 1151340,
+      "title": "Fallout 76",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 588430,
+      "title": "Fallout Shelter",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 22380,
+      "title": "Fallout: New Vegas",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 7
+    },
+    {
+      "steamAppId": 220240,
+      "title": "Far Cry 3",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 246840,
+      "title": "FATE",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 303690,
+      "title": "FATE: The Cursed King",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 303680,
+      "title": "FATE: The Traitor Soul",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 276890,
+      "title": "FATE: Undiscovered Realms",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 538100,
+      "title": "Feel The Snow",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 674520,
+      "title": "Fight'N Rage",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3837340,
+      "title": "FINAL FANTASY VII",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 39140,
+      "title": "FINAL FANTASY VII (2013)",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2909400,
+      "title": "FINAL FANTASY VII REBIRTH",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1462040,
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3222970,
+      "title": "Find 100 Ducks and Blast Them!",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 732690,
+      "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1799370,
+      "title": "Flash Party",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1314460,
+      "title": "Flicker of Hope",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 304390,
+      "title": "FOR HONOR",
+      "status": "dlc-found",
+      "dlcCount": 47,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 751780,
+      "title": "Forager",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1293830,
+      "title": "Forza Horizon 4",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2021910,
+      "title": "FPS Chess",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2943650,
+      "title": "FragPunk",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 239820,
+      "title": "Game Dev Tycoon",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 285900,
+      "title": "Gang Beasts",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 362930,
+      "title": "Garfield Kart",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1990740,
+      "title": "Garro GT",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 4000,
+      "title": "Garry's Mod",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 322170,
+      "title": "Geometry Dash",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 251870,
+      "title": "Go! Go! Nippon! ~My First Trip to Japan~",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 555000,
+      "title": "GOAT OF DUTY",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 4103660,
+      "title": "Gobotix: Duo",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1593500,
+      "title": "God of War",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2322010,
+      "title": "God of War Ragnarök",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3244650,
+      "title": "Goddess Of Swing",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1245430,
+      "title": "Golden Light",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 431240,
+      "title": "Golf With Your Friends",
+      "status": "dlc-found",
+      "dlcCount": 18,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1496790,
+      "title": "Gotham Knights",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 436150,
+      "title": "Governor of Poker 3",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 12100,
+      "title": "Grand Theft Auto III",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 12110,
+      "title": "Grand Theft Auto: Vice City",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2239140,
+      "title": "Grapples Galore",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 599140,
+      "title": "Graveyard Keeper",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 877150,
+      "title": "Gravity Wars",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 815370,
+      "title": "Green Hell",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2387110,
+      "title": "Green Reaper",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1570960,
+      "title": "Grey Instinct - Part 1",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 44350,
+      "title": "GRID 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1538850,
+      "title": "Grotto",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 12120,
+      "title": "GTA San Andreas",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3240220,
+      "title": "GTA5_Enhanced",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3034980,
+      "title": "GTR - Garage Town Racing",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 214770,
+      "title": "Guacamelee!",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1284210,
+      "title": "Guild Wars 2",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1384160,
+      "title": "GUILTY GEAR -STRIVE-",
+      "status": "dlc-found",
+      "dlcCount": 40,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 608800,
+      "title": "Guns of Icarus Alliance",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 209080,
+      "title": "Guns of Icarus Online",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1284410,
+      "title": "GWENT: The Witcher Card Game",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1145360,
+      "title": "Hades",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 755800,
+      "title": "Hades' Star",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 70,
+      "title": "Half-Life",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 220,
+      "title": "Half-Life 2",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 320,
+      "title": "Half-Life 2: Deathmatch",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 380,
+      "title": "Half-Life 2: Episode One",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 420,
+      "title": "Half-Life 2: Episode Two",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 340,
+      "title": "Half-Life 2: Lost Coast",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 360,
+      "title": "Half-Life Deathmatch: Source",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 546560,
+      "title": "Half-Life: Alyx",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 130,
+      "title": "Half-Life: Blue Shift",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 50,
+      "title": "Half-Life: Opposing Force",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 280,
+      "title": "Half-Life: Source",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1240440,
+      "title": "Halo Infinite",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 459220,
+      "title": "Halo Wars: Definitive Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 277430,
+      "title": "Halo: Spartan Assault",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 324570,
+      "title": "Halo: Spartan Strike",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 976730,
+      "title": "Halo: The Master Chief Collection",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 6
+    },
+    {
+      "steamAppId": 1851380,
+      "title": "Happy's Humble Burger Barn",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2914740,
+      "title": "Haus Of Irndrous",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1740720,
+      "title": "Have a Nice Death",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 983970,
+      "title": "Haven",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2824490,
+      "title": "He is Coming",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 797410,
+      "title": "Headsnatchers",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 4025700,
+      "title": "Heartopia",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 360970,
+      "title": "Heaven Forest NIGHTS",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 400250,
+      "title": "Heaven Island - VR MMO",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 960910,
+      "title": "Heavy Rain",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 681330,
+      "title": "Helium Rain",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 414340,
+      "title": "Hellblade: Senua’s Sacrifice",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 747350,
+      "title": "Hellblade: Senua's Sacrifice VR Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 394510,
+      "title": "HELLDIVERS",
+      "status": "dlc-found",
+      "dlcCount": 14,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 553850,
+      "title": "HELLDIVERS 2",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1608450,
+      "title": "Hellslave",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 269210,
+      "title": "Hero Siege",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 976890,
+      "title": "Hidden Deep",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1583230,
+      "title": "High On Life",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 236870,
+      "title": "HITMAN",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 863550,
+      "title": "HITMAN 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1659040,
+      "title": "HITMAN World of Assassination",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 990080,
+      "title": "Hogwarts Legacy",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 367520,
+      "title": "Hollow Knight",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1030300,
+      "title": "Hollow Knight: Silksong",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2420510,
+      "title": "HoloCure - Save the Fans!",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 55100,
+      "title": "Homefront",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1151640,
+      "title": "Horizon Zero Dawn Complete Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2561580,
+      "title": "Horizon Zero Dawn Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 219150,
+      "title": "Hotline Miami",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 274170,
+      "title": "Hotline Miami 2: Wrong Number",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 613100,
+      "title": "House Flipper",
+      "status": "dlc-found",
+      "dlcCount": 10,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2777190,
+      "title": "Hoversteppers: Zone 1",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 383270,
+      "title": "Hue",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 598550,
+      "title": "Huntdown",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 826600,
+      "title": "I’m not a Monster",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1353300,
+      "title": "Idle Slayer - Incremental RPG",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2504480,
+      "title": "Indigo Park",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 666570,
+      "title": "Infectonator 3: Apocalypse",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 269310,
+      "title": "Infectonator: Survivors",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 555570,
+      "title": "Infestation: The New Z",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 627270,
+      "title": "Injustice 2",
+      "status": "dlc-found",
+      "dlcCount": 22,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 242700,
+      "title": "Injustice: Gods Among Us Ultimate Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 304430,
+      "title": "INSIDE",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 222880,
+      "title": "Insurgency",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1486630,
+      "title": "Intravenous",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1185160,
+      "title": "Inunaki Tunnel",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3631620,
+      "title": "Invention 8",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1703140,
+      "title": "Isle of Jura",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1426210,
+      "title": "It Takes Two",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1932570,
+      "title": "Jaded",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 283270,
+      "title": "Jagged Alliance Gold",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1815340,
+      "title": "Jivana",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 229890,
+      "title": "Joe Danger",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 242110,
+      "title": "Joe Danger 2: The Movie",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1372110,
+      "title": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "status": "dlc-found",
+      "dlcCount": 10,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 638230,
+      "title": "Journey",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 561770,
+      "title": "Just Ignore Them",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3414900,
+      "title": "Just Move:Clean City Messy Battle",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 431930,
+      "title": "Kabounce",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1048540,
+      "title": "Kao the Kangaroo: Round 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3365850,
+      "title": "Katharsi",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 341800,
+      "title": "Keep Talking and Nobody Explodes",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 233860,
+      "title": "Kenshi",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1424910,
+      "title": "KEO",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 220200,
+      "title": "Kerbal Space Program",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1020330,
+      "title": "Khan VS Kahn",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 793370,
+      "title": "KIDS",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2142680,
+      "title": "Kiki",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 922500,
+      "title": "KILL la KILL -IF",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 261110,
+      "title": "Killer is Dead",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1250,
+      "title": "Killing Floor",
+      "status": "dlc-found",
+      "dlcCount": 21,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 232090,
+      "title": "Killing Floor 2",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 379430,
+      "title": "Kingdom Come: Deliverance",
+      "status": "dlc-found",
+      "dlcCount": 13,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1771300,
+      "title": "Kingdom Come: Deliverance II",
+      "status": "dlc-found",
+      "dlcCount": 10,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 701160,
+      "title": "Kingdom Two Crowns",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 248190,
+      "title": "Knytt Underground",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2246470,
+      "title": "Kulebra and the Souls of Limbo",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 35130,
+      "title": "Lara Croft and the Guardian of Light",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 289690,
+      "title": "Lara Croft and the Temple of Osiris",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 500,
+      "title": "Left 4 Dead",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 550,
+      "title": "Left 4 Dead 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 978520,
+      "title": "Legend of Keepers",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1702990,
+      "title": "Legend of the Outlaw Mage",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1898290,
+      "title": "LEGO Bricktales",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 578330,
+      "title": "LEGO City Undercover",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 352400,
+      "title": "LEGO Jurassic World",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 249130,
+      "title": "LEGO MARVEL Super Heroes",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 647830,
+      "title": "LEGO MARVEL Super Heroes 2",
+      "status": "dlc-found",
+      "dlcCount": 11,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 405310,
+      "title": "LEGO MARVEL’s Avengers",
+      "status": "dlc-found",
+      "dlcCount": 12,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1969370,
+      "title": "LEGO Party!",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 920210,
+      "title": "LEGO Star Wars: La Saga De Skywalker",
+      "status": "dlc-found",
+      "dlcCount": 16,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 285160,
+      "title": "LEGO The Hobbit",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 818320,
+      "title": "LEGO The Incredibles",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 214510,
+      "title": "LEGO The Lord of the Rings",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1538550,
+      "title": "LEGO Voyagers",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1966720,
+      "title": "Lethal Company",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1627720,
+      "title": "Lies of P",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 319630,
+      "title": "Life is Strange",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 48000,
+      "title": "LIMBO",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 335670,
+      "title": "LISA",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3249650,
+      "title": "Little Fighter 2 Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 424840,
+      "title": "Little Nightmares Enhanced Edition",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 860510,
+      "title": "Little Nightmares II",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3027490,
+      "title": "LivingForest",
+      "status": "dlc-found",
+      "dlcCount": 20,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3373660,
+      "title": "Look Outside",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 294040,
+      "title": "Loot Hero DX",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1501750,
+      "title": "Lords of the Fallen",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 993090,
+      "title": "Lossless Scaling",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1599340,
+      "title": "Lost Ark",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1008690,
+      "title": "Lost Daughter",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3312020,
+      "title": "Lost in Anomaly",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 252110,
+      "title": "Lovers in a Dangerous Spacetime",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2408820,
+      "title": "Luma Island",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 234140,
+      "title": "Mad Max",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 50130,
+      "title": "Mafia II Classic",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1030830,
+      "title": "Mafia II: Edición Definitiva",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 360430,
+      "title": "Mafia III: Definitive Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1030840,
+      "title": "Mafia: Edición Definitiva",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3716600,
+      "title": "Mage Arena",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 42910,
+      "title": "Magicka",
+      "status": "dlc-found",
+      "dlcCount": 24,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 238370,
+      "title": "Magicka 2",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 209630,
+      "title": "Magrunner: Dark Pulse",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 629820,
+      "title": "Maneater",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3220010,
+      "title": "Mangui",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 216150,
+      "title": "MapleStory",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3818230,
+      "title": "Maru Expedition: We can fly",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2767030,
+      "title": "Marvel Rivals",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1088850,
+      "title": "Marvel’s Guardians of the Galaxy",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2651280,
+      "title": "Marvel’s Spider-Man 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1817070,
+      "title": "Marvel’s Spider-Man Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1817190,
+      "title": "Marvel’s Spider-Man: Miles Morales",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1328670,
+      "title": "Mass Effect Legendary Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2452280,
+      "title": "Mecha BREAK",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3515490,
+      "title": "Melodic Mage",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2370990,
+      "title": "Merk Mayhem",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2417610,
+      "title": "Metal Gear Solid Delta Snake Eater",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 366250,
+      "title": "Metal Slug",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 366260,
+      "title": "Metal Slug 2",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 250180,
+      "title": "Metal Slug 3",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2963870,
+      "title": "Metal Slug Awakening",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 356310,
+      "title": "Metal Slug Defense",
+      "status": "dlc-found",
+      "dlcCount": 10,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1590760,
+      "title": "Metal Slug Tactics",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 312610,
+      "title": "Metal Slug X",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 975680,
+      "title": "Metal Slug XX",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1061910,
+      "title": "Metal: Hellsinger",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 3
+    },
+    {
+      "steamAppId": 2878270,
+      "title": "Metal: Hellsinger VR",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 43110,
+      "title": "Metro 2033",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 286690,
+      "title": "Metro 2033 Redux",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 412020,
+      "title": "Metro Exodus",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1449560,
+      "title": "Metro Exodus Enhanced Edition",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 43160,
+      "title": "Metro: Last Light Complete Edition",
+      "status": "no-store-data",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 287390,
+      "title": "Metro: Last Light Redux",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 314160,
+      "title": "Microsoft Flight Simulator X",
+      "status": "dlc-found",
+      "dlcCount": 234,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 241930,
+      "title": "Middle-earth: Shadow of Mordor",
+      "status": "dlc-found",
+      "dlcCount": 16,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 356190,
+      "title": "Middle-earth: Shadow of War",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1299360,
+      "title": "Mighty Goose",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 481870,
+      "title": "Mini Thief",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1657090,
+      "title": "MiniRoyale",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1446780,
+      "title": "MONSTER HUNTER RISE",
+      "status": "dlc-found",
+      "dlcCount": 252,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2246340,
+      "title": "Monster Hunter Wilds",
+      "status": "dlc-found",
+      "dlcCount": 191,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 582010,
+      "title": "Monster Hunter: World",
+      "status": "dlc-found",
+      "dlcCount": 200,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 606150,
+      "title": "Moonlighter",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2350790,
+      "title": "Moonlighter 2: The Endless Vault",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1658150,
+      "title": "Moonstone Island",
+      "status": "dlc-found",
+      "dlcCount": 10,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3364880,
+      "title": "Moral Dilemma: The Interview",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1971870,
+      "title": "Mortal Kombat 1",
+      "status": "dlc-found",
+      "dlcCount": 28,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 976310,
+      "title": "Mortal Kombat 11",
+      "status": "dlc-found",
+      "dlcCount": 27,
+      "ownedCount": 27
+    },
+    {
+      "steamAppId": 307780,
+      "title": "Mortal Kombat X",
+      "status": "dlc-found",
+      "dlcCount": 23,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1625450,
+      "title": "Muck",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1818750,
+      "title": "MultiVersus",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 638070,
+      "title": "Murderous Pursuits",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 774171,
+      "title": "Muse Dash",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3544930,
+      "title": "My life with you",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3951230,
+      "title": "Myrkwood: Offshoot",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 4015530,
+      "title": "MyVoiceZoo",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2952070,
+      "title": "Nanika Game Online",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1203220,
+      "title": "NARAKA: BLADEPOINT",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 543870,
+      "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 234670,
+      "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 349040,
+      "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 495140,
+      "title": "NARUTO: Ultimate Ninja STORM",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 640700,
+      "title": "Narvas",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 4920,
+      "title": "Natural Selection 2",
+      "status": "dlc-found",
+      "dlcCount": 10,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1222680,
+      "title": "Need for Speed Heat",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1328660,
+      "title": "Need for Speed Hot Pursuit Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 788100,
+      "title": "Neon Abyss",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1533420,
+      "title": "Neon White",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 628950,
+      "title": "Nephise Begins",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2964410,
+      "title": "NETHER HEROES",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 400450,
+      "title": "NeuroVoider",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1454970,
+      "title": "New Tales from the Borderlands",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 624690,
+      "title": "NEXT JUMP: Shmup Tactics",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2372170,
+      "title": "NIDUS",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1113560,
+      "title": "NieR Replicant",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 9
+    },
+    {
+      "steamAppId": 524220,
+      "title": "NieR:Automata",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 8
+    },
+    {
+      "steamAppId": 3367060,
+      "title": "Nifty Smashers",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 481510,
+      "title": "Night in the Woods",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3405660,
+      "title": "Night is Coming — Wrath of the Woods",
+      "status": "no-store-data",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2930160,
+      "title": "Nightmare Kart",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1809540,
+      "title": "Nine Sols",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2860410,
+      "title": "NineHells",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 485510,
+      "title": "Nioh: Complete Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3462980,
+      "title": "Nirvana",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 275850,
+      "title": "No Man's Sky",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2057030,
+      "title": "No More Noise",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 358080,
+      "title": "No Turning Back: The Pixel Art Action-Adventure Roguelike",
+      "status": "dlc-found",
+      "dlcCount": 26,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3180070,
+      "title": "No, I'm not a Human",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1939970,
+      "title": "Nobody Wants to Die",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1634080,
+      "title": "Nocturnal",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 881100,
+      "title": "Noita",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1304780,
+      "title": "Nongunz: Doppelganger Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 540900,
+      "title": "Nuclear Contingency",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 769920,
+      "title": "Odysseus Kosmos and his Robot Quest - Episode 1",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3365900,
+      "title": "Oh, Bugger!",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 415740,
+      "title": "OmniBus",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1150690,
+      "title": "OMORI",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2139460,
+      "title": "Once Human",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 415030,
+      "title": "One More Dungeon",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 266210,
+      "title": "One Way Heroics",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 862740,
+      "title": "OneShift",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 261570,
+      "title": "Ori and the Blind Forest",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 387290,
+      "title": "Ori and the Blind Forest: Definitive Edition",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1057090,
+      "title": "Ori and the Will of the Wisps",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 491950,
+      "title": "Orwell",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3506830,
+      "title": "Out Of The Shadows",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 238320,
+      "title": "Outlast",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 414700,
+      "title": "Outlast 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1626460,
+      "title": "Over the Counter",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 448510,
+      "title": "Overcooked",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1243830,
+      "title": "Overcooked! All You Can Eat",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 728880,
+      "title": "Overcooked2",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2357570,
+      "title": "Overwatch",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 457140,
+      "title": "Oxygen Not Included",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 455400,
+      "title": "PAC-MAN 256",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 441380,
+      "title": "PAC-MAN Championship Edition 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1665130,
+      "title": "PAC-MAN Museum+",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 444090,
+      "title": "Paladins",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 4070790,
+      "title": "Palmier Island",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1623730,
+      "title": "Palworld",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1178880,
+      "title": "Panzer Dragoon: Remake",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 239030,
+      "title": "Papers, Please",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 610570,
+      "title": "Paradox Soul",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3017580,
+      "title": "Paragnosia",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 343360,
+      "title": "Particula",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2796010,
+      "title": "Party Club",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 356570,
+      "title": "Party Hard",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 572430,
+      "title": "Party Hard 2",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 238960,
+      "title": "Path of Exile",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1184370,
+      "title": "Pathfinder: Wrath of the Righteous",
+      "status": "dlc-found",
+      "dlcCount": 14,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1260520,
+      "title": "Patrick's Parabox",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 218620,
+      "title": "PAYDAY 2",
+      "status": "dlc-found",
+      "dlcCount": 81,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3480,
+      "title": "Peggle Deluxe",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3540,
+      "title": "Peggle Nights",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2161700,
+      "title": "Persona 3 Reload",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1113000,
+      "title": "Persona 4 Golden",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1687950,
+      "title": "Persona 5 Royal",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3061570,
+      "title": "Persona5: The Phantom X",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3144950,
+      "title": "Pet Lands",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1056640,
+      "title": "Phantasy Star Online 2 New Genesis",
+      "status": "dlc-found",
+      "dlcCount": 14,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 461040,
+      "title": "PICO PARK: Classic Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 572890,
+      "title": "Pikuniku",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1049280,
+      "title": "Pilgrims",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2328760,
+      "title": "Pinball FX",
+      "status": "dlc-found",
+      "dlcCount": 64,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2337640,
+      "title": "Pinball FX Midnight",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2202770,
+      "title": "Pizza Hero",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2231450,
+      "title": "Pizza Tower",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2510020,
+      "title": "Placid Plastic Deck - A Quiet Quest",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1999360,
+      "title": "Placid Plastic Duck Simulator",
+      "status": "dlc-found",
+      "dlcCount": 10,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 246620,
+      "title": "Plague Inc: Evolved",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 703080,
+      "title": "Planet Zoo",
+      "status": "dlc-found",
+      "dlcCount": 22,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3590,
+      "title": "Plants vs. Zombies: Game of the Year",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2911850,
+      "title": "Playing Kafka",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1455900,
+      "title": "Plunder Panic",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3454610,
+      "title": "Poco",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 539470,
+      "title": "Police Stories",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 367450,
+      "title": "Poly Bridge",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1062160,
+      "title": "Poly Bridge 2",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 368180,
+      "title": "Polyball",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 684680,
+      "title": "Polygoneer",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 400,
+      "title": "Portal",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 620,
+      "title": "Portal 2",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 247120,
+      "title": "Portal 2 Sixense Perceptual Pack",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 601360,
+      "title": "Portal: Revolution",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 232770,
+      "title": "POSTAL",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3778870,
+      "title": "Powwow Bound: A Menominee Homecoming",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 480490,
+      "title": "Prey",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 741820,
+      "title": "Prey: Typhon Hunter",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3714460,
+      "title": "Prima Materia XXV",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 702150,
+      "title": "Project Mercury",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 893680,
+      "title": "Project Warlock",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 108600,
+      "title": "Project Zomboid",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 10150,
+      "title": "Prototype",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 115320,
+      "title": "Prototype 2",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3830,
+      "title": "Psychonauts",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 607080,
+      "title": "Psychonauts 2",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 578080,
+      "title": "PUBG",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 880940,
+      "title": "Pummel Party",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2210,
+      "title": "Quake 4",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 449630,
+      "title": "Rage Parking Simulator 2016",
+      "status": "no-store-data",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 312520,
+      "title": "Rain World",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2952470,
+      "title": "Rat Quest",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2415660,
+      "title": "Raventure",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 15080,
+      "title": "Rayman: Raving Rabbids",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1088790,
+      "title": "Rebel Inc: Escalation",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1174180,
+      "title": "Red Dead Redemption 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1076600,
+      "title": "Red Gate",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 448070,
+      "title": "Red Risk",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2514960,
+      "title": "Refind Self: Desvela tu personalidad",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1968320,
+      "title": "Relapse",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 99300,
+      "title": "Renegade Ops",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 304240,
+      "title": "Resident Evil",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 339340,
+      "title": "Resident Evil 0",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 883710,
+      "title": "Resident Evil 2",
+      "status": "dlc-found",
+      "dlcCount": 13,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 952060,
+      "title": "Resident Evil 3",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2050650,
+      "title": "Resident Evil 4",
+      "status": "dlc-found",
+      "dlcCount": 27,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 254700,
+      "title": "Resident Evil 4 (2005)",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 21690,
+      "title": "Resident Evil 5",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 221040,
+      "title": "Resident Evil 6",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 418370,
+      "title": "Resident Evil 7 Biohazard",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1236300,
+      "title": "Resident Evil Re:Verse",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3764200,
+      "title": "Resident Evil Requiem",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 952070,
+      "title": "RESIDENT EVIL RESISTANCE",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 222480,
+      "title": "Resident Evil Revelations",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 287290,
+      "title": "Resident Evil Revelations 2",
+      "status": "dlc-found",
+      "dlcCount": 22,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1196590,
+      "title": "Resident Evil Village",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 60,
+      "title": "Ricochet",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2073250,
+      "title": "Rift of the NecroDancer",
+      "status": "dlc-found",
+      "dlcCount": 49,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 391220,
+      "title": "Rise of the Tomb Raider",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 632360,
+      "title": "Risk of Rain 2",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1128810,
+      "title": "RISK: Global Domination",
+      "status": "dlc-found",
+      "dlcCount": 30,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 383980,
+      "title": "Rivals of Aether",
+      "status": "dlc-found",
+      "dlcCount": 21,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1681430,
+      "title": "RoboCop: Rogue City",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1187510,
+      "title": "Rock Simulator",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 252950,
+      "title": "Rocket League",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1303350,
+      "title": "Rocky Mayhem",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 787810,
+      "title": "Rogue Heroes: Ruins of Tasos",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 397720,
+      "title": "Romance of the Three Kingdoms Maker",
+      "status": "dlc-found",
+      "dlcCount": 11,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3693260,
+      "title": "Room For One!",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1993830,
+      "title": "ROTA: Bend Gravity",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1206610,
+      "title": "Rubber Bandits",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3807810,
+      "title": "Ruby and The Lost Crystals",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 302510,
+      "title": "Ryse: Son of Rome",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3765020,
+      "title": "S.T.A.L.K.E.R.",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 4500,
+      "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2427410,
+      "title": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2419710,
+      "title": "Saloon Simulator: Prologue",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 210770,
+      "title": "Sanctum 2",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2995230,
+      "title": "Sandwalkers - Prologue",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1122720,
+      "title": "Sayonara Wild Hearts",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 813540,
+      "title": "Scheming Through The Zombie Apocalypse: The Beginning",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3257000,
+      "title": "SCP: Containment Breach 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1782380,
+      "title": "SCP: Containment Breach Multiplayer",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 465760,
+      "title": "Scrap Garden",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 218680,
+      "title": "Scribblenauts Unlimited",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 249870,
+      "title": "Scribblenauts Unmasked",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1244090,
+      "title": "Sea of Stars",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1172620,
+      "title": "Sea of Thieves",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 4127470,
+      "title": "Seconda",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1069740,
+      "title": "Seen",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 635850,
+      "title": "Sentience. The Android's Tale",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3428910,
+      "title": "Separated by Nightmares: Where Duty Dies",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 522210,
+      "title": "Serial Cleaner",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 204340,
+      "title": "Serious Sam 2",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 567670,
+      "title": "Serious Sam 3 VR: BFE",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 41070,
+      "title": "Serious Sam 3: BFE",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 257420,
+      "title": "Serious Sam 4",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 41050,
+      "title": "Serious Sam Classic: The First Encounter",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 41060,
+      "title": "Serious Sam Classic: The Second Encounter",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 227780,
+      "title": "Serious Sam Classics: Revolution",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 111600,
+      "title": "Serious Sam Double D XXL",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 41000,
+      "title": "Serious Sam HD: The First Encounter",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 41014,
+      "title": "Serious Sam HD: The Second Encounter",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 201480,
+      "title": "Serious Sam: The Random Encounter",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2905180,
+      "title": "Shade Silver",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 750920,
+      "title": "Shadow of the Tomb Raider",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 986130,
+      "title": "Shadows of Doubt",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2584990,
+      "title": "Shadowverse: Worlds Beyond",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2835310,
+      "title": "Sharpshooter",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 250760,
+      "title": "Shovel Knight: Treasure Trove",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3910,
+      "title": "Sid Meier's Civilization III: Complete",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3900,
+      "title": "Sid Meier's Civilization IV",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 8800,
+      "title": "Sid Meier's Civilization IV: Beyond the Sword",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 16810,
+      "title": "Sid Meier's Civilization IV: Colonization",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3990,
+      "title": "Sid Meier's Civilization IV: Warlords",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2138710,
+      "title": "Sifu",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2124490,
+      "title": "SILENT HILL 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2947440,
+      "title": "SILENT HILL f",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3362870,
+      "title": "SIMPWALK",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 245170,
+      "title": "Skullgirls 2nd Encore",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2325290,
+      "title": "Sky: Niños de la Luz",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 646570,
+      "title": "Slay the Spire",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 307690,
+      "title": "Sleeping Dogs: Definitive Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 4032230,
+      "title": "Slime Saga",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1755300,
+      "title": "Smart Factory Tycoon",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 740240,
+      "title": "Snake Eyes Dungeon",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 867210,
+      "title": "Songs of Conquest",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1237320,
+      "title": "Sonic Frontiers",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2486820,
+      "title": "Sonic Racing: CrossWorlds",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2513280,
+      "title": "SONIC X SHADOW GENERATIONS",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1326470,
+      "title": "Sons Of The Forest",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 488790,
+      "title": "South Park: The Fractured But Whole",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 213670,
+      "title": "South Park: The Stick of Truth",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1169200,
+      "title": "Space Bear",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2805210,
+      "title": "Space Hat",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1412850,
+      "title": "Spacelines From The Far Out",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3147930,
+      "title": "Sphere vs Gravity",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2113850,
+      "title": "Spirit City: Lofi Sessions",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 972660,
+      "title": "Spiritfarer",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2001120,
+      "title": "Split Fiction",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 969990,
+      "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 17390,
+      "title": "Spore",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 17440,
+      "title": "Spore: Creepy & Cute Parts Pack",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 24720,
+      "title": "Spore: Galactic Adventures",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1948280,
+      "title": "Stacklands",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1818450,
+      "title": "STALCRAFT: X",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 212070,
+      "title": "Star Conflict",
+      "status": "dlc-found",
+      "dlcCount": 83,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1286830,
+      "title": "Star Wars: The Old Republic",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 211820,
+      "title": "Starbound",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 413150,
+      "title": "Stardew Valley",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2272400,
+      "title": "Station to Station",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 209190,
+      "title": "Stealth Bastard Deluxe",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 619700,
+      "title": "Steel Rats",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 412830,
+      "title": "STEINS;GATE",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3489700,
+      "title": "Stellar Blade",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 674940,
+      "title": "Stick Fight: The Game",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2012510,
+      "title": "Stormgate",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1332010,
+      "title": "Stray",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1261040,
+      "title": "Streamer Life Simulator",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1364780,
+      "title": "Street Fighter 6",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 512900,
+      "title": "Streets of Rogue",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1282270,
+      "title": "Strinova",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 315210,
+      "title": "Suicide Squad",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 847370,
+      "title": "Sunset Overdrive",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 364690,
+      "title": "SUPER DISTRO",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 668210,
+      "title": "Super Fancy Pants Adventure",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1560100,
+      "title": "Super Stupid Game",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1283700,
+      "title": "SUPER VIVE",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 322500,
+      "title": "SUPERHOT",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1049410,
+      "title": "Superliminal",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2670630,
+      "title": "Supermarket Simulator",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2709570,
+      "title": "Supermarket Together",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2159120,
+      "title": "SUR5",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1511860,
+      "title": "Swallow the Sea",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2526380,
+      "title": "Sword of Convallaria",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 46500,
+      "title": "Syberia",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 46510,
+      "title": "Syberia 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 286160,
+      "title": "Tabletop Simulator",
+      "status": "dlc-found",
+      "dlcCount": 43,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 330830,
+      "title": "Tales from the Borderlands",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 440,
+      "title": "Team Fortress 2",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 20,
+      "title": "Team Fortress Classic",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 389730,
+      "title": "TEKKEN 7",
+      "status": "dlc-found",
+      "dlcCount": 24,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1180660,
+      "title": "Tell Me Why",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1938850,
+      "title": "Temp Zero",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 105600,
+      "title": "Terraria",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2880460,
+      "title": "Terroro",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 4120000,
+      "title": "Thanks, She's A Rescue",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1120480,
+      "title": "The Anacrusis",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 845070,
+      "title": "The Awesome Adventures of Captain Spirit",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1111210,
+      "title": "The Backrooms Game FREE Edition",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2718450,
+      "title": "The Backrooms Regret",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 250900,
+      "title": "The Binding of Isaac: Rebirth",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 65930,
+      "title": "The Bureau: XCOM Declassified",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1544020,
+      "title": "The Callisto Protocol",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 67370,
+      "title": "The Darkness II",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 365590,
+      "title": "The Division",
+      "status": "dlc-found",
+      "dlcCount": 11,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2221490,
+      "title": "The Division 2",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 94300,
+      "title": "The Dream Machine",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1812390,
+      "title": "The Elder Scrolls II: Daggerfall",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 489830,
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1812290,
+      "title": "The Elder Scrolls: Arena",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 641990,
+      "title": "The Escapists 2",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 268050,
+      "title": "The Evil Within",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1668460,
+      "title": "The Fancy Pants Adventures: Classic Pack",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 435530,
+      "title": "The Final Station",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2074920,
+      "title": "The First Descendant",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 242760,
+      "title": "The Forest",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 887400,
+      "title": "THE GREAT GEOMETRIC MULTIVERSE TOUR",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1087760,
+      "title": "The Gunk",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1089980,
+      "title": "The Henry Stickmin Collection",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3376690,
+      "title": "THE HOUSE OF THE DEAD 2: Remake",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1694600,
+      "title": "THE HOUSE OF THE DEAD: Remake",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 222420,
+      "title": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 222440,
+      "title": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 450390,
+      "title": "The Lab",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1167750,
+      "title": "The Lamplighters League",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 990630,
+      "title": "The Last Campfire",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2517810,
+      "title": "The Last Flame: Prologue",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 522570,
+      "title": "The Last Hope",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1118040,
+      "title": "The Last King Prologue",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1888930,
+      "title": "The Last of Us Part I",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2531310,
+      "title": "The Last of Us Part II Remastered",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 267530,
+      "title": "The LEGO Movie - Videogame",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 881320,
+      "title": "The LEGO Movie 2 - Videogame",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 640590,
+      "title": "The LEGO NINJAGO Movie Video Game",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 360940,
+      "title": "The Mean Greens - Plastic Warfare",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2838550,
+      "title": "The Monarch: First Light",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3472550,
+      "title": "The Mr. Rabbit Magic Show",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1881350,
+      "title": "The Odyssey of the Mammoth",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 352520,
+      "title": "The Silent Age",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1222670,
+      "title": "The Sims 4",
+      "status": "dlc-found",
+      "dlcCount": 108,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 897450,
+      "title": "The Survivalists",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 246580,
+      "title": "The Typing of The Dead: Overkill",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 406970,
+      "title": "The Uncertain: Last Quiet Day",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1449690,
+      "title": "The Walking Dead: The Telltale Definitive Series",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2795000,
+      "title": "The WereCleaner",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3868950,
+      "title": "The Witch's fabulous Cracker Show",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 20920,
+      "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 292030,
+      "title": "The Witcher 3",
+      "status": "dlc-found",
+      "dlcCount": 22,
+      "ownedCount": 22
+    },
+    {
+      "steamAppId": 20900,
+      "title": "The Witcher: Enhanced Edition",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 210970,
+      "title": "The Witness",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2744260,
+      "title": "The Zhukov Line",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 298630,
+      "title": "TheEscapists",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 518790,
+      "title": "theHunter: Call of the Wild",
+      "status": "dlc-found",
+      "dlcCount": 59,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1920490,
+      "title": "TheOuterWorldsSpacersChoiceEdition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3561850,
+      "title": "This Game is Ground Breaking",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 282070,
+      "title": "This War of Mine",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3584190,
+      "title": "Three Sisters",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1286680,
+      "title": "Tiny Tina’s Wonderlands",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 475150,
+      "title": "Titan Quest Anniversary Edition",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1237970,
+      "title": "Titanfall 2",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 359550,
+      "title": "Tom Clancy's Rainbow Six Siege",
+      "status": "dlc-found",
+      "dlcCount": 9,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 203160,
+      "title": "Tomb Raider",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1974050,
+      "title": "Torchlight: Infinite",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 201270,
+      "title": "Total War: SHOGUN 2",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1510580,
+      "title": "Toy Tinker Simulator",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 585420,
+      "title": "Trailmakers",
+      "status": "dlc-found",
+      "dlcCount": 16,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 335240,
+      "title": "Transformice",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1969130,
+      "title": "Trash Patrol - Academic Version",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 553420,
+      "title": "TUNIC",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 616560,
+      "title": "Ultimate Epic Battle Simulator",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1035510,
+      "title": "Ultimate Zombie Defense",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1659420,
+      "title": "UNCHARTED: Legacy of Thieves Collection",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 391540,
+      "title": "Undertale",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 489220,
+      "title": "Unforgiving Trials: The Darkest Crusade",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 535760,
+      "title": "Unforgiving Trials: The Space Crusade",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 321270,
+      "title": "UNLOVED",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1203710,
+      "title": "UnMetal",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3062930,
+      "title": "Unplagued",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1016920,
+      "title": "Unrailed!",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1225560,
+      "title": "Unravel",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1225570,
+      "title": "Unravel Two",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 13250,
+      "title": "Unreal Gold",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 837470,
+      "title": "Untitled Goose Game",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3606890,
+      "title": "Upload Labs",
+      "status": "dlc-found",
+      "dlcCount": 6,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3361890,
+      "title": "V-Shift",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1794680,
+      "title": "Vampire Survivors",
+      "status": "dlc-found",
+      "dlcCount": 8,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 427290,
+      "title": "Vampyr",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 244890,
+      "title": "Velocity Ultra",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1382070,
+      "title": "Viewfinder",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 211160,
+      "title": "Viking: Battle for Asgard",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 857980,
+      "title": "Void Bastards",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 3166420,
+      "title": "VolleySmash",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 438100,
+      "title": "VRChat",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 215080,
+      "title": "WAKFU",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2187290,
+      "title": "Wall World",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 431960,
+      "title": "Wallpaper Engine",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2386610,
+      "title": "Wandering Skies",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 236390,
+      "title": "War Thunder",
+      "status": "dlc-found",
+      "dlcCount": 37,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 671610,
+      "title": "Warfork",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 230410,
+      "title": "Warframe",
+      "status": "dlc-found",
+      "dlcCount": 18,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2005010,
+      "title": "Warhammer 40,000: Boltgun",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1361210,
+      "title": "Warhammer 40,000: Darktide",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 489630,
+      "title": "Warhammer 40,000: Gladius - Relics of War",
+      "status": "dlc-found",
+      "dlcCount": 20,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 55150,
+      "title": "Warhammer 40,000: Space Marine - Anniversary Edition",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2183900,
+      "title": "Warhammer 40,000: Space Marine 2",
+      "status": "dlc-found",
+      "dlcCount": 22,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2078450,
+      "title": "Warhammer 40,000: Speed Freeks",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 552500,
+      "title": "Warhammer: Vermintide 2",
+      "status": "dlc-found",
+      "dlcCount": 21,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 243470,
+      "title": "Watch_Dogs",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 21010,
+      "title": "Watchmen: The End Is Nigh",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 21030,
+      "title": "Watchmen: The End Is Nigh Part 2",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1103210,
+      "title": "We Become What We Behold",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 582500,
+      "title": "We Were Here",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2296990,
+      "title": "We Were Here Expeditions: The FriendShip",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1341290,
+      "title": "We Were Here Forever",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 865360,
+      "title": "We Were Here Together",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 677160,
+      "title": "We Were Here Too",
+      "status": "dlc-found",
+      "dlcCount": 2,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 2747770,
+      "title": "Wednesdays",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 3564740,
+      "title": "Where Winds Meet",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1953230,
+      "title": "Whisper Mountain Outbreak",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2978120,
+      "title": "Wild West: Prototype",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 640890,
+      "title": "Will Glow the Wisp",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 707010,
+      "title": "Will To Live Online",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 445980,
+      "title": "Wizard of Legend",
+      "status": "dlc-found",
+      "dlcCount": 1,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 612880,
+      "title": "Wolfenstein II",
+      "status": "dlc-found",
+      "dlcCount": 4,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 350080,
+      "title": "Wolfenstein: The Old Blood",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1407200,
+      "title": "World of Tanks",
+      "status": "dlc-found",
+      "dlcCount": 27,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 444200,
+      "title": "World of Tanks Blitz",
+      "status": "dlc-found",
+      "dlcCount": 15,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 790710,
+      "title": "World of Warplanes",
+      "status": "dlc-found",
+      "dlcCount": 11,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 552990,
+      "title": "World of Warships",
+      "status": "dlc-found",
+      "dlcCount": 25,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 1206560,
+      "title": "WorldBox - God Simulator",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 200170,
+      "title": "Worms Revolution",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 327030,
+      "title": "Worms W.M.D",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 268500,
+      "title": "XCOM 2",
+      "status": "dlc-found",
+      "dlcCount": 7,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 882100,
+      "title": "XCOM: Chimera Squad",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 200510,
+      "title": "XCOM: Enemy Unknown",
+      "status": "dlc-found",
+      "dlcCount": 3,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 464260,
+      "title": "Xeno Crisis",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2863840,
+      "title": "YIIK Nameless Psychosis",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 2212330,
+      "title": "Your Only Move Is HUSTLE",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 601510,
+      "title": "Yu-Gi-Oh! Duel Links",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 1449850,
+      "title": "Yu-Gi-Oh! Master Duel",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 694280,
+      "title": "Zombie Army 4",
+      "status": "dlc-found",
+      "dlcCount": 92,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 301640,
+      "title": "Zombie Army Trilogy",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    },
+    {
+      "steamAppId": 220820,
+      "title": "Zombie Driver HD",
+      "status": "dlc-found",
+      "dlcCount": 5,
+      "ownedCount": 0
+    },
+    {
+      "steamAppId": 617670,
+      "title": "Zup! S",
+      "status": "no-dlc-detected",
+      "dlcCount": 0
+    }
+  ]
+}

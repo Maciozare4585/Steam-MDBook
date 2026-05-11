@@ -426,8 +426,9 @@ Parámetros:
 | `-ValidatePaths`          | Ejecuta validación de rutas.                                                     |
 | `-EnrichSteamMetadata`    | Consulta Steam Store API para llenar descripciones, géneros, categorías, modos y features. |
 | `-MetadataMaxGames`       | Límite de juegos a enriquecer en esa corrida. `0` = todos los pendientes.        |
-| `-MetadataDelayMs`        | Pausa entre llamadas a Steam Store API. Recomendado: `2000`.                    |
-| `-ForceSteamMetadata`     | Refresca metadata aunque ya exista. Usar con cuidado porque tarda más.          |
+| `-MetadataDelayMs`        | Pausa entre llamadas a Steam Store API. Recomendado: `2000`.                     |
+| `-ForceSteamMetadata`     | Refresca metadata aunque ya exista. Usar con cuidado porque tarda más.           |
+1 `-SyncSteamDlc`           | Sincronizar los DLC de los juegos de steama.                                     |
 
 Wrappers equivalentes:
 
@@ -1014,4 +1015,15 @@ Si quieres probar solo el enriquecedor, sin toda la sincronización:
 
 ```powershell
 .\scripts\17-enrich-steam-metadata.ps1 -MaxGames 100 -DelayMs 2000 -BuildIndexAfter
+```
+## Medio resumido
+
+Corre este:
+```powershell
+.\scripts\05-run-full-sync.ps1 `
+  -DiscoverFromMarkdown `
+  -AllowFuzzy `
+  -ValidatePaths `
+  -EnrichSteamMetadata `
+  -SyncSteamDlc `
 ```
