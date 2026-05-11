@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://local.steam-mdbook/schemas/game-metadata.schema.json",
-  "title": "Steam MDBook Game Metadata V6.6.0",
+  "title": "Steam MDBook Game Metadata V6.6.6",
   "type": "object",
   "required": [
     "version",

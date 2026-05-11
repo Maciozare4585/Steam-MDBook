@@ -570,6 +570,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Blue Protocol: Star Resonance",
+    "slug": "blue-protocol-star-resonance",
+    "steamAppId": 3681810,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Bob Esponja: The Cosmic Shake",
     "slug": "bob-esponja-the-cosmic-shake",
     "steamAppId": 1282150,
@@ -1209,6 +1215,12 @@
     "title": "Depths Of Horror: Mushroom Day",
     "slug": "depths-of-horror-mushroom-day",
     "steamAppId": 1590840,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Desktop Mate",
+    "slug": "desktop-mate",
+    "steamAppId": 3301060,
     "priority": "registry-approved"
   },
   {
@@ -4800,6 +4812,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Supermarket Together",
+    "slug": "supermarket-together",
+    "steamAppId": 2709570,
+    "priority": "registry-approved"
+  },
+  {
     "title": "SUR5",
     "slug": "sur5",
     "steamAppId": 2159120,
@@ -5307,6 +5325,12 @@
     "title": "Trailmakers",
     "slug": "trailmakers",
     "steamAppId": 585420,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Transformice",
+    "slug": "transformice",
+    "steamAppId": 335240,
     "priority": "registry-approved"
   },
   {

@@ -17,7 +17,11 @@ La V6.6.0 agrega una capa de metadata extendida encima del registry de Steam.
 - `steamMetadata`: géneros, tags, descripción, devs, publishers y fecha.
 - `playModes`: single-player, multiplayer, co-op, PvP, PvE, MMO.
 - `steamFeatures`: logros, Steam Cloud, mando, Workshop, VR, trading cards.
-- `dlcInfo`: DLC propios, faltantes, tipo e importancia.
+- `dlcInfo`: DLC propios, faltantes, tipo e importancia. Desde V6.6.5 también acepta:
+  - `ownershipStatus`: `full`, `almost_full`, `owned_major`, `owned_unspecified`, `excluded_exception`, `partial` o `unknown`.
+  - `ownershipSummary`: resumen manual legible.
+  - `missingNotes`: notas de DLC faltante o pendiente de auditar.
+  - `manualSource` y `lastManualUpdateAt`: trazabilidad de captura manual.
 - `playerState`: estado principal y checkboxes personales.
 - `recommendationMetadata`: datos para decidir qué jugar según energía, sesión y mood.
 - `profileMetadata`: qué significa el juego para Daniel, Jesse o Jovan.

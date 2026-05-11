@@ -79,6 +79,7 @@ Get-ChildItem .\scripts\*.ps1 | Unblock-File
 | Reparar páginas auxiliares               | `.\scripts\09-repair-mdbook-pages.ps1`                                            |
 | Limpiar sidebar de juegos                | `.\scripts\11-sanitize-games-summary.ps1`                                         |
 | Validar rutas                            | `.\scripts\99-validate-project-paths.ps1 -Strict`                                 |
+| Sincronizar catálogo DLC de Steam        | `.\scripts\18-sync-steam-dlc.ps1 -MaxGames 50 -DelayMs 2000 -BuildIndexAfter`             |
 
 ---
 
@@ -213,7 +214,56 @@ mdbook serve --open
 mdbook serve --open
 ```
 
-### 5.4 Pipeline para `ZZZ) El Pozo` y `ZZZ) MRD`
+### 5.4 Pipeline para sincronizar DLC
+
+Usa esto cuando quieras que Steam liste los DLC disponibles de cada juego dentro de `data/games-metadata.json`.
+El script crea una fila por DLC y deja `owned` como checkbox manual.
+
+Prueba inicial con pocos juegos:
+
+```powershell
+.\scripts\18-sync-steam-dlc.ps1 -MaxGames 50 -DelayMs 2000 -BuildIndexAfter
+```
+
+Procesar juegos concretos por AppID:
+
+```powershell
+.\scripts\18-sync-steam-dlc.ps1 -OnlyAppIds 1245620,292030,2050650 -DelayMs 2000 -BuildIndexAfter
+```
+
+Integrado en el full sync:
+
+```powershell
+.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -SyncSteamDlc -DlcMaxGames 50 -DlcDelayMs 2000 -ValidatePaths
+```
+
+Para marcar si tienes un DLC, edita:
+
+```text
+data/games-metadata.json
+```
+
+Busca el juego y cambia cada registro:
+
+```json
+"owned": false
+```
+
+a:
+
+```json
+"owned": true
+```
+
+Después regenera el índice:
+
+```powershell
+.\scripts\15-build-games-index-with-metadata.ps1
+mdbook clean
+mdbook serve --open
+```
+
+### 5.5 Pipeline para `ZZZ) El Pozo` y `ZZZ) MRD`
 
 Estas secciones suelen tener juegos raros, demos, shovelware, freebies o nombres difíciles. Usa más delay y búsqueda flexible.
 
@@ -232,7 +282,7 @@ Invoke-Item .\data\steam-games-review-needed.json
 Invoke-Item .\data\steam-games-retry-needed.json
 ```
 
-### 5.5 Pipeline con SteamGridDB
+### 5.6 Pipeline con SteamGridDB
 
 Configura API key:
 
@@ -354,6 +404,7 @@ Variantes útiles:
 .\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -RefreshMetadata -RefreshAssets
 .\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -ForceSearch
 .\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -UseSteamGridDb
+.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -EnrichSteamMetadata -MetadataMaxGames 100 -MetadataDelayMs 2000
 .\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -AllowFuzzy
 .\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -AllowFuzzy -AcceptFuzzyMatches
 ```
@@ -373,6 +424,10 @@ Parámetros:
 | `-AcceptFuzzyMatches`     | Acepta candidatos fuzzy y los escribe al registry; usar solo después de revisar. |
 | `-SkipCollectionTooltips` | Omite tooltips de tablas.                                                        |
 | `-ValidatePaths`          | Ejecuta validación de rutas.                                                     |
+| `-EnrichSteamMetadata`    | Consulta Steam Store API para llenar descripciones, géneros, categorías, modos y features. |
+| `-MetadataMaxGames`       | Límite de juegos a enriquecer en esa corrida. `0` = todos los pendientes.        |
+| `-MetadataDelayMs`        | Pausa entre llamadas a Steam Store API. Recomendado: `2000`.                    |
+| `-ForceSteamMetadata`     | Refresca metadata aunque ya exista. Usar con cuidado porque tarda más.          |
 
 Wrappers equivalentes:
 
@@ -877,6 +932,31 @@ mdbook serve --open
 
 ---
 
+## V6.6.2 — Hotfix de metadata en ficha dinámica
+
+### Problema corregido
+
+La ficha dinámica podía seguir mostrando `—` en descripción, modos, features y metadata aunque existiera `games-metadata.json`, porque `04-generate-game-pages.ps1` volvía a escribir `src/assets/data/games-index.json` usando solo `steam-games-registry.json`.
+
+### Correcciones
+
+- `04-generate-game-pages.ps1` ahora mezcla `data/games-metadata.json` al generar `games-index.json`.
+- `05-run-full-sync.ps1` tiene el switch `-EnrichSteamMetadata` para traer datos reales desde Steam Store API dentro del pipeline.
+- `17-enrich-steam-metadata.ps1` puede ejecutar `-BuildIndexAfter` para que los datos se vean inmediatamente en mdBook.
+
+### Comando recomendado para traer metadata real
+
+```powershell
+.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -EnrichSteamMetadata -MetadataMaxGames 100 -MetadataDelayMs 2000
+mdbook clean
+mdbook build
+mdbook serve --open
+```
+
+Para traer todos los pendientes, quita `-MetadataMaxGames 100`, pero va a tardar bastante.
+
+---
+
 ## V6.6.1 — Parche de limpieza y enriquecimiento
 
 ### Nuevos scripts
@@ -896,6 +976,9 @@ mdbook serve --open
 
 # Después de enriquecer, regenerar el index
 .\scripts\15-build-games-index-with-metadata.ps1
+
+# O hacerlo en una sola corrida
+.\scripts\17-enrich-steam-metadata.ps1 -MaxGames 100 -DelayMs 2000 -BuildIndexAfter
 ```
 
 > ℹ️ La Steam Store API tiene un rate limit no oficial. Usa `-DelayMs 2000` si obtienes errores 429.
@@ -914,3 +997,21 @@ Se agrega `VIII. Estadísticas` al sidebar. Carga dinámicamente desde `games-in
 - Distribución de estados personales con barras
 - Modos de juego confirmados
 - Top géneros (requiere metadata enriquecida)
+
+## Troubleshooting rápido
+
+### Error `Cannot convert value "-DelayMs" to type System.Int32`
+
+Corregido en V6.6.3. La causa era la invocación interna de `17-enrich-steam-metadata.ps1` desde `05-run-full-sync.ps1` usando un arreglo de argumentos. El script ahora llama el enriquecedor con parámetros explícitos.
+
+Comando recomendado:
+
+```powershell
+.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -EnrichSteamMetadata -MetadataMaxGames 100 -MetadataDelayMs 2000
+```
+
+Si quieres probar solo el enriquecedor, sin toda la sincronización:
+
+```powershell
+.\scripts\17-enrich-steam-metadata.ps1 -MaxGames 100 -DelayMs 2000 -BuildIndexAfter
+```

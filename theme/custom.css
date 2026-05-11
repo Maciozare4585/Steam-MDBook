@@ -961,3 +961,64 @@ blockquote,
   .game-detail__hero { grid-template-columns: 1fr; }
   .steam-actions { display: none; }
 }
+
+
+.game-detail__note {
+  border: 1px solid var(--theme-popup-border, #334155);
+  border-radius: 0.75rem;
+  padding: 0.75rem 1rem;
+  margin: 0.75rem 0;
+  background: rgba(148, 163, 184, 0.08);
+}
+
+.game-detail__note ul {
+  margin: 0.5rem 0 0 1.25rem;
+}
+
+/* V6.6.6 — DLC catalog table with manual ownership checkboxes */
+.game-detail__dlc-table th:first-child,
+.game-detail__dlc-table td:first-child {
+  width: 8rem;
+  white-space: nowrap;
+}
+
+.game-detail__dlc-checkbox {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  font-weight: 700;
+  opacity: .9;
+}
+
+.game-detail__dlc-checkbox input[type="checkbox"] {
+  width: 1rem;
+  height: 1rem;
+  margin: 0;
+  accent-color: #4f8cff;
+}
+
+.game-detail__dlc-checkbox input[type="checkbox"]:disabled {
+  cursor: default;
+  opacity: .85;
+}
+
+.game-detail__dlc-subline {
+  margin-top: .15rem;
+  font-size: .82em;
+  opacity: .72;
+}
+
+.game-detail__dlc-muted {
+  margin-left: .45rem;
+  opacity: .78;
+}
+
+.game-detail__dlc-badge {
+  display: inline-block;
+  margin-left: .45rem;
+  padding: .05rem .38rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  font-size: .78em;
+  opacity: .85;
+}

@@ -25,7 +25,7 @@ function New-DefaultGameMetadata($game) {
             achievements = $null; cloudSaves = $null; fullControllerSupport = $null; partialControllerSupport = $null; remotePlayTogether = $null; workshop = $null; tradingCards = $null; vrSupported = $null
         }
         dlcInfo = [ordered]@{
-            hasDlc = $false; totalDlcCount = 0; ownedDlcCount = 0; missingDlcCount = 0; dlcs = @()
+            hasDlc = $false; totalDlcCount = 0; ownedDlcCount = 0; missingDlcCount = 0; dlcs = @(); ownershipStatus = "unknown"; ownershipSummary = $null; missingNotes = @(); manualSource = $null; lastManualUpdateAt = $null
         }
         playerState = [ordered]@{
             mainStatus = "sin_empezar"

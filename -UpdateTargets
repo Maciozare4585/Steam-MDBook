@@ -1074,12 +1074,6 @@
     "priority": "registry-approved"
   },
   {
-    "title": "Dead Island: Epidemic",
-    "slug": "dead-island-epidemic",
-    "steamAppId": 222900,
-    "priority": "registry-approved"
-  },
-  {
     "title": "Dead Rising 2",
     "slug": "dead-rising-2",
     "steamAppId": 45740,
@@ -1167,12 +1161,6 @@
     "title": "Deep Siege",
     "slug": "deep-siege",
     "steamAppId": 3384270,
-    "priority": "registry-approved"
-  },
-  {
-    "title": "Deiland",
-    "slug": "deiland",
-    "steamAppId": 760620,
     "priority": "registry-approved"
   },
   {
@@ -3060,12 +3048,6 @@
     "priority": "registry-approved"
   },
   {
-    "title": "Metro: Last Light Complete Edition",
-    "slug": "metro-last-light-complete",
-    "steamAppId": 43160,
-    "priority": "registry-approved"
-  },
-  {
     "title": "Metro: Last Light Redux",
     "slug": "metro-last-light-redux",
     "steamAppId": 287390,
@@ -3339,12 +3321,6 @@
     "title": "Night in the Woods",
     "slug": "night-in-the-woods",
     "steamAppId": 481510,
-    "priority": "registry-approved"
-  },
-  {
-    "title": "Night is Coming — Wrath of the Woods",
-    "slug": "night-is-coming-wrath-of-the-woods",
-    "steamAppId": 3405660,
     "priority": "registry-approved"
   },
   {
@@ -3852,12 +3828,6 @@
     "priority": "registry-approved"
   },
   {
-    "title": "Portal: Revolution",
-    "slug": "portal-revolution",
-    "steamAppId": 601360,
-    "priority": "registry-approved"
-  },
-  {
     "title": "POSTAL",
     "slug": "postal",
     "steamAppId": 232770,
@@ -3945,12 +3915,6 @@
     "title": "Quake 4",
     "slug": "quake-4",
     "steamAppId": 2210,
-    "priority": "registry-approved"
-  },
-  {
-    "title": "Rage Parking Simulator 2016",
-    "slug": "rage-parking-simulator-2016",
-    "steamAppId": 449630,
     "priority": "registry-approved"
   },
   {

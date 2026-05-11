@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Dead Island: Epidemic",
+    "slug": "dead-island-epidemic",
+    "detectedSteamAppId": 222900,
+    "detectedName": "Dead Island: Epidemic",
+    "matchType": "provided",
+    "steamType": "advertising",
+    "reason": "steamType no aceptado automáticamente",
+    "updatedAt": "2026-05-10T23:08:10"
+  },
+  {
+    "title": "Deiland",
+    "slug": "deiland",
+    "detectedSteamAppId": 760620,
+    "detectedName": "Deiland",
+    "matchType": "provided",
+    "reason": "appdetails success=false",
+    "updatedAt": "2026-05-10T23:04:31"
+  },
+  {
+    "title": "Metro: Last Light Complete Edition",
+    "slug": "metro-last-light-complete",
+    "detectedSteamAppId": 43160,
+    "detectedName": "Metro: Last Light Complete Edition",
+    "matchType": "provided",
+    "reason": "appdetails success=false",
+    "updatedAt": "2026-05-10T22:46:37"
+  },
+  {
+    "title": "Night is Coming — Wrath of the Woods",
+    "slug": "night-is-coming-wrath-of-the-woods",
+    "detectedSteamAppId": 3405660,
+    "detectedName": "Night is Coming — Wrath of the Woods",
+    "matchType": "provided",
+    "reason": "appdetails success=false",
+    "updatedAt": "2026-05-10T22:50:03"
+  },
+  {
+    "title": "Portal: Revolution",
+    "slug": "portal-revolution",
+    "detectedSteamAppId": 601360,
+    "detectedName": "Portal: Revolution",
+    "matchType": "provided",
+    "steamType": "mod",
+    "reason": "steamType no aceptado automáticamente",
+    "updatedAt": "2026-05-10T23:12:12"
+  },
+  {
+    "title": "Rage Parking Simulator 2016",
+    "slug": "rage-parking-simulator-2016",
+    "detectedSteamAppId": 449630,
+    "detectedName": "Rage Parking Simulator 2016",
+    "matchType": "provided",
+    "reason": "appdetails success=false",
+    "updatedAt": "2026-05-10T22:44:56"
+  }
+]

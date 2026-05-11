@@ -1,0 +1,13 @@
+{
+  "version": "6.6.6",
+  "title": "DLC catalog sync with manual ownership checkboxes",
+  "generatedAt": "2026-05-11T00:00:00Z",
+  "changes": [
+    "Added scripts/18-sync-steam-dlc.ps1 to fetch Steam DLC catalog per game.",
+    "Added -SyncSteamDlc, -DlcMaxGames, -DlcDelayMs and -ForceSteamDlc to scripts/05-run-full-sync.ps1.",
+    "Updated theme/game-detail.js to render DLC rows as a checkbox table.",
+    "Added DLC table styles to theme/custom.css.",
+    "Updated README with DLC sync and manual ownership commands.",
+    "Added maintenance documentation page for V6.6.6."
+  ]
+}

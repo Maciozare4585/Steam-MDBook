@@ -69,3 +69,10 @@ Las páginas `V6.x` viven debajo de **Historial técnico de versiones**.
 - [V6.6.0 Metadata base](v6-6-0-metadata-base.md)
 - Se agrega `games-metadata.json` como fuente extendida de ficha.
 - Se agrega estructura para DLC, checkboxes personales, perfiles y reglas de colección.
+
+## V6.6.5 · DLC y juegos nuevos
+
+- Se agregan Blue Protocol: Star Resonance, Desktop Mate, Supermarket Together y Transformice al registry, metadata y colecciones existentes.
+- Se registra propiedad manual de DLC para juegos clave y sagas específicas.
+- Se amplía `dlcInfo` con `ownershipStatus`, `ownershipSummary`, `missingNotes`, `manualSource` y `lastManualUpdateAt`.
+- La ficha dinámica ahora muestra estado de DLC manual sin depender de conteos exactos de Steam.

@@ -1,0 +1,11 @@
+{
+  "version": "V6.6.3",
+  "title": "Hotfix de invocación de metadata Steam",
+  "createdAt": "2026-05-08T03:47:38Z",
+  "changes": [
+    "Corrige scripts/05-run-full-sync.ps1 para invocar scripts/17-enrich-steam-metadata.ps1 con parámetros explícitos.",
+    "Elimina el array-splatting de metadataArgs que podía pasar '-DelayMs' como valor posicional del parámetro DelayMs en algunos entornos.",
+    "Mantiene los parámetros públicos -EnrichSteamMetadata, -MetadataMaxGames, -MetadataDelayMs y -ForceSteamMetadata."
+  ],
+  "recommendedCommand": ".\\scripts\\05-run-full-sync.ps1 -DiscoverFromMarkdown -EnrichSteamMetadata -MetadataMaxGames 100 -MetadataDelayMs 2000"
+}

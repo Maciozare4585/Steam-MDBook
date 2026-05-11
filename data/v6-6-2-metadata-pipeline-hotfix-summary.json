@@ -1,0 +1,20 @@
+{
+  "version": "6.6.2",
+  "title": "Hotfix metadata pipeline ficha dinámica",
+  "createdAt": "2026-05-08T03:42:48Z",
+  "problem": "La ficha dinámica seguía mostrando guiones porque games-index.json podía ser sobrescrito por 04-generate-game-pages.ps1 usando solo steam-games-registry.json, sin mezclar games-metadata.json. Además el full sync no tenía una opción explícita para enriquecer metadata desde Steam Store API.",
+  "changes": [
+    "04-generate-game-pages.ps1 ahora carga data/games-metadata.json y mezcla metadata extendida al generar src/assets/data/games-index.json.",
+    "05-run-full-sync.ps1 agrega -EnrichSteamMetadata, -MetadataMaxGames, -MetadataDelayMs y -ForceSteamMetadata.",
+    "17-enrich-steam-metadata.ps1 se hizo más robusto y agrega -BuildIndexAfter.",
+    "README actualizado con comandos de enriquecimiento y nota V6.6.2.",
+    "src/assets/data/games-index.json regenerado con estructura extendida."
+  ],
+  "recommendedCommands": [
+    ".\\scripts\\05-run-full-sync.ps1 -DiscoverFromMarkdown -EnrichSteamMetadata -MetadataMaxGames 100 -MetadataDelayMs 2000",
+    "mdbook clean",
+    "mdbook build",
+    "mdbook serve --open"
+  ],
+  "note": "La metadata real solo se llenará en la PC del usuario cuando el script pueda consultar Steam Store API. El ZIP no hace llamadas externas desde este entorno."
+}

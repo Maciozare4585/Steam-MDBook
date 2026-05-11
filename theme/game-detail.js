@@ -24,18 +24,71 @@
   const renderTextRow = (label, value) => `<tr><th>${htmlEscape(label)}</th><td>${textOrDash(value)}</td></tr>`;
 
   function renderDlc(dlcInfo) {
-    if (!dlcInfo || dlcInfo.hasDlc !== true) {
+    if (!dlcInfo) {
       return `<p class="game-detail__muted">Sin DLC registrado en la ficha local.</p>`;
     }
-    const rows = asArray(dlcInfo.dlcs).map(dlc => `<tr>
-      <td>${boolIcon(dlc.owned)}</td>
-      <td>${htmlEscape(dlc.title || "DLC sin nombre")}</td>
-      <td><code>${htmlEscape(dlc.type || "unknown")}</code></td>
-      <td>${boolIcon(dlc.important)}</td>
-      <td>${htmlEscape(dlc.status || "")}</td>
-    </tr>`).join("");
-    return `<p><strong>${dlcInfo.ownedDlcCount ?? 0}</strong> de <strong>${dlcInfo.totalDlcCount ?? 0}</strong> DLC marcados como propios.</p>
-      <table class="game-detail__mini-table"><thead><tr><th>Propio</th><th>DLC</th><th>Tipo</th><th>Importa</th><th>Estado</th></tr></thead><tbody>${rows || `<tr><td colspan="5">DLC pendiente de clasificar.</td></tr>`}</tbody></table>`;
+
+    if (dlcInfo.hasDlc !== true) {
+      if (dlcInfo.ownershipStatus === "no_dlc_detected" || dlcInfo.catalogSource) {
+        return `<p class="game-detail__muted">Steam no reportó DLC para este juego${dlcInfo.lastCatalogSyncAt ? ` · ${htmlEscape(dlcInfo.lastCatalogSyncAt)}` : ""}.</p>`;
+      }
+      return `<p class="game-detail__muted">Sin DLC registrado en la ficha local.</p>`;
+    }
+
+    const statusLabel = {
+      full: "Full DLC",
+      almost_full: "Casi full DLC",
+      owned_major: "DLC principal propio",
+      owned_unspecified: "DLC propio sin detalle",
+      excluded_exception: "Excepción / no full",
+      partial: "Parcial",
+      catalog_only: "Catálogo detectado / pendiente manual",
+      no_dlc_detected: "Sin DLC detectado",
+      unknown: "Sin confirmar"
+    }[dlcInfo.ownershipStatus || "unknown"] || htmlEscape(dlcInfo.ownershipStatus || "Sin confirmar");
+
+    const summary = dlcInfo.ownershipSummary
+      ? `<p><strong>Resumen:</strong> ${htmlEscape(dlcInfo.ownershipSummary)}</p>`
+      : "";
+
+    const catalogMeta = dlcInfo.catalogSource || dlcInfo.lastCatalogSyncAt
+      ? `<p class="game-detail__muted"><strong>Catálogo:</strong> ${textOrDash(dlcInfo.catalogSource)}${dlcInfo.lastCatalogSyncAt ? ` · ${htmlEscape(dlcInfo.lastCatalogSyncAt)}` : ""}</p>`
+      : "";
+
+    const missingNotes = asArray(dlcInfo.missingNotes).filter(Boolean);
+    const missingBlock = missingNotes.length
+      ? `<div class="game-detail__note"><strong>Pendiente:</strong><ul>${missingNotes.map(n => `<li>${htmlEscape(n)}</li>`).join("")}</ul></div>`
+      : "";
+
+    const checkbox = (value, label) => `<label class="game-detail__dlc-checkbox" title="Campo manual en games-metadata.json">
+      <input type="checkbox" disabled ${value === true ? "checked" : ""} />
+      <span>${htmlEscape(label || (value === true ? "Sí" : "No"))}</span>
+    </label>`;
+
+    const rows = asArray(dlcInfo.dlcs).map(dlc => {
+      const dlcTitle = dlc.title || dlc.name || "DLC sin nombre";
+      const storeLink = dlc.storeUrl || (dlc.appId ? `https://store.steampowered.com/app/${dlc.appId}` : null);
+      const titleCell = storeLink
+        ? `<a href="${htmlEscape(storeLink)}" target="_blank" rel="noreferrer">${htmlEscape(dlcTitle)}</a>`
+        : htmlEscape(dlcTitle);
+      const price = dlc.price ? `<span class="game-detail__dlc-muted">${htmlEscape(dlc.price)}</span>` : "";
+      const freeBadge = dlc.isFree === true ? `<span class="game-detail__dlc-badge">gratis</span>` : "";
+      return `<tr>
+        <td>${checkbox(dlc.owned)}</td>
+        <td>${titleCell}<div class="game-detail__dlc-subline">${dlc.appId ? `AppID ${htmlEscape(dlc.appId)}` : ""} ${price} ${freeBadge}</div></td>
+        <td><code>${htmlEscape(dlc.type || "dlc")}</code></td>
+        <td>${checkbox(dlc.important, dlc.important === true ? "Sí" : "")}</td>
+        <td>${htmlEscape(dlc.status || "pendiente_manual")}</td>
+      </tr>`;
+    }).join("");
+
+    return `<p><strong>Estado:</strong> <code>${htmlEscape(statusLabel)}</code></p>
+      ${summary}
+      ${catalogMeta}
+      <p><strong>${dlcInfo.ownedDlcCount ?? 0}</strong> de <strong>${dlcInfo.totalDlcCount ?? 0}</strong> DLC marcados como propios.</p>
+      ${missingBlock}
+      <table class="game-detail__mini-table game-detail__dlc-table"><thead><tr><th>Lo tenemos</th><th>DLC</th><th>Tipo</th><th>Importa</th><th>Estado</th></tr></thead><tbody>${rows || `<tr><td colspan="5">DLC pendiente de clasificar.</td></tr>`}</tbody></table>
+      <p class="game-detail__muted">Los checkboxes son de lectura en el mdBook. Para cambiarlos, edita <code>data/games-metadata.json</code> en <code>dlcInfo.dlcs[].owned</code> y regenera <code>games-index.json</code>.</p>`;
   }
 
   function renderProfile(profileMetadata) {

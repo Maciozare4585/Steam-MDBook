@@ -1,6 +1,6 @@
 # Juegos — B
 
-> Página alfabética compacta. Contiene **55** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **56** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -841,6 +841,27 @@
   <a class="steam-action steam-play" href="steam://run/3557620" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3557620" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3557620" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3681810" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3681810">
+    <img src="../../assets/games/3681810/steam-header.jpg" alt="Blue Protocol: Star Resonance" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3681810">🎮 Blue Protocol: Star Resonance</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3681810</code></span>
+      <span><strong>Oficial:</strong> Blue Protocol: Star Resonance</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3681810">
+  <a class="steam-action steam-play" href="steam://run/3681810" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3681810" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3681810" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

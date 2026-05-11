@@ -3,189 +3,270 @@
     Enriquece games-metadata.json con datos reales de la Steam Store API.
 
 .DESCRIPTION
-    Lee games-metadata.json y para cada juego que tenga steamMetadata vacío
-    (sin genres, tags, developers, etc.) consulta la API pública de Steam:
+    Lee data/games-metadata.json y consulta la API pública de Steam Store:
         https://store.steampowered.com/api/appdetails?appids=APPID&l=spanish
 
-    Escribe los campos recuperados de vuelta en games-metadata.json.
-    Respeta un delay configurable para no saturar la API.
+    Actualiza descripción, fecha, desarrolladores, publishers, géneros, categorías,
+    modos de juego y features de Steam. Después debe regenerarse games-index.json
+    para que la ficha dinámica lo muestre en mdBook.
 
 .PARAMETER DelayMs
     Milisegundos de espera entre llamadas a la API. Default: 1500.
 
 .PARAMETER MaxGames
-    Límite de juegos a procesar en esta ejecución. Útil para runs parciales.
-    Default: 0 (sin límite).
+    Límite de juegos a procesar en esta ejecución. Default: 0 = todos los pendientes.
 
 .PARAMETER Force
-    Si se especifica, sobreescribe metadata aunque ya exista.
+    Fuerza refresco aunque ya exista metadata.
 
 .PARAMETER DryRun
-    Imprime qué haría sin escribir nada.
+    Muestra qué procesaría sin escribir cambios.
+
+.PARAMETER BuildIndexAfter
+    Ejecuta scripts/15-build-games-index-with-metadata.ps1 al terminar si hubo cambios.
 
 .EXAMPLE
-    # Enriquecer los primeros 50 juegos sin metadata
-    .\scripts\17-enrich-steam-metadata.ps1 -MaxGames 50
+    .\scripts\17-enrich-steam-metadata.ps1 -MaxGames 100 -DelayMs 2000 -BuildIndexAfter
 
-    # Ver qué haría sin tocar nada
-    .\scripts\17-enrich-steam-metadata.ps1 -DryRun -MaxGames 10
-
-    # Forzar refresco de todos los juegos (lento)
-    .\scripts\17-enrich-steam-metadata.ps1 -Force -DelayMs 2000
+.EXAMPLE
+    .\scripts\17-enrich-steam-metadata.ps1 -DryRun -MaxGames 20
 #>
 
 param(
     [int]$DelayMs = 1500,
     [int]$MaxGames = 0,
     [switch]$Force,
-    [switch]$DryRun
+    [switch]$DryRun,
+    [switch]$BuildIndexAfter
 )
 
 $ErrorActionPreference = "Stop"
 
-$metadataPath = Join-Path $PSScriptRoot "..\data\games-metadata.json"
-$metadataPath = Resolve-Path $metadataPath
+$projectRoot = Resolve-Path (Join-Path $PSScriptRoot "..")
+$metadataPath = Join-Path $projectRoot "data\games-metadata.json"
+$buildIndexScript = Join-Path $PSScriptRoot "15-build-games-index-with-metadata.ps1"
 
 if (-not (Test-Path $metadataPath)) {
-    Write-Error "No se encontró $metadataPath. Ejecuta primero 14-generate-games-metadata-base.ps1"
+    Write-Error "No se encontró $metadataPath. Ejecuta primero .\scripts\14-generate-games-metadata-base.ps1"
     exit 1
 }
 
-Write-Host "Leyendo $metadataPath..."
-$metadataFile = Get-Content $metadataPath -Raw | ConvertFrom-Json
-$games = $metadataFile.games
+function Get-ArrayCount($Value) {
+    if ($null -eq $Value) { return 0 }
+    return @($Value).Count
+}
 
-# Filtrar juegos que necesitan enriquecimiento
-$needsEnrichment = if ($Force) {
-    $games
-} else {
-    $games | Where-Object {
-        $_.steamMetadata -and
-        (
-            ($null -eq $_.steamMetadata.genres -or $_.steamMetadata.genres.Count -eq 0) -and
-            ($null -eq $_.steamMetadata.tags   -or $_.steamMetadata.tags.Count   -eq 0)
-        )
+function Test-NeedsEnrichment($Game) {
+    if ($Force) { return $true }
+    if ($null -eq $Game.steamAppId) { return $false }
+
+    $sm = $Game.steamMetadata
+    if ($null -eq $sm) { return $true }
+
+    $hasDescription = -not [string]::IsNullOrWhiteSpace([string]$sm.shortDescription)
+    $hasGenres = (Get-ArrayCount $sm.genres) -gt 0
+    $hasCategories = (Get-ArrayCount $sm.categories) -gt 0
+    $hasDevelopers = (Get-ArrayCount $sm.developers) -gt 0
+    $status = if ($Game.dataQuality) { [string]$Game.dataQuality.metadataStatus } else { "" }
+
+    return (-not $hasDescription -or -not $hasGenres -or -not $hasCategories -or -not $hasDevelopers -or $status -eq "missing")
+}
+
+function Get-TextArray($Value) {
+    if ($null -eq $Value) { return @() }
+    return @($Value | ForEach-Object { [string]$_ } | Where-Object { -not [string]::IsNullOrWhiteSpace($_) })
+}
+
+function Test-AnyPattern($Values, [string[]]$Patterns) {
+    foreach ($v in (Get-TextArray $Values)) {
+        $text = $v.ToLowerInvariant()
+        foreach ($p in $Patterns) {
+            if ($text -match $p) { return $true }
+        }
+    }
+    return $false
+}
+
+function Set-ObjectProperty($Object, [string]$Name, $Value) {
+    if ($null -eq $Object) { return }
+
+    $prop = $Object.PSObject.Properties[$Name]
+    if ($null -eq $prop) {
+        $Object | Add-Member -MemberType NoteProperty -Name $Name -Value $Value -Force
+    }
+    else {
+        $prop.Value = $Value
     }
 }
 
-$total = $needsEnrichment.Count
-if ($MaxGames -gt 0 -and $MaxGames -lt $total) { $total = $MaxGames }
+function Set-ExistingPropertyIfNull($Object, [string]$Name, $Value) {
+    if ($null -eq $Object) { return }
 
-Write-Host "Juegos a enriquecer: $total (de $($games.Count) totales)"
+    $prop = $Object.PSObject.Properties[$Name]
+    if ($null -eq $prop) {
+        $Object | Add-Member -MemberType NoteProperty -Name $Name -Value $Value -Force
+    }
+    elseif ($null -eq $prop.Value) {
+        $prop.Value = $Value
+    }
+}
+
+function Ensure-ObjectProperty($Object, [string]$Name) {
+    if ($null -eq $Object) { return $null }
+
+    $prop = $Object.PSObject.Properties[$Name]
+    if ($null -eq $prop -or $null -eq $prop.Value) {
+        $newObject = [pscustomobject]@{}
+        Set-ObjectProperty $Object $Name $newObject
+        return $newObject
+    }
+
+    return $prop.Value
+}
+
+Write-Host "Leyendo $metadataPath..."
+$metadataFile = Get-Content $metadataPath -Raw -Encoding UTF8 | ConvertFrom-Json
+$games = @($metadataFile.games)
+
+$needsEnrichment = @($games | Where-Object { Test-NeedsEnrichment $_ })
+$totalPending = $needsEnrichment.Count
+$totalToProcess = $totalPending
+if ($MaxGames -gt 0 -and $MaxGames -lt $totalToProcess) { $totalToProcess = $MaxGames }
+
+Write-Host "Juegos pendientes de enriquecer: $totalPending (de $($games.Count) totales)"
+Write-Host "Juegos a procesar en esta corrida: $totalToProcess"
 if ($DryRun) { Write-Host "[DRY RUN] No se escribirán cambios." }
 
 $processed = 0
-$success   = 0
-$failed    = 0
-$skipped   = 0
+$success = 0
+$failed = 0
+$skipped = 0
 
-foreach ($game in ($needsEnrichment | Select-Object -First $total)) {
-    $appId = $game.steamAppId
-    $title = $game.title
+foreach ($game in ($needsEnrichment | Select-Object -First $totalToProcess)) {
+    $appId = [int]$game.steamAppId
+    $title = [string]$game.title
+    $processed++
 
-    Write-Host "[$($processed + 1)/$total] AppID $appId — $title"
+    Write-Host "[$processed/$totalToProcess] AppID $appId — $title"
 
     try {
         $url = "https://store.steampowered.com/api/appdetails?appids=$appId&l=spanish"
-        $resp = Invoke-RestMethod -Uri $url -Method Get -TimeoutSec 12 -ErrorAction Stop
+        $resp = Invoke-RestMethod -Uri $url -Method Get -TimeoutSec 20 -ErrorAction Stop
         $appData = $resp."$appId"
 
-        if (-not $appData -or $appData.success -ne $true) {
-            Write-Host "  ⚠ Sin datos en Steam (success=false o vacío)"
+        if (-not $appData -or $appData.success -ne $true -or -not $appData.data) {
+            Write-Host "  ⚠ Sin datos en Steam Store API"
             $skipped++
-        } else {
+        }
+        else {
             $data = $appData.data
 
-            # Extraer campos relevantes
-            $genres     = @($data.genres | ForEach-Object { $_.description } | Where-Object { $_ })
+            $genres = @($data.genres | ForEach-Object { $_.description } | Where-Object { $_ })
             $categories = @($data.categories | ForEach-Object { $_.description } | Where-Object { $_ })
-            $tags       = @($data.genres | ForEach-Object { $_.description })  # Steam no expone tags populares en esta API sin auth
             $developers = @($data.developers | Where-Object { $_ })
             $publishers = @($data.publishers | Where-Object { $_ })
             $releaseDate = if ($data.release_date -and -not $data.release_date.coming_soon) { $data.release_date.date } else { $null }
-            $shortDesc  = $data.short_description
-            $isFree     = $data.is_free -eq $true
-            $type       = $data.type
+            $shortDesc = [string]$data.short_description
+            $type = [string]$data.type
 
-            # Modos de juego desde categorías
-            $catNames = $categories | ForEach-Object { $_.ToLower() }
-            $singlePlayer     = ($catNames -contains "single-player") -or ($catNames -contains "un jugador")
-            $localMulti       = ($catNames -contains "local multiplayer") -or ($catNames -contains "multi-jugador local")
-            $onlineMulti      = ($catNames -contains "multi-player") -or ($catNames -contains "online pvp") -or ($catNames -contains "multijugador en línea")
-            $localCoop        = ($catNames -contains "local co-op")
-            $onlineCoop       = ($catNames -contains "online co-op")
-            $achievements     = ($catNames -contains "steam achievements") -or ($catNames -contains "logros de steam")
-            $cloud            = ($catNames -contains "steam cloud")
-            $fullController   = ($catNames -contains "full controller support") -or ($catNames -contains "compatibilidad total con mandos")
-            $partialController = ($catNames -contains "partial controller support")
-            $remotePlay       = ($catNames -contains "remote play together")
-            $workshop         = ($catNames -contains "steam workshop")
-            $tradingCards     = ($catNames -contains "steam trading cards")
-            $vrSupported      = ($catNames -contains "vr supported") -or ($catNames -contains "compatible con vr")
+            $allCategoryText = @($categories + $genres)
+            $singlePlayer = Test-AnyPattern $allCategoryText @("single[- ]player", "un jugador")
+            $localMulti = Test-AnyPattern $allCategoryText @("local multiplayer", "multijugador local", "pantalla compartida", "shared/split")
+            $onlineMulti = Test-AnyPattern $allCategoryText @("multi[- ]player", "multijugador", "online pvp", "jcj en línea", "jcj online")
+            $localCoop = Test-AnyPattern $allCategoryText @("local co[- ]op", "cooperativo local", "shared/split.*co[- ]op", "cooperativo en pantalla")
+            $onlineCoop = Test-AnyPattern $allCategoryText @("online co[- ]op", "cooperativo en línea", "cooperativo online")
+            $pvp = Test-AnyPattern $allCategoryText @("pvp", "jcj")
+            $pve = Test-AnyPattern $allCategoryText @("pve", "jce", "cooperativo")
+            $mmo = Test-AnyPattern $allCategoryText @("massively multiplayer", "multijugador masivo", "mmo")
+
+            $achievements = Test-AnyPattern $categories @("steam achievements", "logros de steam")
+            $cloud = Test-AnyPattern $categories @("steam cloud", "guardado en la nube")
+            $fullController = Test-AnyPattern $categories @("full controller support", "compatibilidad total con mandos", "mando completo")
+            $partialController = Test-AnyPattern $categories @("partial controller support", "compatibilidad parcial con mando", "mando parcial")
+            $remotePlay = Test-AnyPattern $categories @("remote play together")
+            $workshop = Test-AnyPattern $categories @("steam workshop", "workshop")
+            $tradingCards = Test-AnyPattern $categories @("steam trading cards", "cromos de steam", "trading cards")
+            $vrSupported = Test-AnyPattern $categories @("vr supported", "compatible con vr", "solo RV", "realidad virtual")
 
             if ($DryRun) {
                 Write-Host "  → Géneros: $($genres -join ', ')"
-                Write-Host "  → Devs: $($developers -join ', ')"
-                Write-Host "  → Single: $singlePlayer | Online: $onlineMulti | VR: $vrSupported"
-            } else {
-                # Actualizar steamMetadata
-                $game.steamMetadata.genres           = $genres
-                $game.steamMetadata.categories       = $categories
-                $game.steamMetadata.developers       = $developers
-                $game.steamMetadata.publishers       = $publishers
-                $game.steamMetadata.releaseDate      = $releaseDate
-                $game.steamMetadata.shortDescription = $shortDesc
-                if ($type) { $game.type = $type }
+                Write-Host "  → Categorías: $($categories -join ', ')"
+                Write-Host "  → Descripción: $([bool]$shortDesc) | Single: $singlePlayer | Online: $onlineMulti | VR: $vrSupported"
+            }
+            else {
+                $steamMetadata = Ensure-ObjectProperty $game "steamMetadata"
+                $playModes = Ensure-ObjectProperty $game "playModes"
+                $steamFeatures = Ensure-ObjectProperty $game "steamFeatures"
+                $dataQuality = Ensure-ObjectProperty $game "dataQuality"
 
-                # Actualizar playModes (solo si todavía son null)
-                if ($null -eq $game.playModes.singlePlayer)      { $game.playModes.singlePlayer      = $singlePlayer }
-                if ($null -eq $game.playModes.localMultiplayer)  { $game.playModes.localMultiplayer  = $localMulti }
-                if ($null -eq $game.playModes.onlineMultiplayer) { $game.playModes.onlineMultiplayer = $onlineMulti }
-                if ($null -eq $game.playModes.localCoop)         { $game.playModes.localCoop         = $localCoop }
-                if ($null -eq $game.playModes.onlineCoop)        { $game.playModes.onlineCoop        = $onlineCoop }
+                Set-ObjectProperty $steamMetadata "releaseDate" $releaseDate
+                Set-ObjectProperty $steamMetadata "developers" $developers
+                Set-ObjectProperty $steamMetadata "publishers" $publishers
+                Set-ObjectProperty $steamMetadata "genres" $genres
+                Set-ObjectProperty $steamMetadata "categories" $categories
+                Set-ObjectProperty $steamMetadata "tags" @()
+                Set-ObjectProperty $steamMetadata "shortDescription" $shortDesc
+                Set-ObjectProperty $steamMetadata "sourceNotes" @("Steam Store API appdetails; tags populares no disponibles por esta API pública.")
+                if (-not [string]::IsNullOrWhiteSpace($type)) { Set-ObjectProperty $game "type" $type }
 
-                # Actualizar steamFeatures
-                if ($null -eq $game.steamFeatures.achievements)           { $game.steamFeatures.achievements           = $achievements }
-                if ($null -eq $game.steamFeatures.cloudSaves)             { $game.steamFeatures.cloudSaves             = $cloud }
-                if ($null -eq $game.steamFeatures.fullControllerSupport)  { $game.steamFeatures.fullControllerSupport  = $fullController }
-                if ($null -eq $game.steamFeatures.partialControllerSupport){ $game.steamFeatures.partialControllerSupport = $partialController }
-                if ($null -eq $game.steamFeatures.remotePlayTogether)     { $game.steamFeatures.remotePlayTogether     = $remotePlay }
-                if ($null -eq $game.steamFeatures.workshop)               { $game.steamFeatures.workshop               = $workshop }
-                if ($null -eq $game.steamFeatures.tradingCards)           { $game.steamFeatures.tradingCards           = $tradingCards }
-                if ($null -eq $game.steamFeatures.vrSupported)            { $game.steamFeatures.vrSupported            = $vrSupported }
+                Set-ExistingPropertyIfNull $playModes "singlePlayer" $singlePlayer
+                Set-ExistingPropertyIfNull $playModes "localMultiplayer" $localMulti
+                Set-ExistingPropertyIfNull $playModes "onlineMultiplayer" $onlineMulti
+                Set-ExistingPropertyIfNull $playModes "localCoop" $localCoop
+                Set-ExistingPropertyIfNull $playModes "onlineCoop" $onlineCoop
+                Set-ExistingPropertyIfNull $playModes "pvp" $pvp
+                Set-ExistingPropertyIfNull $playModes "pve" $pve
+                Set-ExistingPropertyIfNull $playModes "mmo" $mmo
 
-                # Marcar calidad del dato
-                if ($game.dataQuality) {
-                    $game.dataQuality.metadataStatus = "steam-api"
-                    $game.dataQuality.lastEnrichedAt = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
-                }
+                Set-ExistingPropertyIfNull $steamFeatures "achievements" $achievements
+                Set-ExistingPropertyIfNull $steamFeatures "cloudSaves" $cloud
+                Set-ExistingPropertyIfNull $steamFeatures "fullControllerSupport" $fullController
+                Set-ExistingPropertyIfNull $steamFeatures "partialControllerSupport" $partialController
+                Set-ExistingPropertyIfNull $steamFeatures "remotePlayTogether" $remotePlay
+                Set-ExistingPropertyIfNull $steamFeatures "workshop" $workshop
+                Set-ExistingPropertyIfNull $steamFeatures "tradingCards" $tradingCards
+                Set-ExistingPropertyIfNull $steamFeatures "vrSupported" $vrSupported
+
+                Set-ObjectProperty $dataQuality "metadataStatus" "steam-api"
+                Set-ObjectProperty $dataQuality "lastEnrichedAt" (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
             }
 
             Write-Host "  ✅ OK"
             $success++
         }
-    } catch {
-        Write-Host "  ❌ Error: $_"
+    }
+    catch {
+        Write-Host "  ❌ Error: $($_.Exception.Message)"
         $failed++
     }
 
-    $processed++
-    Start-Sleep -Milliseconds $DelayMs
+    if ($processed -lt $totalToProcess -and $DelayMs -gt 0) {
+        Start-Sleep -Milliseconds $DelayMs
+    }
 }
 
-# Guardar si no es DryRun y hubo éxitos
 if (-not $DryRun -and $success -gt 0) {
-    $metadataFile.updatedAt = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
-    $metadataFile | ConvertTo-Json -Depth 20 | Set-Content $metadataPath -Encoding UTF8
+    $metadataFile.updatedAt = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
+    $metadataFile | ConvertTo-Json -Depth 30 | Set-Content $metadataPath -Encoding UTF8
     Write-Host ""
     Write-Host "✅ Guardado en $metadataPath"
     Write-Host "   Actualizados: $success | Fallidos: $failed | Sin datos: $skipped"
+
+    if ($BuildIndexAfter) {
+        Write-Host ""
+        Write-Host "Regenerando games-index con metadata extendida..."
+        & $buildIndexScript
+    }
+    else {
+        Write-Host ""
+        Write-Host "Siguiente paso obligatorio para verlo en mdBook:"
+        Write-Host "  .\scripts\15-build-games-index-with-metadata.ps1"
+    }
+}
+elseif ($DryRun) {
     Write-Host ""
-    Write-Host "Siguiente paso: regenerar games-index con metadata extendida"
-    Write-Host "  .\scripts\15-build-games-index-with-metadata.ps1"
-} elseif ($DryRun) {
-    Write-Host ""
-    Write-Host "[DRY RUN] Sin cambios escritos. Procesados: $processed"
-} else {
-    Write-Host "Sin cambios que guardar."
+    Write-Host "[DRY RUN] Sin cambios escritos. Procesados: $processed | OK simulados: $success | Fallidos: $failed | Sin datos: $skipped"
+}
+else {
+    Write-Host "Sin cambios que guardar. OK: $success | Fallidos: $failed | Sin datos: $skipped"
 }

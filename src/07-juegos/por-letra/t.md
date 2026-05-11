@@ -1,6 +1,6 @@
 # Juegos — T
 
-> Página alfabética compacta. Contiene **83** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **84** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -1702,6 +1702,27 @@
   <a class="steam-action steam-play" href="steam://run/585420" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/585420" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/585420" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-335240" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=335240">
+    <img src="../../assets/games/335240/steam-header.jpg" alt="Transformice" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=335240">🎮 Transformice</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>335240</code></span>
+      <span><strong>Oficial:</strong> Transformice</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="335240">
+  <a class="steam-action steam-play" href="steam://run/335240" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/335240" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/335240" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

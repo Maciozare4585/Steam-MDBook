@@ -2105,6 +2105,28 @@
     "updatedAt": "2026-05-07T08:52:09"
   },
   {
+    "title": "Blue Protocol: Star Resonance",
+    "slug": "blue-protocol-star-resonance",
+    "steamAppId": 3681810,
+    "officialName": "Blue Protocol: Star Resonance",
+    "steamType": "game",
+    "matchName": "Blue Protocol: Star Resonance",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/3681810/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/3681810/steam-header.jpg",
+      "steamCapsule": "src/assets/games/3681810/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/3681810/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-11T04:57:26Z"
+  },
+  {
     "title": "Bob Esponja: The Cosmic Shake",
     "slug": "bob-esponja-the-cosmic-shake",
     "steamAppId": 1282150,
@@ -4482,6 +4504,28 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-07T08:52:55"
+  },
+  {
+    "title": "Desktop Mate",
+    "slug": "desktop-mate",
+    "steamAppId": 3301060,
+    "officialName": "Desktop Mate",
+    "steamType": "software",
+    "matchName": "Desktop Mate",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/3301060/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/3301060/steam-header.jpg",
+      "steamCapsule": "src/assets/games/3301060/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/3301060/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-11T04:57:26Z"
   },
   {
     "title": "Destiny 2",
@@ -17770,6 +17814,28 @@
     "updatedAt": "2026-05-06T22:47:15"
   },
   {
+    "title": "Supermarket Together",
+    "slug": "supermarket-together",
+    "steamAppId": 2709570,
+    "officialName": "Supermarket Together",
+    "steamType": "game",
+    "matchName": "Supermarket Together",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/2709570/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/2709570/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2709570/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2709570/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-11T04:57:26Z"
+  },
+  {
     "title": "SUR5",
     "slug": "sur5",
     "aliases": [],
@@ -19657,6 +19723,28 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:27:12"
+  },
+  {
+    "title": "Transformice",
+    "slug": "transformice",
+    "steamAppId": 335240,
+    "officialName": "Transformice",
+    "steamType": "game",
+    "matchName": "Transformice",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/335240/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/335240/steam-header.jpg",
+      "steamCapsule": "src/assets/games/335240/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/335240/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-11T04:57:26Z"
   },
   {
     "title": "Trash Patrol - Academic Version",

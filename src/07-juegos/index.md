@@ -4,7 +4,7 @@
 
 Esta sección ya no lista todos los juegos individuales en el sidebar. Los detalles se dividen por letra y cada juego puede abrirse en una ficha dinámica única.
 
-**Total registrado:** `962` juegos/apps con `steamAppId`.
+**Total registrado:** `966` juegos/apps con `steamAppId`.
 
 ## Ficha dinámica
 
@@ -15,9 +15,9 @@ Esta sección ya no lista todos los juegos individuales en el sidebar. Los detal
 <div class="letter-nav">
   <a href="por-letra/0-9.html">0-9 <small>11</small></a>
   <a href="por-letra/a.html">A <small>43</small></a>
-  <a href="por-letra/b.html">B <small>55</small></a>
+  <a href="por-letra/b.html">B <small>56</small></a>
   <a href="por-letra/c.html">C <small>54</small></a>
-  <a href="por-letra/d.html">D <small>88</small></a>
+  <a href="por-letra/d.html">D <small>89</small></a>
   <a href="por-letra/e.html">E <small>21</small></a>
   <a href="por-letra/f.html">F <small>33</small></a>
   <a href="por-letra/g.html">G <small>35</small></a>
@@ -32,8 +32,8 @@ Esta sección ya no lista todos los juegos individuales en el sidebar. Los detal
   <a href="por-letra/p.html">P <small>64</small></a>
   <a href="por-letra/q.html">Q <small>1</small></a>
   <a href="por-letra/r.html">R <small>44</small></a>
-  <a href="por-letra/s.html">S <small>103</small></a>
-  <a href="por-letra/t.html">T <small>83</small></a>
+  <a href="por-letra/s.html">S <small>104</small></a>
+  <a href="por-letra/t.html">T <small>84</small></a>
   <a href="por-letra/u.html">U <small>15</small></a>
   <a href="por-letra/v.html">V <small>9</small></a>
   <a href="por-letra/w.html">W <small>39</small></a>
@@ -142,6 +142,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-649190" class="compact-registry-link" href="detalle.html?id=649190">🎮 Blast Zone! Tournament</a>
   <a id="game-meta-960090" class="compact-registry-link" href="detalle.html?id=960090">🎮 Bloons TD 6</a>
   <a id="game-meta-3557620" class="compact-registry-link" href="detalle.html?id=3557620">🎮 Blue Archive</a>
+  <a id="game-meta-3681810" class="compact-registry-link" href="detalle.html?id=3681810">🎮 Blue Protocol: Star Resonance</a>
   <a id="game-meta-1282150" class="compact-registry-link" href="detalle.html?id=1282150">🎮 Bob Esponja: The Cosmic Shake</a>
   <a id="game-meta-49520" class="compact-registry-link" href="detalle.html?id=49520">🎮 Borderlands 2</a>
   <a id="game-meta-991260" class="compact-registry-link" href="detalle.html?id=991260">🎮 Borderlands 2 VR</a>
@@ -249,6 +250,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-470740" class="compact-registry-link" href="detalle.html?id=470740">🎮 Demolish &amp; Build 2017</a>
   <a id="game-meta-214340" class="compact-registry-link" href="detalle.html?id=214340">🎮 Deponia</a>
   <a id="game-meta-1590840" class="compact-registry-link" href="detalle.html?id=1590840">🎮 Depths Of Horror: Mushroom Day</a>
+  <a id="game-meta-3301060" class="compact-registry-link" href="detalle.html?id=3301060">🎮 Desktop Mate</a>
   <a id="game-meta-1085660" class="compact-registry-link" href="detalle.html?id=1085660">🎮 Destiny 2</a>
   <a id="game-meta-1222140" class="compact-registry-link" href="detalle.html?id=1222140">🎮 Detroit: Become Human</a>
   <a id="game-meta-238010" class="compact-registry-link" href="detalle.html?id=238010">🎮 Deus Ex: Human Revolution - Director&#39;s Cut</a>
@@ -847,6 +849,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-322500" class="compact-registry-link" href="detalle.html?id=322500">🎮 SUPERHOT</a>
   <a id="game-meta-1049410" class="compact-registry-link" href="detalle.html?id=1049410">🎮 Superliminal</a>
   <a id="game-meta-2670630" class="compact-registry-link" href="detalle.html?id=2670630">🎮 Supermarket Simulator</a>
+  <a id="game-meta-2709570" class="compact-registry-link" href="detalle.html?id=2709570">🎮 Supermarket Together</a>
   <a id="game-meta-2159120" class="compact-registry-link" href="detalle.html?id=2159120">🎮 SUR5</a>
   <a id="game-meta-1511860" class="compact-registry-link" href="detalle.html?id=1511860">🎮 Swallow the Sea</a>
   <a id="game-meta-2526380" class="compact-registry-link" href="detalle.html?id=2526380">🎮 Sword of Convallaria</a>
@@ -932,6 +935,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-201270" class="compact-registry-link" href="detalle.html?id=201270">🎮 Total War: SHOGUN 2</a>
   <a id="game-meta-1510580" class="compact-registry-link" href="detalle.html?id=1510580">🎮 Toy Tinker Simulator</a>
   <a id="game-meta-585420" class="compact-registry-link" href="detalle.html?id=585420">🎮 Trailmakers</a>
+  <a id="game-meta-335240" class="compact-registry-link" href="detalle.html?id=335240">🎮 Transformice</a>
   <a id="game-meta-1969130" class="compact-registry-link" href="detalle.html?id=1969130">🎮 Trash Patrol - Academic Version</a>
   <a id="game-meta-553420" class="compact-registry-link" href="detalle.html?id=553420">🎮 TUNIC</a>
   <a id="game-meta-616560" class="compact-registry-link" href="detalle.html?id=616560">🎮 Ultimate Epic Battle Simulator</a>
