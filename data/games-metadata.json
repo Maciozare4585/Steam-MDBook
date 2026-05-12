@@ -1,6 +1,6 @@
 {
-  "version": "6.6.6",
-  "updatedAt": "2026-05-12T02:00:10Z",
+  "version": "6.6.0",
+  "updatedAt": "2026-05-11T19:17:02.0056065-07:00",
   "games": [
     {
       "canonicalId": "steam:454320",
@@ -47712,7 +47712,7 @@
           "new_manual_game_v6_6_5"
         ],
         "lastSyncedAt": "2026-05-11T04:57:26Z",
-        "lastEnrichedAt": "2026-05-12T01:59:58Z"
+        "lastEnrichedAt": "2026-05-12T02:12:35Z"
       }
     },
     {
@@ -110698,7 +110698,7 @@
         "needsReview": false,
         "warnings": [],
         "lastSyncedAt": "2026-05-07T23:59:00Z",
-        "lastEnrichedAt": "2026-05-12T02:00:00Z"
+        "lastEnrichedAt": "2026-05-12T02:12:37Z"
       }
     },
     {
@@ -123788,7 +123788,7 @@
         "needsReview": false,
         "warnings": [],
         "lastSyncedAt": "2026-05-07T23:59:00Z",
-        "lastEnrichedAt": "2026-05-12T02:00:04Z"
+        "lastEnrichedAt": "2026-05-12T02:12:41Z"
       }
     },
     {
@@ -163751,7 +163751,7 @@
         "needsReview": false,
         "warnings": [],
         "lastSyncedAt": "2026-05-07T23:59:00Z",
-        "lastEnrichedAt": "2026-05-12T02:00:08Z"
+        "lastEnrichedAt": "2026-05-12T02:12:44Z"
       }
     },
     {
