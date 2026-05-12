@@ -1089,6 +1089,7 @@ blockquote,
 }
 
 .game-detail__dlc-marker,
+.game-detail__dlc-status,
 .game-detail__dlc-legend-item {
   display: inline-flex;
   align-items: center;
@@ -1144,23 +1145,58 @@ blockquote,
 }
 
 .game-detail__dlc-marker.is-owned,
+.game-detail__dlc-status.is-owned,
 .game-detail__dlc-legend-item.is-owned { background: var(--dlc-owned-bg); }
 .game-detail__dlc-marker.is-missing,
+.game-detail__dlc-status.is-missing,
 .game-detail__dlc-legend-item.is-missing { background: var(--dlc-missing-bg); }
 .game-detail__dlc-marker.is-skip,
+.game-detail__dlc-status.is-skip,
 .game-detail__dlc-legend-item.is-skip { background: var(--dlc-skip-bg); }
 .game-detail__dlc-marker.is-soundtrack,
+.game-detail__dlc-status.is-soundtrack,
 .game-detail__dlc-legend-item.is-soundtrack { background: var(--dlc-soundtrack-bg); }
 .game-detail__dlc-marker.is-artbook,
+.game-detail__dlc-status.is-artbook,
 .game-detail__dlc-legend-item.is-artbook { background: var(--dlc-artbook-bg); }
 .game-detail__dlc-marker.is-cosmetic,
+.game-detail__dlc-status.is-cosmetic,
 .game-detail__dlc-legend-item.is-cosmetic { background: var(--dlc-cosmetic-bg); }
 .game-detail__dlc-marker.is-currency,
+.game-detail__dlc-status.is-currency,
 .game-detail__dlc-legend-item.is-currency { background: var(--dlc-currency-bg); }
 .game-detail__dlc-marker.is-pass,
+.game-detail__dlc-status.is-pass,
 .game-detail__dlc-legend-item.is-pass { background: var(--dlc-pass-bg); }
 .game-detail__dlc-marker.is-free,
+.game-detail__dlc-status.is-free,
 .game-detail__dlc-legend-item.is-free { background: var(--dlc-free-bg); }
 .game-detail__dlc-marker.is-unknown,
+.game-detail__dlc-status.is-unknown,
 .game-detail__dlc-legend-item.is-unknown { background: var(--dlc-unknown-bg); }
 
+
+.game-detail__hero img.img-error {
+  min-height: 140px;
+  background: linear-gradient(135deg,
+    rgba(var(--steam-accent-rgb), .12),
+    rgba(var(--steam-accent-rgb), .04));
+  border: 1px dashed rgba(var(--steam-accent-rgb), .35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.game-detail__image-fallback {
+  display: grid;
+  place-items: center;
+  min-height: 140px;
+  padding: 2rem;
+  border: 1px dashed rgba(var(--steam-accent-rgb), .35);
+  border-radius: 14px;
+  background: linear-gradient(135deg,
+    rgba(var(--steam-accent-rgb), .12),
+    rgba(var(--steam-accent-rgb), .04));
+  font-size: 2rem;
+  opacity: .75;
+}

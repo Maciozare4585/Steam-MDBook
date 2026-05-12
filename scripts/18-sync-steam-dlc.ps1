@@ -136,6 +136,27 @@ function Get-ManualStatusFromExisting($ExistingDlcs, $IncomingAppId, [string]$In
 }
 
 
+
+function Normalize-DlcMarker([string]$Marker) {
+    if ([string]::IsNullOrWhiteSpace($Marker)) { return $null }
+
+    $key = $Marker.Trim().ToLowerInvariant() -replace '[\s-]+', '_'
+    $map = @{
+        yes = 'owned'; owned = 'owned'; propio = 'owned'; lo_tenemos = 'owned'
+        no = 'missing'; missing = 'missing'; faltante = 'missing'; pendiente = 'missing'
+        skip = 'skip'; no_comprar = 'skip'; descartado = 'skip'; not_buying = 'skip'
+        soundtrack = 'soundtrack'; ost = 'soundtrack'; banda_sonora = 'soundtrack'
+        artbook = 'artbook'; bookart = 'artbook'; book_art = 'artbook'; digital_artbook = 'artbook'
+        cosmetic = 'cosmetic'; skin = 'cosmetic'; outfit = 'cosmetic'
+        currency = 'currency'; moneda = 'currency'; coins = 'currency'; gems = 'currency'
+        pass = 'pass'; season_pass = 'pass'; expansion_pass = 'pass'
+        free = 'free'; gratis = 'free'
+    }
+
+    if ($map.ContainsKey($key)) { return $map[$key] }
+    return $key
+}
+
 function Get-ManualMarkerFromExisting($ExistingDlcs, $IncomingAppId, [string]$IncomingTitle, [bool]$Owned) {
     foreach ($existing in (Get-Array $ExistingDlcs)) {
         $existingAppId = $null
@@ -147,7 +168,7 @@ function Get-ManualMarkerFromExisting($ExistingDlcs, $IncomingAppId, [string]$In
         if ($matches) {
             foreach ($name in @('marker', 'iconMarker', 'icon')) {
                 if ($existing.PSObject.Properties[$name] -and -not [string]::IsNullOrWhiteSpace([string]$existing.$name)) {
-                    return [string]$existing.$name
+                    return (Normalize-DlcMarker ([string]$existing.$name))
                 }
             }
         }
@@ -193,7 +214,7 @@ function New-DlcRecord($DlcData, [int]$DlcAppId, $ExistingDlcs, [bool]$FullOwner
     $isFree = if ($DlcData -and $null -ne $DlcData.is_free) { [bool]$DlcData.is_free } else { $false }
     $marker = Get-ManualMarkerFromExisting $ExistingDlcs $DlcAppId $name $owned
     if ([string]::IsNullOrWhiteSpace([string]$marker)) {
-        $marker = Get-DefaultMarker $name $status $owned $isFree
+        $marker = Normalize-DlcMarker (Get-DefaultMarker $name $status $owned $isFree)
     }
     $releaseDate = $null
     if ($DlcData -and $DlcData.release_date -and -not $DlcData.release_date.coming_soon) { $releaseDate = [string]$DlcData.release_date.date }

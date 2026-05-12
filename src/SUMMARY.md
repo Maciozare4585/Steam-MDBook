@@ -193,10 +193,11 @@
     - [V6.5.12 El Pozo como sección propia](06-mantenimiento/v6-5-12-pozo-inventario.md)
     - [V6.5.13 MRD como sección propia](06-mantenimiento/v6-5-13-mrd-inventario.md)
     - [V6.5.14 Parser/registry/tooltips](06-mantenimiento/v6-5-14-parser-registry-tooltips.md)
+    - [V6.6.0 Metadata base](06-mantenimiento/v6-6-0-metadata-base.md)
     - [V6.6.1 Limpieza, CSS y enriquecimiento](06-mantenimiento/v6-6-1-limpieza-css-enriquecimiento.md)
     - [V6.6.5 DLC y juegos nuevos](06-mantenimiento/v6-6-5-dlc-juegos-nuevos.md)
-    - [V6.6.6 DLC con checkboxes](06-mantenimiento/v6-6-6-dlc-catalog-checkboxes.md)
-    - [V6.6.0 Metadata base](06-mantenimiento/v6-6-0-metadata-base.md)
+    - [V6.6.6 Catálogo DLC e iconos](06-mantenimiento/v6-6-6-dlc-catalog-iconos.md)
+    - [V6.6.9 Estabilización UI/scripts](06-mantenimiento/v6-6-9-estabilizacion-ui-scripts.md)
 
 - [VII. Juegos / Metadatos](07-juegos/index.md)
   - [Índice alfabético](07-juegos/index.md)

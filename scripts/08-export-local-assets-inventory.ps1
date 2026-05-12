@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Exporta inventario local de assets descargados.
+.DESCRIPTION
+    Recorre `src/assets/games` y genera un CSV con archivos existentes por `steamAppId` para diagnosticar
+    juegos con assets incompletos.
+.EXAMPLE
+    .\scripts\08-export-local-assets-inventory.ps1
+#>
 param(
     [string]$AssetsRoot = ".\src\assets\games",
     [string]$OutPath = ".\data\local-assets-existing.csv"

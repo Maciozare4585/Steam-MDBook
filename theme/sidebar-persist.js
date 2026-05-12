@@ -1,3 +1,9 @@
+/**
+ * Steam High Family mdBook — persistencia de ancho del sidebar.
+ *
+ * Permite redimensionar el sidebar de mdBook y guardar el ancho en `localStorage` para que
+ * no se resetee al cambiar de página.
+ */
 (() => {
   const STORAGE_KEY = "steam-high-mdbook-sidebar-width-v6-5-7";
   const MIN_WIDTH = 220;

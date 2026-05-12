@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Actualiza fichas compactas de juegos clave de Daniel.
+.DESCRIPTION
+    Lee data de juegos clave y registry para regenerar páginas base dentro del perfil de Daniel.
+    Se conserva para compatibilidad con la capa anterior de fichas.
+.EXAMPLE
+    .\scripts\06-update-key-game-pages.ps1
+#>
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string]$GamesKeyPath = ".\data\games-key.json",

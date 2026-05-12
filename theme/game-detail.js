@@ -1,3 +1,13 @@
+/**
+ * Steam High Family mdBook — ficha dinámica de juego.
+ *
+ * Responsabilidades:
+ * - Cargar `src/assets/data/games-index.json` desde rutas relativas posibles.
+ * - Renderizar una ficha única por `steamAppId` usando `detalle.html?id=<APPID>`.
+ * - Mostrar metadata Steam, estado personal, modos, features, ubicación y perfil.
+ * - Mostrar DLC con sistema de iconos (`dlcInfo.dlcs[].marker`), no checkboxes.
+ * - Aplicar fallback seguro de imagen sin inyectar JavaScript roto en el HTML.
+ */
 (function () {
   const root = document.getElementById("game-detail-root");
   if (!root) return;
@@ -5,6 +15,11 @@
   const params = new URLSearchParams(window.location.search);
   const targetId = params.get("id") || (window.location.hash || "").replace(/^#/, "");
 
+  /**
+   * Escapa texto para insertarlo dentro de HTML generado por template strings.
+   * @param {unknown} value Valor a escapar.
+   * @returns {string} Texto seguro para HTML.
+   */
   const htmlEscape = (value) => String(value ?? "")
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
@@ -12,17 +27,207 @@
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#039;");
 
+  /** @param {unknown} value */
   const boolIcon = (value) => value === true ? "✅" : value === false ? "❌" : "—";
+  /** @param {unknown} value */
   const textOrDash = (value) => value === null || value === undefined || value === "" ? "—" : htmlEscape(value);
+  /** @param {unknown} value */
   const asArray = (value) => Array.isArray(value) ? value : [];
+
+  /**
+   * Fallback global usado por el atributo `onerror` de la imagen hero.
+   * Se expone en `window` para evitar handlers largos con comillas rotas dentro de `innerHTML`.
+   * @param {HTMLImageElement} img Imagen que falló al cargar.
+   */
+  window.__steamDetailImgFallback = function __steamDetailImgFallback(img) {
+    if (!img || !img.parentElement) return;
+    const fallback = document.createElement("span");
+    fallback.className = "game-detail__image-fallback";
+    fallback.setAttribute("aria-label", "Sin imagen");
+    fallback.textContent = "🎮";
+    img.classList.add("img-error");
+    img.alt = "Sin imagen";
+    img.replaceWith(fallback);
+  };
+
+  /**
+   * Renderiza chips compactos para listas cortas.
+   * @param {string} label Etiqueta visible.
+   * @param {unknown[]} values Valores a renderizar.
+   * @returns {string}
+   */
   const renderChips = (label, values) => {
     const list = asArray(values).filter(Boolean);
     if (!list.length) return "";
     return `<div class="game-detail__chips"><strong>${htmlEscape(label)}:</strong> ${list.map(v => `<span>${htmlEscape(v)}</span>`).join(" ")}</div>`;
   };
+
+  /** @param {string} label @param {unknown} value */
   const renderBoolRow = (label, value) => `<tr><th>${htmlEscape(label)}</th><td>${boolIcon(value)}</td></tr>`;
+  /** @param {string} label @param {unknown} value */
   const renderTextRow = (label, value) => `<tr><th>${htmlEscape(label)}</th><td>${textOrDash(value)}</td></tr>`;
 
+  /**
+   * Normaliza estado textual para mapearlo a un icono legible.
+   * @param {unknown} value Estado crudo.
+   * @returns {string}
+   */
+  function normalizeStatus(value) {
+    return String(value || "")
+      .trim()
+      .toLowerCase()
+      .replace(/[\s-]+/g, "_");
+  }
+
+
+  /**
+   * Normaliza aliases de marker escritos manualmente.
+   * @param {unknown} value Marker crudo.
+   * @returns {string}
+   */
+  function normalizeDlcMarker(value) {
+    const marker = String(value || "").trim().toLowerCase().replace(/[\s-]+/g, "_");
+    return ({
+      yes: "owned",
+      owned: "owned",
+      propio: "owned",
+      lo_tenemos: "owned",
+      no: "missing",
+      missing: "missing",
+      faltante: "missing",
+      pendiente: "missing",
+      skip: "skip",
+      no_comprar: "skip",
+      descartado: "skip",
+      soundtrack: "soundtrack",
+      ost: "soundtrack",
+      banda_sonora: "soundtrack",
+      artbook: "artbook",
+      bookart: "artbook",
+      book_art: "artbook",
+      digital_artbook: "artbook",
+      cosmetic: "cosmetic",
+      skin: "cosmetic",
+      currency: "currency",
+      moneda: "currency",
+      pass: "pass",
+      season_pass: "pass",
+      expansion_pass: "pass",
+      free: "free",
+      gratis: "free"
+    }[marker] || marker);
+  }
+
+  /**
+   * Obtiene metadata visual para `dlcInfo.dlcs[].marker`.
+   * @param {string} marker Marker normalizado.
+   * @returns {{icon: string, label: string, tone: string}}
+   */
+  function dlcMarkerMeta(marker) {
+    return ({
+      owned: { icon: "✅", label: "Lo tenemos", tone: "is-owned" },
+      missing: { icon: "⬜", label: "No lo tenemos / pendiente", tone: "is-missing" },
+      skip: { icon: "🚫", label: "No comprar", tone: "is-skip" },
+      soundtrack: { icon: "🎵", label: "Banda sonora", tone: "is-soundtrack" },
+      artbook: { icon: "📘", label: "Artbook / libro digital", tone: "is-artbook" },
+      cosmetic: { icon: "🎨", label: "Cosmético / skin", tone: "is-cosmetic" },
+      currency: { icon: "💰", label: "Moneda / consumible", tone: "is-currency" },
+      pass: { icon: "🧩", label: "Pack / expansión / season pass", tone: "is-pass" },
+      free: { icon: "🆓", label: "Contenido gratuito", tone: "is-free" },
+      unknown: { icon: "❔", label: "Sin clasificar", tone: "is-unknown" }
+    }[marker] || { icon: "❔", label: marker || "Sin clasificar", tone: "is-unknown" });
+  }
+
+  /**
+   * Obtiene metadata visual para `dlcInfo.dlcs[].status`.
+   * @param {unknown} rawStatus Estado crudo del DLC.
+   * @param {string} marker Marker ya inferido.
+   * @returns {{icon: string, label: string, tone: string}}
+   */
+  function dlcStatusMeta(rawStatus, marker) {
+    const status = normalizeStatus(rawStatus);
+
+    if (["propio", "owned", "lo_tenemos", "adquirido"].includes(status) || marker === "owned") {
+      return { icon: "✅", label: "Propio", tone: "is-owned" };
+    }
+
+    if (["faltante", "missing", "not_owned", "no_lo_tenemos"].includes(status) || marker === "missing") {
+      return { icon: "⬜", label: "Faltante", tone: "is-missing" };
+    }
+
+    if (["skip", "no_comprar", "no_comprar", "descartado", "not_buying"].includes(status) || marker === "skip") {
+      return { icon: "🚫", label: "No comprar", tone: "is-skip" };
+    }
+
+    if (["gratis", "free"].includes(status) || marker === "free") {
+      return { icon: "🆓", label: "Gratis", tone: "is-free" };
+    }
+
+    if (["coleccionable", "soundtrack", "ost"].includes(status) || marker === "soundtrack") {
+      return { icon: "🎵", label: "Coleccionable", tone: "is-soundtrack" };
+    }
+
+    if (["artbook", "bookart", "book_art"].includes(status) || marker === "artbook") {
+      return { icon: "📘", label: "Artbook", tone: "is-artbook" };
+    }
+
+    if (["pendiente_manual", "manual_pending", "pendiente", "unknown", ""].includes(status)) {
+      return { icon: "🕐", label: "Pendiente", tone: "is-unknown" };
+    }
+
+    return { icon: "❔", label: String(rawStatus || "Sin estado"), tone: "is-unknown" };
+  }
+
+  /**
+   * Infiere el marker visual de un DLC cuando no está declarado manualmente.
+   * @param {Record<string, unknown>} dlc Registro DLC.
+   * @returns {string}
+   */
+  function inferDlcMarker(dlc) {
+    const explicit = normalizeDlcMarker(dlc.marker || dlc.iconMarker || dlc.icon);
+    if (explicit) return explicit;
+
+    const status = normalizeStatus(dlc.status);
+    if (["skip", "no_comprar", "not_buying", "descartado"].includes(status)) return "skip";
+
+    const title = String(dlc.title || dlc.name || "").toLowerCase();
+    if (/soundtrack|ost|original soundtrack|banda sonora|music pack/.test(title)) return "soundtrack";
+    if (/artbook|art book|digital artbook|booklet|art collection/.test(title)) return "artbook";
+    if (/skin|costume|cosmetic|outfit|wardrobe|character pack/.test(title)) return "cosmetic";
+    if (/coin|coins|gem|gems|point|points|credit|credits|currency/.test(title)) return "currency";
+    if (/season pass|expansion pass|upgrade pack|supporter pack/.test(title)) return "pass";
+    if (dlc.isFree === true) return "free";
+    if (dlc.owned === true) return "owned";
+    return "missing";
+  }
+
+  /**
+   * Renderiza una píldora de marker DLC.
+   * @param {Record<string, unknown>} dlc Registro DLC.
+   * @returns {string}
+   */
+  function renderDlcMarker(dlc) {
+    const marker = inferDlcMarker(dlc);
+    const meta = dlcMarkerMeta(marker);
+    return `<span class="game-detail__dlc-marker ${meta.tone}" title="${htmlEscape(meta.label)}"><span class="game-detail__dlc-marker-icon">${meta.icon}</span><span class="game-detail__dlc-marker-label">${htmlEscape(meta.label)}</span></span>`;
+  }
+
+  /**
+   * Renderiza una píldora de estado DLC amigable.
+   * @param {Record<string, unknown>} dlc Registro DLC.
+   * @returns {string}
+   */
+  function renderDlcStatus(dlc) {
+    const marker = inferDlcMarker(dlc);
+    const meta = dlcStatusMeta(dlc.status, marker);
+    return `<span class="game-detail__dlc-status ${meta.tone}" title="${htmlEscape(String(dlc.status || "pendiente_manual"))}"><span>${meta.icon}</span><span>${htmlEscape(meta.label)}</span></span>`;
+  }
+
+  /**
+   * Renderiza la tabla de DLC con sistema de iconos.
+   * @param {Record<string, unknown>|undefined} dlcInfo Información DLC del juego.
+   * @returns {string}
+   */
   function renderDlc(dlcInfo) {
     if (!dlcInfo) {
       return `<p class="game-detail__muted">Sin DLC registrado en la ficha local.</p>`;
@@ -60,59 +265,19 @@
       ? `<div class="game-detail__note"><strong>Pendiente:</strong><ul>${missingNotes.map(n => `<li>${htmlEscape(n)}</li>`).join("")}</ul></div>`
       : "";
 
-    const inferMarker = (dlc) => {
-      const explicit = String(dlc.marker || dlc.iconMarker || dlc.icon || "").trim().toLowerCase();
-      if (explicit) return explicit;
-
-      const status = String(dlc.status || "").trim().toLowerCase();
-      if (["skip", "no_comprar", "no-comprar", "no comprar", "not_buying", "descartado"].includes(status)) return "skip";
-
-      const title = String(dlc.title || dlc.name || "").toLowerCase();
-      if (/soundtrack|ost|original soundtrack|banda sonora|music pack/.test(title)) return "soundtrack";
-      if (/artbook|art book|digital artbook|booklet|art collection/.test(title)) return "artbook";
-      if (/skin|costume|cosmetic|outfit|wardrobe|character pack/.test(title)) return "cosmetic";
-      if (/coin|coins|gem|gems|point|points|credit|credits|currency/.test(title)) return "currency";
-      if (/season pass|expansion pass|upgrade pack|supporter pack/.test(title)) return "pass";
-      if (dlc.isFree === true) return "free";
-      if (dlc.owned === true) return "owned";
-      return "missing";
-    };
-
-    const markerMeta = (marker) => ({
-      owned: { icon: "✅", label: "Lo tenemos", tone: "is-owned" },
-      missing: { icon: "⬜", label: "No lo tenemos / pendiente", tone: "is-missing" },
-      skip: { icon: "🚫", label: "No comprar", tone: "is-skip" },
-      soundtrack: { icon: "🎵", label: "Banda sonora", tone: "is-soundtrack" },
-      artbook: { icon: "📘", label: "Artbook / libro digital", tone: "is-artbook" },
-      cosmetic: { icon: "🎨", label: "Cosmético / skin", tone: "is-cosmetic" },
-      currency: { icon: "💰", label: "Moneda / consumible", tone: "is-currency" },
-      pass: { icon: "🧩", label: "Pack / expansión / season pass", tone: "is-pass" },
-      free: { icon: "🆓", label: "Contenido gratuito", tone: "is-free" },
-      unknown: { icon: "❔", label: "Sin clasificar", tone: "is-unknown" }
-    }[marker] || { icon: "❔", label: htmlEscape(marker || "Sin clasificar"), tone: "is-unknown" });
-
-    const renderMarker = (dlc) => {
-      const marker = inferMarker(dlc);
-      const meta = markerMeta(marker);
-      return `<span class="game-detail__dlc-marker ${meta.tone}" title="${htmlEscape(meta.label)}"><span class="game-detail__dlc-marker-icon">${meta.icon}</span><span class="game-detail__dlc-marker-label">${htmlEscape(meta.label)}</span></span>`;
-    };
-
     const legendItems = [
-      ["owned", "Lo tenemos"],
-      ["missing", "No lo tenemos / pendiente"],
-      ["skip", "No comprar"],
-      ["soundtrack", "Banda sonora"],
-      ["artbook", "Artbook"],
-      ["cosmetic", "Cosmético"],
-      ["currency", "Moneda / consumible"],
-      ["pass", "Pack / expansión"],
-      ["free", "Gratis"]
-    ].map(([key, fallback]) => {
-      const meta = markerMeta(key);
-      return `<span class="game-detail__dlc-legend-item ${meta.tone}" title="${htmlEscape(meta.label || fallback)}"><span class="game-detail__dlc-marker-icon">${meta.icon}</span><span>${htmlEscape(meta.label || fallback)}</span></span>`;
+      "owned", "missing", "skip", "soundtrack", "artbook", "cosmetic", "currency", "pass", "free"
+    ].map(key => {
+      const meta = dlcMarkerMeta(key);
+      return `<span class="game-detail__dlc-legend-item ${meta.tone}" title="${htmlEscape(meta.label)}"><span class="game-detail__dlc-marker-icon">${meta.icon}</span><span>${htmlEscape(meta.label)}</span></span>`;
     }).join("");
 
-    const rows = asArray(dlcInfo.dlcs).map(dlc => {
+    const dlcs = asArray(dlcInfo.dlcs);
+    const inferredOwnedCount = dlcs.filter(dlc => inferDlcMarker(dlc) === "owned" || dlc.owned === true).length;
+    const visibleOwnedCount = inferredOwnedCount || dlcInfo.ownedDlcCount || 0;
+    const totalDlcCount = dlcInfo.totalDlcCount ?? dlcs.length ?? 0;
+
+    const rows = dlcs.map(dlc => {
       const dlcTitle = dlc.title || dlc.name || "DLC sin nombre";
       const storeLink = dlc.storeUrl || (dlc.appId ? `https://store.steampowered.com/app/${dlc.appId}` : null);
       const titleCell = storeLink
@@ -122,23 +287,28 @@
       const freeBadge = dlc.isFree === true ? `<span class="game-detail__dlc-badge">gratis</span>` : "";
       const importantBadge = dlc.important === true ? `<span class="game-detail__dlc-badge">importante</span>` : "";
       return `<tr>
-        <td>${renderMarker(dlc)}</td>
+        <td>${renderDlcMarker(dlc)}</td>
         <td>${titleCell}<div class="game-detail__dlc-subline">${dlc.appId ? `AppID ${htmlEscape(dlc.appId)}` : ""} ${price} ${freeBadge} ${importantBadge}</div></td>
         <td><code>${htmlEscape(dlc.type || "dlc")}</code></td>
-        <td>${htmlEscape(dlc.status || "pendiente_manual")}</td>
+        <td>${renderDlcStatus(dlc)}</td>
       </tr>`;
     }).join("");
 
     return `<p><strong>Estado:</strong> <code>${htmlEscape(statusLabel)}</code></p>
       ${summary}
       ${catalogMeta}
-      <p><strong>${dlcInfo.ownedDlcCount ?? 0}</strong> de <strong>${dlcInfo.totalDlcCount ?? 0}</strong> DLC marcados como propios.</p>
+      <p><strong>${visibleOwnedCount}</strong> de <strong>${totalDlcCount}</strong> DLC marcados como propios.</p>
       ${missingBlock}
       <div class="game-detail__dlc-legend"><strong>Leyenda:</strong> ${legendItems}</div>
       <table class="game-detail__mini-table game-detail__dlc-table"><thead><tr><th>Marca</th><th>DLC</th><th>Tipo</th><th>Estado</th></tr></thead><tbody>${rows || `<tr><td colspan="4">DLC pendiente de clasificar.</td></tr>`}</tbody></table>
-      <p class="game-detail__muted">Ahora el mdBook usa iconos en vez de checkboxes. Para cambiar una fila, edita <code>data/games-metadata.json</code> en <code>dlcInfo.dlcs[].marker</code>. Valores sugeridos: <code>owned</code>, <code>missing</code>, <code>skip</code>, <code>soundtrack</code>, <code>artbook</code>, <code>cosmetic</code>, <code>currency</code>, <code>pass</code>, <code>free</code>. Si no defines <code>marker</code>, la vista intenta inferirlo desde <code>owned</code>, <code>status</code> y el nombre del DLC.</p>`;
+      <p class="game-detail__muted">La vista usa iconos, no checkboxes. Para cambiar una fila, edita <code>data/games-metadata.json</code> en <code>dlcInfo.dlcs[].marker</code>. Valores sugeridos: <code>owned</code>, <code>missing</code>, <code>skip</code>, <code>soundtrack</code>, <code>artbook</code>, <code>cosmetic</code>, <code>currency</code>, <code>pass</code>, <code>free</code>.</p>`;
   }
 
+  /**
+   * Renderiza significado personal por perfil.
+   * @param {Record<string, unknown>} profileMetadata Metadata de perfiles.
+   * @returns {string}
+   */
   function renderProfile(profileMetadata) {
     const people = profileMetadata || {};
     const cards = Object.entries(people).filter(([, p]) => p && (p.visibility !== "normal" || p.importanceLevel !== "normal" || p.personalSummary)).map(([person, p]) => `
@@ -153,20 +323,23 @@
     return cards || `<p class="game-detail__muted">Sin significado personal destacado todavía.</p>`;
   }
 
-  // Mostrar estado de carga
   root.innerHTML = `<div class="game-detail game-detail--loading">Cargando ficha…</div>`;
 
-  // Intentar varias rutas relativas para games-index.json (el nivel de anidamiento varía)
   const possiblePaths = [
     "../assets/data/games-index.json",
     "../../assets/data/games-index.json",
     "assets/data/games-index.json"
   ];
 
+  /**
+   * Intenta leer `games-index.json` desde varias rutas porque el nivel de anidamiento cambia.
+   * @param {string[]} paths Rutas candidatas.
+   * @returns {Promise<unknown[]>}
+   */
   function tryFetch(paths) {
     if (!paths.length) return Promise.reject(new Error("No se pudo leer games-index.json desde ninguna ruta conocida."));
     return fetch(paths[0])
-      .then(r => r.ok ? r.json() : Promise.reject())
+      .then(r => r.ok ? r.json() : Promise.reject(new Error(`No se pudo leer ${paths[0]}`)))
       .catch(() => tryFetch(paths.slice(1)));
   }
 
@@ -176,6 +349,7 @@
         root.innerHTML = `<div class="game-detail game-detail--empty"><h2>Selecciona un juego</h2><p>Abre esta página desde un tooltip o usa <code>detalle.html?id=STEAM_APP_ID</code>.</p></div>`;
         return;
       }
+
       const game = games.find(g => String(g.steamAppId) === String(targetId));
       if (!game) {
         root.innerHTML = `<div class="game-detail game-detail--missing"><h2>No encontrado</h2><p>No existe App ID <code>${htmlEscape(targetId)}</code> en <code>games-index.json</code>.</p></div>`;
@@ -195,8 +369,7 @@
 
       root.innerHTML = `<article class="game-detail">
         <header class="game-detail__hero">
-          <img src="../assets/games/${appId}/steam-header.jpg" alt="${htmlEscape(title)}" loading="lazy"
-               onerror="this.classList.add('img-error');this.alt='Sin imagen';this.removeAttribute('src');this.insertAdjacentHTML('afterend','<span style=\\"display:block;text-align:center;padding:2rem;opacity:.5;font-size:2rem\\">🎮</span>');this.remove();" />
+          <img src="../assets/games/${appId}/steam-header.jpg" alt="${htmlEscape(title)}" loading="lazy" onerror="__steamDetailImgFallback(this)" />
           <div>
             <p class="game-detail__eyebrow">Steam App ID <code>${appId}</code></p>
             <h2>${htmlEscape(title)}</h2>

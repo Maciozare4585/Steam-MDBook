@@ -105,7 +105,7 @@ Las páginas `V6.x` viven debajo de **Historial técnico de versiones**.
 
 ## V6.6.6 — Catálogo DLC desde Steam
 
-- [V6.6.6 Catálogo DLC](v6-6-6-dlc-catalog-checkboxes.md)
+- [V6.6.6 Catálogo DLC](v6-6-6-dlc-catalog-iconos.md)
 - Se agrega `scripts/18-sync-steam-dlc.ps1` para consultar el catálogo de DLC disponibles por juego desde Steam Store.
 - El script lee `data/games-metadata.json`, consulta cada `steamAppId` y genera filas dentro de `dlcInfo.dlcs`.
 - Se agregan parámetros al full sync:
@@ -145,6 +145,16 @@ Las páginas `V6.x` viven debajo de **Historial técnico de versiones**.
 - Se documenta `theme/custom.css` para que sea más fácil modificar colores del proyecto.
 - Se agrega una capa de variables CSS semánticas para centralizar acentos, superficies, bordes, prioridades, perfiles y DLC markers.
 - Se reduce la dependencia de colores hardcodeados como `#4f8cff` y `rgba(125, 170, 255, ...)`.
+
+
+## V6.6.9 — Estabilización UI, enlaces y documentación
+
+- [V6.6.9 Estabilización UI/scripts](v6-6-9-estabilizacion-ui-scripts.md)
+- Se corrige el fallback roto de imagen en `game-detail.js` que podía dejar basura visual por un handler `onerror` mal escapado.
+- Se consolida la tabla DLC con iconos y estado legible, evitando texto crudo como `pendiente_manual` en la vista.
+- Se corrigen enlaces de `fichas-extendidas.md` y `galeria-assets-generada.md` para abrir directamente `detalle.html?id=<steamAppId>`.
+- Se corrigen los scripts generadores `10` y `13` para que no vuelvan a generar enlaces hacia páginas intermedias por letra.
+- Se agregan bloques de documentación a scripts PowerShell y headers JSDoc a scripts JavaScript del tema.
 
 ---
 
