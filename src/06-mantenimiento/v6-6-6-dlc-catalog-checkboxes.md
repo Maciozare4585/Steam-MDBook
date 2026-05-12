@@ -1,4 +1,4 @@
-# V6.6.6 — Catálogo DLC con checkboxes manuales
+# V6.6.6 — Catálogo DLC con iconos manuales
 
 ## Objetivo
 
@@ -19,7 +19,7 @@ Este script:
 3. Detecta el arreglo de DLC disponibles del juego base.
 4. Consulta cada DLC para obtener nombre, AppID, tipo, precio, fecha y URL de tienda.
 5. Actualiza `dlcInfo.dlcs` con una fila por DLC.
-6. Deja `owned` como checkbox manual.
+6. Deja `owned` como icono manual.
 7. Regenera `games-index.json` si se usa `-BuildIndexAfter`.
 
 ## Modelo de datos DLC
@@ -99,7 +99,7 @@ El bloque `DLC / contenido adicional` ahora muestra tabla con:
 | Importa | Checkbox manual para marcar DLC relevantes. |
 | Estado | Estado textual, por ejemplo `pendiente_manual`, `propio`, `faltante`. |
 
-Los checkboxes son de lectura dentro del mdBook. La fuente de verdad sigue siendo `data/games-metadata.json`.
+Los iconos son de lectura dentro del mdBook. La fuente de verdad sigue siendo `data/games-metadata.json`.
 
 ## Notas
 
@@ -107,3 +107,9 @@ Los checkboxes son de lectura dentro del mdBook. La fuente de verdad sigue siend
 - Si el juego ya estaba marcado como `ownershipStatus = "full"`, los DLC detectados se marcan como propios automáticamente.
 - Si ya existían DLC manuales con el mismo AppID o nombre compatible, el valor `owned` se conserva.
 - El script genera `data/dlc-sync-report.json` para revisar qué encontró.
+
+
+## Ajuste posterior: sistema de iconos
+
+La ficha DLC ahora puede usar `dlcs[].marker` con valores como `owned`, `missing`, `skip`, `soundtrack`, `artbook`, `cosmetic`, `currency`, `pass` y `free`.
+Si `marker` no existe, la UI intenta inferirlo desde `owned`, `status`, `isFree` y el nombre del DLC.

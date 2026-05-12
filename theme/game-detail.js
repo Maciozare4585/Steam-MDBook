@@ -60,10 +60,57 @@
       ? `<div class="game-detail__note"><strong>Pendiente:</strong><ul>${missingNotes.map(n => `<li>${htmlEscape(n)}</li>`).join("")}</ul></div>`
       : "";
 
-    const checkbox = (value, label) => `<label class="game-detail__dlc-checkbox" title="Campo manual en games-metadata.json">
-      <input type="checkbox" disabled ${value === true ? "checked" : ""} />
-      <span>${htmlEscape(label || (value === true ? "Sí" : "No"))}</span>
-    </label>`;
+    const inferMarker = (dlc) => {
+      const explicit = String(dlc.marker || dlc.iconMarker || dlc.icon || "").trim().toLowerCase();
+      if (explicit) return explicit;
+
+      const status = String(dlc.status || "").trim().toLowerCase();
+      if (["skip", "no_comprar", "no-comprar", "no comprar", "not_buying", "descartado"].includes(status)) return "skip";
+
+      const title = String(dlc.title || dlc.name || "").toLowerCase();
+      if (/soundtrack|ost|original soundtrack|banda sonora|music pack/.test(title)) return "soundtrack";
+      if (/artbook|art book|digital artbook|booklet|art collection/.test(title)) return "artbook";
+      if (/skin|costume|cosmetic|outfit|wardrobe|character pack/.test(title)) return "cosmetic";
+      if (/coin|coins|gem|gems|point|points|credit|credits|currency/.test(title)) return "currency";
+      if (/season pass|expansion pass|upgrade pack|supporter pack/.test(title)) return "pass";
+      if (dlc.isFree === true) return "free";
+      if (dlc.owned === true) return "owned";
+      return "missing";
+    };
+
+    const markerMeta = (marker) => ({
+      owned: { icon: "✅", label: "Lo tenemos", tone: "is-owned" },
+      missing: { icon: "⬜", label: "No lo tenemos / pendiente", tone: "is-missing" },
+      skip: { icon: "🚫", label: "No comprar", tone: "is-skip" },
+      soundtrack: { icon: "🎵", label: "Banda sonora", tone: "is-soundtrack" },
+      artbook: { icon: "📘", label: "Artbook / libro digital", tone: "is-artbook" },
+      cosmetic: { icon: "🎨", label: "Cosmético / skin", tone: "is-cosmetic" },
+      currency: { icon: "💰", label: "Moneda / consumible", tone: "is-currency" },
+      pass: { icon: "🧩", label: "Pack / expansión / season pass", tone: "is-pass" },
+      free: { icon: "🆓", label: "Contenido gratuito", tone: "is-free" },
+      unknown: { icon: "❔", label: "Sin clasificar", tone: "is-unknown" }
+    }[marker] || { icon: "❔", label: htmlEscape(marker || "Sin clasificar"), tone: "is-unknown" });
+
+    const renderMarker = (dlc) => {
+      const marker = inferMarker(dlc);
+      const meta = markerMeta(marker);
+      return `<span class="game-detail__dlc-marker ${meta.tone}" title="${htmlEscape(meta.label)}"><span class="game-detail__dlc-marker-icon">${meta.icon}</span><span class="game-detail__dlc-marker-label">${htmlEscape(meta.label)}</span></span>`;
+    };
+
+    const legendItems = [
+      ["owned", "Lo tenemos"],
+      ["missing", "No lo tenemos / pendiente"],
+      ["skip", "No comprar"],
+      ["soundtrack", "Banda sonora"],
+      ["artbook", "Artbook"],
+      ["cosmetic", "Cosmético"],
+      ["currency", "Moneda / consumible"],
+      ["pass", "Pack / expansión"],
+      ["free", "Gratis"]
+    ].map(([key, fallback]) => {
+      const meta = markerMeta(key);
+      return `<span class="game-detail__dlc-legend-item ${meta.tone}" title="${htmlEscape(meta.label || fallback)}"><span class="game-detail__dlc-marker-icon">${meta.icon}</span><span>${htmlEscape(meta.label || fallback)}</span></span>`;
+    }).join("");
 
     const rows = asArray(dlcInfo.dlcs).map(dlc => {
       const dlcTitle = dlc.title || dlc.name || "DLC sin nombre";
@@ -73,11 +120,11 @@
         : htmlEscape(dlcTitle);
       const price = dlc.price ? `<span class="game-detail__dlc-muted">${htmlEscape(dlc.price)}</span>` : "";
       const freeBadge = dlc.isFree === true ? `<span class="game-detail__dlc-badge">gratis</span>` : "";
+      const importantBadge = dlc.important === true ? `<span class="game-detail__dlc-badge">importante</span>` : "";
       return `<tr>
-        <td>${checkbox(dlc.owned)}</td>
-        <td>${titleCell}<div class="game-detail__dlc-subline">${dlc.appId ? `AppID ${htmlEscape(dlc.appId)}` : ""} ${price} ${freeBadge}</div></td>
+        <td>${renderMarker(dlc)}</td>
+        <td>${titleCell}<div class="game-detail__dlc-subline">${dlc.appId ? `AppID ${htmlEscape(dlc.appId)}` : ""} ${price} ${freeBadge} ${importantBadge}</div></td>
         <td><code>${htmlEscape(dlc.type || "dlc")}</code></td>
-        <td>${checkbox(dlc.important, dlc.important === true ? "Sí" : "")}</td>
         <td>${htmlEscape(dlc.status || "pendiente_manual")}</td>
       </tr>`;
     }).join("");
@@ -87,8 +134,9 @@
       ${catalogMeta}
       <p><strong>${dlcInfo.ownedDlcCount ?? 0}</strong> de <strong>${dlcInfo.totalDlcCount ?? 0}</strong> DLC marcados como propios.</p>
       ${missingBlock}
-      <table class="game-detail__mini-table game-detail__dlc-table"><thead><tr><th>Lo tenemos</th><th>DLC</th><th>Tipo</th><th>Importa</th><th>Estado</th></tr></thead><tbody>${rows || `<tr><td colspan="5">DLC pendiente de clasificar.</td></tr>`}</tbody></table>
-      <p class="game-detail__muted">Los checkboxes son de lectura en el mdBook. Para cambiarlos, edita <code>data/games-metadata.json</code> en <code>dlcInfo.dlcs[].owned</code> y regenera <code>games-index.json</code>.</p>`;
+      <div class="game-detail__dlc-legend"><strong>Leyenda:</strong> ${legendItems}</div>
+      <table class="game-detail__mini-table game-detail__dlc-table"><thead><tr><th>Marca</th><th>DLC</th><th>Tipo</th><th>Estado</th></tr></thead><tbody>${rows || `<tr><td colspan="4">DLC pendiente de clasificar.</td></tr>`}</tbody></table>
+      <p class="game-detail__muted">Ahora el mdBook usa iconos en vez de checkboxes. Para cambiar una fila, edita <code>data/games-metadata.json</code> en <code>dlcInfo.dlcs[].marker</code>. Valores sugeridos: <code>owned</code>, <code>missing</code>, <code>skip</code>, <code>soundtrack</code>, <code>artbook</code>, <code>cosmetic</code>, <code>currency</code>, <code>pass</code>, <code>free</code>. Si no defines <code>marker</code>, la vista intenta inferirlo desde <code>owned</code>, <code>status</code> y el nombre del DLC.</p>`;
   }
 
   function renderProfile(profileMetadata) {

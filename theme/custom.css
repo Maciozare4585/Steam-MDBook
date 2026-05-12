@@ -1,6 +1,92 @@
+/* =========================================================
+   Steam High Family mdBook — custom.css
+   =========================================================
+
+   GUÍA RÁPIDA PARA EDITAR COLORES
+   1. Cambia primero las variables dentro de este :root.
+   2. Usa colores semánticos, no hex sueltos dentro de componentes.
+   3. Si necesitas un color nuevo, crea una variable aquí y úsala abajo.
+   4. Después de editar: mdbook clean + mdbook serve --open + Ctrl/F5.
+
+   ÍNDICE VISUAL
+   01. Base mdBook / lectura / tablas
+   02. Imágenes globales y galería generada
+   03. Registro de juegos / tiles / héroes
+   04. Tooltips inline legacy + tarjetas de juegos clave
+   05. Tooltip flotante actual de juegos
+   06. Steam actions + formato de lectura
+   07. Perfiles personales
+   08. Navegación compacta de metadata
+   09. Secciones técnicas / El Pozo
+   10. Ficha dinámica única de juego
+   11. Metadata extendida en ficha dinámica
+   12. Estados visuales, loading, prioridades y responsive
+   13. DLC icon markers
+   ========================================================= */
+
 :root {
+  /* ---------- Layout ---------- */
   --content-max-width: 1120px;
+  --content-readable-width: 78ch;
+  --steam-card-radius: 16px;
+
+  /* ---------- Color principal del proyecto ----------
+     Para cambiar el tono general, cambia solo este RGB.
+     Ejemplo morado: 168, 85, 247
+     Ejemplo verde: 20, 184, 166
+  */
+  --steam-accent-rgb: 125, 170, 255;
+  --steam-accent: rgb(var(--steam-accent-rgb));
+  --steam-accent-bg: rgba(var(--steam-accent-rgb), .08);
+  --steam-accent-bg-soft: rgba(var(--steam-accent-rgb), .07);
+
+  /* ---------- Superficies / bordes / sombras ---------- */
+  --steam-neutral-rgb: 128, 128, 128;
+  --steam-border-neutral: rgba(var(--steam-neutral-rgb), .25);
+  --steam-border-neutral-strong: rgba(var(--steam-neutral-rgb), .65);
+  --steam-border-soft: rgba(var(--steam-accent-rgb), .24);
+  --steam-surface-soft: rgba(255, 255, 255, .035);
+  --steam-surface-muted: rgba(255, 255, 255, .026);
+  --steam-surface-image: rgba(255, 255, 255, .045);
+  --steam-surface-hover: rgba(255, 255, 255, .055);
+  --steam-table-zebra: rgba(255, 255, 255, .018);
+  --steam-note-bg: rgba(148, 163, 184, .08);
+  --steam-shadow-card: rgba(0, 0, 0, .24);
+
+  /* ---------- Tooltip flotante ---------- */
+  --steam-floating-bg: rgba(12, 18, 32, .97);
+  --steam-floating-border: rgba(var(--steam-accent-rgb), .45);
+  --steam-shadow-floating: rgba(0, 0, 0, .55);
+
+  /* ---------- Estados / prioridad ---------- */
+  --priority-alta-bg: rgba(248, 113, 113, .22);
+  --priority-alta-fg: #fca5a5;
+  --priority-media-bg: rgba(251, 191, 36, .18);
+  --priority-media-fg: #fde68a;
+  --priority-baja-bg: rgba(110, 231, 183, .15);
+  --priority-baja-fg: #6ee7b7;
+
+  /* ---------- Perfiles personales ---------- */
+  --profile-high: #f8c650;
+  --profile-very-high: #ff7a56;
+  --profile-iconic: #c084fc;
+
+  /* ---------- DLC icon markers ---------- */
+  --dlc-owned-bg: rgba(34, 197, 94, .10);
+  --dlc-missing-bg: rgba(148, 163, 184, .12);
+  --dlc-skip-bg: rgba(239, 68, 68, .10);
+  --dlc-soundtrack-bg: rgba(168, 85, 247, .12);
+  --dlc-artbook-bg: rgba(59, 130, 246, .10);
+  --dlc-cosmetic-bg: rgba(236, 72, 153, .10);
+  --dlc-currency-bg: rgba(245, 158, 11, .12);
+  --dlc-pass-bg: rgba(20, 184, 166, .12);
+  --dlc-free-bg: rgba(16, 185, 129, .10);
+  --dlc-unknown-bg: rgba(100, 116, 139, .10);
 }
+
+/* =========================================================
+   01. Base mdBook / lectura / tablas
+   ========================================================= */
 
 .content main {
   line-height: 1.55;
@@ -8,7 +94,7 @@
 
 h1 {
   margin-top: 0.35rem;
-  border-bottom: 1px solid rgba(128,128,128,.22);
+  border-bottom: 1px solid var(--steam-border-neutral);
   padding-bottom: .35rem;
 }
 
@@ -21,9 +107,9 @@ table {
 }
 
 blockquote {
-  border-left: 4px solid #4f8cff;
+  border-left: 4px solid var(--steam-accent);
   padding: .25rem 1rem;
-  background: rgba(79, 140, 255, .08);
+  background: var(--steam-accent-bg);
 }
 
 .game-card {
@@ -37,12 +123,12 @@ blockquote {
 .game-card img {
   width: 100%;
   border-radius: 14px;
-  box-shadow: 0 8px 24px rgba(0,0,0,.25);
+  box-shadow: 0 8px 24px var(--steam-shadow-card);
 }
 
 .game-cover-placeholder {
   min-height: 150px;
-  border: 1px dashed rgba(128,128,128,.65);
+  border: 1px dashed var(--steam-border-neutral-strong);
   border-radius: 14px;
   padding: 1rem;
   display: grid;
@@ -52,12 +138,12 @@ blockquote {
 }
 
 .callout {
-  border: 1px solid rgba(128,128,128,.25);
-  border-left: 5px solid #4f8cff;
+  border: 1px solid var(--steam-border-neutral);
+  border-left: 5px solid var(--steam-accent);
   border-radius: 10px;
   padding: .85rem 1rem;
   margin: 1rem 0;
-  background: rgba(79, 140, 255, .07);
+  background: var(--steam-accent-bg-soft);
 }
 
 @media (max-width: 760px) {
@@ -67,7 +153,9 @@ blockquote {
 }
 
 
-/* Generated asset gallery */
+/* =========================================================
+   02. Imágenes globales y galería generada
+   ========================================================= */
 td img {
   border-radius: 10px;
   max-width: 260px;
@@ -75,7 +163,9 @@ td img {
 }
 
 
-/* V6.4 game registry pages */
+/* =========================================================
+   03. Registro de juegos / tiles / héroes
+   ========================================================= */
 .game-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -85,11 +175,11 @@ td img {
 
 .game-tile {
   display: block;
-  border: 1px solid rgba(128, 128, 128, .25);
+  border: 1px solid var(--steam-border-neutral);
   border-radius: 14px;
   overflow: hidden;
   text-decoration: none;
-  background: rgba(255, 255, 255, .035);
+  background: var(--steam-surface-soft);
   transition: transform .12s ease, border-color .12s ease;
 }
 
@@ -116,13 +206,15 @@ td img {
   width: 100%;
   max-width: 720px;
   border-radius: 16px;
-  box-shadow: 0 12px 32px rgba(0,0,0,.32);
+  box-shadow: 0 12px 32px var(--steam-shadow-card);
   display: block;
   margin: 1rem 0;
 }
 
 
-/* V6.5 — sidebar, game hover previews and image cards */
+/* =========================================================
+   04. Tooltips inline legacy + tarjetas de juegos clave
+   ========================================================= */
 .game-hover {
   position: relative;
   display: inline-block;
@@ -130,7 +222,7 @@ td img {
 
 .game-hover > a {
   text-decoration: none;
-  border-bottom: 1px dotted rgba(125, 170, 255, .65);
+  border-bottom: 1px dotted rgba(var(--steam-accent-rgb), .65);
 }
 
 .game-hover-card {
@@ -143,15 +235,15 @@ td img {
   padding: .55rem;
   border-radius: 14px;
   background: color-mix(in srgb, var(--bg) 92%, #101827 8%);
-  border: 1px solid rgba(125, 170, 255, .35);
-  box-shadow: 0 18px 40px rgba(0, 0, 0, .42);
+  border: 1px solid rgba(var(--steam-accent-rgb), .35);
+  box-shadow: 0 18px 40px var(--steam-shadow-floating);
 }
 
 .game-hover-card img {
   width: 100%;
   display: block;
   border-radius: 10px;
-  background: rgba(255,255,255,.04);
+  background: var(--steam-surface-image);
 }
 
 .game-hover-card strong {
@@ -170,7 +262,7 @@ td img {
   width: 100%;
   max-width: 760px;
   border-radius: 16px;
-  box-shadow: 0 14px 34px rgba(0,0,0,.36);
+  box-shadow: 0 14px 34px var(--steam-shadow-card);
   display: block;
   margin: 1rem 0;
 }
@@ -184,11 +276,11 @@ td img {
 
 .game-key-index a {
   display: block;
-  border: 1px solid rgba(125, 170, 255, .25);
+  border: 1px solid rgba(var(--steam-accent-rgb), .25);
   border-radius: 14px;
   overflow: hidden;
   text-decoration: none;
-  background: rgba(255,255,255,.035);
+  background: var(--steam-surface-soft);
 }
 
 .game-key-index img {
@@ -205,7 +297,7 @@ td img {
 }
 
 
-/* V6.5.1 — fix hover previews clipped by mdBook table wrappers */
+/* --- Fix legacy: tooltips dentro de tablas mdBook --- */
 .table-wrapper:has(.game-hover),
 .table-wrapper:has(.game-hover-card) {
   overflow: visible !important;
@@ -252,10 +344,10 @@ td .game-hover-card {
 
 .game-meta-section {
   scroll-margin-top: 5rem;
-  border: 1px solid rgba(125, 170, 255, .25);
+  border: 1px solid rgba(var(--steam-accent-rgb), .25);
   border-radius: 16px;
   padding: 1rem;
-  background: rgba(255,255,255,.025);
+  background: var(--steam-surface-muted);
 }
 
 .game-meta-section img {
@@ -264,7 +356,7 @@ td .game-hover-card {
   border-radius: 12px;
   display: block;
   margin: .5rem 0 1rem;
-  box-shadow: 0 10px 28px rgba(0,0,0,.32);
+  box-shadow: 0 10px 28px var(--steam-shadow-card);
 }
 
 .game-meta-section h2 {
@@ -272,7 +364,10 @@ td .game-hover-card {
 }
 
 
-/* V6.5.3 — floating tooltips outside table overflow */
+/* =========================================================
+   05. Tooltip flotante actual de juegos
+   Cambia colores en: --steam-floating-bg, --steam-floating-border, --steam-shadow-floating.
+   ========================================================= */
 .game-hover-card {
   display: none !important;
 }
@@ -289,9 +384,9 @@ td .game-hover-card {
   transition: opacity .08s ease, transform .08s ease;
   padding: .55rem;
   border-radius: 14px;
-  background: rgba(12, 18, 32, .97);
-  border: 1px solid rgba(125, 170, 255, .45);
-  box-shadow: 0 20px 50px rgba(0, 0, 0, .55);
+  background: var(--steam-floating-bg);
+  border: 1px solid var(--steam-floating-border);
+  box-shadow: 0 20px 50px var(--steam-shadow-floating);
   backdrop-filter: blur(8px);
 }
 
@@ -304,7 +399,7 @@ td .game-hover-card {
   width: 100%;
   display: block;
   border-radius: 10px;
-  background: rgba(255, 255, 255, .05);
+  background: var(--steam-surface-image);
 }
 
 .game-floating-preview__title {
@@ -322,11 +417,13 @@ td .game-hover-card {
 
 .game-hover > a {
   text-decoration: none;
-  border-bottom: 1px dotted rgba(125, 170, 255, .65);
+  border-bottom: 1px dotted rgba(var(--steam-accent-rgb), .65);
 }
 
 
-/* V6.5.6 — generated assets gallery cards */
+/* =========================================================
+   05.1 Galería generada de assets
+   ========================================================= */
 .assets-gallery-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
@@ -336,18 +433,18 @@ td .game-hover-card {
 
 .assets-gallery-card {
   display: block;
-  border: 1px solid rgba(125, 170, 255, .24);
+  border: 1px solid var(--steam-border-soft);
   border-radius: 16px;
   overflow: hidden;
-  background: rgba(255,255,255,.032);
+  background: var(--steam-surface-soft);
   text-decoration: none;
   transition: transform .12s ease, border-color .12s ease, background .12s ease;
 }
 
 .assets-gallery-card:hover {
   transform: translateY(-2px);
-  border-color: rgba(125, 170, 255, .72);
-  background: rgba(255,255,255,.055);
+  border-color: rgba(var(--steam-accent-rgb), .72);
+  background: var(--steam-surface-hover);
 }
 
 .assets-gallery-card img {
@@ -355,7 +452,7 @@ td .game-hover-card {
   aspect-ratio: 460 / 215;
   object-fit: cover;
   display: block;
-  background: rgba(255,255,255,.045);
+  background: var(--steam-surface-image);
 }
 
 .assets-gallery-card span {
@@ -372,7 +469,9 @@ td .game-hover-card {
   font-family: var(--mono-font);
 }
 
-/* Extended key game sheets */
+/* =========================================================
+   05.2 Fichas extendidas de juegos clave
+   ========================================================= */
 .extended-key-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
@@ -381,11 +480,11 @@ td .game-hover-card {
 }
 
 .extended-key-card {
-  border: 1px solid rgba(125, 170, 255, .24);
+  border: 1px solid var(--steam-border-soft);
   border-radius: 18px;
   overflow: hidden;
-  background: rgba(255, 255, 255, .03);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, .18);
+  background: var(--steam-surface-soft);
+  box-shadow: 0 12px 28px var(--steam-shadow-card);
 }
 
 .extended-key-card img {
@@ -393,7 +492,7 @@ td .game-hover-card {
   aspect-ratio: 460 / 215;
   object-fit: cover;
   display: block;
-  background: rgba(255,255,255,.045);
+  background: var(--steam-surface-image);
 }
 
 .extended-key-card__body {
@@ -415,9 +514,9 @@ td .game-hover-card {
 .extended-key-pill {
   display: inline-block;
   padding: .2rem .5rem;
-  border: 1px solid rgba(125, 170, 255, .28);
+  border: 1px solid rgba(var(--steam-accent-rgb), .28);
   border-radius: 999px;
-  background: rgba(125, 170, 255, .08);
+  background: rgba(var(--steam-accent-rgb), .08);
   font-size: .82rem;
   line-height: 1.2;
 }
@@ -446,14 +545,16 @@ td .game-hover-card {
 }
 
 .extended-key-actions a {
-  border: 1px solid rgba(125, 170, 255, .28);
+  border: 1px solid rgba(var(--steam-accent-rgb), .28);
   border-radius: 10px;
   padding: .35rem .55rem;
   text-decoration: none;
-  background: rgba(255,255,255,.035);
+  background: var(--steam-surface-soft);
 }
 
-/* V6.5.7 — persistencia de ancho del sidebar */
+/* =========================================================
+   05.3 Persistencia de ancho del sidebar
+   ========================================================= */
 .steam-sidebar-resizing {
   user-select: none;
   cursor: ew-resize;
@@ -464,14 +565,10 @@ td .game-hover-card {
 }
 
 
-/* V6.5.8 — Steam actions and reading-format pass */
-:root {
-  --content-readable-width: 78ch;
-  --steam-card-radius: 16px;
-  --steam-soft-border: rgba(125, 170, 255, .24);
-  --steam-soft-bg: rgba(255, 255, 255, .035);
-}
-
+/* =========================================================
+   06. Steam actions + formato de lectura
+   Variables usadas desde el panel :root superior.
+   ========================================================= */
 .content main {
   max-width: var(--content-max-width);
   padding-bottom: 4rem;
@@ -504,7 +601,7 @@ td .game-hover-card {
 .content main h2 {
   margin-top: 2.2rem;
   padding-top: .9rem;
-  border-top: 1px solid rgba(128, 128, 128, .18);
+  border-top: 1px solid rgba(var(--steam-neutral-rgb), .18);
 }
 
 .content main h3 {
@@ -535,7 +632,7 @@ pre {
 :not(pre) > code {
   padding: .12rem .32rem;
   border-radius: 6px;
-  background: rgba(125, 170, 255, .10);
+  background: rgba(var(--steam-accent-rgb), .10);
 }
 
 blockquote,
@@ -565,7 +662,7 @@ blockquote,
   padding: .38rem .72rem;
   border: 1px solid var(--steam-soft-border);
   border-radius: 999px;
-  background: rgba(125, 170, 255, .10);
+  background: rgba(var(--steam-accent-rgb), .10);
   color: var(--fg);
   font-size: .86rem;
   font-weight: 750;
@@ -577,8 +674,8 @@ blockquote,
 
 .steam-action:hover {
   transform: translateY(-1px);
-  border-color: rgba(125, 170, 255, .72);
-  background: rgba(125, 170, 255, .18);
+  border-color: rgba(var(--steam-accent-rgb), .72);
+  background: rgba(var(--steam-accent-rgb), .18);
   text-decoration: none;
 }
 
@@ -628,7 +725,7 @@ blockquote,
 }
 
 /* =========================================================
-   V6.5.9 — Perfiles personales
+   07. Perfiles personales
    ========================================================= */
 
 .profile-grid {
@@ -639,10 +736,10 @@ blockquote,
 }
 
 .profile-card {
-  border: 1px solid rgba(120, 170, 255, 0.22);
+  border: 1px solid rgba(var(--steam-accent-rgb), .22);
   border-radius: 14px;
   padding: 14px 16px;
-  background: rgba(120, 170, 255, 0.06);
+  background: rgba(var(--steam-accent-rgb), .06);
 }
 
 .profile-card h3 {
@@ -650,16 +747,16 @@ blockquote,
 }
 
 .profile-note {
-  border-left: 4px solid rgba(120, 170, 255, 0.75);
+  border-left: 4px solid rgba(var(--steam-accent-rgb), .75);
   border-radius: 10px;
   padding: 12px 14px;
-  background: rgba(120, 170, 255, 0.08);
+  background: rgba(var(--steam-accent-rgb), .08);
   margin: 16px 0;
 }
 
 
 /* =========================================================
-   V6.5.11 — Compact game metadata navigation
+   08. Navegación compacta de metadata / índice por letras
    ========================================================= */
 
 .letter-nav {
@@ -674,16 +771,16 @@ blockquote,
   align-items: baseline;
   gap: .35rem;
   padding: .42rem .7rem;
-  border: 1px solid rgba(125, 170, 255, .26);
+  border: 1px solid rgba(var(--steam-accent-rgb), .26);
   border-radius: 999px;
-  background: rgba(125, 170, 255, .08);
+  background: rgba(var(--steam-accent-rgb), .08);
   text-decoration: none;
   font-weight: 800;
 }
 
 .letter-nav a:hover {
-  border-color: rgba(125, 170, 255, .74);
-  background: rgba(125, 170, 255, .16);
+  border-color: rgba(var(--steam-accent-rgb), .74);
+  background: rgba(var(--steam-accent-rgb), .16);
   text-decoration: none;
 }
 
@@ -709,7 +806,7 @@ blockquote,
 }
 
 .compact-registry-link:hover {
-  background: rgba(125, 170, 255, .10);
+  background: rgba(var(--steam-accent-rgb), .10);
   text-decoration: none;
 }
 
@@ -724,10 +821,10 @@ blockquote,
   display: grid;
   grid-template-columns: minmax(180px, 260px) 1fr;
   gap: 1rem;
-  border: 1px solid rgba(125, 170, 255, .24);
+  border: 1px solid var(--steam-border-soft);
   border-radius: 18px;
   padding: .85rem;
-  background: rgba(255, 255, 255, .028);
+  background: var(--steam-surface-muted);
 }
 
 .compact-game-card__cover img {
@@ -736,8 +833,8 @@ blockquote,
   object-fit: cover;
   display: block;
   border-radius: 13px;
-  background: rgba(255,255,255,.045);
-  box-shadow: 0 10px 24px rgba(0,0,0,.20);
+  background: var(--steam-surface-image);
+  box-shadow: 0 10px 24px var(--steam-shadow-card);
 }
 
 .compact-game-card__body {
@@ -774,11 +871,13 @@ blockquote,
 }
 
 
-/* V6.5.12 · El Pozo */
+/* =========================================================
+   09. Secciones técnicas / El Pozo
+   ========================================================= */
 .pozo-note {
-  border-left: 4px solid rgba(125, 170, 255, .75);
+  border-left: 4px solid rgba(var(--steam-accent-rgb), .75);
   padding: .8rem 1rem;
-  background: rgba(125, 170, 255, .08);
+  background: rgba(var(--steam-accent-rgb), .08);
   border-radius: 10px;
 }
 
@@ -789,7 +888,9 @@ blockquote,
 }
 
 
-/* V6.5.14: ficha dinámica única de juego */
+/* =========================================================
+   10. Ficha dinámica única de juego
+   ========================================================= */
 .game-detail-root { margin-top: 1rem; }
 .game-detail { border: 1px solid color-mix(in srgb, currentColor 18%, transparent); border-radius: 18px; padding: 1rem; }
 .game-detail__hero { display: grid; grid-template-columns: minmax(220px, 420px) 1fr; gap: 1rem; align-items: center; }
@@ -802,19 +903,21 @@ blockquote,
 @media (max-width: 760px) { .game-detail__hero { grid-template-columns: 1fr; } }
 
 
-/* V6.6.0: metadata extendida de ficha dinámica */
+/* =========================================================
+   11. Metadata extendida dentro de ficha dinámica
+   ========================================================= */
 .game-detail__panel--wide { grid-column: 1 / -1; }
 .game-detail table { width: 100%; border-collapse: collapse; }
 .game-detail th { text-align: left; width: 42%; opacity: .82; }
 .game-detail td, .game-detail th { padding: .25rem .35rem; border-bottom: 1px solid color-mix(in srgb, currentColor 9%, transparent); vertical-align: top; }
 .game-detail__mini-table th, .game-detail__mini-table td { font-size: .92em; }
-.game-detail__profile-card { border: 1px solid color-mix(in srgb, currentColor 12%, transparent); border-radius: 12px; padding: .8rem; margin: .65rem 0; background: rgba(255,255,255,.025); }
+.game-detail__profile-card { border: 1px solid color-mix(in srgb, currentColor 12%, transparent); border-radius: 12px; padding: .8rem; margin: .65rem 0; background: var(--steam-surface-muted); }
 .game-detail__profile-card h4 { margin: 0 0 .4rem; }
 
 
-/* ============================================================
-   V6.6.1 — Mejoras generales de UI y estados faltantes
-   ============================================================ */
+/* =========================================================
+   12. Estados visuales, loading, prioridades y responsive
+   ========================================================= */
 
 /* --- Fallback / estados de la ficha dinámica --- */
 .game-detail--empty,
@@ -848,8 +951,8 @@ blockquote,
   content: "";
   width: 22px;
   height: 22px;
-  border: 3px solid rgba(79, 140, 255, .5);
-  border-top-color: #4f8cff;
+  border: 3px solid rgba(var(--steam-accent-rgb), .50);
+  border-top-color: var(--steam-accent);
   border-radius: 50%;
   animation: spin 0.85s linear infinite;
   display: inline-block;
@@ -863,9 +966,9 @@ blockquote,
 .game-detail__hero img.img-error {
   min-height: 140px;
   background: linear-gradient(135deg,
-    rgba(79, 140, 255, .12),
-    rgba(79, 140, 255, .04));
-  border: 1px dashed rgba(79, 140, 255, .35);
+    rgba(var(--steam-accent-rgb), .12),
+    rgba(var(--steam-accent-rgb), .04));
+  border: 1px dashed rgba(var(--steam-accent-rgb), .35);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -882,7 +985,7 @@ blockquote,
   border-radius: 999px;
   font-size: .78em;
   font-weight: 700;
-  background: rgba(79, 140, 255, .18);
+  background: rgba(var(--steam-accent-rgb), .18);
   color: inherit;
   margin-left: .3em;
   vertical-align: middle;
@@ -898,14 +1001,14 @@ blockquote,
 }
 
 /* --- Tarjetas de perfil: nivel de importancia coloreado --- */
-.game-detail__profile-card [data-level="high"] { color: #f8c650; }
-.game-detail__profile-card [data-level="very-high"] { color: #ff7a56; }
-.game-detail__profile-card [data-level="iconic"] { color: #c084fc; }
+.game-detail__profile-card [data-level="high"] { color: var(--profile-high); }
+.game-detail__profile-card [data-level="very-high"] { color: var(--profile-very-high); }
+.game-detail__profile-card [data-level="iconic"] { color: var(--profile-iconic); }
 
 /* --- Table zebra suave dentro de game-detail --- */
 .game-detail tbody tr:nth-child(even) td,
 .game-detail tbody tr:nth-child(even) th {
-  background: rgba(255, 255, 255, .018);
+  background: var(--steam-table-zebra);
 }
 
 /* --- Sticky header en tablas largas de colección --- */
@@ -925,9 +1028,9 @@ blockquote,
   font-weight: 700;
   vertical-align: middle;
 }
-.priority-badge--alta { background: rgba(248, 113, 113, .22); color: #fca5a5; }
-.priority-badge--media { background: rgba(251, 191, 36, .18); color: #fde68a; }
-.priority-badge--baja  { background: rgba(110, 231, 183, .15); color: #6ee7b7; }
+.priority-badge--alta { background: var(--priority-alta-bg); color: var(--priority-alta-fg); }
+.priority-badge--media { background: var(--priority-media-bg); color: var(--priority-media-fg); }
+.priority-badge--baja  { background: var(--priority-baja-bg); color: var(--priority-baja-fg); }
 
 /* --- Responsive: collapsible sidebar en móvil ya existe en mdBook,
       pero los cards de juego deben comprimirse mejor --- */
@@ -964,42 +1067,59 @@ blockquote,
 
 
 .game-detail__note {
-  border: 1px solid var(--theme-popup-border, #334155);
+  border: 1px solid var(--steam-border-neutral);
   border-radius: 0.75rem;
   padding: 0.75rem 1rem;
   margin: 0.75rem 0;
-  background: rgba(148, 163, 184, 0.08);
+  background: var(--steam-note-bg);
 }
 
 .game-detail__note ul {
   margin: 0.5rem 0 0 1.25rem;
 }
 
-/* V6.6.6 — DLC catalog table with manual ownership checkboxes */
+/* =========================================================
+   13. DLC icon markers
+   Cambia colores en variables --dlc-* del panel superior.
+   Marker values: owned, missing, skip, soundtrack, artbook, cosmetic, currency, pass, free, unknown.
+   ========================================================= */
 .game-detail__dlc-table th:first-child,
 .game-detail__dlc-table td:first-child {
-  width: 8rem;
+  width: 12.5rem;
+}
+
+.game-detail__dlc-marker,
+.game-detail__dlc-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+  padding: .22rem .55rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  font-weight: 700;
+  line-height: 1.15;
   white-space: nowrap;
 }
 
-.game-detail__dlc-checkbox {
-  display: inline-flex;
+.game-detail__dlc-marker-icon {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.game-detail__dlc-marker-label {
+  font-size: .9em;
+}
+
+.game-detail__dlc-legend {
+  display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: .35rem;
-  font-weight: 700;
-  opacity: .9;
+  gap: .45rem;
+  margin: .9rem 0 1rem;
 }
 
-.game-detail__dlc-checkbox input[type="checkbox"] {
-  width: 1rem;
-  height: 1rem;
-  margin: 0;
-  accent-color: #4f8cff;
-}
-
-.game-detail__dlc-checkbox input[type="checkbox"]:disabled {
-  cursor: default;
-  opacity: .85;
+.game-detail__dlc-legend > strong {
+  margin-right: .2rem;
 }
 
 .game-detail__dlc-subline {
@@ -1022,3 +1142,25 @@ blockquote,
   font-size: .78em;
   opacity: .85;
 }
+
+.game-detail__dlc-marker.is-owned,
+.game-detail__dlc-legend-item.is-owned { background: var(--dlc-owned-bg); }
+.game-detail__dlc-marker.is-missing,
+.game-detail__dlc-legend-item.is-missing { background: var(--dlc-missing-bg); }
+.game-detail__dlc-marker.is-skip,
+.game-detail__dlc-legend-item.is-skip { background: var(--dlc-skip-bg); }
+.game-detail__dlc-marker.is-soundtrack,
+.game-detail__dlc-legend-item.is-soundtrack { background: var(--dlc-soundtrack-bg); }
+.game-detail__dlc-marker.is-artbook,
+.game-detail__dlc-legend-item.is-artbook { background: var(--dlc-artbook-bg); }
+.game-detail__dlc-marker.is-cosmetic,
+.game-detail__dlc-legend-item.is-cosmetic { background: var(--dlc-cosmetic-bg); }
+.game-detail__dlc-marker.is-currency,
+.game-detail__dlc-legend-item.is-currency { background: var(--dlc-currency-bg); }
+.game-detail__dlc-marker.is-pass,
+.game-detail__dlc-legend-item.is-pass { background: var(--dlc-pass-bg); }
+.game-detail__dlc-marker.is-free,
+.game-detail__dlc-legend-item.is-free { background: var(--dlc-free-bg); }
+.game-detail__dlc-marker.is-unknown,
+.game-detail__dlc-legend-item.is-unknown { background: var(--dlc-unknown-bg); }
+

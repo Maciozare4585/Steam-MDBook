@@ -4,10 +4,10 @@
 
 .DESCRIPTION
     Lee data/games-metadata.json, consulta Steam Store API appdetails y llena dlcInfo.dlcs
-    con una fila por DLC detectado. El campo dlcs[].owned queda como checkbox manual:
+    con una fila por DLC detectado.
 
-        "owned": true  -> lo tenemos
-        "owned": false -> no confirmado / no lo tenemos
+    Ahora también puede conservar o inicializar un campo manual `marker` para la UI del mdBook.
+    Valores sugeridos: owned, missing, skip, soundtrack, artbook, cosmetic, currency, pass, free.
 
     El script respeta ownership manual ya existente cuando puede empatar por appId o nombre.
     Si un juego ya estaba marcado como ownershipStatus = "full", marca todos los DLC detectados como propios.
@@ -135,6 +135,43 @@ function Get-ManualStatusFromExisting($ExistingDlcs, $IncomingAppId, [string]$In
     return "pendiente_manual"
 }
 
+
+function Get-ManualMarkerFromExisting($ExistingDlcs, $IncomingAppId, [string]$IncomingTitle, [bool]$Owned) {
+    foreach ($existing in (Get-Array $ExistingDlcs)) {
+        $existingAppId = $null
+        if ($existing.PSObject.Properties['appId'] -and $null -ne $existing.appId) {
+            try { $existingAppId = [int]$existing.appId } catch { $existingAppId = $null }
+        }
+
+        $matches = ($existingAppId -and $IncomingAppId -and $existingAppId -eq $IncomingAppId) -or (Test-TitleMatch ([string]$existing.title) $IncomingTitle)
+        if ($matches) {
+            foreach ($name in @('marker', 'iconMarker', 'icon')) {
+                if ($existing.PSObject.Properties[$name] -and -not [string]::IsNullOrWhiteSpace([string]$existing.$name)) {
+                    return [string]$existing.$name
+                }
+            }
+        }
+    }
+
+    if ($Owned) { return 'owned' }
+    return $null
+}
+
+function Get-DefaultMarker([string]$Title, [string]$Status, [bool]$Owned, [bool]$IsFree) {
+    $titleNorm = ([string]$Title).ToLowerInvariant()
+    $statusNorm = ([string]$Status).ToLowerInvariant()
+
+    if ($statusNorm -in @('skip', 'no_comprar', 'no-comprar', 'no comprar', 'not_buying', 'descartado')) { return 'skip' }
+    if ($titleNorm -match 'soundtrack|ost|original soundtrack|banda sonora|music pack') { return 'soundtrack' }
+    if ($titleNorm -match 'artbook|art book|digital artbook|booklet|art collection') { return 'artbook' }
+    if ($titleNorm -match 'skin|costume|cosmetic|outfit|wardrobe|character pack') { return 'cosmetic' }
+    if ($titleNorm -match 'coin|coins|gem|gems|point|points|credit|credits|currency') { return 'currency' }
+    if ($titleNorm -match 'season pass|expansion pass|upgrade pack|supporter pack') { return 'pass' }
+    if ($IsFree) { return 'free' }
+    if ($Owned) { return 'owned' }
+    return 'missing'
+}
+
 function Get-SteamAppData([int]$AppId) {
     $url = "https://store.steampowered.com/api/appdetails?appids=$AppId&l=spanish&cc=mx"
     $resp = Invoke-RestMethod -Uri $url -Method Get -TimeoutSec 25 -ErrorAction Stop
@@ -153,6 +190,11 @@ function New-DlcRecord($DlcData, [int]$DlcAppId, $ExistingDlcs, [bool]$FullOwner
     $name = if ($DlcData -and -not [string]::IsNullOrWhiteSpace([string]$DlcData.name)) { [string]$DlcData.name } else { "DLC $DlcAppId" }
     $owned = Get-ManualOwnedFromExisting $ExistingDlcs $DlcAppId $name $FullOwnership
     $status = Get-ManualStatusFromExisting $ExistingDlcs $DlcAppId $name $owned
+    $isFree = if ($DlcData -and $null -ne $DlcData.is_free) { [bool]$DlcData.is_free } else { $false }
+    $marker = Get-ManualMarkerFromExisting $ExistingDlcs $DlcAppId $name $owned
+    if ([string]::IsNullOrWhiteSpace([string]$marker)) {
+        $marker = Get-DefaultMarker $name $status $owned $isFree
+    }
     $releaseDate = $null
     if ($DlcData -and $DlcData.release_date -and -not $DlcData.release_date.coming_soon) { $releaseDate = [string]$DlcData.release_date.date }
 
@@ -161,6 +203,7 @@ function New-DlcRecord($DlcData, [int]$DlcAppId, $ExistingDlcs, [bool]$FullOwner
         title = $name
         type = if ($DlcData -and -not [string]::IsNullOrWhiteSpace([string]$DlcData.type)) { [string]$DlcData.type } else { "dlc" }
         owned = $owned
+        marker = $marker
         important = $null
         status = $status
         isFree = if ($DlcData -and $null -ne $DlcData.is_free) { [bool]$DlcData.is_free } else { $null }
