@@ -1,3 +1,18 @@
+<#
+.SYNOPSIS
+    Sincroniza assets alternativos desde SteamGridDB.
+.DESCRIPTION
+    Usa SteamGridDB para obtener hero/grid/logo/icon, preferentemente animados cuando aplica.
+    Requiere API key mediante `-SteamGridDbApiKey` o `$env:STEAMGRIDDB_API_KEY`.
+.PARAMETER SteamGridDbApiKey
+    API key de SteamGridDB. Si se omite, usa la variable de entorno.
+.PARAMETER PreferAnimated
+    Prefiere assets animados cuando existen.
+.PARAMETER RefreshSteamGridDb
+    Redescarga assets de SteamGridDB aunque ya existan.
+.EXAMPLE
+    .\scripts\03-sync-steamgriddb-assets.ps1 -UpdateMarkdownPages -PreferAnimated
+#>
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string]$SteamGridDbApiKey = $env:STEAMGRIDDB_API_KEY,

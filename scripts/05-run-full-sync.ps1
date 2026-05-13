@@ -1,3 +1,20 @@
+<#
+.SYNOPSIS
+    Orquestador principal del pipeline mdBook/Steam.
+.DESCRIPTION
+    Ejecuta reparación, sync de IDs, descarga de imágenes, generación de páginas, metadata base,
+    enriquecimiento Steam opcional, catálogo DLC opcional, tooltips, galería, sanitización y validación.
+.PARAMETER DiscoverFromMarkdown
+    Descubre juegos desde tablas Markdown.
+.PARAMETER EnrichSteamMetadata
+    Consulta Steam Store API para metadata extendida.
+.PARAMETER SyncSteamDlc
+    Consulta catálogo DLC desde Steam y actualiza `dlcInfo.dlcs`.
+.PARAMETER ValidatePaths
+    Ejecuta validación de rutas al final.
+.EXAMPLE
+    .\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -AllowFuzzy -EnrichSteamMetadata -SyncSteamDlc -ValidatePaths
+#>
 param(
     [switch]$DiscoverFromMarkdown,
     [switch]$UseSteamGridDb,

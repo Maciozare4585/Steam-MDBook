@@ -1,3 +1,14 @@
+<#
+.SYNOPSIS
+    Inserta tooltips/preview en tablas de colecciones y perfiles.
+.DESCRIPTION
+    Recorre carpetas Markdown configuradas, detecta nombres de juegos en columnas de tabla y los convierte
+    en enlaces con `game-hover`, preview local y destino `detalle.html?id=<steamAppId>` cuando hay registry.
+.PARAMETER MarkdownRoots
+    Carpetas donde se aplican tooltips.
+.EXAMPLE
+    .\scripts\07-generate-collection-tooltips.ps1
+#>
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string[]]$MarkdownRoots = @(

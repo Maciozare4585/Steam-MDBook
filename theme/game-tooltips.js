@@ -1,3 +1,9 @@
+/**
+ * Steam High Family mdBook — tooltips flotantes de juegos.
+ *
+ * Lee elementos `.game-hover`, crea un preview flotante fuera de tablas para evitar clipping
+ * y posiciona la tarjeta según el viewport. No modifica datos; solo mejora navegación visual.
+ */
 (() => {
   const SELECTOR = ".game-hover";
 

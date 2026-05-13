@@ -812,7 +812,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3301060</code></span>
       <span><strong>Oficial:</strong> Desktop Mate</span>
-      <span><strong>Tipo:</strong> <code>software</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
       <span><strong>Match:</strong> <code>provided</code></span>
       <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>

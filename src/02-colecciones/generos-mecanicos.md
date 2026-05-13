@@ -6,7 +6,7 @@ Estas colecciones responden: **¿cómo se juega?**
 
 - [🕹️ Arcade / Casual · 23 juegos · ✅](generos/01-arcade-casual-23-juegos.md)
 - [🏎️ Carreras · 12 juegos · ✅](generos/02-carreras-12-juegos.md)
-- [♟️ Estrategia · 19 juegos · ✅](generos/03-estrategia-19-juegos.md)
+- [♟️ Estrategia · 18 juegos · ✅](generos/03-estrategia-18-juegos.md)
 - [🏗️ Gestión · 11 juegos · ✅](generos/04-gestion-11-juegos.md)
 - [🧭 Metroidvania · 14 juegos · ✅](generos/05-metroidvania-14-juegos.md)
 - [🎵 Música / Ritmo · 7 juegos · ✅](generos/06-musica-ritmo-7-juegos.md)
@@ -15,7 +15,7 @@ Estas colecciones responden: **¿cómo se juega?**
 - [🧠 Puzzle / Ingenio · 30 juegos · ✅](generos/09-puzzle-ingenio-30-juegos.md)
 - [🎲 Roguelike / Roguelite · 31 juegos · ✅](generos/10-roguelike-roguelite-31-juegos.md)
 - [⚔️ RPG · 12 juegos · ✅](generos/11-rpg-12-juegos.md)
-- [🔫 Shooter · 49 juegos · ✅](generos/12-shooter-49-juegos.md)
+- [🔫 Shooter · 60 juegos · ✅](generos/12-shooter-60-juegos.md)
 - [🧪 Simulator · 23 juegos · ✅](generos/13-simulator-23-juegos.md)
 - [🔥 Souls / Soulslike · 13 juegos · ✅](generos/14-souls-soulslike-13-juegos.md)
 - [🪓 Supervivencia / Crafting · 21 juegos · ✅](generos/15-supervivencia-crafting-21-juegos.md)

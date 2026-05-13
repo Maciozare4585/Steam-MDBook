@@ -1,3 +1,14 @@
+<#
+.SYNOPSIS
+    Genera páginas de juegos y `games-index.json`.
+.DESCRIPTION
+    Crea el índice alfabético de `src/07-juegos/por-letra/` desde el registry y mezcla metadata extendida
+    desde `data/games-metadata.json` cuando existe. También genera `src/assets/data/games-index.json`.
+.PARAMETER IncludeIndividualPages
+    Genera páginas individuales antiguas. Normalmente no se recomienda porque satura el sidebar.
+.EXAMPLE
+    .\scripts\04-generate-game-pages.ps1
+#>
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string]$MetadataPath = ".\data\games-metadata.json",

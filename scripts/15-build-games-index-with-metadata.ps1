@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Construye `games-index.json` con metadata extendida.
+.DESCRIPTION
+    Mezcla `data/steam-games-registry.json` y `data/games-metadata.json` para alimentar la ficha dinámica,
+    estadísticas y navegación del mdBook.
+.EXAMPLE
+    .\scripts\15-build-games-index-with-metadata.ps1
+#>
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string]$MetadataPath = ".\data\games-metadata.json",

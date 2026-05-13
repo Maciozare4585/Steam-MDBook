@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Previsualiza reglas automáticas de colección.
+.DESCRIPTION
+    Evalúa `data/collection-rules.json` contra `games-metadata.json` para mostrar sugerencias sin modificar
+    las colecciones Markdown.
+.EXAMPLE
+    .\scripts\16-preview-collection-rules.ps1
+#>
 param(
     [string]$MetadataPath = ".\data\games-metadata.json",
     [string]$RulesPath = ".\data\collection-rules.json",

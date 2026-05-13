@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Biblioteca compartida para scripts de registry, assets y Markdown.
+.DESCRIPTION
+    Contiene helpers de rutas, normalización de títulos, carga/escritura JSON, limpieza de nombres,
+    discovery de tablas Markdown y utilidades comunes de salida.
+.NOTES
+    Este archivo se usa por dot-sourcing desde otros scripts; no está pensado para ejecutarse directo.
+#>
 
 function Get-ProjectRoot {
     return (Resolve-Path (Join-Path $PSScriptRoot "..")).Path

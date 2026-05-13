@@ -14,7 +14,7 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 - [🧬 Battlefield · 4 juegos · ✅](sagas/04-battlefield-4-juegos.md)
 - [🧬 BioShock · 5 juegos · ✅](sagas/05-bioshock-5-juegos.md)
 - [🧬 Borderlands · 9 juegos · ✅](sagas/06-borderlands-9-juegos.md)
-- [🧬 Civilization · 7 juegos · ✅](sagas/08-civilization-7-juegos.md)
+- [🧬 Sid Meier's · 9 juegos · ✅](sagas/08-sid-meiers-9-juegos.md)
 - [🧬 Company of Heroes · 3 juegos · ✅](sagas/09-company-of-heroes-3-juegos.md)
 - [🧬 Counter-Strike · 5 juegos · ✅](sagas/10-counter-strike-5-juegos.md)
 - [🧬 Crysis · 3 juegos · ✅](sagas/11-crysis-3-juegos.md)

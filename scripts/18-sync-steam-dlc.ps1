@@ -4,10 +4,11 @@
 
 .DESCRIPTION
     Lee data/games-metadata.json, consulta Steam Store API appdetails y llena dlcInfo.dlcs
-    con una fila por DLC detectado. El campo dlcs[].owned queda como checkbox manual:
+    con una fila por DLC detectado.
 
-        "owned": true  -> lo tenemos
-        "owned": false -> no confirmado / no lo tenemos
+    Ahora también puede conservar o inicializar `markers`, un arreglo manual de iconos para la UI del mdBook.
+    Valores sugeridos: owned, missing, skip, soundtrack, artbook, cosmetic, currency, pass, free.
+    El campo legado `marker` se conserva como compatibilidad, pero la UI prefiere `markers`.
 
     El script respeta ownership manual ya existente cuando puede empatar por appId o nombre.
     Si un juego ya estaba marcado como ownershipStatus = "full", marca todos los DLC detectados como propios.
@@ -135,6 +136,153 @@ function Get-ManualStatusFromExisting($ExistingDlcs, $IncomingAppId, [string]$In
     return "pendiente_manual"
 }
 
+
+
+function Normalize-DlcMarker([string]$Marker) {
+    if ([string]::IsNullOrWhiteSpace($Marker)) { return $null }
+
+    $key = $Marker.Trim().ToLowerInvariant() -replace '[\s-]+', '_'
+    $map = @{
+        yes = 'owned'; owned = 'owned'; propio = 'owned'; lo_tenemos = 'owned'
+        no = 'missing'; missing = 'missing'; faltante = 'missing'; pendiente = 'missing'
+        skip = 'skip'; no_comprar = 'skip'; descartado = 'skip'; not_buying = 'skip'
+        soundtrack = 'soundtrack'; ost = 'soundtrack'; banda_sonora = 'soundtrack'
+        artbook = 'artbook'; bookart = 'artbook'; book_art = 'artbook'; digital_artbook = 'artbook'
+        cosmetic = 'cosmetic'; skin = 'cosmetic'; outfit = 'cosmetic'
+        currency = 'currency'; moneda = 'currency'; coins = 'currency'; gems = 'currency'
+        pass = 'pass'; season_pass = 'pass'; expansion_pass = 'pass'
+        free = 'free'; gratis = 'free'
+    }
+
+    if ($map.ContainsKey($key)) { return $map[$key] }
+    return $key
+}
+
+function Get-ManualMarkerFromExisting($ExistingDlcs, $IncomingAppId, [string]$IncomingTitle, [bool]$Owned) {
+    foreach ($existing in (Get-Array $ExistingDlcs)) {
+        $existingAppId = $null
+        if ($existing.PSObject.Properties['appId'] -and $null -ne $existing.appId) {
+            try { $existingAppId = [int]$existing.appId } catch { $existingAppId = $null }
+        }
+
+        $matches = ($existingAppId -and $IncomingAppId -and $existingAppId -eq $IncomingAppId) -or (Test-TitleMatch ([string]$existing.title) $IncomingTitle)
+        if ($matches) {
+            foreach ($name in @('marker', 'iconMarker', 'icon')) {
+                if ($existing.PSObject.Properties[$name] -and -not [string]::IsNullOrWhiteSpace([string]$existing.$name)) {
+                    return (Normalize-DlcMarker ([string]$existing.$name))
+                }
+            }
+        }
+    }
+
+    if ($Owned) { return 'owned' }
+    return $null
+}
+
+function Get-DefaultMarker([string]$Title, [string]$Status, [bool]$Owned, [bool]$IsFree) {
+    $titleNorm = ([string]$Title).ToLowerInvariant()
+    $statusNorm = ([string]$Status).ToLowerInvariant()
+
+    if ($statusNorm -in @('skip', 'no_comprar', 'no-comprar', 'no comprar', 'not_buying', 'descartado')) { return 'skip' }
+    if ($titleNorm -match 'soundtrack|ost|original soundtrack|banda sonora|music pack') { return 'soundtrack' }
+    if ($titleNorm -match 'artbook|art book|digital artbook|booklet|art collection') { return 'artbook' }
+    if ($titleNorm -match 'skin|costume|cosmetic|outfit|wardrobe|character pack') { return 'cosmetic' }
+    if ($titleNorm -match 'coin|coins|gem|gems|point|points|credit|credits|currency') { return 'currency' }
+    if ($titleNorm -match 'season pass|expansion pass|upgrade pack|supporter pack') { return 'pass' }
+    if ($IsFree) { return 'free' }
+    if ($Owned) { return 'owned' }
+    return 'missing'
+}
+
+function Add-DlcMarker($Markers, [string]$Marker) {
+    $normalized = Normalize-DlcMarker $Marker
+    if ([string]::IsNullOrWhiteSpace([string]$normalized)) { return }
+    if (-not $Markers.Contains($normalized)) { [void]$Markers.Add($normalized) }
+}
+
+function Get-DlcMarkersFromValue($Value) {
+    $markers = New-Object System.Collections.ArrayList
+    if ($null -eq $Value) { return @() }
+
+    if ($Value -is [System.Array]) {
+        foreach ($item in $Value) { Add-DlcMarker $markers ([string]$item) }
+        return @($markers)
+    }
+
+    $text = [string]$Value
+    if ($text.Contains(',')) {
+        foreach ($item in ($text -split ',')) { Add-DlcMarker $markers $item }
+    }
+    else {
+        Add-DlcMarker $markers $text
+    }
+
+    return @($markers)
+}
+
+function Test-DlcOwnershipMarker([string]$Marker) {
+    return $Marker -in @('owned', 'missing', 'skip', 'free')
+}
+
+function Get-DlcOwnershipMarker([string]$Status, [bool]$Owned, [bool]$IsFree) {
+    $statusNorm = ([string]$Status).Trim().ToLowerInvariant() -replace '[\s-]+', '_'
+    if ($statusNorm -in @('skip', 'no_comprar', 'not_buying', 'descartado')) { return 'skip' }
+    if ($statusNorm -in @('propio', 'owned', 'lo_tenemos', 'adquirido') -or $Owned) { return 'owned' }
+    if ($statusNorm -in @('gratis', 'free') -or $IsFree) { return 'free' }
+    return 'missing'
+}
+
+function Get-DlcContentMarkers([string]$Title, [string]$Type) {
+    $text = (([string]$Title) + ' ' + ([string]$Type)).ToLowerInvariant()
+    $markers = New-Object System.Collections.ArrayList
+
+    if ($text -match 'soundtrack|ost|original soundtrack|banda sonora|music pack') { Add-DlcMarker $markers 'soundtrack' }
+    if ($text -match 'artbook|art book|digital artbook|booklet|art collection') { Add-DlcMarker $markers 'artbook' }
+    if ($text -match 'skin|costume|cosmetic|outfit|wardrobe|character pack') { Add-DlcMarker $markers 'cosmetic' }
+    if ($text -match 'coin|coins|gem|gems|point|points|credit|credits|currency') { Add-DlcMarker $markers 'currency' }
+    if ($text -match 'season pass|expansion pass|upgrade pack|supporter pack|dlc pack|collection') { Add-DlcMarker $markers 'pass' }
+
+    return @($markers)
+}
+
+function Get-ManualMarkersFromExisting($ExistingDlcs, $IncomingAppId, [string]$IncomingTitle, [string]$Status, [bool]$Owned, [bool]$IsFree) {
+    foreach ($existing in (Get-Array $ExistingDlcs)) {
+        $existingAppId = $null
+        if ($existing.PSObject.Properties['appId'] -and $null -ne $existing.appId) {
+            try { $existingAppId = [int]$existing.appId } catch { $existingAppId = $null }
+        }
+
+        $matches = ($existingAppId -and $IncomingAppId -and $existingAppId -eq $IncomingAppId) -or (Test-TitleMatch ([string]$existing.title) $IncomingTitle)
+        if (-not $matches) { continue }
+
+        if ($existing.PSObject.Properties['markers'] -and $null -ne $existing.markers) {
+            $manualMarkers = @(Get-DlcMarkersFromValue $existing.markers)
+            if ($manualMarkers.Count -gt 0) { return $manualMarkers }
+        }
+
+        foreach ($name in @('marker', 'iconMarker', 'icon')) {
+            if ($existing.PSObject.Properties[$name] -and -not [string]::IsNullOrWhiteSpace([string]$existing.$name)) {
+                $legacyMarkers = New-Object System.Collections.ArrayList
+                foreach ($marker in (Get-DlcMarkersFromValue ([string]$existing.$name))) { Add-DlcMarker $legacyMarkers $marker }
+                $hasOwnership = $false
+                foreach ($marker in $legacyMarkers) { if (Test-DlcOwnershipMarker $marker) { $hasOwnership = $true } }
+                if (-not $hasOwnership) { $legacyMarkers.Insert(0, (Get-DlcOwnershipMarker $Status $Owned $IsFree)) }
+                foreach ($marker in (Get-DlcContentMarkers $IncomingTitle 'dlc')) { Add-DlcMarker $legacyMarkers $marker }
+                return @($legacyMarkers)
+            }
+        }
+    }
+
+    return @()
+}
+
+function Get-DefaultDlcMarkers([string]$Title, [string]$Type, [string]$Status, [bool]$Owned, [bool]$IsFree) {
+    $markers = New-Object System.Collections.ArrayList
+    Add-DlcMarker $markers (Get-DlcOwnershipMarker $Status $Owned $IsFree)
+    foreach ($marker in (Get-DlcContentMarkers $Title $Type)) { Add-DlcMarker $markers $marker }
+    return @($markers)
+}
+
 function Get-SteamAppData([int]$AppId) {
     $url = "https://store.steampowered.com/api/appdetails?appids=$AppId&l=spanish&cc=mx"
     $resp = Invoke-RestMethod -Uri $url -Method Get -TimeoutSec 25 -ErrorAction Stop
@@ -153,14 +301,23 @@ function New-DlcRecord($DlcData, [int]$DlcAppId, $ExistingDlcs, [bool]$FullOwner
     $name = if ($DlcData -and -not [string]::IsNullOrWhiteSpace([string]$DlcData.name)) { [string]$DlcData.name } else { "DLC $DlcAppId" }
     $owned = Get-ManualOwnedFromExisting $ExistingDlcs $DlcAppId $name $FullOwnership
     $status = Get-ManualStatusFromExisting $ExistingDlcs $DlcAppId $name $owned
+    $isFree = if ($DlcData -and $null -ne $DlcData.is_free) { [bool]$DlcData.is_free } else { $false }
+    $dlcType = if ($DlcData -and -not [string]::IsNullOrWhiteSpace([string]$DlcData.type)) { [string]$DlcData.type } else { "dlc" }
+    $markers = @(Get-ManualMarkersFromExisting $ExistingDlcs $DlcAppId $name $status $owned $isFree)
+    if ($markers.Count -eq 0) {
+        $markers = @(Get-DefaultDlcMarkers $name $dlcType $status $owned $isFree)
+    }
+    $marker = if ($markers.Count -gt 0) { [string]$markers[0] } else { Normalize-DlcMarker (Get-DefaultMarker $name $status $owned $isFree) }
     $releaseDate = $null
     if ($DlcData -and $DlcData.release_date -and -not $DlcData.release_date.coming_soon) { $releaseDate = [string]$DlcData.release_date.date }
 
     return [ordered]@{
         appId = $DlcAppId
         title = $name
-        type = if ($DlcData -and -not [string]::IsNullOrWhiteSpace([string]$DlcData.type)) { [string]$DlcData.type } else { "dlc" }
+        type = $dlcType
         owned = $owned
+        markers = @($markers)
+        marker = $marker
         important = $null
         status = $status
         isFree = if ($DlcData -and $null -ne $DlcData.is_free) { [bool]$DlcData.is_free } else { $null }
@@ -293,10 +450,10 @@ foreach ($game in $candidates) {
             }
 
             $summary = if ($newDlcs.Count -eq 1) {
-                "Steam detectó 1 DLC. Marca owned=true si lo tenemos."
+                "Steam detectó 1 DLC. Marca `markers` con iconos como `owned`, `missing`, `skip`, `pass`, etc. si lo confirmas manualmente."
             }
             else {
-                "Steam detectó $($newDlcs.Count) DLC. Marca owned=true en cada fila confirmada."
+                "Steam detectó $($newDlcs.Count) DLC. Marca `markers` con iconos como `owned`, `missing`, `skip`, `pass`, etc. en cada fila confirmada."
             }
 
             if (-not $DryRun) {

@@ -1,35 +1,29 @@
 # Steam High Family mdBook — README operativo
 
-README de comandos del proyecto. Está pensado para resolver rápido estas tareas:
+README de uso rápido para levantar, sincronizar, enriquecer y mantener el mdBook de la biblioteca familiar de Steam.
 
-- ejecutar el mdBook;
-- sincronizar Steam IDs;
-- descargar imágenes;
-- regenerar páginas/metadatos;
-- regenerar tooltips;
-- reparar rutas/sidebar;
-- diagnosticar juegos sin ID, sin imagen o sin tooltip.
-
-> Este README no contiene changelog. El historial de versiones debe vivir dentro del mdBook, en la sección de mantenimiento correspondiente.
+> Este README es operativo. El changelog/versionado histórico debe vivir dentro del mdBook, en `src/06-mantenimiento/` o la sección equivalente.
 
 ---
 
-## 0. Regla base: ejecutar desde la raíz
+## 0. Estructura esperada
 
-Casi todos los comandos asumen que estás parado en la raíz del proyecto:
+Ejecuta los comandos desde la raíz del proyecto, donde existen estas rutas:
 
 ```text
 book.toml
 data\
+docs\
 scripts\
 src\
 theme\
 ```
 
-Verifica tu ubicación:
+Verifica ubicación:
 
 ```powershell
 Get-Location
+Get-ChildItem
 ```
 
 Si estás dentro de `src`, sube un nivel:
@@ -38,17 +32,11 @@ Si estás dentro de `src`, sube un nivel:
 cd ..
 ```
 
-Confirma que ves las carpetas principales:
-
-```powershell
-Get-ChildItem
-```
-
 ---
 
 ## 1. Preparación de PowerShell
 
-Ejecutar una vez por sesión de PowerShell:
+Ejecuta una vez por sesión:
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
@@ -57,79 +45,65 @@ Get-ChildItem .\scripts\*.ps1 | Unblock-File
 
 ---
 
-## 2. Comandos rápidos por tarea
+## 2. Comandos rápidos
 
-| Quiero...                                | Comando recomendado                                                               |
-| ---------------------------------------- | --------------------------------------------------------------------------------- |
-| Abrir el mdBook local                    | `mdbook serve --open`                                                             |
-| Abrirlo para la red local                | `mdbook serve -n 0.0.0.0 -p 3000`                                                 |
-| Construir el sitio estático              | `mdbook build`                                                                    |
-| Limpiar build/cache local                | `mdbook clean`                                                                    |
-| Correr casi todo el pipeline             | `.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -ValidatePaths`             |
-| Resolver Steam IDs                       | `.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown`                           |
-| Descubrir juegos raros/ZZZ/MRD           | `.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -DelayMs 2500`             |
-| Proponer candidatos fuzzy sin aprobarlos | `.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -DelayMs 2500` |
-| Descargar imágenes de Steam              | `.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages`                     |
-| Regenerar páginas de juegos              | `.\scripts\04-generate-game-pages.ps1`                                            |
-| Generar metadata base V6.6               | `.\scripts\14-generate-games-metadata-base.ps1`                                   |
-| Regenerar games-index con metadata       | `.\scripts\15-build-games-index-with-metadata.ps1`                                |
-| Previsualizar reglas de colección        | `.\scripts\16-preview-collection-rules.ps1`                                       |
-| Regenerar tooltips                       | `.\scripts\07-generate-collection-tooltips.ps1`                                   |
-| Generar galería de assets                | `.\scripts\10-generate-assets-gallery.ps1`                                        |
-| Reparar páginas auxiliares               | `.\scripts\09-repair-mdbook-pages.ps1`                                            |
-| Limpiar sidebar de juegos                | `.\scripts\11-sanitize-games-summary.ps1`                                         |
-| Validar rutas                            | `.\scripts\99-validate-project-paths.ps1 -Strict`                                 |
-| Sincronizar catálogo DLC de Steam        | `.\scripts\18-sync-steam-dlc.ps1 -MaxGames 50 -DelayMs 2000 -BuildIndexAfter`             |
+| Quiero... | Comando recomendado |
+|---|---|
+| Abrir el mdBook local | `mdbook serve --open` |
+| Abrirlo para la red local | `mdbook serve -n 0.0.0.0 -p 3000` |
+| Construir el sitio estático | `mdbook build` |
+| Limpiar build/cache local | `mdbook clean` |
+| Correr pipeline normal | `.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -ValidatePaths` |
+| Resolver Steam IDs | `.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown` |
+| Proponer matches fuzzy sin aprobarlos | `.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -DelayMs 2500` |
+| Descargar imágenes de Steam | `.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages` |
+| Regenerar páginas de juegos | `.\scripts\04-generate-game-pages.ps1` |
+| Generar metadata base | `.\scripts\14-generate-games-metadata-base.ps1` |
+| Regenerar `games-index.json` con metadata | `.\scripts\15-build-games-index-with-metadata.ps1` |
+| Enriquecer metadata desde Steam | `.\scripts\17-enrich-steam-metadata.ps1 -MaxGames 100 -DelayMs 2000 -BuildIndexAfter` |
+| Sincronizar catálogo DLC | `.\scripts\18-sync-steam-dlc.ps1 -MaxGames 50 -DelayMs 2000 -BuildIndexAfter` |
+| Regenerar tooltips | `.\scripts\07-generate-collection-tooltips.ps1` |
+| Generar galería de assets | `.\scripts\10-generate-assets-gallery.ps1` |
+| Reparar páginas auxiliares | `.\scripts\09-repair-mdbook-pages.ps1` |
+| Limpiar sidebar de juegos | `.\scripts\11-sanitize-games-summary.ps1` |
+| Validar rutas | `.\scripts\99-validate-project-paths.ps1 -Strict` |
 
 ---
 
-## 3. Ejecutar el mdBook
+## 3. Levantar el mdBook
 
-### 3.1 Abrir localmente
+### 3.1 Local
 
 ```powershell
 mdbook serve --open
 ```
 
-Wrapper disponible:
+Wrappers disponibles, si existen:
 
 ```powershell
 .\scripts\serve.ps1
+.\scripts\build.ps1
 ```
 
-### 3.2 Abrir para celulares/PCs de la red local
+### 3.2 Red local / celular
 
 ```powershell
 mdbook serve -n 0.0.0.0 -p 3000
 ```
 
-Desde otro dispositivo conectado a la misma red:
-
-```text
-http://IP_DE_TU_PC:3000
-```
-
-Obtener IP local:
+Obtén tu IP local:
 
 ```powershell
 ipconfig
 ```
 
-Busca `Dirección IPv4`, por ejemplo:
+En otro dispositivo de la misma red abre:
 
 ```text
-192.168.1.75
+http://IP_DE_TU_PC:3000
 ```
 
-URL resultante:
-
-```text
-http://192.168.1.75:3000
-```
-
-### 3.3 Permitir puerto en firewall
-
-Solo si otro dispositivo no puede entrar:
+Si Windows bloquea el puerto:
 
 ```powershell
 New-NetFirewallRule `
@@ -140,32 +114,15 @@ New-NetFirewallRule `
   -Action Allow
 ```
 
----
-
-## 4. Build, clean y caché
-
-### 4.1 Build estático
-
-```powershell
-mdbook build
-```
-
-Wrapper:
-
-```powershell
-.\scripts\build.ps1
-```
-
-### 4.2 Limpiar y servir otra vez
+### 3.3 Limpiar caché
 
 ```powershell
 mdbook clean
+mdbook build
 mdbook serve --open
 ```
 
-### 4.3 Si el navegador muestra datos viejos
-
-Después de `mdbook clean` y `mdbook serve --open`, usa:
+En navegador:
 
 ```text
 Ctrl + F5
@@ -173,28 +130,63 @@ Ctrl + F5
 
 ---
 
-## 5. Pipelines principales
+## 4. Pipelines principales
 
-### 5.1 Pipeline normal recomendado
+### 4.1 Pipeline normal recomendado
 
-Úsalo cuando agregaste juegos, modificaste colecciones o quieres refrescar el proyecto de forma normal.
+Úsalo cuando agregaste juegos a colecciones, corregiste Markdown o quieres regenerar lo básico.
 
 ```powershell
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
-Get-ChildItem .\scripts\*.ps1 | Unblock-File
-
 .\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -ValidatePaths
 mdbook serve --open
 ```
 
-### 5.2 Pipeline manual completo
+### 4.2 Pipeline completo recomendado
 
-Útil cuando quieres ver cada fase por separado.
+Incluye Steam IDs, assets, metadata extendida y catálogo DLC.
 
 ```powershell
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown
+.\scripts\05-run-full-sync.ps1 `
+  -DiscoverFromMarkdown `
+  -AllowFuzzy `
+  -ValidatePaths `
+  -EnrichSteamMetadata `
+  -MetadataMaxGames 100 `
+  -MetadataDelayMs 2000 `
+  -SyncSteamDlc `
+  -DlcMaxGames 100 `
+  -DlcDelayMs 2000
+
+mdbook clean
+mdbook build
+mdbook serve --open
+```
+
+### 4.3 Pipeline pesado / todos los pendientes
+
+Úsalo con calma. Puede tardar mucho.
+
+```powershell
+.\scripts\05-run-full-sync.ps1 `
+  -DiscoverFromMarkdown `
+  -AllowFuzzy `
+  -ValidatePaths `
+  -EnrichSteamMetadata `
+  -MetadataDelayMs 2000 `
+  -SyncSteamDlc `
+  -DlcDelayMs 2000
+```
+
+### 4.4 Pipeline manual por fases
+
+Útil para diagnosticar en qué paso falla algo.
+
+```powershell
+.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy
 .\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages
 .\scripts\04-generate-game-pages.ps1
+.\scripts\14-generate-games-metadata-base.ps1
+.\scripts\15-build-games-index-with-metadata.ps1
 .\scripts\07-generate-collection-tooltips.ps1
 .\scripts\10-generate-assets-gallery.ps1
 .\scripts\09-repair-mdbook-pages.ps1
@@ -203,57 +195,111 @@ mdbook serve --open
 mdbook serve --open
 ```
 
-### 5.3 Pipeline para juegos nuevos
+---
+
+## 5. Juegos nuevos
+
+Para agregar juegos nuevos **sin crear sección nueva**, mételos en las tablas Markdown de colecciones existentes. El pipeline detecta juegos desde tablas con columna `Juego`.
+
+Después corre:
 
 ```powershell
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages
-.\scripts\04-generate-game-pages.ps1
-.\scripts\07-generate-collection-tooltips.ps1
-.\scripts\10-generate-assets-gallery.ps1
+.\scripts\05-run-full-sync.ps1 `
+  -DiscoverFromMarkdown `
+  -AllowFuzzy `
+  -ValidatePaths
+
+mdbook clean
 mdbook serve --open
 ```
 
-### 5.4 Pipeline para sincronizar DLC
+Si quieres traer metadata e imágenes faltantes:
 
-Usa esto cuando quieras que Steam liste los DLC disponibles de cada juego dentro de `data/games-metadata.json`.
-El script crea una fila por DLC y deja `owned` como checkbox manual.
+```powershell
+.\scripts\05-run-full-sync.ps1 `
+  -DiscoverFromMarkdown `
+  -AllowFuzzy `
+  -ValidatePaths `
+  -EnrichSteamMetadata `
+  -MetadataMaxGames 100 `
+  -MetadataDelayMs 2000
+```
 
-Prueba inicial con pocos juegos:
+Evita `-AcceptFuzzyMatches` salvo que estés dispuesto a revisar App IDs incorrectos. Ese parámetro acepta matches dudosos de Steam automáticamente.
+
+---
+
+## 6. DLC / contenido adicional
+
+El sistema actual usa **catálogo DLC automático + marca manual por iconos**.
+
+### 6.1 Sincronizar catálogo DLC
+
+Prueba inicial:
 
 ```powershell
 .\scripts\18-sync-steam-dlc.ps1 -MaxGames 50 -DelayMs 2000 -BuildIndexAfter
 ```
 
-Procesar juegos concretos por AppID:
+Juegos concretos por AppID:
 
 ```powershell
 .\scripts\18-sync-steam-dlc.ps1 -OnlyAppIds 1245620,292030,2050650 -DelayMs 2000 -BuildIndexAfter
 ```
 
-Integrado en el full sync:
+Integrado al full sync:
 
 ```powershell
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -SyncSteamDlc -DlcMaxGames 50 -DlcDelayMs 2000 -ValidatePaths
+.\scripts\05-run-full-sync.ps1 `
+  -DiscoverFromMarkdown `
+  -SyncSteamDlc `
+  -DlcMaxGames 50 `
+  -DlcDelayMs 2000 `
+  -ValidatePaths
 ```
 
-Para marcar si tienes un DLC, edita:
+### 6.2 Marcar DLC manualmente
+
+Edita:
 
 ```text
 data/games-metadata.json
 ```
 
-Busca el juego y cambia cada registro:
+Cada DLC debe usar `markers`, un arreglo de iconos. Puede llevar más de uno:
 
 ```json
-"owned": false
+"markers": ["owned", "pass"]
 ```
 
-a:
+Valores sugeridos:
+
+| Marker | Icono | Uso |
+|---|---:|---|
+| `owned` | ✅ | Lo tenemos. |
+| `missing` | ⬜ | No lo tenemos / pendiente. |
+| `skip` | 🚫 | No comprar. |
+| `free` | 🆓 | Contenido gratuito. |
+| `pass` | 🧩 | Season pass, expansion pass, pack grande. |
+| `soundtrack` | 🎵 | Banda sonora / OST. |
+| `artbook` | 📘 | Artbook / libro digital. |
+| `cosmetic` | 🎨 | Skin, traje, cosmético. |
+| `currency` | 💰 | Moneda, créditos, consumible. |
+
+Ejemplo:
 
 ```json
-"owned": true
+{
+  "appId": 2778580,
+  "title": "ELDEN RING Shadow of the Erdtree",
+  "type": "dlc",
+  "markers": ["owned", "pass"],
+  "important": true,
+  "isFree": false
+}
 ```
+
+El campo legado `marker` puede existir por compatibilidad, pero el template manual debe usar `markers`. La ficha muestra solo iconos por fila; el texto queda como tooltip/accesibilidad.
 
 Después regenera el índice:
 
@@ -263,64 +309,58 @@ mdbook clean
 mdbook serve --open
 ```
 
-### 5.5 Pipeline para `ZZZ) El Pozo` y `ZZZ) MRD`
+### 6.3 Inferencia automática de iconos
 
-Estas secciones suelen tener juegos raros, demos, shovelware, freebies o nombres difíciles. Usa más delay y búsqueda flexible.
+Si `markers` no existe, la ficha intenta inferirlo desde `marker` legado y después desde:
 
-```powershell
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -DelayMs 2500
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages -DelayMs 2500
-.\scripts\04-generate-game-pages.ps1
-.\scripts\07-generate-collection-tooltips.ps1
-mdbook serve --open
-```
-
-Después revisa pendientes:
-
-```powershell
-Invoke-Item .\data\steam-games-review-needed.json
-Invoke-Item .\data\steam-games-retry-needed.json
-```
-
-### 5.6 Pipeline con SteamGridDB
-
-Configura API key:
-
-```powershell
-$env:STEAMGRIDDB_API_KEY = "TU_API_KEY"
-```
-
-Luego corre:
-
-```powershell
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -UseSteamGridDb -ValidatePaths
-mdbook serve --open
-```
-
-Pipeline agresivo con SteamGridDB:
-
-```powershell
-$env:STEAMGRIDDB_API_KEY = "TU_API_KEY"
-
-.\scripts\05-run-full-sync.ps1 `
-  -DiscoverFromMarkdown `
-  -UseSteamGridDb `
-  -RefreshMetadata `
-  -RefreshAssets `
-  -RefreshSteamGridDb `
-  -ValidatePaths
-
-mdbook serve --open
-```
+- `owned`
+- `status`
+- `isFree`
+- nombre del DLC, por ejemplo `Soundtrack`, `OST`, `Artbook`, `Season Pass`, `Skin`, etc.
 
 ---
 
-## 6. Dependencias de tooltip, imagen y metadata
+## 7. Metadata extendida
 
-Un juego tiene tooltip/preview en colección solo si se cumple esta cadena:
+### 7.1 Generar base local
+
+```powershell
+.\scripts\14-generate-games-metadata-base.ps1
+.\scripts\15-build-games-index-with-metadata.ps1
+```
+
+### 7.2 Enriquecer desde Steam Store API
+
+```powershell
+.\scripts\17-enrich-steam-metadata.ps1 -MaxGames 100 -DelayMs 2000 -BuildIndexAfter
+```
+
+Simulación:
+
+```powershell
+.\scripts\17-enrich-steam-metadata.ps1 -DryRun -MaxGames 20
+```
+
+Dentro del full sync:
+
+```powershell
+.\scripts\05-run-full-sync.ps1 `
+  -DiscoverFromMarkdown `
+  -EnrichSteamMetadata `
+  -MetadataMaxGames 100 `
+  -MetadataDelayMs 2000
+```
+
+> Si aparecen errores `429`, sube el delay a `2500` o `3000`.
+
+---
+
+## 8. Tooltips, imágenes y fichas dinámicas
+
+Cadena necesaria para que un juego tenga tooltip, imagen y ficha:
 
 ```text
-Markdown con nombre del juego
+Markdown con columna Juego
   ↓
 01-sync-steam-ids.ps1
   ↓
@@ -332,25 +372,18 @@ src\assets\games\<steamAppId>\steam-header.jpg
   ↓
 04-generate-game-pages.ps1
   ↓
-src\07-juegos\por-letra\...
+src\assets\data\games-index.json
   ↓
 07-generate-collection-tooltips.ps1
-  ↓
-tabla con game-hover + preview
 ```
 
-Si un juego no tiene tooltip, normalmente falta una de estas tres cosas:
-
-1. no existe en `data\steam-games-registry.json`;
-2. existe, pero no tiene `steamAppId`;
-3. tiene ID, pero no tiene `steam-header.jpg` descargado.
-
-Flujo de reparación:
+Reparación típica:
 
 ```powershell
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -RefreshMetadata
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages
+.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -DelayMs 2500
+.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages -DelayMs 2500
 .\scripts\04-generate-game-pages.ps1
+.\scripts\15-build-games-index-with-metadata.ps1
 .\scripts\07-generate-collection-tooltips.ps1
 mdbook clean
 mdbook serve --open
@@ -358,12 +391,43 @@ mdbook serve --open
 
 ---
 
-## 7. Overrides manuales de Steam App ID
+## 9. SteamGridDB
 
-Cuando Steam Search no encuentra un juego, o lo detecta mal, corrige manualmente este archivo:
+Configura API key:
+
+```powershell
+$env:STEAMGRIDDB_API_KEY = "TU_API_KEY"
+```
+
+Pipeline normal:
+
+```powershell
+.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -UseSteamGridDb -ValidatePaths
+mdbook serve --open
+```
+
+Pipeline agresivo:
+
+```powershell
+.\scripts\05-run-full-sync.ps1 `
+  -DiscoverFromMarkdown `
+  -UseSteamGridDb `
+  -RefreshMetadata `
+  -RefreshAssets `
+  -RefreshSteamGridDb `
+  -ValidatePaths
+```
+
+Usa `-RefreshAssets` y `-RefreshSteamGridDb` solo cuando quieras redescargar imágenes ya existentes.
+
+---
+
+## 10. Overrides manuales de Steam App ID
+
+Archivo:
 
 ```text
-data\steam-appid-overrides.json
+data/steam-appid-overrides.json
 ```
 
 Formato:
@@ -375,7 +439,7 @@ Formato:
 }
 ```
 
-Después de guardar el override:
+Después:
 
 ```powershell
 .\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -RefreshMetadata
@@ -387,267 +451,9 @@ mdbook serve --open
 
 ---
 
-## 8. Referencia de scripts principales
+## 11. Diagnósticos útiles
 
-### 8.1 `05-run-full-sync.ps1` — orquestador principal
-
-Comando base:
-
-```powershell
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown
-```
-
-Variantes útiles:
-
-```powershell
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -ValidatePaths
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -RefreshMetadata -RefreshAssets
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -ForceSearch
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -UseSteamGridDb
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -EnrichSteamMetadata -MetadataMaxGames 100 -MetadataDelayMs 2000
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -AllowFuzzy
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -AllowFuzzy -AcceptFuzzyMatches
-```
-
-Parámetros:
-
-| Parámetro                 | Uso                                                                              |
-| ------------------------- | -------------------------------------------------------------------------------- |
-| `-DiscoverFromMarkdown`   | Descubre juegos leyendo tablas Markdown.                                         |
-| `-UseSteamGridDb`         | Usa SteamGridDB además de Steam.                                                 |
-| `-SteamGridDbApiKey`      | API key explícita. Default: `$env:STEAMGRIDDB_API_KEY`.                          |
-| `-RefreshMetadata`        | Reconsulta metadatos aunque existan.                                             |
-| `-RefreshAssets`          | Redescarga assets de Steam.                                                      |
-| `-RefreshSteamGridDb`     | Redescarga assets de SteamGridDB.                                                |
-| `-ForceSearch`            | Fuerza búsqueda de IDs.                                                          |
-| `-AllowFuzzy`             | Permite obtener candidatos fuzzy, pero no los aprueba solo.                      |
-| `-AcceptFuzzyMatches`     | Acepta candidatos fuzzy y los escribe al registry; usar solo después de revisar. |
-| `-SkipCollectionTooltips` | Omite tooltips de tablas.                                                        |
-| `-ValidatePaths`          | Ejecuta validación de rutas.                                                     |
-| `-EnrichSteamMetadata`    | Consulta Steam Store API para llenar descripciones, géneros, categorías, modos y features. |
-| `-MetadataMaxGames`       | Límite de juegos a enriquecer en esa corrida. `0` = todos los pendientes.        |
-| `-MetadataDelayMs`        | Pausa entre llamadas a Steam Store API. Recomendado: `2000`.                     |
-| `-ForceSteamMetadata`     | Refresca metadata aunque ya exista. Usar con cuidado porque tarda más.           |
-1 `-SyncSteamDlc`           | Sincronizar los DLC de los juegos de steama.                                     |
-
-Wrappers equivalentes:
-
-```powershell
-.\scripts\sync-game-registry-and-assets.ps1 -DiscoverFromMarkdown
-.\scripts\sync-steam-assets.ps1 -DiscoverFromMarkdown
-```
-
-CMD:
-
-```cmd
-scripts\run-full-sync.cmd -DiscoverFromMarkdown
-```
-
----
-
-### 8.2 `01-sync-steam-ids.ps1` — resolver Steam IDs
-
-Comandos:
-
-```powershell
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -RefreshMetadata
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -ForceSearch
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -DelayMs 2500
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -AcceptFuzzyMatches -DelayMs 2500
-```
-
-Cambiar país/idioma:
-
-```powershell
-.\scripts\01-sync-steam-ids.ps1 `
-  -DiscoverFromMarkdown `
-  -CountryCode "mx" `
-  -Language "spanish"
-```
-
-CMD:
-
-```cmd
-scripts\run-sync-ids.cmd -DiscoverFromMarkdown
-```
-
-Archivos que actualiza:
-
-```text
-data\steam-games-registry.json
-data\steam-image-targets.json
-data\steam-games-review-needed.json
-data\steam-games-retry-needed.json
-```
-
-Parámetros:
-
-| Parámetro               | Uso                                                                                    |
-| ----------------------- | -------------------------------------------------------------------------------------- |
-| `-TargetsPath`          | Ruta de `steam-image-targets.json`.                                                    |
-| `-OverridesPath`        | Ruta de `steam-appid-overrides.json`.                                                  |
-| `-RegistryPath`         | Ruta de `steam-games-registry.json`.                                                   |
-| `-ReviewPath`           | Ruta de `steam-games-review-needed.json`.                                              |
-| `-RetryPath`            | Ruta de `steam-games-retry-needed.json`.                                               |
-| `-DiscoverFromMarkdown` | Descubre títulos desde Markdown.                                                       |
-| `-UpdateTargets`        | Actualiza `steam-image-targets.json`. Default activo.                                  |
-| `-AllowFuzzy`           | Permite obtener candidatos no exactos. Desde V6.5.14 se mandan a revisión por default. |
-| `-AcceptFuzzyMatches`   | Aprueba candidatos fuzzy y los escribe al registry; debe usarse con cuidado.           |
-| `-OnlyMissing`          | Prioriza faltantes. Default activo.                                                    |
-| `-RefreshMetadata`      | Reconsulta metadatos.                                                                  |
-| `-ForceSearch`          | Fuerza búsqueda.                                                                       |
-| `-DelayMs`              | Pausa entre llamadas. Default: `1200`.                                                 |
-| `-CountryCode`          | País para Store Search. Default: `us`.                                                 |
-| `-Language`             | Idioma. Default: `english`.                                                            |
-
----
-
-### 8.3 `02-download-steam-images.ps1` — descargar imágenes de Steam
-
-Comandos:
-
-```powershell
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages -RefreshAssets
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages -WhatIfMode
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages -DelayMs 2500
-```
-
-CMD:
-
-```cmd
-scripts\run-download-images.cmd -UpdateMarkdownPages
-```
-
-Salida principal:
-
-```text
-src\assets\games\<steamAppId>\
-data\steam-assets-report.csv
-data\steam-assets-report.json
-```
-
-Parámetros:
-
-| Parámetro              | Uso                                    |
-| ---------------------- | -------------------------------------- |
-| `-RegistryPath`        | Registry de juegos.                    |
-| `-ReportCsvPath`       | Reporte CSV.                           |
-| `-ReportJsonPath`      | Reporte JSON.                          |
-| `-RetryPath`           | Archivo de reintentos.                 |
-| `-ReviewPath`          | Archivo de revisión.                   |
-| `-UpdateMarkdownPages` | Actualiza Markdown relacionado.        |
-| `-WhatIfMode`          | Simulación.                            |
-| `-RefreshAssets`       | Redescarga assets.                     |
-| `-DelayMs`             | Delay entre llamadas. Default: `1200`. |
-| `-Language`            | Idioma. Default: `english`.            |
-
----
-
-### 8.4 `03-sync-steamgriddb-assets.ps1` — assets de SteamGridDB
-
-Configurar API key:
-
-```powershell
-$env:STEAMGRIDDB_API_KEY = "TU_API_KEY"
-```
-
-Comandos:
-
-```powershell
-.\scripts\03-sync-steamgriddb-assets.ps1 -UpdateMarkdownPages
-.\scripts\03-sync-steamgriddb-assets.ps1 -UpdateMarkdownPages -PreferAnimated
-.\scripts\03-sync-steamgriddb-assets.ps1 -UpdateMarkdownPages -RefreshSteamGridDb
-.\scripts\03-sync-steamgriddb-assets.ps1 -UpdateMarkdownPages -WhatIfMode
-.\scripts\03-sync-steamgriddb-assets.ps1 -UpdateMarkdownPages -DelayMs 1000
-```
-
-Parámetros:
-
-| Parámetro              | Uso                                           |
-| ---------------------- | --------------------------------------------- |
-| `-RegistryPath`        | Registry de juegos.                           |
-| `-SteamGridDbApiKey`   | API key. Default: `$env:STEAMGRIDDB_API_KEY`. |
-| `-PreferAnimated`      | Prefiere assets animados. Default activo.     |
-| `-UpdateMarkdownPages` | Actualiza Markdown relacionado.               |
-| `-WhatIfMode`          | Simulación.                                   |
-| `-RefreshSteamGridDb`  | Redescarga assets.                            |
-| `-DelayMs`             | Delay entre llamadas. Default: `350`.         |
-
----
-
-### 8.5 `04-generate-game-pages.ps1` — juegos/metadatos
-
-Regenera la sección compacta por letra desde el registry:
-
-```powershell
-.\scripts\04-generate-game-pages.ps1
-```
-
-Páginas individuales, normalmente no recomendado porque puede ensuciar el sidebar:
-
-```powershell
-.\scripts\04-generate-game-pages.ps1 -IncludeIndividualPages
-```
-
-Parámetros:
-
-| Parámetro                 | Uso                                                       |
-| ------------------------- | --------------------------------------------------------- |
-| `-RegistryPath`           | Registry de juegos.                                       |
-| `-OutDir`                 | Carpeta de salida. Default: `src\07-juegos`.              |
-| `-DataOutDir`             | Salida de `games-index.json`. Default: `src\assets\data`. |
-| `-IncludeIndividualPages` | Genera páginas individuales.                              |
-
----
-
-### 8.6 `07-generate-collection-tooltips.ps1` — tooltips de tablas
-
-```powershell
-.\scripts\07-generate-collection-tooltips.ps1
-```
-
-Parámetros:
-
-| Parámetro        | Uso                                                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| `-RegistryPath`  | Registry de juegos.                                                                                                      |
-| `-MarkdownRoots` | Raíces donde se aplican tooltips. Default: `src\02-colecciones`, `src\03-estados`, `src\04-decision`, `src\05-perfiles`. |
-
----
-
-### 8.7 Scripts auxiliares
-
-| Script                     | Comando                                           | Uso                                                  |
-| -------------------------- | ------------------------------------------------- | ---------------------------------------------------- |
-| Galería de assets          | `.\scripts\10-generate-assets-gallery.ps1`        | Genera `src\07-juegos\galeria-assets-generada.md`.   |
-| Sanitizar sidebar          | `.\scripts\11-sanitize-games-summary.ps1`         | Evita que el sidebar liste cientos de juegos.        |
-| Reparar páginas            | `.\scripts\09-repair-mdbook-pages.ps1`            | Repara páginas auxiliares e inconsistencias básicas. |
-| Inventario local de assets | `.\scripts\08-export-local-assets-inventory.ps1`  | Exporta `data\local-assets-existing.csv`.            |
-| Validar rutas              | `.\scripts\99-validate-project-paths.ps1`         | Valida rutas internas.                               |
-| Validar rutas estricto     | `.\scripts\99-validate-project-paths.ps1 -Strict` | Validación más agresiva.                             |
-| Fichas clave Daniel        | `.\scripts\06-update-key-game-pages.ps1`          | Actualiza fichas base de Daniel.                     |
-| Fichas extendidas Daniel   | `.\scripts\13-generate-extended-key-sheets.ps1`   | Genera fichas extendidas.                            |
-| Activar imágenes antiguas  | `.\scripts\activate-downloaded-images.ps1`        | Script legado para assets por slug.                  |
-
-Parámetros de scripts auxiliares:
-
-| Script                                 | Parámetros relevantes                                                                        |
-| -------------------------------------- | -------------------------------------------------------------------------------------------- |
-| `10-generate-assets-gallery.ps1`       | `-RegistryPath`, `-OutPath`                                                                  |
-| `11-sanitize-games-summary.ps1`        | `-SummaryPath`, `-RegistryPath`                                                              |
-| `09-repair-mdbook-pages.ps1`           | `-RegistryPath`, `-TargetsPath`, `-ReviewPath`, `-RetryPath`, `-IgnoredPath`, `-GamesOutDir` |
-| `08-export-local-assets-inventory.ps1` | `-AssetsRoot`, `-OutPath`                                                                    |
-| `06-update-key-game-pages.ps1`         | `-RegistryPath`, `-GamesKeyPath`, `-KeyDir`                                                  |
-| `13-generate-extended-key-sheets.ps1`  | `-DataPath`, `-OutPath`, `-IndexPath`                                                        |
-
----
-
-## 9. Diagnósticos
-
-### 9.1 Juegos sin `steamAppId`
+### 11.1 Juegos sin Steam App ID
 
 ```powershell
 Get-Content .\data\steam-games-registry.json |
@@ -658,34 +464,14 @@ Get-Content .\data\steam-games-registry.json |
   Format-Table -AutoSize
 ```
 
-Exportar a CSV:
-
-```powershell
-Get-Content .\data\steam-games-registry.json |
-  ConvertFrom-Json |
-  Where-Object { -not $_.steamAppId } |
-  Sort-Object title |
-  Select-Object title, slug, steamAppId, officialName, steamType |
-  Export-Csv .\data\juegos-sin-steamid.csv -NoTypeInformation -Encoding UTF8
-
-Invoke-Item .\data\juegos-sin-steamid.csv
-```
-
-### 9.2 Pendientes de revisión/reintento
-
-```powershell
-Get-Content .\data\steam-games-review-needed.json | ConvertFrom-Json | Format-Table -AutoSize
-Get-Content .\data\steam-games-retry-needed.json  | ConvertFrom-Json | Format-Table -AutoSize
-```
-
-Abrir archivos:
+### 11.2 Pendientes de revisión/reintento
 
 ```powershell
 Invoke-Item .\data\steam-games-review-needed.json
 Invoke-Item .\data\steam-games-retry-needed.json
 ```
 
-### 9.3 Buscar juego específico
+### 11.3 Buscar juego específico
 
 ```powershell
 $game = "Dead as Disco"
@@ -696,88 +482,71 @@ Get-Content .\data\steam-games-registry.json |
   Format-List
 ```
 
-Buscar en review/retry:
-
-```powershell
-$game = "Dead as Disco"
-
-Get-Content .\data\steam-games-review-needed.json |
-  ConvertFrom-Json |
-  Where-Object { $_.title -like "*$game*" -or $_.detectedName -like "*$game*" } |
-  Format-List
-
-Get-Content .\data\steam-games-retry-needed.json |
-  ConvertFrom-Json |
-  Where-Object { $_.title -like "*$game*" -or $_.detectedName -like "*$game*" } |
-  Format-List
-```
-
-### 9.4 Juegos con ID pero sin imagen
+### 11.4 Juegos con ID pero sin imagen
 
 ```powershell
 $registry = Get-Content .\data\steam-games-registry.json | ConvertFrom-Json
 
 $registry |
   Where-Object { $_.steamAppId } |
-  Where-Object {
-    -not (Test-Path ".\src\assets\games\$($_.steamAppId)\steam-header.jpg")
-  } |
+  Where-Object { -not (Test-Path ".\src\assets\games\$($_.steamAppId)\steam-header.jpg") } |
   Sort-Object title |
   Select-Object title, steamAppId, officialName |
   Format-Table -AutoSize
 ```
 
-Exportar a CSV:
-
-```powershell
-$registry = Get-Content .\data\steam-games-registry.json | ConvertFrom-Json
-
-$registry |
-  Where-Object { $_.steamAppId } |
-  Where-Object {
-    -not (Test-Path ".\src\assets\games\$($_.steamAppId)\steam-header.jpg")
-  } |
-  Sort-Object title |
-  Select-Object title, steamAppId, officialName |
-  Export-Csv .\data\juegos-con-id-sin-imagen.csv -NoTypeInformation -Encoding UTF8
-
-Invoke-Item .\data\juegos-con-id-sin-imagen.csv
-```
-
 ---
 
-## 10. Reparación por síntoma
+## 12. CSS / colores del proyecto
 
-| Síntoma                                | Causa probable                                   | Comando                                                         |
-| -------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------- |
-| Juego nuevo sin tooltip                | Falta ID, imagen o regenerar tooltip             | Ver sección `6`.                                                |
-| Juego en ZZZ sin imagen                | No tiene `steamAppId` o no se descargó asset     | Pipeline `5.4`.                                                 |
-| Dead as Disco no aparece con hover     | Falta override/ID o rerun de tooltips            | Sección `7` + pipeline `5.3`.                                   |
-| Sidebar de juegos gigante              | `SUMMARY.md` volvió a listar juegos individuales | `.\scripts\11-sanitize-games-summary.ps1`                       |
-| `mdbook serve` marca páginas faltantes | Links o páginas auxiliares faltantes             | `.\scripts\09-repair-mdbook-pages.ps1`                          |
-| Imágenes existen pero no se ven        | Caché/build viejo                                | `mdbook clean`, regenerar páginas, `Ctrl + F5`.                 |
-| Rate limit / `429`                     | Muchas llamadas seguidas                         | Usar `-DelayMs 2500` y revisar `steam-games-retry-needed.json`. |
-| Steam Search detecta mal un juego      | Match incorrecto                                 | Agregar override en `steam-appid-overrides.json`.               |
+Archivo principal:
 
-Comandos de reparación frecuentes:
-
-```powershell
-.\scripts\09-repair-mdbook-pages.ps1
-.\scripts\11-sanitize-games-summary.ps1
-.\scripts\99-validate-project-paths.ps1 -Strict
-mdbook serve --open
+```text
+theme/custom.css
 ```
 
-Imágenes no visibles aunque ya existen:
+La versión documentada trae un **panel de variables** al inicio del archivo. Para cambiar colores globales, edita primero esa zona:
+
+```css
+:root {
+  --steam-accent-rgb: 125, 170, 255;
+  --steam-accent: rgb(var(--steam-accent-rgb));
+  --steam-surface-soft: rgba(255, 255, 255, .035);
+  --steam-border-soft: rgba(var(--steam-accent-rgb), .24);
+}
+```
+
+### 12.1 Variables más importantes
+
+| Variable | Controla |
+|---|---|
+| `--steam-accent-rgb` | Color principal del proyecto. Cambia links, bordes, callouts y botones. |
+| `--steam-surface-soft` | Fondo suave de tarjetas. |
+| `--steam-border-soft` | Bordes generales de cards, chips y botones. |
+| `--steam-floating-bg` | Fondo del tooltip flotante de juegos. |
+| `--steam-shadow-floating` | Color de sombra del tooltip flotante. |
+| `--content-max-width` | Ancho máximo del contenido. |
+| `--content-readable-width` | Ancho cómodo para párrafos largos. |
+| `--dlc-owned-bg` | Fondo de marcador DLC `owned`. |
+| `--dlc-missing-bg` | Fondo de marcador DLC `missing`. |
+| `--dlc-skip-bg` | Fondo de marcador DLC `skip`. |
+| `--priority-alta-bg` | Fondo de badge de prioridad alta. |
+| `--profile-iconic` | Color de importancia personal `iconic`. |
+
+### 12.2 Reglas de edición
+
+1. Cambia primero variables en `:root`.
+2. Evita editar colores sueltos dentro de componentes si ya existe una variable.
+3. Para agregar un nuevo color, crea variable con nombre semántico.
+4. Mantén los componentes agrupados por sección.
+5. Después de editar CSS, corre:
 
 ```powershell
 mdbook clean
-.\scripts\04-generate-game-pages.ps1
-.\scripts\07-generate-collection-tooltips.ps1
 mdbook serve --open
 ```
 
-Luego:
+Y en navegador:
 
 ```text
 Ctrl + F5
@@ -785,245 +554,57 @@ Ctrl + F5
 
 ---
 
-## 11. Archivos principales
+## 13. Archivos principales
 
-| Archivo                               | Uso                                          |
-| ------------------------------------- | -------------------------------------------- |
-| `book.toml`                           | Configuración principal de mdBook.           |
-| `src\SUMMARY.md`                      | Sidebar/índice del mdBook.                   |
-| `data\steam-games-registry.json`      | Registro maestro de juegos, IDs y metadata.  |
-| `data\steam-image-targets.json`       | Targets para imágenes.                       |
-| `data\steam-appid-overrides.json`     | Overrides manuales de Steam App ID.          |
-| `data\steam-games-review-needed.json` | Juegos que requieren revisión manual.        |
-| `data\steam-games-retry-needed.json`  | Juegos para reintentar por error/rate limit. |
-| `data\steam-assets-report.csv`        | Reporte CSV de assets descargados.           |
-| `data\steam-assets-report.json`       | Reporte JSON de assets descargados.          |
-| `data\local-assets-existing.csv`      | Inventario local de assets existentes.       |
-
----
-
-## 12. Carpetas principales
-
-| Carpeta                          | Uso                                             |
-| -------------------------------- | ----------------------------------------------- |
-| `src\`                           | Contenido Markdown del mdBook.                  |
-| `src\02-colecciones\`            | Colecciones globales, técnicas y cuarentena.    |
-| `src\05-perfiles\`               | Perfiles personales: Daniel, Jesse y Jovan.     |
-| `src\07-juegos\`                 | Índice compacto, metadatos y galería de juegos. |
-| `src\assets\games\<steamAppId>\` | Imágenes por juego.                             |
-| `scripts\`                       | Automatización del proyecto.                    |
-| `theme\`                         | CSS y JavaScript personalizado.                 |
-| `data\`                          | Registry, reportes, overrides y data auxiliar.  |
-
----
-
-## 13. Orden recomendado según cambio
-
-### Solo quiero ver el sitio
-
-```powershell
-mdbook serve --open
-```
-
-### Cambié texto normal del mdBook
-
-```powershell
-mdbook serve --open
-```
-
-### Agregué un juego nuevo a una colección
-
-```powershell
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages
-.\scripts\04-generate-game-pages.ps1
-.\scripts\07-generate-collection-tooltips.ps1
-mdbook serve --open
-```
-
-### Agregué muchos juegos raros, ZZZ o MRD
-
-```powershell
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -DelayMs 2500
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages -DelayMs 2500
-.\scripts\04-generate-game-pages.ps1
-.\scripts\07-generate-collection-tooltips.ps1
-mdbook serve --open
-```
-
-### Solo quiero imágenes
-
-```powershell
-.\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages
-```
-
-### Solo quiero tooltips
-
-```powershell
-.\scripts\07-generate-collection-tooltips.ps1
-```
-
-### Solo quiero regenerar juegos/metadatos
-
-```powershell
-.\scripts\04-generate-game-pages.ps1
-```
-
-### Quiero validar/reparar lo básico
-
-```powershell
-.\scripts\09-repair-mdbook-pages.ps1
-.\scripts\11-sanitize-games-summary.ps1
-.\scripts\99-validate-project-paths.ps1 -Strict
-mdbook serve --open
-```
-
-### Quiero correr casi todo
-
-```powershell
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -ValidatePaths
-mdbook serve --open
-```
-
-
----
-
-## Git / versionado
-
-Este paquete incluye configuración base para Git: `.gitignore`, `.gitattributes` y `.editorconfig`.
-
-Guía rápida: [`docs/git-workflow.md`](docs/git-workflow.md)
-
-
-## Metadata extendida V6.6.0
-
-Comandos principales:
-
-```powershell
-.\scripts\14-generate-games-metadata-base.ps1
-.\scripts\15-build-games-index-with-metadata.ps1
-.\scripts\16-preview-collection-rules.ps1
-```
-
-Archivos relevantes:
-
-```text
-data/games-metadata.json
-data/collection-rules.json
-data/schemas/game-metadata.schema.json
-src/assets/data/games-index.json
-```
-
-```text
-.\scripts\14-generate-games-metadata-base.ps1
-.\scripts\15-build-games-index-with-metadata.ps1
-.\scripts\16-preview-collection-rules.ps1
-.\scripts\02-download-steam-images.ps1 -DelayMs 500 -Language spanish
-.\scripts\04-generate-game-pages.ps1
-.\scripts\07-generate-collection-tooltips.ps1
-.\scripts\09-repair-mdbook-pages.ps1
-.\scripts\10-generate-assets-gallery.ps1
-.\scripts\11-sanitize-games-summary.ps1
-
-mdbook clean
-mdbook build
-mdbook serve --open
-```
-
-
----
-
-## V6.6.2 — Hotfix de metadata en ficha dinámica
-
-### Problema corregido
-
-La ficha dinámica podía seguir mostrando `—` en descripción, modos, features y metadata aunque existiera `games-metadata.json`, porque `04-generate-game-pages.ps1` volvía a escribir `src/assets/data/games-index.json` usando solo `steam-games-registry.json`.
-
-### Correcciones
-
-- `04-generate-game-pages.ps1` ahora mezcla `data/games-metadata.json` al generar `games-index.json`.
-- `05-run-full-sync.ps1` tiene el switch `-EnrichSteamMetadata` para traer datos reales desde Steam Store API dentro del pipeline.
-- `17-enrich-steam-metadata.ps1` puede ejecutar `-BuildIndexAfter` para que los datos se vean inmediatamente en mdBook.
-
-### Comando recomendado para traer metadata real
-
-```powershell
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -EnrichSteamMetadata -MetadataMaxGames 100 -MetadataDelayMs 2000
-mdbook clean
-mdbook build
-mdbook serve --open
-```
-
-Para traer todos los pendientes, quita `-MetadataMaxGames 100`, pero va a tardar bastante.
-
----
-
-## V6.6.1 — Parche de limpieza y enriquecimiento
-
-### Nuevos scripts
-
-| Script | Función |
+| Archivo | Uso |
 |---|---|
-| `17-enrich-steam-metadata.ps1` | Enriquece `games-metadata.json` con géneros, modos, features y descripción desde Steam Store API |
+| `book.toml` | Configuración principal de mdBook. |
+| `src/SUMMARY.md` | Sidebar/índice del mdBook. |
+| `theme/custom.css` | Estilos, layout visual y colores. |
+| `theme/game-detail.js` | Ficha dinámica de juegos. |
+| `src/assets/data/games-index.json` | Índice consumido por la ficha dinámica. |
+| `data/steam-games-registry.json` | Registro maestro de juegos, IDs e imágenes. |
+| `data/games-metadata.json` | Metadata extendida, DLC, estados personales y reglas. |
+| `data/steam-image-targets.json` | Targets para imágenes. |
+| `data/steam-appid-overrides.json` | Overrides manuales de Steam App ID. |
+| `data/steam-games-review-needed.json` | Juegos que requieren revisión manual. |
+| `data/steam-games-retry-needed.json` | Juegos para reintentar por error/rate limit. |
+| `data/dlc-sync-report.json` | Reporte de sincronización DLC. |
 
-### Uso rápido del enriquecimiento
+---
 
-```powershell
-# Enriquecer los primeros 100 juegos sin metadata (recomendado para primer run)
-.\scripts\17-enrich-steam-metadata.ps1 -MaxGames 100
+## 14. Carpetas principales
 
-# Ver qué haría sin escribir nada
-.\scripts\17-enrich-steam-metadata.ps1 -DryRun -MaxGames 20
+| Carpeta | Uso |
+|---|---|
+| `src/` | Contenido Markdown del mdBook. |
+| `src/02-colecciones/` | Colecciones globales, técnicas y cuarentena. |
+| `src/03-estados/` | Estados personales: terminado, sin terminar, postgame, etc. |
+| `src/04-decision/` | Selectores, backlog activo y ayuda para decidir qué jugar. |
+| `src/05-perfiles/` | Perfiles personales: Daniel, Jesse y Jovan. |
+| `src/06-mantenimiento/` | Versiones, notas técnicas y mantenimiento. |
+| `src/07-juegos/` | Índice compacto, metadata y galería de juegos. |
+| `src/assets/games/<steamAppId>/` | Imágenes por juego. |
+| `scripts/` | Automatización. |
+| `theme/` | CSS y JavaScript personalizado. |
+| `data/` | Registry, metadata, reportes, overrides y data auxiliar. |
 
-# Después de enriquecer, regenerar el index
-.\scripts\15-build-games-index-with-metadata.ps1
+---
 
-# O hacerlo en una sola corrida
-.\scripts\17-enrich-steam-metadata.ps1 -MaxGames 100 -DelayMs 2000 -BuildIndexAfter
+## 15. Git / versionado
+
+Este paquete debe ignorar builds y assets pesados generados.
+
+Revisa:
+
+```text
+.gitignore
+.gitattributes
+.editorconfig
 ```
 
-> ℹ️ La Steam Store API tiene un rate limit no oficial. Usa `-DelayMs 2000` si obtienes errores 429.
+Guía rápida, si existe:
 
-### Archivos huérfanos archivados
-
-Los siguientes archivos no estaban en SUMMARY y fueron movidos a `src/_orphaned/`:
-
-- `06-vr-16-juegos.md` (reemplazado por `06-vr-17-juegos.md`)
-- `02-yyy-party-versus-mesa-32-juegos.md` (reemplazado por `02-yyy-party-versus-mesa-33-juegos.md`)
-
-### Nueva página: Estadísticas
-
-Se agrega `VIII. Estadísticas` al sidebar. Carga dinámicamente desde `games-index.json` y muestra:
-- Contadores globales (total, terminados, favoritos, platinados)
-- Distribución de estados personales con barras
-- Modos de juego confirmados
-- Top géneros (requiere metadata enriquecida)
-
-## Troubleshooting rápido
-
-### Error `Cannot convert value "-DelayMs" to type System.Int32`
-
-Corregido en V6.6.3. La causa era la invocación interna de `17-enrich-steam-metadata.ps1` desde `05-run-full-sync.ps1` usando un arreglo de argumentos. El script ahora llama el enriquecedor con parámetros explícitos.
-
-Comando recomendado:
-
-```powershell
-.\scripts\05-run-full-sync.ps1 -DiscoverFromMarkdown -EnrichSteamMetadata -MetadataMaxGames 100 -MetadataDelayMs 2000
-```
-
-Si quieres probar solo el enriquecedor, sin toda la sincronización:
-
-```powershell
-.\scripts\17-enrich-steam-metadata.ps1 -MaxGames 100 -DelayMs 2000 -BuildIndexAfter
-```
-## Medio resumido
-
-Corre este:
-```powershell
-.\scripts\05-run-full-sync.ps1 `
-  -DiscoverFromMarkdown `
-  -AllowFuzzy `
-  -ValidatePaths `
-  -EnrichSteamMetadata `
-  -SyncSteamDlc `
+```text
+docs/git-workflow.md
 ```

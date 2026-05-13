@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Genera fichas extendidas de juegos clave de Daniel.
+.DESCRIPTION
+    Lee `data/key-game-extended.json` y produce `src/05-perfiles/daniel/fichas-extendidas.md`.
+    Los enlaces de metadata apuntan directamente a `../../07-juegos/detalle.html?id=<steamAppId>`.
+.EXAMPLE
+    .\scripts\13-generate-extended-key-sheets.ps1
+#>
 param(
     [string]$DataPath = ".\data\key-game-extended.json",
     [string]$OutPath = ".\src\05-perfiles\daniel\fichas-extendidas.md",
@@ -58,7 +67,7 @@ foreach ($item in $items) {
     $mdProjectRel = ConvertTo-ProjectRelativePath $OutPath
     $img = Get-MdBookRelativeAssetPath -MarkdownFile $mdProjectRel -ProjectRelativeAssetPath "src/assets/games/$appid/steam-header.jpg"
     $letterSlug = Get-LetterSlug (Get-GameLetterKey $title)
-    $meta = "../../07-juegos/por-letra/$letterSlug.html#game-meta-$appid"
+    $meta = "../../07-juegos/detalle.html?id=$appid"
 
     $safeTitle = Escape-Html $title
     $safeSlug = Escape-Html $slug

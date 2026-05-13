@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Genera o actualiza la metadata base V6.6.
+.DESCRIPTION
+    Asegura que cada juego del registry tenga entrada en `data/games-metadata.json` con estructura para
+    Steam metadata, modos, features, DLC, estado personal, recomendaciones, perfiles y calidad de datos.
+.EXAMPLE
+    .\scripts\14-generate-games-metadata-base.ps1
+#>
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string]$MetadataPath = ".\data\games-metadata.json",

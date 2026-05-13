@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Repara páginas auxiliares y archivos técnicos del mdBook.
+.DESCRIPTION
+    Asegura la existencia de páginas de revisión, reintentos, ignorados y otras páginas esperadas por SUMMARY.
+    Ayuda a evitar errores de `mdbook build` por archivos faltantes.
+.EXAMPLE
+    .\scripts\09-repair-mdbook-pages.ps1
+#>
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string]$TargetsPath = ".\data\steam-image-targets.json",

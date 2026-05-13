@@ -1,3 +1,23 @@
+<#
+.SYNOPSIS
+    Sincroniza títulos de Markdown con Steam App IDs.
+.DESCRIPTION
+    Lee targets desde `data/steam-image-targets.json` y/o tablas Markdown, consulta Steam Store Search,
+    aplica overrides manuales, actualiza `steam-games-registry.json`, genera candidatos de revisión y
+    prepara targets para descarga de imágenes.
+.PARAMETER DiscoverFromMarkdown
+    Descubre juegos leyendo tablas Markdown del proyecto.
+.PARAMETER AllowFuzzy
+    Permite candidatos no exactos y los manda a revisión salvo que se use `-AcceptFuzzyMatches`.
+.PARAMETER AcceptFuzzyMatches
+    Acepta automáticamente candidatos fuzzy. Úsalo solo si luego revisarás el registry.
+.PARAMETER RefreshMetadata
+    Reconsulta metadata aunque ya exista una entrada previa.
+.PARAMETER ForceSearch
+    Fuerza búsqueda aunque haya datos locales.
+.EXAMPLE
+    .\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -DelayMs 2500
+#>
 param(
     [string]$TargetsPath = ".\data\steam-image-targets.json",
     [string]$OverridesPath = ".\data\steam-appid-overrides.json",

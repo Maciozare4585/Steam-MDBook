@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Limpia la sección de juegos dentro de `SUMMARY.md`.
+.DESCRIPTION
+    Evita que el sidebar liste cientos de juegos individuales; conserva la navegación compacta por índice,
+    detalle dinámico, páginas por letra, galería y reportes técnicos.
+.EXAMPLE
+    .\scripts\11-sanitize-games-summary.ps1
+#>
 param(
     [string]$SummaryPath = ".\src\SUMMARY.md",
     [string]$RegistryPath = ".\data\steam-games-registry.json"

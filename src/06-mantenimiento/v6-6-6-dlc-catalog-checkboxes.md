@@ -1,4 +1,4 @@
-# V6.6.6 — Catálogo DLC con checkboxes manuales
+# V6.6.6 — Catálogo DLC con iconos manuales
 
 ## Objetivo
 
@@ -19,8 +19,9 @@ Este script:
 3. Detecta el arreglo de DLC disponibles del juego base.
 4. Consulta cada DLC para obtener nombre, AppID, tipo, precio, fecha y URL de tienda.
 5. Actualiza `dlcInfo.dlcs` con una fila por DLC.
-6. Deja `owned` como checkbox manual.
-7. Regenera `games-index.json` si se usa `-BuildIndexAfter`.
+6. Inicializa `markers` como arreglo de iconos manuales.
+7. Conserva `marker` como campo legado de compatibilidad.
+8. Regenera `games-index.json` si se usa `-BuildIndexAfter`.
 
 ## Modelo de datos DLC
 
@@ -31,9 +32,10 @@ Cada DLC queda así:
   "appId": 2778580,
   "title": "ELDEN RING Shadow of the Erdtree",
   "type": "dlc",
-  "owned": false,
-  "important": null,
-  "status": "pendiente_manual",
+  "markers": ["owned", "pass"],
+  "marker": "owned",
+  "important": true,
+  "status": "propio",
   "isFree": false,
   "price": "MXN$...",
   "releaseDate": "21 JUN 2024",
@@ -45,16 +47,19 @@ Cada DLC queda así:
 
 ## Regla manual
 
-El campo importante es:
+El campo importante para editar a mano es:
 
 ```json
-"owned": false
+"markers": ["owned", "pass"]
 ```
 
-Cuando se confirme que el DLC sí está en la biblioteca familiar, se cambia a:
+`markers` puede contener más de un valor. Recomendación: usar primero el estado principal y luego el tipo/contexto.
 
 ```json
-"owned": true
+"markers": ["owned", "pass"]
+"markers": ["missing", "soundtrack"]
+"markers": ["skip", "currency"]
+"markers": ["free", "cosmetic"]
 ```
 
 Después se regenera el índice:
@@ -93,17 +98,16 @@ El bloque `DLC / contenido adicional` ahora muestra tabla con:
 
 | Campo | Descripción |
 |---|---|
-| Lo tenemos | Checkbox visual basado en `dlcs[].owned`. |
-| DLC | Nombre, link de tienda y AppID. |
-| Tipo | Usualmente `dlc`. |
-| Importa | Checkbox manual para marcar DLC relevantes. |
-| Estado | Estado textual, por ejemplo `pendiente_manual`, `propio`, `faltante`. |
+| Iconos | Iconos basados en `dlcs[].markers[]`; acepta varios por DLC. |
+| DLC | Nombre, link de tienda, AppID, precio y badges auxiliares. |
+| Tipo | Usualmente `dlc`, aunque Steam puede reportar otros tipos. |
 
-Los checkboxes son de lectura dentro del mdBook. La fuente de verdad sigue siendo `data/games-metadata.json`.
+Los iconos son de lectura dentro del mdBook. No se muestran checkboxes ni texto de estado por fila. La fuente de verdad sigue siendo `data/games-metadata.json`.
 
 ## Notas
 
 - El script no intenta adivinar ownership real del usuario desde Steam.
 - Si el juego ya estaba marcado como `ownershipStatus = "full"`, los DLC detectados se marcan como propios automáticamente.
-- Si ya existían DLC manuales con el mismo AppID o nombre compatible, el valor `owned` se conserva.
+- Si ya existían DLC manuales con el mismo AppID o nombre compatible, `markers` se conserva.
+- Si solo existía `marker`, la UI lo trata como legado y lo migra visualmente a `markers`.
 - El script genera `data/dlc-sync-report.json` para revisar qué encontró.
