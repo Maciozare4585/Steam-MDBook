@@ -1,0 +1,25 @@
+{
+  "version": "6.6.10",
+  "generatedAt": "2026-05-13T18:40:49Z",
+  "change": "DLC metadata template and dynamic detail view now use icon-only markers with support for multiple icons per DLC.",
+  "preferredField": "dlcInfo.dlcs[].markers",
+  "legacyField": "dlcInfo.dlcs[].marker",
+  "validated": {
+    "jsonData": true,
+    "gameDetailJsSyntax": true,
+    "summaryLinksBroken": 0,
+    "dlcRowsWithMarkers": 4254,
+    "dlcRowsWithMultipleMarkers": 730
+  },
+  "filesTouched": [
+    "theme/game-detail.js",
+    "theme/custom.css",
+    "scripts/18-sync-steam-dlc.ps1",
+    "data/games-metadata.json",
+    "src/assets/data/games-index.json",
+    "README.md",
+    "docs/metadata-model.md",
+    "src/06-mantenimiento/templates/16-template-de-metadata-dlc-iconos.md",
+    "src/06-mantenimiento/v6-6-10-dlc-iconos-multiples.md"
+  ]
+}

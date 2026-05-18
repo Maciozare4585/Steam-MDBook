@@ -1,6 +1,6 @@
 # Juegos — B
 
-> Página alfabética compacta. Contiene **55** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **68** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,9 +14,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1640320</code></span>
       <span><strong>Oficial:</strong> B.I.O.T.A.</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1640320">
   <a class="steam-action steam-play" href="steam://run/1640320" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,9 +33,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>736260</code></span>
       <span><strong>Oficial:</strong> Baba Is You</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="736260">
   <a class="steam-action steam-play" href="steam://run/736260" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -56,9 +52,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>924970</code></span>
       <span><strong>Oficial:</strong> Back 4 Blood</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="924970">
   <a class="steam-action steam-play" href="steam://run/924970" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +71,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2379780</code></span>
       <span><strong>Oficial:</strong> Balatro</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2379780">
   <a class="steam-action steam-play" href="steam://run/2379780" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,14 +90,31 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1086940</code></span>
       <span><strong>Oficial:</strong> Baldur&#39;s Gate 3</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1086940">
   <a class="steam-action steam-play" href="steam://run/1086940" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1086940" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1086940" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2923300" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2923300">
+    <img src="../../assets/games/2923300/steam-header.jpg" alt="Banana" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2923300">🎮 Banana</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2923300</code></span>
+      <span><strong>Oficial:</strong> Banana</span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2923300">
+  <a class="steam-action steam-play" href="steam://run/2923300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2923300" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2923300" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -119,9 +128,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>371970</code></span>
       <span><strong>Oficial:</strong> Barony</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="371970">
   <a class="steam-action steam-play" href="steam://run/371970" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -140,9 +147,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>618140</code></span>
       <span><strong>Oficial:</strong> Barro</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="618140">
   <a class="steam-action steam-play" href="steam://run/618140" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -161,9 +166,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>35140</code></span>
       <span><strong>Oficial:</strong> Batman: Arkham Asylum Game of the Year Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="35140">
   <a class="steam-action steam-play" href="steam://run/35140" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,9 +185,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>200260</code></span>
       <span><strong>Oficial:</strong> Batman: Arkham City - Game of the Year Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="200260">
   <a class="steam-action steam-play" href="steam://run/200260" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -203,9 +204,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>208650</code></span>
       <span><strong>Oficial:</strong> Batman™: Arkham Knight</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="208650">
   <a class="steam-action steam-play" href="steam://run/208650" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -224,9 +223,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>209000</code></span>
       <span><strong>Oficial:</strong> Batman™: Arkham Origins</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="209000">
   <a class="steam-action steam-play" href="steam://run/209000" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -245,9 +242,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>502820</code></span>
       <span><strong>Oficial:</strong> Batman™: Arkham VR</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="502820">
   <a class="steam-action steam-play" href="steam://run/502820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -266,9 +261,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>599390</code></span>
       <span><strong>Oficial:</strong> Battle for Wesnoth</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="599390">
   <a class="steam-action steam-play" href="steam://run/599390" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -287,9 +280,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2623090</code></span>
       <span><strong>Oficial:</strong> Battle Simulator: Counter Stickman</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2623090">
   <a class="steam-action steam-play" href="steam://run/2623090" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -308,9 +299,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>238460</code></span>
       <span><strong>Oficial:</strong> BattleBlock Theater&#174;</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="238460">
   <a class="steam-action steam-play" href="steam://run/238460" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -329,9 +318,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1238840</code></span>
       <span><strong>Oficial:</strong> Battlefield™ 1</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1238840">
   <a class="steam-action steam-play" href="steam://run/1238840" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -350,9 +337,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2807960</code></span>
       <span><strong>Oficial:</strong> Battlefield™ 6</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2807960">
   <a class="steam-action steam-play" href="steam://run/2807960" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -371,9 +356,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1238810</code></span>
       <span><strong>Oficial:</strong> Battlefield™ V</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1238810">
   <a class="steam-action steam-play" href="steam://run/1238810" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -392,9 +375,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>24960</code></span>
       <span><strong>Oficial:</strong> Battlefield: Bad Company™ 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="24960">
   <a class="steam-action steam-play" href="steam://run/24960" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -413,9 +394,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>460790</code></span>
       <span><strong>Oficial:</strong> Bayonetta</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="460790">
   <a class="steam-action steam-play" href="steam://run/460790" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -434,15 +413,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3560160</code></span>
       <span><strong>Oficial:</strong> Bearly Awesome</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3560160">
   <a class="steam-action steam-play" href="steam://run/3560160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3560160" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3560160" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-beast-blaster" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Beast Blaster</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -455,9 +444,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>764570</code></span>
       <span><strong>Oficial:</strong> Beavers Be Dammed</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="764570">
   <a class="steam-action steam-play" href="steam://run/764570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -476,9 +463,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>475550</code></span>
       <span><strong>Oficial:</strong> Beholder</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="475550">
   <a class="steam-action steam-play" href="steam://run/475550" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -497,9 +482,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>250680</code></span>
       <span><strong>Oficial:</strong> BELOW</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="250680">
   <a class="steam-action steam-play" href="steam://run/250680" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -518,9 +501,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1158500</code></span>
       <span><strong>Oficial:</strong> Between Two Castles - Digital Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1158500">
   <a class="steam-action steam-play" href="steam://run/1158500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -539,9 +520,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>960990</code></span>
       <span><strong>Oficial:</strong> Beyond: Two Souls</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="960990">
   <a class="steam-action steam-play" href="steam://run/960990" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -560,14 +539,31 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3180310</code></span>
       <span><strong>Oficial:</strong> Billies Wheelie</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3180310">
   <a class="steam-action steam-play" href="steam://run/3180310" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3180310" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3180310" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-203750" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=203750">
+    <img src="../../assets/games/203750/steam-header.jpg" alt="Binary Domain" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=203750">🎮 Binary Domain</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>203750</code></span>
+      <span><strong>Oficial:</strong> Binary Domain</span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="203750">
+  <a class="steam-action steam-play" href="steam://run/203750" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/203750" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/203750" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -581,9 +577,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>7670</code></span>
       <span><strong>Oficial:</strong> BioShock™</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="7670">
   <a class="steam-action steam-play" href="steam://run/7670" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -602,9 +596,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>8850</code></span>
       <span><strong>Oficial:</strong> BioShock&#174; 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="8850">
   <a class="steam-action steam-play" href="steam://run/8850" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -623,9 +615,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>409720</code></span>
       <span><strong>Oficial:</strong> BioShock™ 2 Remastered</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="409720">
   <a class="steam-action steam-play" href="steam://run/409720" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -644,9 +634,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>8870</code></span>
       <span><strong>Oficial:</strong> BioShock Infinite</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="8870">
   <a class="steam-action steam-play" href="steam://run/8870" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -665,9 +653,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>409710</code></span>
       <span><strong>Oficial:</strong> BioShock™ Remastered</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="409710">
   <a class="steam-action steam-play" href="steam://run/409710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -686,9 +672,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3454650</code></span>
       <span><strong>Oficial:</strong> BitCraft Online</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3454650">
   <a class="steam-action steam-play" href="steam://run/3454650" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -707,9 +691,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>582660</code></span>
       <span><strong>Oficial:</strong> Black Desert</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="582660">
   <a class="steam-action steam-play" href="steam://run/582660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -728,14 +710,31 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>362890</code></span>
       <span><strong>Oficial:</strong> Black Mesa</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="362890">
   <a class="steam-action steam-play" href="steam://run/362890" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/362890" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/362890" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-729660" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=729660">
+    <img src="../../assets/games/729660/steam-header.jpg" alt="Blackout Z: Slaughterhouse Edition" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=729660">🎮 Blackout Z: Slaughterhouse Edition</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>729660</code></span>
+      <span><strong>Oficial:</strong> Blackout Z: Slaughterhouse Edition</span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="729660">
+  <a class="steam-action steam-play" href="steam://run/729660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/729660" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/729660" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -749,9 +748,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>774361</code></span>
       <span><strong>Oficial:</strong> Blasphemous</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="774361">
   <a class="steam-action steam-play" href="steam://run/774361" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -770,9 +767,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2114740</code></span>
       <span><strong>Oficial:</strong> Blasphemous 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2114740">
   <a class="steam-action steam-play" href="steam://run/2114740" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -791,15 +786,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>649190</code></span>
       <span><strong>Oficial:</strong> Blast Zone! Tournament</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="649190">
   <a class="steam-action steam-play" href="steam://run/649190" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/649190" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/649190" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-blood-gazm" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Blood Gazm</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -812,9 +817,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>960090</code></span>
       <span><strong>Oficial:</strong> Bloons TD 6</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="960090">
   <a class="steam-action steam-play" href="steam://run/960090" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -833,14 +836,31 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3557620</code></span>
       <span><strong>Oficial:</strong> Blue Archive</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3557620">
   <a class="steam-action steam-play" href="steam://run/3557620" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3557620" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3557620" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3681810" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3681810">
+    <img src="../../assets/games/3681810/steam-header.jpg" alt="Blue Protocol: Star Resonance" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3681810">🎮 Blue Protocol: Star Resonance</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3681810</code></span>
+      <span><strong>Oficial:</strong> Blue Protocol: Star Resonance</span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3681810">
+  <a class="steam-action steam-play" href="steam://run/3681810" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3681810" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3681810" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -854,15 +874,56 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1282150</code></span>
       <span><strong>Oficial:</strong> SpongeBob SquarePants: The Cosmic Shake</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1282150">
   <a class="steam-action steam-play" href="steam://run/1282150" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1282150" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1282150" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-bold-new-world" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Bold New World</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
+  </div>
+</article>
+
+<article id="game-meta-3419430" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3419430">
+    <img src="../../assets/games/3419430/steam-header.jpg" alt="Bongo Cat" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3419430">🎮 Bongo Cat</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3419430</code></span>
+      <span><strong>Oficial:</strong> Bongo Cat</span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3419430">
+  <a class="steam-action steam-play" href="steam://run/3419430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3419430" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3419430" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-bord-killer" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Bord Killer</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -875,9 +936,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>49520</code></span>
       <span><strong>Oficial:</strong> Borderlands 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="49520">
   <a class="steam-action steam-play" href="steam://run/49520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -896,9 +955,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>991260</code></span>
       <span><strong>Oficial:</strong> Borderlands 2 VR</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="991260">
   <a class="steam-action steam-play" href="steam://run/991260" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -917,9 +974,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>397540</code></span>
       <span><strong>Oficial:</strong> Borderlands 3</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="397540">
   <a class="steam-action steam-play" href="steam://run/397540" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -938,9 +993,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>8980</code></span>
       <span><strong>Oficial:</strong> Borderlands Game of the Year</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="8980">
   <a class="steam-action steam-play" href="steam://run/8980" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -959,9 +1012,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>729040</code></span>
       <span><strong>Oficial:</strong> Borderlands Game of the Year Enhanced</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="729040">
   <a class="steam-action steam-play" href="steam://run/729040" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -980,15 +1031,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>261640</code></span>
       <span><strong>Oficial:</strong> Borderlands: The Pre-Sequel</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="261640">
   <a class="steam-action steam-play" href="steam://run/261640" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/261640" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/261640" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-boxroom-demo" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 BOXROOM Demo</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -1001,9 +1062,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>285800</code></span>
       <span><strong>Oficial:</strong> Braveland</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="285800">
   <a class="steam-action steam-play" href="steam://run/285800" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1022,9 +1081,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>291550</code></span>
       <span><strong>Oficial:</strong> Brawlhalla</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="291550">
   <a class="steam-action steam-play" href="steam://run/291550" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1043,15 +1100,37 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1607680</code></span>
       <span><strong>Oficial:</strong> Bread &amp; Fred</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1607680">
   <a class="steam-action steam-play" href="steam://run/1607680" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1607680" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1607680" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-break-into-zatwor" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Break Into Zatwor</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
+  </div>
+</article>
+
+<article id="game-meta-brilliant-bob" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Brilliant Bob</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -1064,9 +1143,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>274190</code></span>
       <span><strong>Oficial:</strong> Broforce</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="274190">
   <a class="steam-action steam-play" href="steam://run/274190" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1085,15 +1162,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>4422650</code></span>
       <span><strong>Oficial:</strong> Broken Voyage</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="4422650">
   <a class="steam-action steam-play" href="steam://run/4422650" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/4422650" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/4422650" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-brother-hardcore-platformer" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 BROTHER!!! - Hardcore Platformer</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -1106,9 +1193,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3617560</code></span>
       <span><strong>Oficial:</strong> Buck Trucker in Rowdy Business</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3617560">
   <a class="steam-action steam-play" href="steam://run/3617560" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1127,9 +1212,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2835570</code></span>
       <span><strong>Oficial:</strong> Buckshot Roulette</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2835570">
   <a class="steam-action steam-play" href="steam://run/2835570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1148,9 +1231,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1238080</code></span>
       <span><strong>Oficial:</strong> Burnout™ Paradise Remastered</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1238080">
   <a class="steam-action steam-play" href="steam://run/1238080" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

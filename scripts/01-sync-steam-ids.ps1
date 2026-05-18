@@ -1,3 +1,23 @@
+<#
+.SYNOPSIS
+    Sincroniza títulos de Markdown con Steam App IDs.
+.DESCRIPTION
+    Lee targets desde `data/steam-image-targets.json` y/o tablas Markdown, consulta Steam Store Search,
+    aplica overrides manuales, actualiza `steam-games-registry.json`, genera candidatos de revisión y
+    prepara targets para descarga de imágenes.
+.PARAMETER DiscoverFromMarkdown
+    Descubre juegos leyendo tablas Markdown del proyecto.
+.PARAMETER AllowFuzzy
+    Permite candidatos no exactos y los manda a revisión salvo que se use `-AcceptFuzzyMatches`.
+.PARAMETER AcceptFuzzyMatches
+    Acepta automáticamente candidatos fuzzy. Úsalo solo si luego revisarás el registry.
+.PARAMETER RefreshMetadata
+    Reconsulta metadata aunque ya exista una entrada previa.
+.PARAMETER ForceSearch
+    Fuerza búsqueda aunque haya datos locales.
+.EXAMPLE
+    .\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -DelayMs 2500
+#>
 param(
     [string]$TargetsPath = ".\data\steam-image-targets.json",
     [string]$OverridesPath = ".\data\steam-appid-overrides.json",
@@ -6,6 +26,7 @@ param(
     [string]$RetryPath = ".\data\steam-games-retry-needed.json",
     [switch]$DiscoverFromMarkdown,
     [switch]$UpdateTargets = $true,
+    [switch]$RegistryOnlyTargets,
     [switch]$AllowFuzzy,
     [switch]$AcceptFuzzyMatches,
     [switch]$OnlyMissing = $true,
@@ -230,17 +251,69 @@ foreach ($r in $retry) {
 Save-JsonFile $RetryPath @($dedupRetry.Values | Sort-Object title) 8
 
 if ($UpdateTargets) {
-    $newTargets = @()
-    foreach ($r in $cleanRegistry) {
-        if (Test-HeadingNoise $r.title) { continue }
-        $newTargets += [pscustomobject]@{
-            title = $r.title
-            slug = $r.slug
-            steamAppId = $r.steamAppId
-            priority = "registry-approved"
+    # V6.6.12:
+    # Antes se reescribía steam-image-targets.json SOLO con entradas del registry.
+    # Eso borraba juegos detectados en Markdown pero aún no resueltos contra Steam
+    # y provocaba que la lista general pareciera incompleta.
+    $newTargetMap = @{}
+
+    function Add-ImageTargetCandidate($Title, $Slug, $SteamAppId, $Priority, $Source) {
+        $cleanTitle = Clean-DisplayTitle ([string]$Title)
+        if ([string]::IsNullOrWhiteSpace($cleanTitle)) { return }
+        if (Test-HeadingNoise $cleanTitle) { return }
+
+        $key = Normalize-Title $cleanTitle
+        if ([string]::IsNullOrWhiteSpace($key)) { return }
+
+        $slugValue = [string]$Slug
+        if ([string]::IsNullOrWhiteSpace($slugValue)) { $slugValue = New-Slug $cleanTitle }
+
+        $appidValue = ""
+        if ($SteamAppId) { $appidValue = $SteamAppId }
+
+        if (-not $newTargetMap.ContainsKey($key)) {
+            $newTargetMap[$key] = [pscustomobject]@{
+                title = $cleanTitle
+                slug = $slugValue
+                steamAppId = $appidValue
+                priority = $Priority
+                source = $Source
+            }
+        }
+        else {
+            $existing = $newTargetMap[$key]
+            if ((-not $existing.steamAppId) -and $appidValue) { $existing.steamAppId = $appidValue }
+            if (($existing.priority -ne "registry-approved") -and $Priority) { $existing.priority = $Priority }
+            if ((-not $existing.source) -and $Source) { $existing.source = $Source }
         }
     }
-    Save-JsonFile $TargetsPath ($newTargets | Sort-Object title) 6
+
+    foreach ($r in $cleanRegistry) {
+        Add-ImageTargetCandidate $r.title $r.slug $r.steamAppId "registry-approved" "steam-games-registry.json"
+    }
+
+    if (-not $RegistryOnlyTargets) {
+        foreach ($t in $targets) {
+            if (-not $t.title) { continue }
+            $cleanTitle = Clean-DisplayTitle ([string]$t.title)
+            $normTitle = Normalize-Title $cleanTitle
+            $known = $null
+            if ($registryByTitle.ContainsKey($normTitle)) { $known = $registryByTitle[$normTitle] }
+
+            $appid = ""
+            $priority = if ($t.priority) { [string]$t.priority } else { "markdown-discovered" }
+            if ($known -and $known.steamAppId) {
+                $appid = $known.steamAppId
+                $priority = "registry-approved"
+            }
+            elseif ($t.steamAppId) { $appid = $t.steamAppId }
+
+            $src = if ($t.source) { [string]$t.source } else { "steam-image-targets.json" }
+            Add-ImageTargetCandidate $cleanTitle $t.slug $appid $priority $src
+        }
+    }
+
+    Save-JsonFile $TargetsPath (@($newTargetMap.Values) | Sort-Object title) 8
 }
 
 Write-Step "Registry actualizado: $RegistryPath"

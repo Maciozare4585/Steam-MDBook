@@ -20,7 +20,7 @@
       <dt>Siguiente paso</dt><dd>Seguir avance normal sin intentar completismo temprano.</dd>
       <dt>Evitar</dt><dd>No convertirlo en obligaci&#243;n de 100% antes de cerrar rutas principales.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=524220">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/524220">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/524220">⬇ Instalar</a>
@@ -45,7 +45,7 @@
       <dt>Siguiente paso</dt><dd>Retomar con calma desde el &#250;ltimo punto, sin reiniciar salvo que controles/historia se sientan perdidos.</dd>
       <dt>Evitar</dt><dd>No jugarlo cansado si quieres disfrutar tensi&#243;n y punter&#237;a.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=2050650">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/2050650">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/2050650">⬇ Instalar</a>
@@ -70,7 +70,7 @@
       <dt>Siguiente paso</dt><dd>Recalentamiento corto: build, controles, mapa, objetivos pendientes y boss final base antes de DLC.</dd>
       <dt>Evitar</dt><dd>No retomarlo directo a jefe final si llevas mucho sin jugar; puede sentirse injusto por oxidaci&#243;n.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=1245620">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/1245620">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/1245620">⬇ Instalar</a>
@@ -95,7 +95,7 @@
       <dt>Siguiente paso</dt><dd>Enfocarse en extras concretos: kaijus pendientes, DLCs y objetivos visibles.</dd>
       <dt>Evitar</dt><dd>No abrirlo sin objetivo si quieres evitar vueltas de mantenimiento sin progreso real.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=1868140">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/1868140">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/1868140">⬇ Instalar</a>
@@ -120,7 +120,7 @@
       <dt>Siguiente paso</dt><dd>Elegir un objetivo concreto: final pendiente, zona opcional o boss espec&#237;fico.</dd>
       <dt>Evitar</dt><dd>No perseguir todo de golpe; el postgame puede volverse denso.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=367520">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/367520">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/367520">⬇ Instalar</a>
@@ -145,7 +145,7 @@
       <dt>Siguiente paso</dt><dd>Definir si el objetivo es DLC, replay parcial o solo cerrar pendientes de expansi&#243;n.</dd>
       <dt>Evitar</dt><dd>No abrirlo sin plan; por escala puede tragarse el backlog.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=292030">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/292030">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/292030">⬇ Instalar</a>
@@ -170,7 +170,7 @@
       <dt>Siguiente paso</dt><dd>No moverlo salvo que cambie tu intenci&#243;n real de volver.</dd>
       <dt>Evitar</dt><dd>No convertirlo en pendiente activo solo porque aparece en una colecci&#243;n.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=211820">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/211820">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/211820">⬇ Instalar</a>
@@ -195,7 +195,7 @@
       <dt>Siguiente paso</dt><dd>Usarlo solo si aparece grupo o antojo de co-op.</dd>
       <dt>Evitar</dt><dd>No meterlo al backlog activo individual.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=548430">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/548430">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/548430">⬇ Instalar</a>
@@ -220,7 +220,7 @@
       <dt>Siguiente paso</dt><dd>Recalentar con hunts sencillas, revisar build/equipo y luego seguir campa&#241;a.</dd>
       <dt>Evitar</dt><dd>No regresar directo a contenido exigente si est&#225;s oxidado.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=582010">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/582010">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/582010">⬇ Instalar</a>
@@ -245,7 +245,7 @@
       <dt>Siguiente paso</dt><dd>Revisar campa&#241;a actual y decidir si continuar o reiniciar con criterio claro.</dd>
       <dt>Evitar</dt><dd>No jugarlo en modo autom&#225;tico; castiga decisiones flojas.</dd>
     </dl>
-        <div class="extended-key-actions">
+    <div class="extended-key-actions">
       <a href="../../07-juegos/detalle.html?id=268500">Ver metadata</a>
       <a class="steam-action steam-play" href="steam://run/268500">▶ Jugar</a>
       <a class="steam-action steam-install" href="steam://install/268500">⬇ Instalar</a>

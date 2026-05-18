@@ -579,6 +579,29 @@
     "updatedAt": "2026-05-06T22:50:11"
   },
   {
+    "title": "Aimlabs",
+    "slug": "aimlabs",
+    "aliases": [],
+    "steamAppId": 714010,
+    "officialName": "Aimlabs",
+    "steamType": "game",
+    "matchName": "Aimlabs",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/714010/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/714010/steam-header.jpg",
+      "steamCapsule": "src/assets/games/714010/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/714010/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:48:53"
+  },
+  {
     "title": "Albion Online",
     "slug": "albion-online",
     "steamAppId": 761890,
@@ -621,6 +644,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:15:32"
+  },
+  {
+    "title": "Alien Shooter 2 Conscription",
+    "slug": "alien-shooter-2-conscription",
+    "aliases": [],
+    "steamAppId": 211010,
+    "officialName": "Alien Shooter 2 Conscription",
+    "steamType": "game",
+    "matchName": "Alien Shooter 2 Conscription",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/211010/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/211010/steam-header.jpg",
+      "steamCapsule": "src/assets/games/211010/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/211010/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:44:47"
   },
   {
     "title": "Alien Swarm: Reactive Drop",
@@ -867,6 +913,29 @@
     "updatedAt": "2026-05-06T22:39:32"
   },
   {
+    "title": "Arabian Gulf",
+    "slug": "arabian-gulf",
+    "aliases": [],
+    "steamAppId": 3744480,
+    "officialName": "Arabian Gulf",
+    "steamType": "game",
+    "matchName": "Arabian Gulf",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/3744480/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/3744480/steam-header.jpg",
+      "steamCapsule": "src/assets/games/3744480/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/3744480/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:46:57"
+  },
+  {
     "title": "ARK: Survival Evolved",
     "slug": "ark-survival-evolved",
     "steamAppId": 346110,
@@ -953,7 +1022,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T08:52:00"
+    "updatedAt": "2026-05-07T17:20:56"
   },
   {
     "title": "Ashes of the Singularity: Escalation",
@@ -1086,6 +1155,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:03:43"
+  },
+  {
+    "title": "Assassin's Creed Valhalla",
+    "slug": "assassin-s-creed-valhalla",
+    "aliases": [],
+    "steamAppId": 2208920,
+    "officialName": "Assassin's Creed Valhalla",
+    "steamType": "game",
+    "matchName": "Assassin's Creed Valhalla",
+    "matchType": "manual-confirmed",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/2208920/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/2208920/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2208920/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2208920/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T00:00:00"
   },
   {
     "title": "Assetto Corsa",
@@ -1328,6 +1420,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:00:45"
+  },
+  {
+    "title": "Banana",
+    "slug": "banana",
+    "aliases": [],
+    "steamAppId": 2923300,
+    "officialName": "Banana",
+    "steamType": "game",
+    "matchName": "Banana",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/2923300/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/2923300/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2923300/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2923300/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:48:11"
   },
   {
     "title": "Barony",
@@ -1818,6 +1933,29 @@
     "updatedAt": "2026-05-07T08:52:07"
   },
   {
+    "title": "Binary Domain",
+    "slug": "binary-domain",
+    "aliases": [],
+    "steamAppId": 203750,
+    "officialName": "Binary Domain",
+    "steamType": "game",
+    "matchName": "Binary Domain",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/203750/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/203750/steam-header.jpg",
+      "steamCapsule": "src/assets/games/203750/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/203750/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:48:49"
+  },
+  {
     "title": "BioShock",
     "slug": "bioshock",
     "steamAppId": 7670,
@@ -1994,6 +2132,29 @@
     "updatedAt": "2026-05-06T22:19:25"
   },
   {
+    "title": "Blackout Z: Slaughterhouse Edition",
+    "slug": "blackout-z-slaughterhouse-edition",
+    "aliases": [],
+    "steamAppId": 729660,
+    "officialName": "Blackout Z: Slaughterhouse Edition",
+    "steamType": "game",
+    "matchName": "Blackout Z: Slaughterhouse Edition",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/729660/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/729660/steam-header.jpg",
+      "steamCapsule": "src/assets/games/729660/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/729660/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:45:10"
+  },
+  {
     "title": "Blasphemous",
     "slug": "blasphemous",
     "steamAppId": 774361,
@@ -2105,6 +2266,28 @@
     "updatedAt": "2026-05-07T08:52:09"
   },
   {
+    "title": "Blue Protocol: Star Resonance",
+    "slug": "blue-protocol-star-resonance",
+    "steamAppId": 3681810,
+    "officialName": "Blue Protocol: Star Resonance",
+    "steamType": "game",
+    "matchName": "Blue Protocol: Star Resonance",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/3681810/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/3681810/steam-header.jpg",
+      "steamCapsule": "src/assets/games/3681810/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/3681810/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-11T19:15:27"
+  },
+  {
     "title": "Bob Esponja: The Cosmic Shake",
     "slug": "bob-esponja-the-cosmic-shake",
     "steamAppId": 1282150,
@@ -2125,6 +2308,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:17:46"
+  },
+  {
+    "title": "Bongo Cat",
+    "slug": "bongo-cat",
+    "aliases": [],
+    "steamAppId": 3419430,
+    "officialName": "Bongo Cat",
+    "steamType": "game",
+    "matchName": "Bongo Cat",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/3419430/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/3419430/steam-header.jpg",
+      "steamCapsule": "src/assets/games/3419430/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/3419430/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:48:28"
   },
   {
     "title": "Borderlands 2",
@@ -3708,6 +3914,29 @@
     "updatedAt": "2026-05-07T08:52:41"
   },
   {
+    "title": "Dark Sector",
+    "slug": "dark-sector",
+    "aliases": [],
+    "steamAppId": 29900,
+    "officialName": "Dark Sector",
+    "steamType": "game",
+    "matchName": "Dark Sector",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/29900/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/29900/steam-header.jpg",
+      "steamCapsule": "src/assets/games/29900/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/29900/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:49:28"
+  },
+  {
     "title": "DARK SOULS REMASTERED",
     "slug": "dark-souls-remastered",
     "steamAppId": 570940,
@@ -4482,6 +4711,28 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-07T08:52:55"
+  },
+  {
+    "title": "Desktop Mate",
+    "slug": "desktop-mate",
+    "steamAppId": 3301060,
+    "officialName": "Desktop Mate",
+    "steamType": "game",
+    "matchName": "Desktop Mate",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/3301060/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/3301060/steam-header.jpg",
+      "steamCapsule": "src/assets/games/3301060/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/3301060/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-11T19:15:31"
   },
   {
     "title": "Destiny 2",
@@ -6020,7 +6271,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T08:53:16"
+    "updatedAt": "2026-05-07T17:21:07"
   },
   {
     "title": "Explodemon",
@@ -6044,6 +6295,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-07T08:53:18"
+  },
+  {
+    "title": "Exploding Kittens® 2",
+    "slug": "exploding-kittens-2",
+    "aliases": [],
+    "steamAppId": 2999030,
+    "officialName": "Exploding Kittens® 2",
+    "steamType": "game",
+    "matchName": "Exploding Kittens® 2",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/2999030/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/2999030/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2999030/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2999030/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-07T17:21:10"
   },
   {
     "title": "F.E.A.R.",
@@ -6264,6 +6538,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:01:15"
+  },
+  {
+    "title": "Fallout 4 VR",
+    "slug": "fallout-4-vr",
+    "aliases": [],
+    "steamAppId": 611660,
+    "officialName": "Fallout 4 VR",
+    "steamType": "game",
+    "matchName": "Fallout 4 VR",
+    "matchType": "manual-confirmed",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/611660/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/611660/steam-header.jpg",
+      "steamCapsule": "src/assets/games/611660/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/611660/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T00:00:00"
   },
   {
     "title": "Fallout 76",
@@ -6597,6 +6894,32 @@
     "updatedAt": "2026-05-06T21:59:59"
   },
   {
+    "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "slug": "five-nights-at-freddy-s-help-wanted",
+    "aliases": [
+      "Five Nights at Freddy's VR: Help Wanted",
+      "FNAF Help Wanted"
+    ],
+    "steamAppId": 732690,
+    "officialName": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "steamType": "game",
+    "matchName": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/732690/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/732690/steam-header.jpg",
+      "steamCapsule": "src/assets/games/732690/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/732690/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-07T17:21:12"
+  },
+  {
     "title": "Flash Party",
     "slug": "flash-party",
     "aliases": [],
@@ -6750,6 +7073,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:02:30"
+  },
+  {
+    "title": "Fruit Ninja VR",
+    "slug": "fruit-ninja-vr",
+    "aliases": [],
+    "steamAppId": 486780,
+    "officialName": "Fruit Ninja VR",
+    "steamType": "game",
+    "matchName": "Fruit Ninja VR",
+    "matchType": "manual-confirmed",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/486780/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/486780/steam-header.jpg",
+      "steamCapsule": "src/assets/games/486780/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/486780/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T00:00:00"
   },
   {
     "title": "Game Dev Tycoon",
@@ -7018,6 +7364,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-07T08:53:29"
+  },
+  {
+    "title": "Godot Engine",
+    "slug": "godot-engine",
+    "aliases": [],
+    "steamAppId": 404790,
+    "officialName": "Godot Engine",
+    "steamType": "game",
+    "matchName": "Godot Engine",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/404790/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/404790/steam-header.jpg",
+      "steamCapsule": "src/assets/games/404790/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/404790/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:46:20"
   },
   {
     "title": "Golden Light",
@@ -10417,6 +10786,29 @@
     "updatedAt": "2026-05-07T08:54:12"
   },
   {
+    "title": "Lost Planet: Extreme Condition",
+    "slug": "lost-planet-extreme-condition",
+    "aliases": [],
+    "steamAppId": 6510,
+    "officialName": "Lost Planet™: Extreme Condition",
+    "steamType": "game",
+    "matchName": "Lost Planet™: Extreme Condition",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/6510/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/6510/steam-header.jpg",
+      "steamCapsule": "src/assets/games/6510/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/6510/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:49:08"
+  },
+  {
     "title": "Lovers in a Dangerous Spacetime",
     "slug": "lovers-in-a-dangerous-spacetime",
     "steamAppId": 252110,
@@ -11233,6 +11625,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:21:28"
+  },
+  {
+    "title": "Metro Awakening",
+    "slug": "metro-awakening",
+    "aliases": [],
+    "steamAppId": 2669410,
+    "officialName": "Metro Awakening",
+    "steamType": "game",
+    "matchName": "Metro Awakening",
+    "matchType": "manual-confirmed",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/2669410/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/2669410/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2669410/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2669410/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T00:00:00"
   },
   {
     "title": "Metro Exodus",
@@ -15478,6 +15893,29 @@
     "updatedAt": "2026-05-07T08:55:38"
   },
   {
+    "title": "RPG Maker VX Ace",
+    "slug": "rpg-maker-vx-ace",
+    "aliases": [],
+    "steamAppId": 220700,
+    "officialName": "RPG Maker VX Ace",
+    "steamType": "game",
+    "matchName": "RPG Maker VX Ace",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/220700/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/220700/steam-header.jpg",
+      "steamCapsule": "src/assets/games/220700/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/220700/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:46:31"
+  },
+  {
     "title": "Rubber Bandits",
     "slug": "rubber-bandits",
     "steamAppId": 1206610,
@@ -16168,6 +16606,29 @@
     "updatedAt": "2026-05-06T22:00:44"
   },
   {
+    "title": "Serious Sam Fusion 2017 (beta)",
+    "slug": "serious-sam-fusion-2017-beta",
+    "aliases": [],
+    "steamAppId": 564310,
+    "officialName": "Serious Sam Fusion 2017 (beta)",
+    "steamType": "game",
+    "matchName": "Serious Sam Fusion 2017 (beta)",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/564310/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/564310/steam-header.jpg",
+      "steamCapsule": "src/assets/games/564310/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/564310/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:47:28"
+  },
+  {
     "title": "Serious Sam HD: The First Encounter",
     "slug": "serious-sam-hd-the-first-encounter",
     "steamAppId": 41000,
@@ -16347,6 +16808,29 @@
     "updatedAt": "2026-05-07T08:55:59"
   },
   {
+    "title": "Shin Megami Tensei V: Vengeance",
+    "slug": "shin-megami-tensei-v-vengeance",
+    "aliases": [],
+    "steamAppId": 1875830,
+    "officialName": "Shin Megami Tensei V: Vengeance",
+    "steamType": "game",
+    "matchName": "Shin Megami Tensei V: Vengeance",
+    "matchType": "manual-confirmed",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/1875830/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/1875830/steam-header.jpg",
+      "steamCapsule": "src/assets/games/1875830/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/1875830/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T00:00:00"
+  },
+  {
     "title": "Shovel Knight: Treasure Trove",
     "slug": "shovel-knight-treasure-trove",
     "steamAppId": 250760,
@@ -16479,6 +16963,52 @@
     "updatedAt": "2026-05-06T22:05:53"
   },
   {
+    "title": "Sid Meier's Civilization: Beyond Earth",
+    "slug": "sid-meiers-civilization-beyond-earth",
+    "aliases": [],
+    "steamAppId": 65980,
+    "officialName": "Sid Meier's Civilization®: Beyond Earth™",
+    "steamType": "game",
+    "matchName": "Sid Meier's Civilization®: Beyond Earth™",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/65980/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/65980/steam-header.jpg",
+      "steamCapsule": "src/assets/games/65980/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/65980/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:44:44"
+  },
+  {
+    "title": "Sid Meier's Starships",
+    "slug": "sid-meiers-starships",
+    "aliases": [],
+    "steamAppId": 282210,
+    "officialName": "Sid Meier's Starships",
+    "steamType": "game",
+    "matchName": "Sid Meier's Starships",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/282210/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/282210/steam-header.jpg",
+      "steamCapsule": "src/assets/games/282210/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/282210/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:45:03"
+  },
+  {
     "title": "Sifu",
     "slug": "sifu",
     "steamAppId": 2138710,
@@ -16565,7 +17095,7 @@
       "sgdbLogo": "",
       "sgdbIcon": ""
     },
-    "updatedAt": "2026-05-07T08:56:02"
+    "updatedAt": "2026-05-07T17:21:27"
   },
   {
     "title": "Skullgirls 2nd Encore",
@@ -17721,6 +18251,28 @@
     "updatedAt": "2026-05-06T22:47:15"
   },
   {
+    "title": "Supermarket Together",
+    "slug": "supermarket-together",
+    "steamAppId": 2709570,
+    "officialName": "Supermarket Together",
+    "steamType": "game",
+    "matchName": "Supermarket Together",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/2709570/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/2709570/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2709570/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2709570/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-11T19:15:45"
+  },
+  {
     "title": "SUR5",
     "slug": "sur5",
     "aliases": [],
@@ -18344,6 +18896,29 @@
     "updatedAt": "2026-05-06T22:42:42"
   },
   {
+    "title": "The Elder Scrolls V: Skyrim VR",
+    "slug": "the-elder-scrolls-v-skyrim-vr",
+    "aliases": [],
+    "steamAppId": 611670,
+    "officialName": "The Elder Scrolls V: Skyrim VR",
+    "steamType": "game",
+    "matchName": "The Elder Scrolls V: Skyrim VR",
+    "matchType": "manual-confirmed",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/611670/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/611670/steam-header.jpg",
+      "steamCapsule": "src/assets/games/611670/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/611670/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T00:00:00"
+  },
+  {
     "title": "The Elder Scrolls: Arena",
     "slug": "the-elder-scrolls-arena",
     "steamAppId": 1812290,
@@ -18607,6 +19182,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:42:14"
+  },
+  {
+    "title": "The Jackbox Megapicker",
+    "slug": "the-jackbox-megapicker",
+    "aliases": [],
+    "steamAppId": 2828500,
+    "officialName": "The Jackbox Megapicker",
+    "steamType": "game",
+    "matchName": "The Jackbox Megapicker",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/2828500/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/2828500/steam-header.jpg",
+      "steamCapsule": "src/assets/games/2828500/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/2828500/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:47:05"
   },
   {
     "title": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
@@ -19610,6 +20208,28 @@
     "updatedAt": "2026-05-06T22:27:12"
   },
   {
+    "title": "Transformice",
+    "slug": "transformice",
+    "steamAppId": 335240,
+    "officialName": "Transformice",
+    "steamType": "game",
+    "matchName": "Transformice",
+    "matchType": "provided",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/335240/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/335240/steam-header.jpg",
+      "steamCapsule": "src/assets/games/335240/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/335240/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-11T19:15:55"
+  },
+  {
     "title": "Trash Patrol - Academic Version",
     "slug": "trash-patrol-academic-version",
     "steamAppId": 1969130,
@@ -20187,6 +20807,29 @@
       "sgdbIcon": ""
     },
     "updatedAt": "2026-05-06T22:22:40"
+  },
+  {
+    "title": "VTube Studio",
+    "slug": "vtube-studio",
+    "aliases": [],
+    "steamAppId": 1325860,
+    "officialName": "VTube Studio",
+    "steamType": "game",
+    "matchName": "VTube Studio",
+    "matchType": "storesearch-exact",
+    "sgdbGameId": null,
+    "preferredImageSource": "steam",
+    "preferredImageForMdBook": "../assets/games/1325860/steam-header.jpg",
+    "images": {
+      "steamHeader": "src/assets/games/1325860/steam-header.jpg",
+      "steamCapsule": "src/assets/games/1325860/steam-capsule.jpg",
+      "steamBackground": "src/assets/games/1325860/steam-background.jpg",
+      "sgdbHero": "",
+      "sgdbGrid": "",
+      "sgdbLogo": "",
+      "sgdbIcon": ""
+    },
+    "updatedAt": "2026-05-17T23:45:43"
   },
   {
     "title": "WAKFU",

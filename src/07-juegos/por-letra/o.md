@@ -1,6 +1,6 @@
 # Juegos — O
 
-> Página alfabética compacta. Contiene **21** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **21** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,9 +14,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>769920</code></span>
       <span><strong>Oficial:</strong> Odysseus Kosmos and his Robot Quest: Episode 1</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="769920">
   <a class="steam-action steam-play" href="steam://run/769920" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,9 +33,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3365900</code></span>
       <span><strong>Oficial:</strong> Oh, Bugger!</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3365900">
   <a class="steam-action steam-play" href="steam://run/3365900" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -56,9 +52,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>415740</code></span>
       <span><strong>Oficial:</strong> OmniBus</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="415740">
   <a class="steam-action steam-play" href="steam://run/415740" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +71,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1150690</code></span>
       <span><strong>Oficial:</strong> OMORI</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1150690">
   <a class="steam-action steam-play" href="steam://run/1150690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,9 +90,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2139460</code></span>
       <span><strong>Oficial:</strong> Once Human</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2139460">
   <a class="steam-action steam-play" href="steam://run/2139460" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -119,9 +109,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>415030</code></span>
       <span><strong>Oficial:</strong> One More Dungeon</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="415030">
   <a class="steam-action steam-play" href="steam://run/415030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -140,9 +128,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>266210</code></span>
       <span><strong>Oficial:</strong> One Way Heroics</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="266210">
   <a class="steam-action steam-play" href="steam://run/266210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -161,9 +147,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>862740</code></span>
       <span><strong>Oficial:</strong> OneShift</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="862740">
   <a class="steam-action steam-play" href="steam://run/862740" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,9 +166,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>261570</code></span>
       <span><strong>Oficial:</strong> Ori and the Blind Forest</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="261570">
   <a class="steam-action steam-play" href="steam://run/261570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -203,9 +185,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>387290</code></span>
       <span><strong>Oficial:</strong> Ori and the Blind Forest: Definitive Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="387290">
   <a class="steam-action steam-play" href="steam://run/387290" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -224,9 +204,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1057090</code></span>
       <span><strong>Oficial:</strong> Ori and the Will of the Wisps</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1057090">
   <a class="steam-action steam-play" href="steam://run/1057090" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -245,9 +223,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>491950</code></span>
       <span><strong>Oficial:</strong> Orwell: Keeping an Eye On You</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="491950">
   <a class="steam-action steam-play" href="steam://run/491950" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -266,9 +242,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3506830</code></span>
       <span><strong>Oficial:</strong> Out of the Shadows</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3506830">
   <a class="steam-action steam-play" href="steam://run/3506830" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -287,9 +261,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>238320</code></span>
       <span><strong>Oficial:</strong> Outlast</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="238320">
   <a class="steam-action steam-play" href="steam://run/238320" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -308,9 +280,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>414700</code></span>
       <span><strong>Oficial:</strong> Outlast 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="414700">
   <a class="steam-action steam-play" href="steam://run/414700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -329,9 +299,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1626460</code></span>
       <span><strong>Oficial:</strong> Over the Counter</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1626460">
   <a class="steam-action steam-play" href="steam://run/1626460" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -350,9 +318,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>448510</code></span>
       <span><strong>Oficial:</strong> Overcooked</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="448510">
   <a class="steam-action steam-play" href="steam://run/448510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -371,9 +337,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1243830</code></span>
       <span><strong>Oficial:</strong> Overcooked! All You Can Eat</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1243830">
   <a class="steam-action steam-play" href="steam://run/1243830" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -392,9 +356,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>728880</code></span>
       <span><strong>Oficial:</strong> Overcooked! 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="728880">
   <a class="steam-action steam-play" href="steam://run/728880" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -413,9 +375,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2357570</code></span>
       <span><strong>Oficial:</strong> Overwatch&#174;</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2357570">
   <a class="steam-action steam-play" href="steam://run/2357570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -434,9 +394,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>457140</code></span>
       <span><strong>Oficial:</strong> Oxygen Not Included</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="457140">
   <a class="steam-action steam-play" href="steam://run/457140" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

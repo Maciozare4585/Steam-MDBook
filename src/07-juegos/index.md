@@ -1,10 +1,11 @@
 # 🎮 Juegos / Metadatos
 
-> Índice global compacto generado desde `data/steam-games-registry.json`.
+> Índice global compacto generado desde `data/library-catalog.json`. Incluye entradas con Steam App ID y entradas de catálogo sin resolver.
 
 Esta sección ya no lista todos los juegos individuales en el sidebar. Los detalles se dividen por letra y cada juego puede abrirse en una ficha dinámica única.
 
-**Total registrado:** `960` juegos/apps con `steamAppId`.
+**Total en catálogo general:** `1116` entradas.  
+**Con Steam App ID:** `988` entradas.
 
 ## Ficha dinámica
 
@@ -13,33 +14,34 @@ Esta sección ya no lista todos los juegos individuales en el sidebar. Los detal
 ## Navegación rápida
 
 <div class="letter-nav">
-  <a href="por-letra/0-9.html">0-9 <small>11</small></a>
-  <a href="por-letra/a.html">A <small>43</small></a>
-  <a href="por-letra/b.html">B <small>55</small></a>
-  <a href="por-letra/c.html">C <small>54</small></a>
-  <a href="por-letra/d.html">D <small>88</small></a>
-  <a href="por-letra/e.html">E <small>20</small></a>
-  <a href="por-letra/f.html">F <small>32</small></a>
-  <a href="por-letra/g.html">G <small>35</small></a>
-  <a href="por-letra/h.html">H <small>53</small></a>
+  <a href="por-letra/0-9.html">0-9 <small>12</small></a>
+  <a href="por-letra/a.html">A <small>56</small></a>
+  <a href="por-letra/b.html">B <small>68</small></a>
+  <a href="por-letra/c.html">C <small>61</small></a>
+  <a href="por-letra/d.html">D <small>94</small></a>
+  <a href="por-letra/e.html">E <small>24</small></a>
+  <a href="por-letra/f.html">F <small>40</small></a>
+  <a href="por-letra/g.html">G <small>46</small></a>
+  <a href="por-letra/h.html">H <small>58</small></a>
   <a href="por-letra/i.html">I <small>15</small></a>
-  <a href="por-letra/j.html">J <small>9</small></a>
+  <a href="por-letra/j.html">J <small>10</small></a>
   <a href="por-letra/k.html">K <small>19</small></a>
-  <a href="por-letra/l.html">L <small>36</small></a>
-  <a href="por-letra/m.html">M <small>62</small></a>
-  <a href="por-letra/n.html">N <small>37</small></a>
+  <a href="por-letra/l.html">L <small>43</small></a>
+  <a href="por-letra/m.html">M <small>67</small></a>
+  <a href="por-letra/n.html">N <small>39</small></a>
   <a href="por-letra/o.html">O <small>21</small></a>
-  <a href="por-letra/p.html">P <small>64</small></a>
+  <a href="por-letra/p.html">P <small>72</small></a>
   <a href="por-letra/q.html">Q <small>1</small></a>
-  <a href="por-letra/r.html">R <small>44</small></a>
-  <a href="por-letra/s.html">S <small>103</small></a>
-  <a href="por-letra/t.html">T <small>83</small></a>
-  <a href="por-letra/u.html">U <small>15</small></a>
-  <a href="por-letra/v.html">V <small>9</small></a>
-  <a href="por-letra/w.html">W <small>39</small></a>
+  <a href="por-letra/r.html">R <small>52</small></a>
+  <a href="por-letra/s.html">S <small>126</small></a>
+  <a href="por-letra/t.html">T <small>98</small></a>
+  <a href="por-letra/u.html">U <small>17</small></a>
+  <a href="por-letra/v.html">V <small>10</small></a>
+  <a href="por-letra/w.html">W <small>50</small></a>
   <a href="por-letra/x.html">X <small>4</small></a>
-  <a href="por-letra/y.html">Y <small>4</small></a>
-  <a href="por-letra/z.html">Z <small>4</small></a>
+  <a href="por-letra/y.html">Y <small>6</small></a>
+  <a href="por-letra/z.html">Z <small>5</small></a>
+  <a href="por-letra/otros.html">OTROS <small>2</small></a>
 </div>
 
 ## Índice compacto
@@ -48,6 +50,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
 
 <div class="compact-registry-index">
   <a id="game-meta-454320" class="compact-registry-link" href="detalle.html?id=454320">🎮 [the Sequence]</a>
+  <span id="game-meta-001-game-creator-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 001 Game Creator Demo</span>
   <a id="game-meta-435790" class="compact-registry-link" href="detalle.html?id=435790">🎮 10 Second Ninja X</a>
   <a id="game-meta-2782380" class="compact-registry-link" href="detalle.html?id=2782380">🎮 100 Cats New York</a>
   <a id="game-meta-2776810" class="compact-registry-link" href="detalle.html?id=2776810">🎮 100 Ninja Cats</a>
@@ -63,6 +66,8 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1182900" class="compact-registry-link" href="detalle.html?id=1182900">🎮 A Plague Tale: Requiem</a>
   <a id="game-meta-278360" class="compact-registry-link" href="detalle.html?id=278360">🎮 A Story About My Uncle</a>
   <a id="game-meta-1222700" class="compact-registry-link" href="detalle.html?id=1222700">🎮 A Way Out</a>
+  <span id="game-meta-absconding-zatwor" class="compact-registry-link compact-registry-link--catalog-only">📦 Absconding Zatwor</span>
+  <span id="game-meta-adamgelion" class="compact-registry-link compact-registry-link--catalog-only">📦 Adamgelion</span>
   <a id="game-meta-728240" class="compact-registry-link" href="detalle.html?id=728240">🎮 Adventure Time: Pirates of the Enchiridion</a>
   <a id="game-meta-429790" class="compact-registry-link" href="detalle.html?id=429790">🎮 AdventureQuest 3D</a>
   <a id="game-meta-371140" class="compact-registry-link" href="detalle.html?id=371140">🎮 Aegis Defenders</a>
@@ -73,8 +78,10 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-105450" class="compact-registry-link" href="detalle.html?id=105450">🎮 Age of Empires III (2007)</a>
   <a id="game-meta-266840" class="compact-registry-link" href="detalle.html?id=266840">🎮 Age of Mythology: Extended Edition</a>
   <a id="game-meta-226840" class="compact-registry-link" href="detalle.html?id=226840">🎮 Age of Wonders III</a>
+  <a id="game-meta-714010" class="compact-registry-link" href="detalle.html?id=714010">🎮 Aimlabs</a>
   <a id="game-meta-761890" class="compact-registry-link" href="detalle.html?id=761890">🎮 Albion Online</a>
   <a id="game-meta-19680" class="compact-registry-link" href="detalle.html?id=19680">🎮 Alice: Madness Returns</a>
+  <a id="game-meta-211010" class="compact-registry-link" href="detalle.html?id=211010">🎮 Alien Shooter 2 Conscription</a>
   <a id="game-meta-563560" class="compact-registry-link" href="detalle.html?id=563560">🎮 Alien Swarm: Reactive Drop</a>
   <a id="game-meta-214490" class="compact-registry-link" href="detalle.html?id=214490">🎮 Alien: Isolation</a>
   <a id="game-meta-34010" class="compact-registry-link" href="detalle.html?id=34010">🎮 Alpha Protocol</a>
@@ -82,31 +89,41 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-57300" class="compact-registry-link" href="detalle.html?id=57300">🎮 Amnesia: The Dark Descent</a>
   <a id="game-meta-945360" class="compact-registry-link" href="detalle.html?id=945360">🎮 Among Us</a>
   <a id="game-meta-3544080" class="compact-registry-link" href="detalle.html?id=3544080">🎮 Analog - Skin off</a>
+  <span id="game-meta-animeaze" class="compact-registry-link compact-registry-link--catalog-only">📦 Animeaze</span>
   <a id="game-meta-1368030" class="compact-registry-link" href="detalle.html?id=1368030">🎮 ANNO: Mutationem</a>
+  <span id="game-meta-anno-mutationem-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 ANNO: Mutationem Demo</span>
   <a id="game-meta-1887840" class="compact-registry-link" href="detalle.html?id=1887840">🎮 Another Crab’s Treasure</a>
   <a id="game-meta-1399720" class="compact-registry-link" href="detalle.html?id=1399720">🎮 Antimatter Dimensions</a>
   <a id="game-meta-1172470" class="compact-registry-link" href="detalle.html?id=1172470">🎮 Apex Legends</a>
+  <span id="game-meta-app-recovery" class="compact-registry-link compact-registry-link--catalog-only">📦 App Recovery</span>
+  <a id="game-meta-3744480" class="compact-registry-link" href="detalle.html?id=3744480">🎮 Arabian Gulf</a>
   <a id="game-meta-346110" class="compact-registry-link" href="detalle.html?id=346110">🎮 ARK: Survival Evolved</a>
   <a id="game-meta-407530" class="compact-registry-link" href="detalle.html?id=407530">🎮 ARK: Survival Of The Fittest</a>
   <a id="game-meta-65790" class="compact-registry-link" href="detalle.html?id=65790">🎮 Arma: Cold War Assault</a>
   <a id="game-meta-4081740" class="compact-registry-link" href="detalle.html?id=4081740">🎮 Around - The Game</a>
+  <span id="game-meta-artix-game-launcher" class="compact-registry-link compact-registry-link--catalog-only">📦 Artix Game Launcher</span>
   <a id="game-meta-507490" class="compact-registry-link" href="detalle.html?id=507490">🎮 Ashes of the Singularity: Escalation</a>
   <a id="game-meta-15100" class="compact-registry-link" href="detalle.html?id=15100">🎮 Assassin’s Creed</a>
   <a id="game-meta-48190" class="compact-registry-link" href="detalle.html?id=48190">🎮 Assassin’s Creed Brotherhood</a>
   <a id="game-meta-33230" class="compact-registry-link" href="detalle.html?id=33230">🎮 Assassin’s Creed II</a>
+  <span id="game-meta-assassins-creed-iii" class="compact-registry-link compact-registry-link--catalog-only">📦 Assassin&#39;s Creed III</span>
   <a id="game-meta-201870" class="compact-registry-link" href="detalle.html?id=201870">🎮 Assassin’s Creed Revelations</a>
   <a id="game-meta-289650" class="compact-registry-link" href="detalle.html?id=289650">🎮 Assassin’s Creed Unity</a>
+  <a id="game-meta-2208920" class="compact-registry-link" href="detalle.html?id=2208920">🎮 Assassin&#39;s Creed Valhalla</a>
   <a id="game-meta-244210" class="compact-registry-link" href="detalle.html?id=244210">🎮 Assetto Corsa</a>
   <a id="game-meta-361420" class="compact-registry-link" href="detalle.html?id=361420">🎮 ASTRONEER</a>
   <a id="game-meta-668580" class="compact-registry-link" href="detalle.html?id=668580">🎮 Atomic Heart</a>
   <a id="game-meta-12900" class="compact-registry-link" href="detalle.html?id=12900">🎮 Audiosurf</a>
+  <span id="game-meta-aurora-hills-cap-tulo-1" class="compact-registry-link compact-registry-link--catalog-only">📦 Aurora Hills: Cap&#237;tulo 1</span>
   <a id="game-meta-2877220" class="compact-registry-link" href="detalle.html?id=2877220">🎮 Auto Sale Life: Fresh Start</a>
   <a id="game-meta-348510" class="compact-registry-link" href="detalle.html?id=348510">🎮 Autobahn Police Simulator</a>
+  <span id="game-meta-away" class="compact-registry-link compact-registry-link--catalog-only">📦 Away</span>
   <a id="game-meta-1640320" class="compact-registry-link" href="detalle.html?id=1640320">🎮 B.I.O.T.A.</a>
   <a id="game-meta-736260" class="compact-registry-link" href="detalle.html?id=736260">🎮 Baba Is You</a>
   <a id="game-meta-924970" class="compact-registry-link" href="detalle.html?id=924970">🎮 Back 4 Blood</a>
   <a id="game-meta-2379780" class="compact-registry-link" href="detalle.html?id=2379780">🎮 Balatro</a>
   <a id="game-meta-1086940" class="compact-registry-link" href="detalle.html?id=1086940">🎮 Baldur&#39;s Gate 3</a>
+  <a id="game-meta-2923300" class="compact-registry-link" href="detalle.html?id=2923300">🎮 Banana</a>
   <a id="game-meta-371970" class="compact-registry-link" href="detalle.html?id=371970">🎮 Barony</a>
   <a id="game-meta-618140" class="compact-registry-link" href="detalle.html?id=618140">🎮 Barro</a>
   <a id="game-meta-35140" class="compact-registry-link" href="detalle.html?id=35140">🎮 Batman: Arkham Asylum GOTY Edition</a>
@@ -123,12 +140,14 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-24960" class="compact-registry-link" href="detalle.html?id=24960">🎮 Battlefield: Bad Company 2</a>
   <a id="game-meta-460790" class="compact-registry-link" href="detalle.html?id=460790">🎮 Bayonetta</a>
   <a id="game-meta-3560160" class="compact-registry-link" href="detalle.html?id=3560160">🎮 Bearly Awesome</a>
+  <span id="game-meta-beast-blaster" class="compact-registry-link compact-registry-link--catalog-only">📦 Beast Blaster</span>
   <a id="game-meta-764570" class="compact-registry-link" href="detalle.html?id=764570">🎮 Beavers Be Dammed</a>
   <a id="game-meta-475550" class="compact-registry-link" href="detalle.html?id=475550">🎮 Beholder</a>
   <a id="game-meta-250680" class="compact-registry-link" href="detalle.html?id=250680">🎮 BELOW</a>
   <a id="game-meta-1158500" class="compact-registry-link" href="detalle.html?id=1158500">🎮 Between Two Castles - Digital Edition</a>
   <a id="game-meta-960990" class="compact-registry-link" href="detalle.html?id=960990">🎮 Beyond: Two Souls</a>
   <a id="game-meta-3180310" class="compact-registry-link" href="detalle.html?id=3180310">🎮 Billies Wheelie</a>
+  <a id="game-meta-203750" class="compact-registry-link" href="detalle.html?id=203750">🎮 Binary Domain</a>
   <a id="game-meta-7670" class="compact-registry-link" href="detalle.html?id=7670">🎮 BioShock</a>
   <a id="game-meta-8850" class="compact-registry-link" href="detalle.html?id=8850">🎮 BioShock 2</a>
   <a id="game-meta-409720" class="compact-registry-link" href="detalle.html?id=409720">🎮 BioShock 2 Remastered</a>
@@ -137,35 +156,47 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-3454650" class="compact-registry-link" href="detalle.html?id=3454650">🎮 BitCraft Online</a>
   <a id="game-meta-582660" class="compact-registry-link" href="detalle.html?id=582660">🎮 Black Desert</a>
   <a id="game-meta-362890" class="compact-registry-link" href="detalle.html?id=362890">🎮 Black Mesa</a>
+  <a id="game-meta-729660" class="compact-registry-link" href="detalle.html?id=729660">🎮 Blackout Z: Slaughterhouse Edition</a>
   <a id="game-meta-774361" class="compact-registry-link" href="detalle.html?id=774361">🎮 Blasphemous</a>
   <a id="game-meta-2114740" class="compact-registry-link" href="detalle.html?id=2114740">🎮 Blasphemous 2</a>
   <a id="game-meta-649190" class="compact-registry-link" href="detalle.html?id=649190">🎮 Blast Zone! Tournament</a>
+  <span id="game-meta-blood-gazm" class="compact-registry-link compact-registry-link--catalog-only">📦 Blood Gazm</span>
   <a id="game-meta-960090" class="compact-registry-link" href="detalle.html?id=960090">🎮 Bloons TD 6</a>
   <a id="game-meta-3557620" class="compact-registry-link" href="detalle.html?id=3557620">🎮 Blue Archive</a>
+  <a id="game-meta-3681810" class="compact-registry-link" href="detalle.html?id=3681810">🎮 Blue Protocol: Star Resonance</a>
   <a id="game-meta-1282150" class="compact-registry-link" href="detalle.html?id=1282150">🎮 Bob Esponja: The Cosmic Shake</a>
+  <span id="game-meta-bold-new-world" class="compact-registry-link compact-registry-link--catalog-only">📦 Bold New World</span>
+  <a id="game-meta-3419430" class="compact-registry-link" href="detalle.html?id=3419430">🎮 Bongo Cat</a>
+  <span id="game-meta-bord-killer" class="compact-registry-link compact-registry-link--catalog-only">📦 Bord Killer</span>
   <a id="game-meta-49520" class="compact-registry-link" href="detalle.html?id=49520">🎮 Borderlands 2</a>
   <a id="game-meta-991260" class="compact-registry-link" href="detalle.html?id=991260">🎮 Borderlands 2 VR</a>
   <a id="game-meta-397540" class="compact-registry-link" href="detalle.html?id=397540">🎮 Borderlands 3</a>
   <a id="game-meta-8980" class="compact-registry-link" href="detalle.html?id=8980">🎮 Borderlands GOTY</a>
   <a id="game-meta-729040" class="compact-registry-link" href="detalle.html?id=729040">🎮 Borderlands GOTY Enhanced</a>
   <a id="game-meta-261640" class="compact-registry-link" href="detalle.html?id=261640">🎮 Borderlands: The Pre-Sequel</a>
+  <span id="game-meta-boxroom-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 BOXROOM Demo</span>
   <a id="game-meta-285800" class="compact-registry-link" href="detalle.html?id=285800">🎮 Braveland</a>
   <a id="game-meta-291550" class="compact-registry-link" href="detalle.html?id=291550">🎮 Brawlhalla</a>
   <a id="game-meta-1607680" class="compact-registry-link" href="detalle.html?id=1607680">🎮 Bread &amp; Fred</a>
+  <span id="game-meta-break-into-zatwor" class="compact-registry-link compact-registry-link--catalog-only">📦 Break Into Zatwor</span>
+  <span id="game-meta-brilliant-bob" class="compact-registry-link compact-registry-link--catalog-only">📦 Brilliant Bob</span>
   <a id="game-meta-274190" class="compact-registry-link" href="detalle.html?id=274190">🎮 Broforce</a>
   <a id="game-meta-4422650" class="compact-registry-link" href="detalle.html?id=4422650">🎮 Broken Voyage</a>
+  <span id="game-meta-brother-hardcore-platformer" class="compact-registry-link compact-registry-link--catalog-only">📦 BROTHER!!! - Hardcore Platformer</span>
   <a id="game-meta-3617560" class="compact-registry-link" href="detalle.html?id=3617560">🎮 Buck Trucker in Rowdy Business</a>
   <a id="game-meta-2835570" class="compact-registry-link" href="detalle.html?id=2835570">🎮 Buckshot Roulette</a>
   <a id="game-meta-1238080" class="compact-registry-link" href="detalle.html?id=1238080">🎮 Burnout Paradise Remastered</a>
   <a id="game-meta-399810" class="compact-registry-link" href="detalle.html?id=399810">🎮 Call of Cthulhu</a>
   <a id="game-meta-311210" class="compact-registry-link" href="detalle.html?id=311210">🎮 Call of Duty: Black Ops III</a>
   <a id="game-meta-204450" class="compact-registry-link" href="detalle.html?id=204450">🎮 Call of Juarez Gunslinger</a>
+  <span id="game-meta-candysnake" class="compact-registry-link compact-registry-link--catalog-only">📦 CandySnake</span>
   <a id="game-meta-1515950" class="compact-registry-link" href="detalle.html?id=1515950">🎮 Capcom Arcade Stadium</a>
   <a id="game-meta-3115010" class="compact-registry-link" href="detalle.html?id=3115010">🎮 Car Dealer Simulator: Prologue</a>
   <a id="game-meta-953490" class="compact-registry-link" href="detalle.html?id=953490">🎮 CARRION</a>
   <a id="game-meta-3032020" class="compact-registry-link" href="detalle.html?id=3032020">🎮 Cast &amp; Spell</a>
   <a id="game-meta-3483740" class="compact-registry-link" href="detalle.html?id=3483740">🎮 Cast n Chill</a>
   <a id="game-meta-204360" class="compact-registry-link" href="detalle.html?id=204360">🎮 Castle Crashers</a>
+  <span id="game-meta-castle-of-alchemists-prologue" class="compact-registry-link compact-registry-link--catalog-only">📦 Castle of Alchemists: Prologue</span>
   <a id="game-meta-2431320" class="compact-registry-link" href="detalle.html?id=2431320">🎮 Cat-aclysm</a>
   <a id="game-meta-3017800" class="compact-registry-link" href="detalle.html?id=3017800">🎮 Catacombs</a>
   <a id="game-meta-544730" class="compact-registry-link" href="detalle.html?id=544730">🎮 Catan Universe</a>
@@ -181,12 +212,16 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-292570" class="compact-registry-link" href="detalle.html?id=292570">🎮 Chompy Chomp Chomp</a>
   <a id="game-meta-251130" class="compact-registry-link" href="detalle.html?id=251130">🎮 Chroma Squad</a>
   <a id="game-meta-255710" class="compact-registry-link" href="detalle.html?id=255710">🎮 Cities: Skylines</a>
+  <span id="game-meta-citra-qt" class="compact-registry-link compact-registry-link--catalog-only">📦 citra-qt</span>
   <a id="game-meta-8930" class="compact-registry-link" href="detalle.html?id=8930">🎮 Civilization V</a>
   <a id="game-meta-289070" class="compact-registry-link" href="detalle.html?id=289070">🎮 Civilization VI</a>
   <a id="game-meta-1903340" class="compact-registry-link" href="detalle.html?id=1903340">🎮 Clair Obscur: Expedition 33</a>
+  <span id="game-meta-clair-obscur-expedition-33-nos-vies-en-lumi-re" class="compact-registry-link compact-registry-link--catalog-only">📦 Clair Obscur: Expedition 33 – Nos Vies En Lumi&#232;re</span>
+  <span id="game-meta-codestrike" class="compact-registry-link compact-registry-link--catalog-only">📦 CodeStrike</span>
   <a id="game-meta-228200" class="compact-registry-link" href="detalle.html?id=228200">🎮 Company of Heroes</a>
   <a id="game-meta-4560" class="compact-registry-link" href="detalle.html?id=4560">🎮 Company of Heroes - Legacy Edition</a>
   <a id="game-meta-231430" class="compact-registry-link" href="detalle.html?id=231430">🎮 Company of Heroes 2</a>
+  <span id="game-meta-construction-simulator-prologue" class="compact-registry-link compact-registry-link--catalog-only">📦 Construction Simulator: Prologue</span>
   <a id="game-meta-870780" class="compact-registry-link" href="detalle.html?id=870780">🎮 Control Ultimate Edition</a>
   <a id="game-meta-1621690" class="compact-registry-link" href="detalle.html?id=1621690">🎮 Core Keeper</a>
   <a id="game-meta-10" class="compact-registry-link" href="detalle.html?id=10">🎮 Counter-Strike</a>
@@ -210,12 +245,15 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-268910" class="compact-registry-link" href="detalle.html?id=268910">🎮 Cuphead</a>
   <a id="game-meta-928840" class="compact-registry-link" href="detalle.html?id=928840">🎮 Cybarian: The Time Travelling Warrior</a>
   <a id="game-meta-1091500" class="compact-registry-link" href="detalle.html?id=1091500">🎮 Cyberpunk 2077</a>
+  <span id="game-meta-cyborg-detonator" class="compact-registry-link compact-registry-link--catalog-only">📦 Cyborg Detonator</span>
   <a id="game-meta-2635670" class="compact-registry-link" href="detalle.html?id=2635670">🎮 Cycle Idle RPG</a>
   <a id="game-meta-2502650" class="compact-registry-link" href="detalle.html?id=2502650">🎮 Daisho: Survival of a Samurai</a>
   <a id="game-meta-2016590" class="compact-registry-link" href="detalle.html?id=2016590">🎮 Dark and Darker</a>
   <a id="game-meta-962810" class="compact-registry-link" href="detalle.html?id=962810">🎮 Dark Roll</a>
+  <a id="game-meta-29900" class="compact-registry-link" href="detalle.html?id=29900">🎮 Dark Sector</a>
   <a id="game-meta-570940" class="compact-registry-link" href="detalle.html?id=570940">🎮 DARK SOULS REMASTERED</a>
   <a id="game-meta-262060" class="compact-registry-link" href="detalle.html?id=262060">🎮 Darkest Dungeon</a>
+  <span id="game-meta-darkest-dungeon-the-soundtrack" class="compact-registry-link compact-registry-link--catalog-only">📦 Darkest Dungeon: The Soundtrack</span>
   <a id="game-meta-490860" class="compact-registry-link" href="detalle.html?id=490860">🎮 DashBored</a>
   <a id="game-meta-1868140" class="compact-registry-link" href="detalle.html?id=1868140">🎮 DAVE THE DIVER</a>
   <a id="game-meta-30" class="compact-registry-link" href="detalle.html?id=30">🎮 Day of Defeat</a>
@@ -249,6 +287,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-470740" class="compact-registry-link" href="detalle.html?id=470740">🎮 Demolish &amp; Build 2017</a>
   <a id="game-meta-214340" class="compact-registry-link" href="detalle.html?id=214340">🎮 Deponia</a>
   <a id="game-meta-1590840" class="compact-registry-link" href="detalle.html?id=1590840">🎮 Depths Of Horror: Mushroom Day</a>
+  <a id="game-meta-3301060" class="compact-registry-link" href="detalle.html?id=3301060">🎮 Desktop Mate</a>
   <a id="game-meta-1085660" class="compact-registry-link" href="detalle.html?id=1085660">🎮 Destiny 2</a>
   <a id="game-meta-1222140" class="compact-registry-link" href="detalle.html?id=1222140">🎮 Detroit: Become Human</a>
   <a id="game-meta-238010" class="compact-registry-link" href="detalle.html?id=238010">🎮 Deus Ex: Human Revolution - Director&#39;s Cut</a>
@@ -290,21 +329,27 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-678950" class="compact-registry-link" href="detalle.html?id=678950">🎮 DRAGON BALL FighterZ</a>
   <a id="game-meta-454650" class="compact-registry-link" href="detalle.html?id=454650">🎮 DRAGON BALL XENOVERSE 2</a>
   <a id="game-meta-851850" class="compact-registry-link" href="detalle.html?id=851850">🎮 DRAGON BALL Z: KAKAROT</a>
+  <span id="game-meta-dragon-ball-z-kakarot-versi-n-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 DRAGON BALL Z: KAKAROT Versi&#243;n demo</span>
   <a id="game-meta-1790600" class="compact-registry-link" href="detalle.html?id=1790600">🎮 DRAGON BALL: Sparking! ZERO</a>
   <a id="game-meta-418270" class="compact-registry-link" href="detalle.html?id=418270">🎮 Draw Slasher</a>
   <a id="game-meta-442070" class="compact-registry-link" href="detalle.html?id=442070">🎮 Drawful 2</a>
   <a id="game-meta-1562430" class="compact-registry-link" href="detalle.html?id=1562430">🎮 DREDGE</a>
+  <span id="game-meta-drop" class="compact-registry-link compact-registry-link--catalog-only">📦 Drop</span>
   <a id="game-meta-682990" class="compact-registry-link" href="detalle.html?id=682990">🎮 Drug Dealer Simulator</a>
   <a id="game-meta-312530" class="compact-registry-link" href="detalle.html?id=312530">🎮 Duck Game</a>
   <a id="game-meta-2448970" class="compact-registry-link" href="detalle.html?id=2448970">🎮 Dungeonborne</a>
   <a id="game-meta-239140" class="compact-registry-link" href="detalle.html?id=239140">🎮 Dying Light</a>
   <a id="game-meta-534380" class="compact-registry-link" href="detalle.html?id=534380">🎮 Dying Light 2: Reloaded Edition</a>
+  <span id="game-meta-dying-light-original-soundtrack" class="compact-registry-link compact-registry-link--catalog-only">📦 Dying Light Original Soundtrack</span>
+  <span id="game-meta-ealauncher" class="compact-registry-link compact-registry-link--catalog-only">📦 EALauncher</span>
   <a id="game-meta-3293010" class="compact-registry-link" href="detalle.html?id=3293010">🎮 Easy Delivery Co.</a>
   <a id="game-meta-3302080" class="compact-registry-link" href="detalle.html?id=3302080">🎮 Effulgence RPG</a>
   <a id="game-meta-1627570" class="compact-registry-link" href="detalle.html?id=1627570">🎮 El Escudero Valiente</a>
   <a id="game-meta-1245620" class="compact-registry-link" href="detalle.html?id=1245620">🎮 ELDEN RING</a>
   <a id="game-meta-3642030" class="compact-registry-link" href="detalle.html?id=3642030">🎮 Elysium Elect</a>
   <a id="game-meta-311690" class="compact-registry-link" href="detalle.html?id=311690">🎮 Enter the Gungeon</a>
+  <span id="game-meta-epic-games-launcher" class="compact-registry-link compact-registry-link--catalog-only">📦 Epic Games Launcher</span>
+  <span id="game-meta-eriksholm-the-stolen-dream-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 Eriksholm: The Stolen Dream Demo</span>
   <a id="game-meta-822540" class="compact-registry-link" href="detalle.html?id=822540">🎮 Escape From Tethys</a>
   <a id="game-meta-1943950" class="compact-registry-link" href="detalle.html?id=1943950">🎮 Escape the Backrooms</a>
   <a id="game-meta-981600" class="compact-registry-link" href="detalle.html?id=981600">🎮 Eternium</a>
@@ -319,6 +364,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1020470" class="compact-registry-link" href="detalle.html?id=1020470">🎮 Evoland Legendary Edition</a>
   <a id="game-meta-2694210" class="compact-registry-link" href="detalle.html?id=2694210">🎮 Exiled Survivors</a>
   <a id="game-meta-281820" class="compact-registry-link" href="detalle.html?id=281820">🎮 Explodemon</a>
+  <a id="game-meta-2999030" class="compact-registry-link" href="detalle.html?id=2999030">🎮 Exploding Kittens&#174; 2</a>
   <a id="game-meta-21090" class="compact-registry-link" href="detalle.html?id=21090">🎮 F.E.A.R.</a>
   <a id="game-meta-16450" class="compact-registry-link" href="detalle.html?id=16450">🎮 F.E.A.R. 2: Project Origin</a>
   <a id="game-meta-21100" class="compact-registry-link" href="detalle.html?id=21100">🎮 F.E.A.R. 3</a>
@@ -329,7 +375,9 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-38410" class="compact-registry-link" href="detalle.html?id=38410">🎮 Fallout 2</a>
   <a id="game-meta-22370" class="compact-registry-link" href="detalle.html?id=22370">🎮 Fallout 3 - Game of the Year Edition</a>
   <a id="game-meta-377160" class="compact-registry-link" href="detalle.html?id=377160">🎮 Fallout 4</a>
+  <a id="game-meta-611660" class="compact-registry-link" href="detalle.html?id=611660">🎮 Fallout 4 VR</a>
   <a id="game-meta-1151340" class="compact-registry-link" href="detalle.html?id=1151340">🎮 Fallout 76</a>
+  <span id="game-meta-fallout-76-public-test-server" class="compact-registry-link compact-registry-link--catalog-only">📦 Fallout 76 Public Test Server</span>
   <a id="game-meta-588430" class="compact-registry-link" href="detalle.html?id=588430">🎮 Fallout Shelter</a>
   <a id="game-meta-22380" class="compact-registry-link" href="detalle.html?id=22380">🎮 Fallout: New Vegas</a>
   <a id="game-meta-220240" class="compact-registry-link" href="detalle.html?id=220240">🎮 Far Cry 3</a>
@@ -337,34 +385,50 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-303690" class="compact-registry-link" href="detalle.html?id=303690">🎮 FATE: The Cursed King</a>
   <a id="game-meta-303680" class="compact-registry-link" href="detalle.html?id=303680">🎮 FATE: The Traitor Soul</a>
   <a id="game-meta-276890" class="compact-registry-link" href="detalle.html?id=276890">🎮 FATE: Undiscovered Realms</a>
+  <span id="game-meta-fate-samurai-remnant-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 Fate/Samurai Remnant DEMO</span>
   <a id="game-meta-538100" class="compact-registry-link" href="detalle.html?id=538100">🎮 Feel The Snow</a>
+  <span id="game-meta-fiends-of-imprisonment" class="compact-registry-link compact-registry-link--catalog-only">📦 Fiends of Imprisonment</span>
   <a id="game-meta-674520" class="compact-registry-link" href="detalle.html?id=674520">🎮 Fight&#39;N Rage</a>
+  <span id="game-meta-fightcade1" class="compact-registry-link compact-registry-link--catalog-only">📦 Fightcade1</span>
   <a id="game-meta-3837340" class="compact-registry-link" href="detalle.html?id=3837340">🎮 FINAL FANTASY VII</a>
   <a id="game-meta-39140" class="compact-registry-link" href="detalle.html?id=39140">🎮 FINAL FANTASY VII (2013)</a>
   <a id="game-meta-2909400" class="compact-registry-link" href="detalle.html?id=2909400">🎮 FINAL FANTASY VII REBIRTH</a>
   <a id="game-meta-1462040" class="compact-registry-link" href="detalle.html?id=1462040">🎮 FINAL FANTASY VII REMAKE INTERGRADE</a>
   <a id="game-meta-3222970" class="compact-registry-link" href="detalle.html?id=3222970">🎮 Find 100 Ducks and Blast Them!</a>
+  <a id="game-meta-732690" class="compact-registry-link" href="detalle.html?id=732690">🎮 FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED</a>
   <a id="game-meta-1799370" class="compact-registry-link" href="detalle.html?id=1799370">🎮 Flash Party</a>
   <a id="game-meta-1314460" class="compact-registry-link" href="detalle.html?id=1314460">🎮 Flicker of Hope</a>
   <a id="game-meta-304390" class="compact-registry-link" href="detalle.html?id=304390">🎮 FOR HONOR</a>
+  <span id="game-meta-for-honor-public-test" class="compact-registry-link compact-registry-link--catalog-only">📦 For Honor - Public Test</span>
   <a id="game-meta-751780" class="compact-registry-link" href="detalle.html?id=751780">🎮 Forager</a>
   <a id="game-meta-1293830" class="compact-registry-link" href="detalle.html?id=1293830">🎮 Forza Horizon 4</a>
   <a id="game-meta-2021910" class="compact-registry-link" href="detalle.html?id=2021910">🎮 FPS Chess</a>
   <a id="game-meta-2943650" class="compact-registry-link" href="detalle.html?id=2943650">🎮 FragPunk</a>
+  <a id="game-meta-486780" class="compact-registry-link" href="detalle.html?id=486780">🎮 Fruit Ninja VR</a>
+  <span id="game-meta-galaxyclient-gog-galaxy" class="compact-registry-link compact-registry-link--catalog-only">📦 GalaxyClient / GOG Galaxy</span>
   <a id="game-meta-239820" class="compact-registry-link" href="detalle.html?id=239820">🎮 Game Dev Tycoon</a>
+  <span id="game-meta-gamecraft" class="compact-registry-link compact-registry-link--catalog-only">📦 Gamecraft</span>
   <a id="game-meta-285900" class="compact-registry-link" href="detalle.html?id=285900">🎮 Gang Beasts</a>
+  <span id="game-meta-gang-of-four" class="compact-registry-link compact-registry-link--catalog-only">📦 Gang of Four</span>
   <a id="game-meta-362930" class="compact-registry-link" href="detalle.html?id=362930">🎮 Garfield Kart</a>
   <a id="game-meta-1990740" class="compact-registry-link" href="detalle.html?id=1990740">🎮 Garro GT</a>
   <a id="game-meta-4000" class="compact-registry-link" href="detalle.html?id=4000">🎮 Garry&#39;s Mod</a>
   <a id="game-meta-322170" class="compact-registry-link" href="detalle.html?id=322170">🎮 Geometry Dash</a>
+  <span id="game-meta-go-mission-space-travel" class="compact-registry-link compact-registry-link--catalog-only">📦 Go Mission: Space Travel</span>
   <a id="game-meta-251870" class="compact-registry-link" href="detalle.html?id=251870">🎮 Go! Go! Nippon! ~My First Trip to Japan~</a>
   <a id="game-meta-555000" class="compact-registry-link" href="detalle.html?id=555000">🎮 GOAT OF DUTY</a>
   <a id="game-meta-4103660" class="compact-registry-link" href="detalle.html?id=4103660">🎮 Gobotix: Duo</a>
   <a id="game-meta-1593500" class="compact-registry-link" href="detalle.html?id=1593500">🎮 God of War</a>
   <a id="game-meta-2322010" class="compact-registry-link" href="detalle.html?id=2322010">🎮 God of War Ragnar&#246;k</a>
   <a id="game-meta-3244650" class="compact-registry-link" href="detalle.html?id=3244650">🎮 Goddess Of Swing</a>
+  <a id="game-meta-404790" class="compact-registry-link" href="detalle.html?id=404790">🎮 Godot Engine</a>
   <a id="game-meta-1245430" class="compact-registry-link" href="detalle.html?id=1245430">🎮 Golden Light</a>
   <a id="game-meta-431240" class="compact-registry-link" href="detalle.html?id=431240">🎮 Golf With Your Friends</a>
+  <span id="game-meta-goocubelets" class="compact-registry-link compact-registry-link--catalog-only">📦 GooCubelets</span>
+  <span id="game-meta-goocubelets-2" class="compact-registry-link compact-registry-link--catalog-only">📦 GooCubelets 2</span>
+  <span id="game-meta-goocubelets-ocd" class="compact-registry-link compact-registry-link--catalog-only">📦 GooCubelets: OCD</span>
+  <span id="game-meta-goocubelets-the-algoorithm" class="compact-registry-link compact-registry-link--catalog-only">📦 GooCubelets: The Algoorithm</span>
+  <span id="game-meta-goocubelets-the-void" class="compact-registry-link compact-registry-link--catalog-only">📦 GooCubelets: The Void</span>
   <a id="game-meta-1496790" class="compact-registry-link" href="detalle.html?id=1496790">🎮 Gotham Knights</a>
   <a id="game-meta-436150" class="compact-registry-link" href="detalle.html?id=436150">🎮 Governor of Poker 3</a>
   <a id="game-meta-12100" class="compact-registry-link" href="detalle.html?id=12100">🎮 Grand Theft Auto III</a>
@@ -381,11 +445,13 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-3240220" class="compact-registry-link" href="detalle.html?id=3240220">🎮 GTA5_Enhanced</a>
   <a id="game-meta-3034980" class="compact-registry-link" href="detalle.html?id=3034980">🎮 GTR - Garage Town Racing</a>
   <a id="game-meta-214770" class="compact-registry-link" href="detalle.html?id=214770">🎮 Guacamelee!</a>
+  <span id="game-meta-guardians-of-the-sanctree-early-birds" class="compact-registry-link compact-registry-link--catalog-only">📦 Guardians of the Sanctree: Early Birds</span>
   <a id="game-meta-1284210" class="compact-registry-link" href="detalle.html?id=1284210">🎮 Guild Wars 2</a>
   <a id="game-meta-1384160" class="compact-registry-link" href="detalle.html?id=1384160">🎮 GUILTY GEAR -STRIVE-</a>
   <a id="game-meta-608800" class="compact-registry-link" href="detalle.html?id=608800">🎮 Guns of Icarus Alliance</a>
   <a id="game-meta-209080" class="compact-registry-link" href="detalle.html?id=209080">🎮 Guns of Icarus Online</a>
   <a id="game-meta-1284410" class="compact-registry-link" href="detalle.html?id=1284410">🎮 GWENT: The Witcher Card Game</a>
+  <span id="game-meta-habbo-launcher" class="compact-registry-link compact-registry-link--catalog-only">📦 Habbo Launcher</span>
   <a id="game-meta-1145360" class="compact-registry-link" href="detalle.html?id=1145360">🎮 Hades</a>
   <a id="game-meta-755800" class="compact-registry-link" href="detalle.html?id=755800">🎮 Hades&#39; Star</a>
   <a id="game-meta-70" class="compact-registry-link" href="detalle.html?id=70">🎮 Half-Life</a>
@@ -419,13 +485,16 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-747350" class="compact-registry-link" href="detalle.html?id=747350">🎮 Hellblade: Senua&#39;s Sacrifice VR Edition</a>
   <a id="game-meta-394510" class="compact-registry-link" href="detalle.html?id=394510">🎮 HELLDIVERS</a>
   <a id="game-meta-553850" class="compact-registry-link" href="detalle.html?id=553850">🎮 HELLDIVERS 2</a>
+  <span id="game-meta-hellion" class="compact-registry-link compact-registry-link--catalog-only">📦 HELLION</span>
   <a id="game-meta-1608450" class="compact-registry-link" href="detalle.html?id=1608450">🎮 Hellslave</a>
   <a id="game-meta-269210" class="compact-registry-link" href="detalle.html?id=269210">🎮 Hero Siege</a>
   <a id="game-meta-976890" class="compact-registry-link" href="detalle.html?id=976890">🎮 Hidden Deep</a>
   <a id="game-meta-1583230" class="compact-registry-link" href="detalle.html?id=1583230">🎮 High On Life</a>
   <a id="game-meta-236870" class="compact-registry-link" href="detalle.html?id=236870">🎮 HITMAN</a>
   <a id="game-meta-863550" class="compact-registry-link" href="detalle.html?id=863550">🎮 HITMAN 2</a>
+  <span id="game-meta-hitman-woa-free-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 HITMAN WOA Free Demo</span>
   <a id="game-meta-1659040" class="compact-registry-link" href="detalle.html?id=1659040">🎮 HITMAN World of Assassination</a>
+  <span id="game-meta-hod2" class="compact-registry-link compact-registry-link--catalog-only">📦 Hod2</span>
   <a id="game-meta-990080" class="compact-registry-link" href="detalle.html?id=990080">🎮 Hogwarts Legacy</a>
   <a id="game-meta-367520" class="compact-registry-link" href="detalle.html?id=367520">🎮 Hollow Knight</a>
   <a id="game-meta-1030300" class="compact-registry-link" href="detalle.html?id=1030300">🎮 Hollow Knight: Silksong</a>
@@ -439,6 +508,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-2777190" class="compact-registry-link" href="detalle.html?id=2777190">🎮 Hoversteppers: Zone 1</a>
   <a id="game-meta-383270" class="compact-registry-link" href="detalle.html?id=383270">🎮 Hue</a>
   <a id="game-meta-598550" class="compact-registry-link" href="detalle.html?id=598550">🎮 Huntdown</a>
+  <span id="game-meta-hytale-launcher" class="compact-registry-link compact-registry-link--catalog-only">📦 Hytale Launcher</span>
   <a id="game-meta-826600" class="compact-registry-link" href="detalle.html?id=826600">🎮 I’m not a Monster</a>
   <a id="game-meta-1353300" class="compact-registry-link" href="detalle.html?id=1353300">🎮 Idle Slayer - Incremental RPG</a>
   <a id="game-meta-2504480" class="compact-registry-link" href="detalle.html?id=2504480">🎮 Indigo Park</a>
@@ -461,6 +531,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-242110" class="compact-registry-link" href="detalle.html?id=242110">🎮 Joe Danger 2: The Movie</a>
   <a id="game-meta-1372110" class="compact-registry-link" href="detalle.html?id=1372110">🎮 JoJo&#39;s Bizarre Adventure: All-Star Battle R</a>
   <a id="game-meta-638230" class="compact-registry-link" href="detalle.html?id=638230">🎮 Journey</a>
+  <span id="game-meta-joyxoff" class="compact-registry-link compact-registry-link--catalog-only">📦 Joyxoff</span>
   <a id="game-meta-561770" class="compact-registry-link" href="detalle.html?id=561770">🎮 Just Ignore Them</a>
   <a id="game-meta-3414900" class="compact-registry-link" href="detalle.html?id=3414900">🎮 Just Move:Clean City Messy Battle</a>
   <a id="game-meta-431930" class="compact-registry-link" href="detalle.html?id=431930">🎮 Kabounce</a>
@@ -484,10 +555,13 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-2246470" class="compact-registry-link" href="detalle.html?id=2246470">🎮 Kulebra and the Souls of Limbo</a>
   <a id="game-meta-35130" class="compact-registry-link" href="detalle.html?id=35130">🎮 Lara Croft and the Guardian of Light</a>
   <a id="game-meta-289690" class="compact-registry-link" href="detalle.html?id=289690">🎮 Lara Croft and the Temple of Osiris</a>
+  <span id="game-meta-league-of-legends" class="compact-registry-link compact-registry-link--catalog-only">📦 League of Legends</span>
+  <span id="game-meta-leagueclient" class="compact-registry-link compact-registry-link--catalog-only">📦 LeagueClient</span>
   <a id="game-meta-500" class="compact-registry-link" href="detalle.html?id=500">🎮 Left 4 Dead</a>
   <a id="game-meta-550" class="compact-registry-link" href="detalle.html?id=550">🎮 Left 4 Dead 2</a>
   <a id="game-meta-978520" class="compact-registry-link" href="detalle.html?id=978520">🎮 Legend of Keepers</a>
   <a id="game-meta-1702990" class="compact-registry-link" href="detalle.html?id=1702990">🎮 Legend of the Outlaw Mage</a>
+  <span id="game-meta-legendary" class="compact-registry-link compact-registry-link--catalog-only">📦 Legendary</span>
   <a id="game-meta-1898290" class="compact-registry-link" href="detalle.html?id=1898290">🎮 LEGO Bricktales</a>
   <a id="game-meta-578330" class="compact-registry-link" href="detalle.html?id=578330">🎮 LEGO City Undercover</a>
   <a id="game-meta-352400" class="compact-registry-link" href="detalle.html?id=352400">🎮 LEGO Jurassic World</a>
@@ -505,9 +579,11 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-319630" class="compact-registry-link" href="detalle.html?id=319630">🎮 Life is Strange</a>
   <a id="game-meta-48000" class="compact-registry-link" href="detalle.html?id=48000">🎮 LIMBO</a>
   <a id="game-meta-335670" class="compact-registry-link" href="detalle.html?id=335670">🎮 LISA</a>
+  <span id="game-meta-little-fighter-2" class="compact-registry-link compact-registry-link--catalog-only">📦 Little Fighter 2</span>
   <a id="game-meta-3249650" class="compact-registry-link" href="detalle.html?id=3249650">🎮 Little Fighter 2 Remastered</a>
   <a id="game-meta-424840" class="compact-registry-link" href="detalle.html?id=424840">🎮 Little Nightmares Enhanced Edition</a>
   <a id="game-meta-860510" class="compact-registry-link" href="detalle.html?id=860510">🎮 Little Nightmares II</a>
+  <span id="game-meta-livingbattle" class="compact-registry-link compact-registry-link--catalog-only">📦 LivingBattle</span>
   <a id="game-meta-3027490" class="compact-registry-link" href="detalle.html?id=3027490">🎮 LivingForest</a>
   <a id="game-meta-3373660" class="compact-registry-link" href="detalle.html?id=3373660">🎮 Look Outside</a>
   <a id="game-meta-294040" class="compact-registry-link" href="detalle.html?id=294040">🎮 Loot Hero DX</a>
@@ -516,6 +592,8 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1599340" class="compact-registry-link" href="detalle.html?id=1599340">🎮 Lost Ark</a>
   <a id="game-meta-1008690" class="compact-registry-link" href="detalle.html?id=1008690">🎮 Lost Daughter</a>
   <a id="game-meta-3312020" class="compact-registry-link" href="detalle.html?id=3312020">🎮 Lost in Anomaly</a>
+  <a id="game-meta-6510" class="compact-registry-link" href="detalle.html?id=6510">🎮 Lost Planet: Extreme Condition</a>
+  <span id="game-meta-loutra-virtual-artist-residency" class="compact-registry-link compact-registry-link--catalog-only">📦 Loutra: Virtual Artist Residency</span>
   <a id="game-meta-252110" class="compact-registry-link" href="detalle.html?id=252110">🎮 Lovers in a Dangerous Spacetime</a>
   <a id="game-meta-2408820" class="compact-registry-link" href="detalle.html?id=2408820">🎮 Luma Island</a>
   <a id="game-meta-234140" class="compact-registry-link" href="detalle.html?id=234140">🎮 Mad Max</a>
@@ -526,6 +604,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-3716600" class="compact-registry-link" href="detalle.html?id=3716600">🎮 Mage Arena</a>
   <a id="game-meta-42910" class="compact-registry-link" href="detalle.html?id=42910">🎮 Magicka</a>
   <a id="game-meta-238370" class="compact-registry-link" href="detalle.html?id=238370">🎮 Magicka 2</a>
+  <span id="game-meta-magicka-2-spell-balance-beta" class="compact-registry-link compact-registry-link--catalog-only">📦 Magicka 2: Spell Balance Beta</span>
   <a id="game-meta-209630" class="compact-registry-link" href="detalle.html?id=209630">🎮 Magrunner: Dark Pulse</a>
   <a id="game-meta-629820" class="compact-registry-link" href="detalle.html?id=629820">🎮 Maneater</a>
   <a id="game-meta-3220010" class="compact-registry-link" href="detalle.html?id=3220010">🎮 Mangui</a>
@@ -553,6 +632,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-2878270" class="compact-registry-link" href="detalle.html?id=2878270">🎮 Metal: Hellsinger VR</a>
   <a id="game-meta-43110" class="compact-registry-link" href="detalle.html?id=43110">🎮 Metro 2033</a>
   <a id="game-meta-286690" class="compact-registry-link" href="detalle.html?id=286690">🎮 Metro 2033 Redux</a>
+  <a id="game-meta-2669410" class="compact-registry-link" href="detalle.html?id=2669410">🎮 Metro Awakening</a>
   <a id="game-meta-412020" class="compact-registry-link" href="detalle.html?id=412020">🎮 Metro Exodus</a>
   <a id="game-meta-1449560" class="compact-registry-link" href="detalle.html?id=1449560">🎮 Metro Exodus Enhanced Edition</a>
   <a id="game-meta-43160" class="compact-registry-link" href="detalle.html?id=43160">🎮 Metro: Last Light Complete Edition</a>
@@ -563,8 +643,11 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1299360" class="compact-registry-link" href="detalle.html?id=1299360">🎮 Mighty Goose</a>
   <a id="game-meta-481870" class="compact-registry-link" href="detalle.html?id=481870">🎮 Mini Thief</a>
   <a id="game-meta-1657090" class="compact-registry-link" href="detalle.html?id=1657090">🎮 MiniRoyale</a>
+  <span id="game-meta-mod-organizer" class="compact-registry-link compact-registry-link--catalog-only">📦 Mod Organizer</span>
+  <span id="game-meta-monopolycity" class="compact-registry-link compact-registry-link--catalog-only">📦 MonopolyCity</span>
   <a id="game-meta-1446780" class="compact-registry-link" href="detalle.html?id=1446780">🎮 MONSTER HUNTER RISE</a>
   <a id="game-meta-2246340" class="compact-registry-link" href="detalle.html?id=2246340">🎮 Monster Hunter Wilds</a>
+  <span id="game-meta-monster-hunter-wilds-benchmark" class="compact-registry-link compact-registry-link--catalog-only">📦 Monster Hunter Wilds Benchmark</span>
   <a id="game-meta-582010" class="compact-registry-link" href="detalle.html?id=582010">🎮 Monster Hunter: World</a>
   <a id="game-meta-606150" class="compact-registry-link" href="detalle.html?id=606150">🎮 Moonlighter</a>
   <a id="game-meta-2350790" class="compact-registry-link" href="detalle.html?id=2350790">🎮 Moonlighter 2: The Endless Vault</a>
@@ -591,7 +674,9 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1222680" class="compact-registry-link" href="detalle.html?id=1222680">🎮 Need for Speed Heat</a>
   <a id="game-meta-1328660" class="compact-registry-link" href="detalle.html?id=1328660">🎮 Need for Speed Hot Pursuit Remastered</a>
   <a id="game-meta-788100" class="compact-registry-link" href="detalle.html?id=788100">🎮 Neon Abyss</a>
+  <span id="game-meta-neon-runners" class="compact-registry-link compact-registry-link--catalog-only">📦 Neon Runners</span>
   <a id="game-meta-1533420" class="compact-registry-link" href="detalle.html?id=1533420">🎮 Neon White</a>
+  <span id="game-meta-neoragex-5-0" class="compact-registry-link compact-registry-link--catalog-only">📦 NeoRAGEx 5.0</span>
   <a id="game-meta-628950" class="compact-registry-link" href="detalle.html?id=628950">🎮 Nephise Begins</a>
   <a id="game-meta-2964410" class="compact-registry-link" href="detalle.html?id=2964410">🎮 NETHER HEROES</a>
   <a id="game-meta-400450" class="compact-registry-link" href="detalle.html?id=400450">🎮 NeuroVoider</a>
@@ -642,6 +727,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-441380" class="compact-registry-link" href="detalle.html?id=441380">🎮 PAC-MAN Championship Edition 2</a>
   <a id="game-meta-1665130" class="compact-registry-link" href="detalle.html?id=1665130">🎮 PAC-MAN Museum+</a>
   <a id="game-meta-444090" class="compact-registry-link" href="detalle.html?id=444090">🎮 Paladins</a>
+  <span id="game-meta-paladins-public-test" class="compact-registry-link compact-registry-link--catalog-only">📦 Paladins - Public Test</span>
   <a id="game-meta-4070790" class="compact-registry-link" href="detalle.html?id=4070790">🎮 Palmier Island</a>
   <a id="game-meta-1623730" class="compact-registry-link" href="detalle.html?id=1623730">🎮 Palworld</a>
   <a id="game-meta-1178880" class="compact-registry-link" href="detalle.html?id=1178880">🎮 Panzer Dragoon: Remake</a>
@@ -654,6 +740,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-572430" class="compact-registry-link" href="detalle.html?id=572430">🎮 Party Hard 2</a>
   <a id="game-meta-238960" class="compact-registry-link" href="detalle.html?id=238960">🎮 Path of Exile</a>
   <a id="game-meta-1184370" class="compact-registry-link" href="detalle.html?id=1184370">🎮 Pathfinder: Wrath of the Righteous</a>
+  <span id="game-meta-pathologic-3-quarantine" class="compact-registry-link compact-registry-link--catalog-only">📦 Pathologic 3: Quarantine</span>
   <a id="game-meta-1260520" class="compact-registry-link" href="detalle.html?id=1260520">🎮 Patrick&#39;s Parabox</a>
   <a id="game-meta-218620" class="compact-registry-link" href="detalle.html?id=218620">🎮 PAYDAY 2</a>
   <a id="game-meta-3480" class="compact-registry-link" href="detalle.html?id=3480">🎮 Peggle Deluxe</a>
@@ -664,6 +751,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-3061570" class="compact-registry-link" href="detalle.html?id=3061570">🎮 Persona5: The Phantom X</a>
   <a id="game-meta-3144950" class="compact-registry-link" href="detalle.html?id=3144950">🎮 Pet Lands</a>
   <a id="game-meta-1056640" class="compact-registry-link" href="detalle.html?id=1056640">🎮 Phantasy Star Online 2 New Genesis</a>
+  <span id="game-meta-pick-me-up-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 Pick Me Up Demo</span>
   <a id="game-meta-461040" class="compact-registry-link" href="detalle.html?id=461040">🎮 PICO PARK: Classic Edition</a>
   <a id="game-meta-572890" class="compact-registry-link" href="detalle.html?id=572890">🎮 Pikuniku</a>
   <a id="game-meta-1049280" class="compact-registry-link" href="detalle.html?id=1049280">🎮 Pilgrims</a>
@@ -676,6 +764,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-246620" class="compact-registry-link" href="detalle.html?id=246620">🎮 Plague Inc: Evolved</a>
   <a id="game-meta-703080" class="compact-registry-link" href="detalle.html?id=703080">🎮 Planet Zoo</a>
   <a id="game-meta-3590" class="compact-registry-link" href="detalle.html?id=3590">🎮 Plants vs. Zombies: Game of the Year</a>
+  <span id="game-meta-plantsvszombiesrh" class="compact-registry-link compact-registry-link--catalog-only">📦 PlantsVsZombiesRH</span>
   <a id="game-meta-2911850" class="compact-registry-link" href="detalle.html?id=2911850">🎮 Playing Kafka</a>
   <a id="game-meta-1455900" class="compact-registry-link" href="detalle.html?id=1455900">🎮 Plunder Panic</a>
   <a id="game-meta-3454610" class="compact-registry-link" href="detalle.html?id=3454610">🎮 Poco</a>
@@ -690,9 +779,11 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-601360" class="compact-registry-link" href="detalle.html?id=601360">🎮 Portal: Revolution</a>
   <a id="game-meta-232770" class="compact-registry-link" href="detalle.html?id=232770">🎮 POSTAL</a>
   <a id="game-meta-3778870" class="compact-registry-link" href="detalle.html?id=3778870">🎮 Powwow Bound: A Menominee Homecoming</a>
+  <span id="game-meta-pragmata-sketchbook-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 PRAGMATA SKETCHBOOK - DEMO</span>
   <a id="game-meta-480490" class="compact-registry-link" href="detalle.html?id=480490">🎮 Prey</a>
   <a id="game-meta-741820" class="compact-registry-link" href="detalle.html?id=741820">🎮 Prey: Typhon Hunter</a>
   <a id="game-meta-3714460" class="compact-registry-link" href="detalle.html?id=3714460">🎮 Prima Materia XXV</a>
+  <span id="game-meta-princess-remedy-in-a-heap-of-trouble" class="compact-registry-link compact-registry-link--catalog-only">📦 Princess Remedy In A Heap of Trouble</span>
   <a id="game-meta-702150" class="compact-registry-link" href="detalle.html?id=702150">🎮 Project Mercury</a>
   <a id="game-meta-893680" class="compact-registry-link" href="detalle.html?id=893680">🎮 Project Warlock</a>
   <a id="game-meta-108600" class="compact-registry-link" href="detalle.html?id=108600">🎮 Project Zomboid</a>
@@ -701,6 +792,8 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-3830" class="compact-registry-link" href="detalle.html?id=3830">🎮 Psychonauts</a>
   <a id="game-meta-607080" class="compact-registry-link" href="detalle.html?id=607080">🎮 Psychonauts 2</a>
   <a id="game-meta-578080" class="compact-registry-link" href="detalle.html?id=578080">🎮 PUBG</a>
+  <span id="game-meta-pubg-experimental-server" class="compact-registry-link compact-registry-link--catalog-only">📦 PUBG: Experimental Server</span>
+  <span id="game-meta-pubg-test-server" class="compact-registry-link compact-registry-link--catalog-only">📦 PUBG: Test Server</span>
   <a id="game-meta-880940" class="compact-registry-link" href="detalle.html?id=880940">🎮 Pummel Party</a>
   <a id="game-meta-2210" class="compact-registry-link" href="detalle.html?id=2210">🎮 Quake 4</a>
   <a id="game-meta-449630" class="compact-registry-link" href="detalle.html?id=449630">🎮 Rage Parking Simulator 2016</a>
@@ -712,8 +805,12 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1174180" class="compact-registry-link" href="detalle.html?id=1174180">🎮 Red Dead Redemption 2</a>
   <a id="game-meta-1076600" class="compact-registry-link" href="detalle.html?id=1076600">🎮 Red Gate</a>
   <a id="game-meta-448070" class="compact-registry-link" href="detalle.html?id=448070">🎮 Red Risk</a>
+  <span id="game-meta-red-wings" class="compact-registry-link compact-registry-link--catalog-only">📦 Red Wings</span>
+  <span id="game-meta-redkit-de-the-witcher-3" class="compact-registry-link compact-registry-link--catalog-only">📦 REDkit DE THE WITCHER 3</span>
+  <span id="game-meta-refind-self" class="compact-registry-link compact-registry-link--catalog-only">📦 Refind Self</span>
   <a id="game-meta-2514960" class="compact-registry-link" href="detalle.html?id=2514960">🎮 Refind Self: Desvela tu personalidad</a>
   <a id="game-meta-1968320" class="compact-registry-link" href="detalle.html?id=1968320">🎮 Relapse</a>
+  <span id="game-meta-rem-the-prologue" class="compact-registry-link compact-registry-link--catalog-only">📦 REM: The Prologue</span>
   <a id="game-meta-99300" class="compact-registry-link" href="detalle.html?id=99300">🎮 Renegade Ops</a>
   <a id="game-meta-304240" class="compact-registry-link" href="detalle.html?id=304240">🎮 Resident Evil</a>
   <a id="game-meta-339340" class="compact-registry-link" href="detalle.html?id=339340">🎮 Resident Evil 0</a>
@@ -730,31 +827,37 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-222480" class="compact-registry-link" href="detalle.html?id=222480">🎮 Resident Evil Revelations</a>
   <a id="game-meta-287290" class="compact-registry-link" href="detalle.html?id=287290">🎮 Resident Evil Revelations 2</a>
   <a id="game-meta-1196590" class="compact-registry-link" href="detalle.html?id=1196590">🎮 Resident Evil Village</a>
+  <span id="game-meta-rewire-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 ReWire Demo</span>
   <a id="game-meta-60" class="compact-registry-link" href="detalle.html?id=60">🎮 Ricochet</a>
   <a id="game-meta-2073250" class="compact-registry-link" href="detalle.html?id=2073250">🎮 Rift of the NecroDancer</a>
   <a id="game-meta-391220" class="compact-registry-link" href="detalle.html?id=391220">🎮 Rise of the Tomb Raider</a>
+  <span id="game-meta-rising-storm-red-orchestra-2-multiplayer" class="compact-registry-link compact-registry-link--catalog-only">📦 Rising Storm/Red Orchestra 2 Multiplayer</span>
   <a id="game-meta-632360" class="compact-registry-link" href="detalle.html?id=632360">🎮 Risk of Rain 2</a>
   <a id="game-meta-1128810" class="compact-registry-link" href="detalle.html?id=1128810">🎮 RISK: Global Domination</a>
   <a id="game-meta-383980" class="compact-registry-link" href="detalle.html?id=383980">🎮 Rivals of Aether</a>
   <a id="game-meta-1681430" class="compact-registry-link" href="detalle.html?id=1681430">🎮 RoboCop: Rogue City</a>
   <a id="game-meta-1187510" class="compact-registry-link" href="detalle.html?id=1187510">🎮 Rock Simulator</a>
   <a id="game-meta-252950" class="compact-registry-link" href="detalle.html?id=252950">🎮 Rocket League</a>
+  <span id="game-meta-rockstar-games-launcher" class="compact-registry-link compact-registry-link--catalog-only">📦 Rockstar Games Launcher</span>
   <a id="game-meta-1303350" class="compact-registry-link" href="detalle.html?id=1303350">🎮 Rocky Mayhem</a>
   <a id="game-meta-787810" class="compact-registry-link" href="detalle.html?id=787810">🎮 Rogue Heroes: Ruins of Tasos</a>
   <a id="game-meta-397720" class="compact-registry-link" href="detalle.html?id=397720">🎮 Romance of the Three Kingdoms Maker</a>
   <a id="game-meta-3693260" class="compact-registry-link" href="detalle.html?id=3693260">🎮 Room For One!</a>
   <a id="game-meta-1993830" class="compact-registry-link" href="detalle.html?id=1993830">🎮 ROTA: Bend Gravity</a>
+  <a id="game-meta-220700" class="compact-registry-link" href="detalle.html?id=220700">🎮 RPG Maker VX Ace</a>
   <a id="game-meta-1206610" class="compact-registry-link" href="detalle.html?id=1206610">🎮 Rubber Bandits</a>
   <a id="game-meta-3807810" class="compact-registry-link" href="detalle.html?id=3807810">🎮 Ruby and The Lost Crystals</a>
   <a id="game-meta-302510" class="compact-registry-link" href="detalle.html?id=302510">🎮 Ryse: Son of Rome</a>
   <a id="game-meta-3765020" class="compact-registry-link" href="detalle.html?id=3765020">🎮 S.T.A.L.K.E.R.</a>
   <a id="game-meta-4500" class="compact-registry-link" href="detalle.html?id=4500">🎮 S.T.A.L.K.E.R.: Shadow of Chernobyl</a>
+  <span id="game-meta-s-t-a-l-k-e-r-shadow-of-chernobyl-enhanced-edition" class="compact-registry-link compact-registry-link--catalog-only">📦 S.T.A.L.K.E.R.: Shadow of Chernobyl - Enhanced Edition</span>
   <a id="game-meta-2427410" class="compact-registry-link" href="detalle.html?id=2427410">🎮 S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition</a>
   <a id="game-meta-2419710" class="compact-registry-link" href="detalle.html?id=2419710">🎮 Saloon Simulator: Prologue</a>
   <a id="game-meta-210770" class="compact-registry-link" href="detalle.html?id=210770">🎮 Sanctum 2</a>
   <a id="game-meta-2995230" class="compact-registry-link" href="detalle.html?id=2995230">🎮 Sandwalkers - Prologue</a>
   <a id="game-meta-1122720" class="compact-registry-link" href="detalle.html?id=1122720">🎮 Sayonara Wild Hearts</a>
   <a id="game-meta-813540" class="compact-registry-link" href="detalle.html?id=813540">🎮 Scheming Through The Zombie Apocalypse: The Beginning</a>
+  <span id="game-meta-schooldays-hq" class="compact-registry-link compact-registry-link--catalog-only">📦 SCHOOLDAYS HQ</span>
   <a id="game-meta-3257000" class="compact-registry-link" href="detalle.html?id=3257000">🎮 SCP: Containment Breach 2</a>
   <a id="game-meta-1782380" class="compact-registry-link" href="detalle.html?id=1782380">🎮 SCP: Containment Breach Multiplayer</a>
   <a id="game-meta-465760" class="compact-registry-link" href="detalle.html?id=465760">🎮 Scrap Garden</a>
@@ -762,8 +865,13 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-249870" class="compact-registry-link" href="detalle.html?id=249870">🎮 Scribblenauts Unmasked</a>
   <a id="game-meta-1244090" class="compact-registry-link" href="detalle.html?id=1244090">🎮 Sea of Stars</a>
   <a id="game-meta-1172620" class="compact-registry-link" href="detalle.html?id=1172620">🎮 Sea of Thieves</a>
+  <span id="game-meta-sea-of-thieves-original-soundtrack-2024-edition" class="compact-registry-link compact-registry-link--catalog-only">📦 Sea of Thieves Original Soundtrack - 2024 Edition</span>
+  <span id="game-meta-sea-of-thieves-original-soundtrack-2025-edition" class="compact-registry-link compact-registry-link--catalog-only">📦 Sea of Thieves Original Soundtrack - 2025 Edition</span>
+  <span id="game-meta-sea-of-thieves-original-soundtrack-2026-edition" class="compact-registry-link compact-registry-link--catalog-only">📦 Sea of Thieves Original Soundtrack - 2026 Edition</span>
+  <span id="game-meta-sea-of-thieves-athenas-fortune-audiobook" class="compact-registry-link compact-registry-link--catalog-only">📦 Sea of Thieves: Athena&#39;s Fortune Audiobook</span>
   <a id="game-meta-4127470" class="compact-registry-link" href="detalle.html?id=4127470">🎮 Seconda</a>
   <a id="game-meta-1069740" class="compact-registry-link" href="detalle.html?id=1069740">🎮 Seen</a>
+  <span id="game-meta-sega-mega-drive-and-genesis-classics" class="compact-registry-link compact-registry-link--catalog-only">📦 SEGA Mega Drive &amp; Genesis Classics</span>
   <a id="game-meta-635850" class="compact-registry-link" href="detalle.html?id=635850">🎮 Sentience. The Android&#39;s Tale</a>
   <a id="game-meta-3428910" class="compact-registry-link" href="detalle.html?id=3428910">🎮 Separated by Nightmares: Where Duty Dies</a>
   <a id="game-meta-522210" class="compact-registry-link" href="detalle.html?id=522210">🎮 Serial Cleaner</a>
@@ -775,6 +883,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-41060" class="compact-registry-link" href="detalle.html?id=41060">🎮 Serious Sam Classic: The Second Encounter</a>
   <a id="game-meta-227780" class="compact-registry-link" href="detalle.html?id=227780">🎮 Serious Sam Classics: Revolution</a>
   <a id="game-meta-111600" class="compact-registry-link" href="detalle.html?id=111600">🎮 Serious Sam Double D XXL</a>
+  <a id="game-meta-564310" class="compact-registry-link" href="detalle.html?id=564310">🎮 Serious Sam Fusion 2017 (beta)</a>
   <a id="game-meta-41000" class="compact-registry-link" href="detalle.html?id=41000">🎮 Serious Sam HD: The First Encounter</a>
   <a id="game-meta-41014" class="compact-registry-link" href="detalle.html?id=41014">🎮 Serious Sam HD: The Second Encounter</a>
   <a id="game-meta-201480" class="compact-registry-link" href="detalle.html?id=201480">🎮 Serious Sam: The Random Encounter</a>
@@ -783,23 +892,31 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-986130" class="compact-registry-link" href="detalle.html?id=986130">🎮 Shadows of Doubt</a>
   <a id="game-meta-2584990" class="compact-registry-link" href="detalle.html?id=2584990">🎮 Shadowverse: Worlds Beyond</a>
   <a id="game-meta-2835310" class="compact-registry-link" href="detalle.html?id=2835310">🎮 Sharpshooter</a>
+  <a id="game-meta-1875830" class="compact-registry-link" href="detalle.html?id=1875830">🎮 Shin Megami Tensei V: Vengeance</a>
   <a id="game-meta-250760" class="compact-registry-link" href="detalle.html?id=250760">🎮 Shovel Knight: Treasure Trove</a>
+  <span id="game-meta-showdown-bandit" class="compact-registry-link compact-registry-link--catalog-only">📦 Showdown Bandit</span>
   <a id="game-meta-3910" class="compact-registry-link" href="detalle.html?id=3910">🎮 Sid Meier&#39;s Civilization III: Complete</a>
   <a id="game-meta-3900" class="compact-registry-link" href="detalle.html?id=3900">🎮 Sid Meier&#39;s Civilization IV</a>
   <a id="game-meta-8800" class="compact-registry-link" href="detalle.html?id=8800">🎮 Sid Meier&#39;s Civilization IV: Beyond the Sword</a>
   <a id="game-meta-16810" class="compact-registry-link" href="detalle.html?id=16810">🎮 Sid Meier&#39;s Civilization IV: Colonization</a>
   <a id="game-meta-3990" class="compact-registry-link" href="detalle.html?id=3990">🎮 Sid Meier&#39;s Civilization IV: Warlords</a>
+  <a id="game-meta-65980" class="compact-registry-link" href="detalle.html?id=65980">🎮 Sid Meier&#39;s Civilization: Beyond Earth</a>
+  <a id="game-meta-282210" class="compact-registry-link" href="detalle.html?id=282210">🎮 Sid Meier&#39;s Starships</a>
   <a id="game-meta-2138710" class="compact-registry-link" href="detalle.html?id=2138710">🎮 Sifu</a>
+  <span id="game-meta-sifu-digital-original-soundtrack" class="compact-registry-link compact-registry-link--catalog-only">📦 Sifu Digital Original Soundtrack</span>
   <a id="game-meta-2124490" class="compact-registry-link" href="detalle.html?id=2124490">🎮 SILENT HILL 2</a>
   <a id="game-meta-2947440" class="compact-registry-link" href="detalle.html?id=2947440">🎮 SILENT HILL f</a>
   <a id="game-meta-3362870" class="compact-registry-link" href="detalle.html?id=3362870">🎮 SIMPWALK</a>
   <a id="game-meta-245170" class="compact-registry-link" href="detalle.html?id=245170">🎮 Skullgirls 2nd Encore</a>
+  <span id="game-meta-sky-rhythm" class="compact-registry-link compact-registry-link--catalog-only">📦 Sky Rhythm</span>
   <a id="game-meta-2325290" class="compact-registry-link" href="detalle.html?id=2325290">🎮 Sky: Ni&#241;os de la Luz</a>
+  <span id="game-meta-skyrim-script-extender-skse" class="compact-registry-link compact-registry-link--catalog-only">📦 Skyrim Script Extender (SKSE)</span>
   <a id="game-meta-646570" class="compact-registry-link" href="detalle.html?id=646570">🎮 Slay the Spire</a>
   <a id="game-meta-307690" class="compact-registry-link" href="detalle.html?id=307690">🎮 Sleeping Dogs: Definitive Edition</a>
   <a id="game-meta-4032230" class="compact-registry-link" href="detalle.html?id=4032230">🎮 Slime Saga</a>
   <a id="game-meta-1755300" class="compact-registry-link" href="detalle.html?id=1755300">🎮 Smart Factory Tycoon</a>
   <a id="game-meta-740240" class="compact-registry-link" href="detalle.html?id=740240">🎮 Snake Eyes Dungeon</a>
+  <span id="game-meta-snowbreak" class="compact-registry-link compact-registry-link--catalog-only">📦 SNOWBREAK</span>
   <a id="game-meta-867210" class="compact-registry-link" href="detalle.html?id=867210">🎮 Songs of Conquest</a>
   <a id="game-meta-1237320" class="compact-registry-link" href="detalle.html?id=1237320">🎮 Sonic Frontiers</a>
   <a id="game-meta-2486820" class="compact-registry-link" href="detalle.html?id=2486820">🎮 Sonic Racing: CrossWorlds</a>
@@ -810,6 +927,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1169200" class="compact-registry-link" href="detalle.html?id=1169200">🎮 Space Bear</a>
   <a id="game-meta-2805210" class="compact-registry-link" href="detalle.html?id=2805210">🎮 Space Hat</a>
   <a id="game-meta-1412850" class="compact-registry-link" href="detalle.html?id=1412850">🎮 Spacelines From The Far Out</a>
+  <span id="game-meta-spectre-divide" class="compact-registry-link compact-registry-link--catalog-only">📦 Spectre Divide</span>
   <a id="game-meta-3147930" class="compact-registry-link" href="detalle.html?id=3147930">🎮 Sphere vs Gravity</a>
   <a id="game-meta-2113850" class="compact-registry-link" href="detalle.html?id=2113850">🎮 Spirit City: Lofi Sessions</a>
   <a id="game-meta-972660" class="compact-registry-link" href="detalle.html?id=972660">🎮 Spiritfarer</a>
@@ -823,9 +941,11 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-212070" class="compact-registry-link" href="detalle.html?id=212070">🎮 Star Conflict</a>
   <a id="game-meta-1286830" class="compact-registry-link" href="detalle.html?id=1286830">🎮 Star Wars: The Old Republic</a>
   <a id="game-meta-211820" class="compact-registry-link" href="detalle.html?id=211820">🎮 Starbound</a>
+  <span id="game-meta-starbound-unstable" class="compact-registry-link compact-registry-link--catalog-only">📦 Starbound - Unstable</span>
   <a id="game-meta-413150" class="compact-registry-link" href="detalle.html?id=413150">🎮 Stardew Valley</a>
   <a id="game-meta-2272400" class="compact-registry-link" href="detalle.html?id=2272400">🎮 Station to Station</a>
   <a id="game-meta-209190" class="compact-registry-link" href="detalle.html?id=209190">🎮 Stealth Bastard Deluxe</a>
+  <span id="game-meta-steamvr" class="compact-registry-link compact-registry-link--catalog-only">📦 SteamVR</span>
   <a id="game-meta-619700" class="compact-registry-link" href="detalle.html?id=619700">🎮 Steel Rats</a>
   <a id="game-meta-412830" class="compact-registry-link" href="detalle.html?id=412830">🎮 STEINS;GATE</a>
   <a id="game-meta-3489700" class="compact-registry-link" href="detalle.html?id=3489700">🎮 Stellar Blade</a>
@@ -834,6 +954,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1332010" class="compact-registry-link" href="detalle.html?id=1332010">🎮 Stray</a>
   <a id="game-meta-1261040" class="compact-registry-link" href="detalle.html?id=1261040">🎮 Streamer Life Simulator</a>
   <a id="game-meta-1364780" class="compact-registry-link" href="detalle.html?id=1364780">🎮 Street Fighter 6</a>
+  <span id="game-meta-street-fighter-6-open-beta" class="compact-registry-link compact-registry-link--catalog-only">📦 Street Fighter™ 6 - Open Beta</span>
   <a id="game-meta-512900" class="compact-registry-link" href="detalle.html?id=512900">🎮 Streets of Rogue</a>
   <a id="game-meta-1282270" class="compact-registry-link" href="detalle.html?id=1282270">🎮 Strinova</a>
   <a id="game-meta-315210" class="compact-registry-link" href="detalle.html?id=315210">🎮 Suicide Squad</a>
@@ -845,13 +966,17 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-322500" class="compact-registry-link" href="detalle.html?id=322500">🎮 SUPERHOT</a>
   <a id="game-meta-1049410" class="compact-registry-link" href="detalle.html?id=1049410">🎮 Superliminal</a>
   <a id="game-meta-2670630" class="compact-registry-link" href="detalle.html?id=2670630">🎮 Supermarket Simulator</a>
+  <a id="game-meta-2709570" class="compact-registry-link" href="detalle.html?id=2709570">🎮 Supermarket Together</a>
   <a id="game-meta-2159120" class="compact-registry-link" href="detalle.html?id=2159120">🎮 SUR5</a>
+  <span id="game-meta-surrounddead-poly-construction" class="compact-registry-link compact-registry-link--catalog-only">📦 SurroundDead Poly Construction</span>
   <a id="game-meta-1511860" class="compact-registry-link" href="detalle.html?id=1511860">🎮 Swallow the Sea</a>
+  <span id="game-meta-sweet-girl-adventure" class="compact-registry-link compact-registry-link--catalog-only">📦 Sweet Girl Adventure</span>
   <a id="game-meta-2526380" class="compact-registry-link" href="detalle.html?id=2526380">🎮 Sword of Convallaria</a>
   <a id="game-meta-46500" class="compact-registry-link" href="detalle.html?id=46500">🎮 Syberia</a>
   <a id="game-meta-46510" class="compact-registry-link" href="detalle.html?id=46510">🎮 Syberia 2</a>
   <a id="game-meta-286160" class="compact-registry-link" href="detalle.html?id=286160">🎮 Tabletop Simulator</a>
   <a id="game-meta-330830" class="compact-registry-link" href="detalle.html?id=330830">🎮 Tales from the Borderlands</a>
+  <span id="game-meta-te-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 Te, що лишається Demo</span>
   <a id="game-meta-440" class="compact-registry-link" href="detalle.html?id=440">🎮 Team Fortress 2</a>
   <a id="game-meta-20" class="compact-registry-link" href="detalle.html?id=20">🎮 Team Fortress Classic</a>
   <a id="game-meta-389730" class="compact-registry-link" href="detalle.html?id=389730">🎮 TEKKEN 7</a>
@@ -873,6 +998,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-94300" class="compact-registry-link" href="detalle.html?id=94300">🎮 The Dream Machine</a>
   <a id="game-meta-1812390" class="compact-registry-link" href="detalle.html?id=1812390">🎮 The Elder Scrolls II: Daggerfall</a>
   <a id="game-meta-489830" class="compact-registry-link" href="detalle.html?id=489830">🎮 The Elder Scrolls V: Skyrim Special Edition</a>
+  <a id="game-meta-611670" class="compact-registry-link" href="detalle.html?id=611670">🎮 The Elder Scrolls V: Skyrim VR</a>
   <a id="game-meta-1812290" class="compact-registry-link" href="detalle.html?id=1812290">🎮 The Elder Scrolls: Arena</a>
   <a id="game-meta-641990" class="compact-registry-link" href="detalle.html?id=641990">🎮 The Escapists 2</a>
   <a id="game-meta-268050" class="compact-registry-link" href="detalle.html?id=268050">🎮 The Evil Within</a>
@@ -885,6 +1011,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-1089980" class="compact-registry-link" href="detalle.html?id=1089980">🎮 The Henry Stickmin Collection</a>
   <a id="game-meta-3376690" class="compact-registry-link" href="detalle.html?id=3376690">🎮 THE HOUSE OF THE DEAD 2: Remake</a>
   <a id="game-meta-1694600" class="compact-registry-link" href="detalle.html?id=1694600">🎮 THE HOUSE OF THE DEAD: Remake</a>
+  <a id="game-meta-2828500" class="compact-registry-link" href="detalle.html?id=2828500">🎮 The Jackbox Megapicker</a>
   <a id="game-meta-222420" class="compact-registry-link" href="detalle.html?id=222420">🎮 THE KING OF FIGHTERS &#39;98 ULTIMATE MATCH FINAL EDITION</a>
   <a id="game-meta-222440" class="compact-registry-link" href="detalle.html?id=222440">🎮 THE KING OF FIGHTERS 2002 UNLIMITED MATCH</a>
   <a id="game-meta-450390" class="compact-registry-link" href="detalle.html?id=450390">🎮 The Lab</a>
@@ -893,6 +1020,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-2517810" class="compact-registry-link" href="detalle.html?id=2517810">🎮 The Last Flame: Prologue</a>
   <a id="game-meta-522570" class="compact-registry-link" href="detalle.html?id=522570">🎮 The Last Hope</a>
   <a id="game-meta-1118040" class="compact-registry-link" href="detalle.html?id=1118040">🎮 The Last King Prologue</a>
+  <span id="game-meta-the-last-man-survivor-prologue" class="compact-registry-link compact-registry-link--catalog-only">📦 The Last Man Survivor: Prologue</span>
   <a id="game-meta-1888930" class="compact-registry-link" href="detalle.html?id=1888930">🎮 The Last of Us Part I</a>
   <a id="game-meta-2531310" class="compact-registry-link" href="detalle.html?id=2531310">🎮 The Last of Us Part II Remastered</a>
   <a id="game-meta-267530" class="compact-registry-link" href="detalle.html?id=267530">🎮 The LEGO Movie - Videogame</a>
@@ -901,12 +1029,15 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-360940" class="compact-registry-link" href="detalle.html?id=360940">🎮 The Mean Greens - Plastic Warfare</a>
   <a id="game-meta-2838550" class="compact-registry-link" href="detalle.html?id=2838550">🎮 The Monarch: First Light</a>
   <a id="game-meta-3472550" class="compact-registry-link" href="detalle.html?id=3472550">🎮 The Mr. Rabbit Magic Show</a>
+  <span id="game-meta-the-note" class="compact-registry-link compact-registry-link--catalog-only">📦 The Note</span>
   <a id="game-meta-1881350" class="compact-registry-link" href="detalle.html?id=1881350">🎮 The Odyssey of the Mammoth</a>
   <a id="game-meta-352520" class="compact-registry-link" href="detalle.html?id=352520">🎮 The Silent Age</a>
   <a id="game-meta-1222670" class="compact-registry-link" href="detalle.html?id=1222670">🎮 The Sims 4</a>
   <a id="game-meta-897450" class="compact-registry-link" href="detalle.html?id=897450">🎮 The Survivalists</a>
+  <span id="game-meta-the-survivalists-soundtrack" class="compact-registry-link compact-registry-link--catalog-only">📦 The Survivalists Soundtrack</span>
   <a id="game-meta-246580" class="compact-registry-link" href="detalle.html?id=246580">🎮 The Typing of The Dead: Overkill</a>
   <a id="game-meta-406970" class="compact-registry-link" href="detalle.html?id=406970">🎮 The Uncertain: Last Quiet Day</a>
+  <span id="game-meta-the-walking-dead-telltale-definitive-series" class="compact-registry-link compact-registry-link--catalog-only">📦 The Walking Dead Telltale Definitive Series</span>
   <a id="game-meta-1449690" class="compact-registry-link" href="detalle.html?id=1449690">🎮 The Walking Dead: The Telltale Definitive Series</a>
   <a id="game-meta-2795000" class="compact-registry-link" href="detalle.html?id=2795000">🎮 The WereCleaner</a>
   <a id="game-meta-3868950" class="compact-registry-link" href="detalle.html?id=3868950">🎮 The Witch&#39;s fabulous Cracker Show</a>
@@ -918,26 +1049,36 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-298630" class="compact-registry-link" href="detalle.html?id=298630">🎮 TheEscapists</a>
   <a id="game-meta-518790" class="compact-registry-link" href="detalle.html?id=518790">🎮 theHunter: Call of the Wild</a>
   <a id="game-meta-1920490" class="compact-registry-link" href="detalle.html?id=1920490">🎮 TheOuterWorldsSpacersChoiceEdition</a>
+  <span id="game-meta-they-came-from-the-moon" class="compact-registry-link compact-registry-link--catalog-only">📦 They Came From The Moon</span>
   <a id="game-meta-3561850" class="compact-registry-link" href="detalle.html?id=3561850">🎮 This Game is Ground Breaking</a>
   <a id="game-meta-282070" class="compact-registry-link" href="detalle.html?id=282070">🎮 This War of Mine</a>
+  <span id="game-meta-this-war-of-mine-soundtrack" class="compact-registry-link compact-registry-link--catalog-only">📦 This War of Mine Soundtrack</span>
   <a id="game-meta-3584190" class="compact-registry-link" href="detalle.html?id=3584190">🎮 Three Sisters</a>
+  <span id="game-meta-tibia" class="compact-registry-link compact-registry-link--catalog-only">📦 Tibia</span>
   <a id="game-meta-1286680" class="compact-registry-link" href="detalle.html?id=1286680">🎮 Tiny Tina’s Wonderlands</a>
   <a id="game-meta-475150" class="compact-registry-link" href="detalle.html?id=475150">🎮 Titan Quest Anniversary Edition</a>
   <a id="game-meta-1237970" class="compact-registry-link" href="detalle.html?id=1237970">🎮 Titanfall 2</a>
+  <span id="game-meta-tmodloader" class="compact-registry-link compact-registry-link--catalog-only">📦 tModLoader</span>
   <a id="game-meta-359550" class="compact-registry-link" href="detalle.html?id=359550">🎮 Tom Clancy&#39;s Rainbow Six Siege</a>
+  <span id="game-meta-tom-clancys-rainbow-six-siege-test-server" class="compact-registry-link compact-registry-link--catalog-only">📦 Tom Clancy&#39;s Rainbow Six Siege - Test Server</span>
+  <span id="game-meta-tom-clancys-the-division-2-test-server" class="compact-registry-link compact-registry-link--catalog-only">📦 Tom Clancy&#39;s The Division 2 - Test Server</span>
+  <span id="game-meta-tom-clancys-the-division-pts" class="compact-registry-link compact-registry-link--catalog-only">📦 Tom Clancy&#39;s The Division PTS</span>
   <a id="game-meta-203160" class="compact-registry-link" href="detalle.html?id=203160">🎮 Tomb Raider</a>
   <a id="game-meta-1974050" class="compact-registry-link" href="detalle.html?id=1974050">🎮 Torchlight: Infinite</a>
   <a id="game-meta-201270" class="compact-registry-link" href="detalle.html?id=201270">🎮 Total War: SHOGUN 2</a>
   <a id="game-meta-1510580" class="compact-registry-link" href="detalle.html?id=1510580">🎮 Toy Tinker Simulator</a>
   <a id="game-meta-585420" class="compact-registry-link" href="detalle.html?id=585420">🎮 Trailmakers</a>
+  <a id="game-meta-335240" class="compact-registry-link" href="detalle.html?id=335240">🎮 Transformice</a>
   <a id="game-meta-1969130" class="compact-registry-link" href="detalle.html?id=1969130">🎮 Trash Patrol - Academic Version</a>
   <a id="game-meta-553420" class="compact-registry-link" href="detalle.html?id=553420">🎮 TUNIC</a>
+  <span id="game-meta-ubisoft-connect" class="compact-registry-link compact-registry-link--catalog-only">📦 Ubisoft Connect</span>
   <a id="game-meta-616560" class="compact-registry-link" href="detalle.html?id=616560">🎮 Ultimate Epic Battle Simulator</a>
   <a id="game-meta-1035510" class="compact-registry-link" href="detalle.html?id=1035510">🎮 Ultimate Zombie Defense</a>
   <a id="game-meta-1659420" class="compact-registry-link" href="detalle.html?id=1659420">🎮 UNCHARTED: Legacy of Thieves Collection</a>
   <a id="game-meta-391540" class="compact-registry-link" href="detalle.html?id=391540">🎮 Undertale</a>
   <a id="game-meta-489220" class="compact-registry-link" href="detalle.html?id=489220">🎮 Unforgiving Trials: The Darkest Crusade</a>
   <a id="game-meta-535760" class="compact-registry-link" href="detalle.html?id=535760">🎮 Unforgiving Trials: The Space Crusade</a>
+  <span id="game-meta-uni" class="compact-registry-link compact-registry-link--catalog-only">📦 UNI</span>
   <a id="game-meta-321270" class="compact-registry-link" href="detalle.html?id=321270">🎮 UNLOVED</a>
   <a id="game-meta-1203710" class="compact-registry-link" href="detalle.html?id=1203710">🎮 UnMetal</a>
   <a id="game-meta-3062930" class="compact-registry-link" href="detalle.html?id=3062930">🎮 Unplagued</a>
@@ -956,8 +1097,10 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-857980" class="compact-registry-link" href="detalle.html?id=857980">🎮 Void Bastards</a>
   <a id="game-meta-3166420" class="compact-registry-link" href="detalle.html?id=3166420">🎮 VolleySmash</a>
   <a id="game-meta-438100" class="compact-registry-link" href="detalle.html?id=438100">🎮 VRChat</a>
+  <a id="game-meta-1325860" class="compact-registry-link" href="detalle.html?id=1325860">🎮 VTube Studio</a>
   <a id="game-meta-215080" class="compact-registry-link" href="detalle.html?id=215080">🎮 WAKFU</a>
   <a id="game-meta-2187290" class="compact-registry-link" href="detalle.html?id=2187290">🎮 Wall World</a>
+  <span id="game-meta-wallpaper-alive" class="compact-registry-link compact-registry-link--catalog-only">📦 Wallpaper Alive</span>
   <a id="game-meta-431960" class="compact-registry-link" href="detalle.html?id=431960">🎮 Wallpaper Engine</a>
   <a id="game-meta-2386610" class="compact-registry-link" href="detalle.html?id=2386610">🎮 Wandering Skies</a>
   <a id="game-meta-236390" class="compact-registry-link" href="detalle.html?id=236390">🎮 War Thunder</a>
@@ -968,6 +1111,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-489630" class="compact-registry-link" href="detalle.html?id=489630">🎮 Warhammer 40,000: Gladius - Relics of War</a>
   <a id="game-meta-55150" class="compact-registry-link" href="detalle.html?id=55150">🎮 Warhammer 40,000: Space Marine - Anniversary Edition</a>
   <a id="game-meta-2183900" class="compact-registry-link" href="detalle.html?id=2183900">🎮 Warhammer 40,000: Space Marine 2</a>
+  <span id="game-meta-warhammer-40-000-space-marine-2-public-test-server" class="compact-registry-link compact-registry-link--catalog-only">📦 Warhammer 40,000: Space Marine 2 - Public Test Server</span>
   <a id="game-meta-2078450" class="compact-registry-link" href="detalle.html?id=2078450">🎮 Warhammer 40,000: Speed Freeks</a>
   <a id="game-meta-552500" class="compact-registry-link" href="detalle.html?id=552500">🎮 Warhammer: Vermintide 2</a>
   <a id="game-meta-243470" class="compact-registry-link" href="detalle.html?id=243470">🎮 Watch_Dogs</a>
@@ -982,9 +1126,17 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-2747770" class="compact-registry-link" href="detalle.html?id=2747770">🎮 Wednesdays</a>
   <a id="game-meta-3564740" class="compact-registry-link" href="detalle.html?id=3564740">🎮 Where Winds Meet</a>
   <a id="game-meta-1953230" class="compact-registry-link" href="detalle.html?id=1953230">🎮 Whisper Mountain Outbreak</a>
+  <span id="game-meta-whisper-mountain-outbreak-pase-amigo" class="compact-registry-link compact-registry-link--catalog-only">📦 Whisper Mountain Outbreak - Pase Amigo</span>
+  <span id="game-meta-whitelily-1" class="compact-registry-link compact-registry-link--catalog-only">📦 WhiteLily 1: 丽丽公主</span>
+  <span id="game-meta-why-so-evil" class="compact-registry-link compact-registry-link--catalog-only">📦 Why So Evil</span>
+  <span id="game-meta-why-so-evil-2-dystopia" class="compact-registry-link compact-registry-link--catalog-only">📦 Why So Evil 2: Dystopia</span>
+  <span id="game-meta-wild-life-demo" class="compact-registry-link compact-registry-link--catalog-only">📦 Wild Life Demo</span>
   <a id="game-meta-2978120" class="compact-registry-link" href="detalle.html?id=2978120">🎮 Wild West: Prototype</a>
   <a id="game-meta-640890" class="compact-registry-link" href="detalle.html?id=640890">🎮 Will Glow the Wisp</a>
   <a id="game-meta-707010" class="compact-registry-link" href="detalle.html?id=707010">🎮 Will To Live Online</a>
+  <span id="game-meta-winds-pro" class="compact-registry-link compact-registry-link--catalog-only">📦 WinDS PRO</span>
+  <span id="game-meta-winds-pro-fx" class="compact-registry-link compact-registry-link--catalog-only">📦 WinDS PRO FX</span>
+  <span id="game-meta-winkawaks" class="compact-registry-link compact-registry-link--catalog-only">📦 WinKawaks</span>
   <a id="game-meta-445980" class="compact-registry-link" href="detalle.html?id=445980">🎮 Wizard of Legend</a>
   <a id="game-meta-612880" class="compact-registry-link" href="detalle.html?id=612880">🎮 Wolfenstein II</a>
   <a id="game-meta-350080" class="compact-registry-link" href="detalle.html?id=350080">🎮 Wolfenstein: The Old Blood</a>
@@ -992,6 +1144,7 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-444200" class="compact-registry-link" href="detalle.html?id=444200">🎮 World of Tanks Blitz</a>
   <a id="game-meta-790710" class="compact-registry-link" href="detalle.html?id=790710">🎮 World of Warplanes</a>
   <a id="game-meta-552990" class="compact-registry-link" href="detalle.html?id=552990">🎮 World of Warships</a>
+  <span id="game-meta-world-of-warships-composers-choice" class="compact-registry-link compact-registry-link--catalog-only">📦 World of Warships — Composer&#39;s Choice</span>
   <a id="game-meta-1206560" class="compact-registry-link" href="detalle.html?id=1206560">🎮 WorldBox - God Simulator</a>
   <a id="game-meta-200170" class="compact-registry-link" href="detalle.html?id=200170">🎮 Worms Revolution</a>
   <a id="game-meta-327030" class="compact-registry-link" href="detalle.html?id=327030">🎮 Worms W.M.D</a>
@@ -999,12 +1152,17 @@ Cada enlace abre la ficha dinámica del juego correspondiente.
   <a id="game-meta-882100" class="compact-registry-link" href="detalle.html?id=882100">🎮 XCOM: Chimera Squad</a>
   <a id="game-meta-200510" class="compact-registry-link" href="detalle.html?id=200510">🎮 XCOM: Enemy Unknown</a>
   <a id="game-meta-464260" class="compact-registry-link" href="detalle.html?id=464260">🎮 Xeno Crisis</a>
+  <span id="game-meta-yellow-the-yellow-artifact" class="compact-registry-link compact-registry-link--catalog-only">📦 Yellow: The Yellow Artifact</span>
   <a id="game-meta-2863840" class="compact-registry-link" href="detalle.html?id=2863840">🎮 YIIK Nameless Psychosis</a>
   <a id="game-meta-2212330" class="compact-registry-link" href="detalle.html?id=2212330">🎮 Your Only Move Is HUSTLE</a>
   <a id="game-meta-601510" class="compact-registry-link" href="detalle.html?id=601510">🎮 Yu-Gi-Oh! Duel Links</a>
   <a id="game-meta-1449850" class="compact-registry-link" href="detalle.html?id=1449850">🎮 Yu-Gi-Oh! Master Duel</a>
+  <span id="game-meta-yuzu" class="compact-registry-link compact-registry-link--catalog-only">📦 yuzu</span>
   <a id="game-meta-694280" class="compact-registry-link" href="detalle.html?id=694280">🎮 Zombie Army 4</a>
   <a id="game-meta-301640" class="compact-registry-link" href="detalle.html?id=301640">🎮 Zombie Army Trilogy</a>
+  <span id="game-meta-zombie-boom" class="compact-registry-link compact-registry-link--catalog-only">📦 Zombie Boom</span>
   <a id="game-meta-220820" class="compact-registry-link" href="detalle.html?id=220820">🎮 Zombie Driver HD</a>
   <a id="game-meta-617670" class="compact-registry-link" href="detalle.html?id=617670">🎮 Zup! S</a>
+  <span id="game-meta-journey-of-carrying-light" class="compact-registry-link compact-registry-link--catalog-only">📦 贪芒之旅 Journey of Carrying Light》</span>
+  <span id="game-meta-pleasure-puzzle-portrait" class="compact-registry-link compact-registry-link--catalog-only">📦 趣拼拼：肖像画 Pleasure Puzzle:Portrait</span>
 </div>

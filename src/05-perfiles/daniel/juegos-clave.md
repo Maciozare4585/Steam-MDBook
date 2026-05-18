@@ -44,3 +44,4 @@ Esta sección es la capa personal de Daniel. No representa un criterio global de
   <span>♟️ XCOM 2</span>
 </a>
 </div>
+

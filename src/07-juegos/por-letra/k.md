@@ -1,6 +1,6 @@
 # Juegos — K
 
-> Página alfabética compacta. Contiene **19** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **19** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,9 +14,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>431930</code></span>
       <span><strong>Oficial:</strong> Kabounce</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="431930">
   <a class="steam-action steam-play" href="steam://run/431930" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,9 +33,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1048540</code></span>
       <span><strong>Oficial:</strong> Kao the Kangaroo: Round 2 (2003 re-release)</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1048540">
   <a class="steam-action steam-play" href="steam://run/1048540" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -56,9 +52,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3365850</code></span>
       <span><strong>Oficial:</strong> Katharsi</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3365850">
   <a class="steam-action steam-play" href="steam://run/3365850" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +71,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>341800</code></span>
       <span><strong>Oficial:</strong> Keep Talking and Nobody Explodes</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="341800">
   <a class="steam-action steam-play" href="steam://run/341800" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,9 +90,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>233860</code></span>
       <span><strong>Oficial:</strong> Kenshi</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="233860">
   <a class="steam-action steam-play" href="steam://run/233860" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -119,9 +109,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1424910</code></span>
       <span><strong>Oficial:</strong> KEO</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1424910">
   <a class="steam-action steam-play" href="steam://run/1424910" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -140,9 +128,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>220200</code></span>
       <span><strong>Oficial:</strong> Kerbal Space Program</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="220200">
   <a class="steam-action steam-play" href="steam://run/220200" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -161,9 +147,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1020330</code></span>
       <span><strong>Oficial:</strong> Khan VS Kahn</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1020330">
   <a class="steam-action steam-play" href="steam://run/1020330" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,9 +166,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>793370</code></span>
       <span><strong>Oficial:</strong> KIDS</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="793370">
   <a class="steam-action steam-play" href="steam://run/793370" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -203,9 +185,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2142680</code></span>
       <span><strong>Oficial:</strong> Kiki</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2142680">
   <a class="steam-action steam-play" href="steam://run/2142680" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -224,9 +204,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>922500</code></span>
       <span><strong>Oficial:</strong> KILL la KILL -IF</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="922500">
   <a class="steam-action steam-play" href="steam://run/922500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -245,9 +223,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>261110</code></span>
       <span><strong>Oficial:</strong> Killer is Dead - Nightmare Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="261110">
   <a class="steam-action steam-play" href="steam://run/261110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -266,9 +242,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1250</code></span>
       <span><strong>Oficial:</strong> Killing Floor</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1250">
   <a class="steam-action steam-play" href="steam://run/1250" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -287,9 +261,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>232090</code></span>
       <span><strong>Oficial:</strong> Killing Floor 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="232090">
   <a class="steam-action steam-play" href="steam://run/232090" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -308,9 +280,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>379430</code></span>
       <span><strong>Oficial:</strong> Kingdom Come: Deliverance</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="379430">
   <a class="steam-action steam-play" href="steam://run/379430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -329,9 +299,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1771300</code></span>
       <span><strong>Oficial:</strong> Kingdom Come: Deliverance II</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1771300">
   <a class="steam-action steam-play" href="steam://run/1771300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -350,9 +318,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>701160</code></span>
       <span><strong>Oficial:</strong> Kingdom Two Crowns</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="701160">
   <a class="steam-action steam-play" href="steam://run/701160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -371,9 +337,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>248190</code></span>
       <span><strong>Oficial:</strong> Knytt Underground</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="248190">
   <a class="steam-action steam-play" href="steam://run/248190" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -392,9 +356,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2246470</code></span>
       <span><strong>Oficial:</strong> Kulebra and the Souls of Limbo: Closure Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2246470">
   <a class="steam-action steam-play" href="steam://run/2246470" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

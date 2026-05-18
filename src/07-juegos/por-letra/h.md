@@ -1,10 +1,22 @@
 # Juegos — H
 
-> Página alfabética compacta. Contiene **53** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **58** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
+<article id="game-meta-habbo-launcher" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Habbo Launcher</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>launcher</code></span>
+    </div>
+  </div>
+</article>
+
 <article id="game-meta-1145360" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1145360">
     <img src="../../assets/games/1145360/steam-header.jpg" alt="Hades" loading="lazy" />
@@ -14,9 +26,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1145360</code></span>
       <span><strong>Oficial:</strong> Hades</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1145360">
   <a class="steam-action steam-play" href="steam://run/1145360" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,9 +45,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>755800</code></span>
       <span><strong>Oficial:</strong> Hades&#39; Star</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="755800">
   <a class="steam-action steam-play" href="steam://run/755800" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -56,9 +64,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>70</code></span>
       <span><strong>Oficial:</strong> Half-Life</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="70">
   <a class="steam-action steam-play" href="steam://run/70" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +83,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>220</code></span>
       <span><strong>Oficial:</strong> Half-Life 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="220">
   <a class="steam-action steam-play" href="steam://run/220" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,9 +102,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>320</code></span>
       <span><strong>Oficial:</strong> Half-Life 2: Deathmatch</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>recovered-from-existing-tooltip</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="320">
   <a class="steam-action steam-play" href="steam://run/320" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -119,9 +121,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>380</code></span>
       <span><strong>Oficial:</strong> Half-Life 2: Episode One</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="380">
   <a class="steam-action steam-play" href="steam://run/380" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -140,9 +140,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>420</code></span>
       <span><strong>Oficial:</strong> Half-Life 2: Episode Two</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="420">
   <a class="steam-action steam-play" href="steam://run/420" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -161,9 +159,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>340</code></span>
       <span><strong>Oficial:</strong> Half-Life 2: Lost Coast</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="340">
   <a class="steam-action steam-play" href="steam://run/340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,9 +178,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>360</code></span>
       <span><strong>Oficial:</strong> Half-Life Deathmatch: Source</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="360">
   <a class="steam-action steam-play" href="steam://run/360" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -203,9 +197,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>546560</code></span>
       <span><strong>Oficial:</strong> Half-Life: Alyx</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="546560">
   <a class="steam-action steam-play" href="steam://run/546560" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -224,9 +216,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>130</code></span>
       <span><strong>Oficial:</strong> Half-Life: Blue Shift</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="130">
   <a class="steam-action steam-play" href="steam://run/130" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -245,9 +235,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>50</code></span>
       <span><strong>Oficial:</strong> Half-Life: Opposing Force</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="50">
   <a class="steam-action steam-play" href="steam://run/50" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -266,9 +254,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>280</code></span>
       <span><strong>Oficial:</strong> Half-Life: Source</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="280">
   <a class="steam-action steam-play" href="steam://run/280" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -287,9 +273,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1240440</code></span>
       <span><strong>Oficial:</strong> Halo Infinite</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1240440">
   <a class="steam-action steam-play" href="steam://run/1240440" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -308,9 +292,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>459220</code></span>
       <span><strong>Oficial:</strong> Halo Wars: Definitive Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="459220">
   <a class="steam-action steam-play" href="steam://run/459220" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -329,9 +311,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>277430</code></span>
       <span><strong>Oficial:</strong> Halo: Spartan Assault</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="277430">
   <a class="steam-action steam-play" href="steam://run/277430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -350,9 +330,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>324570</code></span>
       <span><strong>Oficial:</strong> Halo: Spartan Strike</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="324570">
   <a class="steam-action steam-play" href="steam://run/324570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -371,9 +349,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>976730</code></span>
       <span><strong>Oficial:</strong> Halo: The Master Chief Collection</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="976730">
   <a class="steam-action steam-play" href="steam://run/976730" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -392,9 +368,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1851380</code></span>
       <span><strong>Oficial:</strong> Happy&#39;s Humble Burger Barn</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1851380">
   <a class="steam-action steam-play" href="steam://run/1851380" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -413,9 +387,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2914740</code></span>
       <span><strong>Oficial:</strong> Haus Of Irndrous</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2914740">
   <a class="steam-action steam-play" href="steam://run/2914740" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -434,9 +406,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1740720</code></span>
       <span><strong>Oficial:</strong> Have a Nice Death</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1740720">
   <a class="steam-action steam-play" href="steam://run/1740720" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -455,9 +425,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>983970</code></span>
       <span><strong>Oficial:</strong> Haven</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="983970">
   <a class="steam-action steam-play" href="steam://run/983970" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -476,9 +444,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2824490</code></span>
       <span><strong>Oficial:</strong> He is Coming</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2824490">
   <a class="steam-action steam-play" href="steam://run/2824490" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -497,9 +463,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>797410</code></span>
       <span><strong>Oficial:</strong> Headsnatchers</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="797410">
   <a class="steam-action steam-play" href="steam://run/797410" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -518,9 +482,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>4025700</code></span>
       <span><strong>Oficial:</strong> Heartopia</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="4025700">
   <a class="steam-action steam-play" href="steam://run/4025700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -539,9 +501,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>360970</code></span>
       <span><strong>Oficial:</strong> Heaven Forest NIGHTS</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="360970">
   <a class="steam-action steam-play" href="steam://run/360970" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -560,9 +520,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>400250</code></span>
       <span><strong>Oficial:</strong> Heaven Island - VR MMO</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="400250">
   <a class="steam-action steam-play" href="steam://run/400250" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -581,9 +539,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>960910</code></span>
       <span><strong>Oficial:</strong> Heavy Rain</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="960910">
   <a class="steam-action steam-play" href="steam://run/960910" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -602,9 +558,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>681330</code></span>
       <span><strong>Oficial:</strong> Helium Rain</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="681330">
   <a class="steam-action steam-play" href="steam://run/681330" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -623,9 +577,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>414340</code></span>
       <span><strong>Oficial:</strong> Hellblade: Senua&#39;s Sacrifice</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="414340">
   <a class="steam-action steam-play" href="steam://run/414340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -644,9 +596,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>747350</code></span>
       <span><strong>Oficial:</strong> Hellblade: Senua&#39;s Sacrifice VR Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="747350">
   <a class="steam-action steam-play" href="steam://run/747350" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -665,9 +615,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>394510</code></span>
       <span><strong>Oficial:</strong> HELLDIVERS™ Dive Harder Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="394510">
   <a class="steam-action steam-play" href="steam://run/394510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -686,15 +634,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>553850</code></span>
       <span><strong>Oficial:</strong> HELLDIVERS™ 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="553850">
   <a class="steam-action steam-play" href="steam://run/553850" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/553850" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/553850" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-hellion" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 HELLION</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -707,9 +665,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1608450</code></span>
       <span><strong>Oficial:</strong> Hellslave</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1608450">
   <a class="steam-action steam-play" href="steam://run/1608450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -728,9 +684,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>269210</code></span>
       <span><strong>Oficial:</strong> Hero Siege</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="269210">
   <a class="steam-action steam-play" href="steam://run/269210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -749,9 +703,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>976890</code></span>
       <span><strong>Oficial:</strong> Hidden Deep</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="976890">
   <a class="steam-action steam-play" href="steam://run/976890" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -770,9 +722,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1583230</code></span>
       <span><strong>Oficial:</strong> High On Life</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1583230">
   <a class="steam-action steam-play" href="steam://run/1583230" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -791,9 +741,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>236870</code></span>
       <span><strong>Oficial:</strong> HITMAN™</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="236870">
   <a class="steam-action steam-play" href="steam://run/236870" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -812,15 +760,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>863550</code></span>
       <span><strong>Oficial:</strong> HITMAN™ 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="863550">
   <a class="steam-action steam-play" href="steam://run/863550" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/863550" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/863550" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-hitman-woa-free-demo" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 HITMAN WOA Free Demo</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -833,15 +791,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1659040</code></span>
       <span><strong>Oficial:</strong> HITMAN World of Assassination</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1659040">
   <a class="steam-action steam-play" href="steam://run/1659040" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1659040" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1659040" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-hod2" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Hod2</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+    </div>
   </div>
 </article>
 
@@ -854,9 +822,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>990080</code></span>
       <span><strong>Oficial:</strong> Hogwarts Legacy</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="990080">
   <a class="steam-action steam-play" href="steam://run/990080" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -875,9 +841,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>367520</code></span>
       <span><strong>Oficial:</strong> Hollow Knight</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="367520">
   <a class="steam-action steam-play" href="steam://run/367520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -896,9 +860,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1030300</code></span>
       <span><strong>Oficial:</strong> Hollow Knight: Silksong</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1030300">
   <a class="steam-action steam-play" href="steam://run/1030300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -917,9 +879,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2420510</code></span>
       <span><strong>Oficial:</strong> HoloCure - Save the Fans!</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2420510">
   <a class="steam-action steam-play" href="steam://run/2420510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -938,9 +898,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>55100</code></span>
       <span><strong>Oficial:</strong> Homefront</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="55100">
   <a class="steam-action steam-play" href="steam://run/55100" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -959,9 +917,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1151640</code></span>
       <span><strong>Oficial:</strong> Horizon Zero Dawn™ Complete Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1151640">
   <a class="steam-action steam-play" href="steam://run/1151640" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -980,9 +936,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2561580</code></span>
       <span><strong>Oficial:</strong> Horizon Zero Dawn™ Remastered</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2561580">
   <a class="steam-action steam-play" href="steam://run/2561580" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1001,9 +955,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>219150</code></span>
       <span><strong>Oficial:</strong> Hotline Miami</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="219150">
   <a class="steam-action steam-play" href="steam://run/219150" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1022,9 +974,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>274170</code></span>
       <span><strong>Oficial:</strong> Hotline Miami 2: Wrong Number</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="274170">
   <a class="steam-action steam-play" href="steam://run/274170" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1043,9 +993,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>613100</code></span>
       <span><strong>Oficial:</strong> House Flipper</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="613100">
   <a class="steam-action steam-play" href="steam://run/613100" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1064,9 +1012,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2777190</code></span>
       <span><strong>Oficial:</strong> Hoversteppers: Zone 1</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2777190">
   <a class="steam-action steam-play" href="steam://run/2777190" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1085,9 +1031,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>383270</code></span>
       <span><strong>Oficial:</strong> Hue</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="383270">
   <a class="steam-action steam-play" href="steam://run/383270" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1106,15 +1050,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>598550</code></span>
       <span><strong>Oficial:</strong> HUNTDOWN</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="598550">
   <a class="steam-action steam-play" href="steam://run/598550" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/598550" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/598550" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-hytale-launcher" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Hytale Launcher</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>launcher</code></span>
+    </div>
   </div>
 </article>
 

@@ -1,6 +1,6 @@
 # Juegos — V
 
-> Página alfabética compacta. Contiene **9** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **10** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,9 +14,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3361890</code></span>
       <span><strong>Oficial:</strong> V-Shift</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3361890">
   <a class="steam-action steam-play" href="steam://run/3361890" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,9 +33,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1794680</code></span>
       <span><strong>Oficial:</strong> Vampire Survivors</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1794680">
   <a class="steam-action steam-play" href="steam://run/1794680" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -56,9 +52,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>427290</code></span>
       <span><strong>Oficial:</strong> Vampyr</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="427290">
   <a class="steam-action steam-play" href="steam://run/427290" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +71,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>244890</code></span>
       <span><strong>Oficial:</strong> Velocity&#174;Ultra</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="244890">
   <a class="steam-action steam-play" href="steam://run/244890" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,9 +90,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1382070</code></span>
       <span><strong>Oficial:</strong> Viewfinder</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1382070">
   <a class="steam-action steam-play" href="steam://run/1382070" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -119,9 +109,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>211160</code></span>
       <span><strong>Oficial:</strong> Viking: Battle for Asgard</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="211160">
   <a class="steam-action steam-play" href="steam://run/211160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -140,9 +128,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>857980</code></span>
       <span><strong>Oficial:</strong> Void Bastards</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="857980">
   <a class="steam-action steam-play" href="steam://run/857980" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -161,9 +147,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3166420</code></span>
       <span><strong>Oficial:</strong> VolleySmash</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3166420">
   <a class="steam-action steam-play" href="steam://run/3166420" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,14 +166,31 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>438100</code></span>
       <span><strong>Oficial:</strong> VRChat</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="438100">
   <a class="steam-action steam-play" href="steam://run/438100" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/438100" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/438100" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1325860" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1325860">
+    <img src="../../assets/games/1325860/steam-header.jpg" alt="VTube Studio" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1325860">🎮 VTube Studio</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1325860</code></span>
+      <span><strong>Oficial:</strong> VTube Studio</span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1325860">
+  <a class="steam-action steam-play" href="steam://run/1325860" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1325860" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1325860" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

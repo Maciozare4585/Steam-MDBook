@@ -1,6 +1,6 @@
 # Juegos — J
 
-> Página alfabética compacta. Contiene **9** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **10** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,9 +14,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1932570</code></span>
       <span><strong>Oficial:</strong> Jaded</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1932570">
   <a class="steam-action steam-play" href="steam://run/1932570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,9 +33,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>283270</code></span>
       <span><strong>Oficial:</strong> Jagged Alliance 1: Gold Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="283270">
   <a class="steam-action steam-play" href="steam://run/283270" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -56,9 +52,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1815340</code></span>
       <span><strong>Oficial:</strong> Jivana</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1815340">
   <a class="steam-action steam-play" href="steam://run/1815340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +71,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>229890</code></span>
       <span><strong>Oficial:</strong> Joe Danger</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="229890">
   <a class="steam-action steam-play" href="steam://run/229890" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,9 +90,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>242110</code></span>
       <span><strong>Oficial:</strong> Joe Danger 2: The Movie</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="242110">
   <a class="steam-action steam-play" href="steam://run/242110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -119,9 +109,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1372110</code></span>
       <span><strong>Oficial:</strong> JoJo&#39;s Bizarre Adventure: All-Star Battle R</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1372110">
   <a class="steam-action steam-play" href="steam://run/1372110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -140,15 +128,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>638230</code></span>
       <span><strong>Oficial:</strong> Journey</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="638230">
   <a class="steam-action steam-play" href="steam://run/638230" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/638230" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/638230" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-joyxoff" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Joyxoff</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>tool</code></span>
+    </div>
   </div>
 </article>
 
@@ -161,9 +159,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>561770</code></span>
       <span><strong>Oficial:</strong> Just Ignore Them</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="561770">
   <a class="steam-action steam-play" href="steam://run/561770" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,9 +178,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3414900</code></span>
       <span><strong>Oficial:</strong> Just Move:Clean City Messy Battle</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3414900">
   <a class="steam-action steam-play" href="steam://run/3414900" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

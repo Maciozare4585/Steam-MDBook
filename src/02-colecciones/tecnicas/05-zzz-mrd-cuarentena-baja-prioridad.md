@@ -3,7 +3,7 @@
 Esta página quedó como referencia corta. La sección real de MRD ahora vive aquí:
 
 - [ZZZ) MRD · sección propia](../mrd/index.md)
-- [Inventario completo · 57 juegos](../mrd/inventario-57.md)
+- [Inventario completo · 58 juegos](../mrd/inventario-58.md)
 - [Criterios de evaluación](../mrd/criterios-de-evaluacion.md)
 
 ## Regla

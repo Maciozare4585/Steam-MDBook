@@ -1,6 +1,6 @@
 # Juegos — I
 
-> Página alfabética compacta. Contiene **15** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **15** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,9 +14,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>826600</code></span>
       <span><strong>Oficial:</strong> I am not a Monster: First Contact</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="826600">
   <a class="steam-action steam-play" href="steam://run/826600" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,9 +33,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1353300</code></span>
       <span><strong>Oficial:</strong> Idle Slayer</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1353300">
   <a class="steam-action steam-play" href="steam://run/1353300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -56,9 +52,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2504480</code></span>
       <span><strong>Oficial:</strong> Indigo Park: Chapter 1</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2504480">
   <a class="steam-action steam-play" href="steam://run/2504480" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +71,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>666570</code></span>
       <span><strong>Oficial:</strong> Infectonator 3: Apocalypse</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="666570">
   <a class="steam-action steam-play" href="steam://run/666570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,9 +90,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>269310</code></span>
       <span><strong>Oficial:</strong> Infectonator: Survivors</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="269310">
   <a class="steam-action steam-play" href="steam://run/269310" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -119,9 +109,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>555570</code></span>
       <span><strong>Oficial:</strong> Infestation: The New Z</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="555570">
   <a class="steam-action steam-play" href="steam://run/555570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -140,9 +128,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>627270</code></span>
       <span><strong>Oficial:</strong> Injustice™ 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="627270">
   <a class="steam-action steam-play" href="steam://run/627270" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -161,9 +147,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>242700</code></span>
       <span><strong>Oficial:</strong> Injustice: Gods Among Us Ultimate Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="242700">
   <a class="steam-action steam-play" href="steam://run/242700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,9 +166,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>304430</code></span>
       <span><strong>Oficial:</strong> INSIDE</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="304430">
   <a class="steam-action steam-play" href="steam://run/304430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -203,9 +185,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>222880</code></span>
       <span><strong>Oficial:</strong> Insurgency</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="222880">
   <a class="steam-action steam-play" href="steam://run/222880" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -224,9 +204,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1486630</code></span>
       <span><strong>Oficial:</strong> Intravenous</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1486630">
   <a class="steam-action steam-play" href="steam://run/1486630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -245,9 +223,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1185160</code></span>
       <span><strong>Oficial:</strong> [Chilla&#39;s Art] Inunaki Tunnel | 犬鳴トンネル</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1185160">
   <a class="steam-action steam-play" href="steam://run/1185160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -266,9 +242,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3631620</code></span>
       <span><strong>Oficial:</strong> Invention 8</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3631620">
   <a class="steam-action steam-play" href="steam://run/3631620" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -287,9 +261,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1703140</code></span>
       <span><strong>Oficial:</strong> Isle of Jura</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1703140">
   <a class="steam-action steam-play" href="steam://run/1703140" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -308,9 +280,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1426210</code></span>
       <span><strong>Oficial:</strong> It Takes Two</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1426210">
   <a class="steam-action steam-play" href="steam://run/1426210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

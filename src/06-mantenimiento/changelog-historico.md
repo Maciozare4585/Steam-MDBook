@@ -1,3 +1,10 @@
+
+## V6.6.11 — Bitácora de avance y correcciones de colección
+
+- Se agregó la bitácora de avance de Daniel.
+- Se corrigieron estados de HELLDIVERS/Yu-Gi-Oh! Master Duel.
+- Se ajustaron VR, RPG, Assassin’s Creed, El Pozo y MRD según capturas/correcciones recientes.
+
 # 📜 Log de cambios histórico
 
 > Resumen de evolución del documento y mdBook durante esta sesión.

@@ -1,10 +1,22 @@
 # Juegos — U
 
-> Página alfabética compacta. Contiene **15** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **17** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
+<article id="game-meta-ubisoft-connect" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Ubisoft Connect</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>launcher</code></span>
+    </div>
+  </div>
+</article>
+
 <article id="game-meta-616560" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=616560">
     <img src="../../assets/games/616560/steam-header.jpg" alt="Ultimate Epic Battle Simulator" loading="lazy" />
@@ -14,9 +26,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>616560</code></span>
       <span><strong>Oficial:</strong> Ultimate Epic Battle Simulator</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="616560">
   <a class="steam-action steam-play" href="steam://run/616560" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,9 +45,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1035510</code></span>
       <span><strong>Oficial:</strong> Ultimate Zombie Defense</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1035510">
   <a class="steam-action steam-play" href="steam://run/1035510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -56,9 +64,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1659420</code></span>
       <span><strong>Oficial:</strong> UNCHARTED™: Legacy of Thieves Collection</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1659420">
   <a class="steam-action steam-play" href="steam://run/1659420" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +83,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>391540</code></span>
       <span><strong>Oficial:</strong> Undertale</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="391540">
   <a class="steam-action steam-play" href="steam://run/391540" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,9 +102,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>489220</code></span>
       <span><strong>Oficial:</strong> Unforgiving Trials: The Darkest Crusade</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="489220">
   <a class="steam-action steam-play" href="steam://run/489220" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -119,15 +121,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>535760</code></span>
       <span><strong>Oficial:</strong> Unforgiving Trials: The Space Crusade</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="535760">
   <a class="steam-action steam-play" href="steam://run/535760" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/535760" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/535760" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-uni" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 UNI</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -140,9 +152,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>321270</code></span>
       <span><strong>Oficial:</strong> UNLOVED</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="321270">
   <a class="steam-action steam-play" href="steam://run/321270" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -161,9 +171,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1203710</code></span>
       <span><strong>Oficial:</strong> UnMetal</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1203710">
   <a class="steam-action steam-play" href="steam://run/1203710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,9 +190,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3062930</code></span>
       <span><strong>Oficial:</strong> Unplagued</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3062930">
   <a class="steam-action steam-play" href="steam://run/3062930" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -203,9 +209,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1016920</code></span>
       <span><strong>Oficial:</strong> Unrailed!</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1016920">
   <a class="steam-action steam-play" href="steam://run/1016920" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -224,9 +228,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1225560</code></span>
       <span><strong>Oficial:</strong> Unravel</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1225560">
   <a class="steam-action steam-play" href="steam://run/1225560" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -245,9 +247,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1225570</code></span>
       <span><strong>Oficial:</strong> Unravel Two</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1225570">
   <a class="steam-action steam-play" href="steam://run/1225570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -266,9 +266,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>13250</code></span>
       <span><strong>Oficial:</strong> Unreal Gold</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="13250">
   <a class="steam-action steam-play" href="steam://run/13250" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -287,9 +285,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>837470</code></span>
       <span><strong>Oficial:</strong> Untitled Goose Game</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="837470">
   <a class="steam-action steam-play" href="steam://run/837470" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -308,9 +304,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3606890</code></span>
       <span><strong>Oficial:</strong> Upload Labs</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3606890">
   <a class="steam-action steam-play" href="steam://run/3606890" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

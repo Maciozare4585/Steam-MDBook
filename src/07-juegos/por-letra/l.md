@@ -1,6 +1,6 @@
 # Juegos — L
 
-> Página alfabética compacta. Contiene **36** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **43** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,9 +14,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>35130</code></span>
       <span><strong>Oficial:</strong> Lara Croft and the Guardian of Light</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="35130">
   <a class="steam-action steam-play" href="steam://run/35130" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,15 +33,37 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>289690</code></span>
       <span><strong>Oficial:</strong> LARA CROFT AND THE TEMPLE OF OSIRIS™</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="289690">
   <a class="steam-action steam-play" href="steam://run/289690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/289690" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/289690" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-league-of-legends" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 League of Legends</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
+  </div>
+</article>
+
+<article id="game-meta-leagueclient" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 LeagueClient</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>launcher</code></span>
+    </div>
   </div>
 </article>
 
@@ -56,9 +76,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>500</code></span>
       <span><strong>Oficial:</strong> Left 4 Dead</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="500">
   <a class="steam-action steam-play" href="steam://run/500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +95,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>550</code></span>
       <span><strong>Oficial:</strong> Left 4 Dead 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="550">
   <a class="steam-action steam-play" href="steam://run/550" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,9 +114,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>978520</code></span>
       <span><strong>Oficial:</strong> Legend of Keepers: Career of a Dungeon Manager</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="978520">
   <a class="steam-action steam-play" href="steam://run/978520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -119,15 +133,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1702990</code></span>
       <span><strong>Oficial:</strong> Legend of the Outlaw Mage</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1702990">
   <a class="steam-action steam-play" href="steam://run/1702990" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1702990" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1702990" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-legendary" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Legendary</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -140,9 +164,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1898290</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; Bricktales</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1898290">
   <a class="steam-action steam-play" href="steam://run/1898290" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -161,9 +183,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>578330</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; City Undercover</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="578330">
   <a class="steam-action steam-play" href="steam://run/578330" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,9 +202,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>352400</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; Jurassic World</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="352400">
   <a class="steam-action steam-play" href="steam://run/352400" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -203,9 +221,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>249130</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; Marvel™ Super Heroes</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="249130">
   <a class="steam-action steam-play" href="steam://run/249130" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -224,9 +240,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>647830</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; Marvel Super Heroes 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="647830">
   <a class="steam-action steam-play" href="steam://run/647830" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -245,9 +259,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>405310</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; MARVEL&#39;s Avengers</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="405310">
   <a class="steam-action steam-play" href="steam://run/405310" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -266,9 +278,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1969370</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; Party!</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1969370">
   <a class="steam-action steam-play" href="steam://run/1969370" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -287,9 +297,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>920210</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; Star Wars™: The Skywalker Saga</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="920210">
   <a class="steam-action steam-play" href="steam://run/920210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -308,9 +316,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>285160</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; The Hobbit™</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="285160">
   <a class="steam-action steam-play" href="steam://run/285160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -329,9 +335,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>818320</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; The Incredibles</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="818320">
   <a class="steam-action steam-play" href="steam://run/818320" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -350,9 +354,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>214510</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; The Lord of the Rings™</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="214510">
   <a class="steam-action steam-play" href="steam://run/214510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -371,9 +373,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1538550</code></span>
       <span><strong>Oficial:</strong> LEGO&#174; Voyagers</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1538550">
   <a class="steam-action steam-play" href="steam://run/1538550" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -392,9 +392,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1966720</code></span>
       <span><strong>Oficial:</strong> Lethal Company</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1966720">
   <a class="steam-action steam-play" href="steam://run/1966720" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -413,9 +411,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1627720</code></span>
       <span><strong>Oficial:</strong> Lies of P</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1627720">
   <a class="steam-action steam-play" href="steam://run/1627720" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -434,9 +430,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>319630</code></span>
       <span><strong>Oficial:</strong> Life is Strange - Episode 1</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="319630">
   <a class="steam-action steam-play" href="steam://run/319630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -455,9 +449,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>48000</code></span>
       <span><strong>Oficial:</strong> LIMBO</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="48000">
   <a class="steam-action steam-play" href="steam://run/48000" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -476,15 +468,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>335670</code></span>
       <span><strong>Oficial:</strong> LISA: The Painful</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="335670">
   <a class="steam-action steam-play" href="steam://run/335670" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/335670" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/335670" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-little-fighter-2" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Little Fighter 2</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+    </div>
   </div>
 </article>
 
@@ -497,9 +499,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3249650</code></span>
       <span><strong>Oficial:</strong> Little Fighter 2 Remastered</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3249650">
   <a class="steam-action steam-play" href="steam://run/3249650" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -518,9 +518,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>424840</code></span>
       <span><strong>Oficial:</strong> Little Nightmares</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="424840">
   <a class="steam-action steam-play" href="steam://run/424840" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -539,15 +537,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>860510</code></span>
       <span><strong>Oficial:</strong> Little Nightmares II</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="860510">
   <a class="steam-action steam-play" href="steam://run/860510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/860510" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/860510" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-livingbattle" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 LivingBattle</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -560,9 +568,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3027490</code></span>
       <span><strong>Oficial:</strong> LivingForest</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3027490">
   <a class="steam-action steam-play" href="steam://run/3027490" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -581,9 +587,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3373660</code></span>
       <span><strong>Oficial:</strong> Look Outside</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3373660">
   <a class="steam-action steam-play" href="steam://run/3373660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -602,9 +606,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>294040</code></span>
       <span><strong>Oficial:</strong> Loot Hero DX</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="294040">
   <a class="steam-action steam-play" href="steam://run/294040" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -623,9 +625,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1501750</code></span>
       <span><strong>Oficial:</strong> Lords of the Fallen</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1501750">
   <a class="steam-action steam-play" href="steam://run/1501750" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -644,9 +644,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>993090</code></span>
       <span><strong>Oficial:</strong> Lossless Scaling</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="993090">
   <a class="steam-action steam-play" href="steam://run/993090" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -665,9 +663,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1599340</code></span>
       <span><strong>Oficial:</strong> Lost Ark</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1599340">
   <a class="steam-action steam-play" href="steam://run/1599340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -686,9 +682,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1008690</code></span>
       <span><strong>Oficial:</strong> Lost Daughter</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1008690">
   <a class="steam-action steam-play" href="steam://run/1008690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -707,15 +701,44 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3312020</code></span>
       <span><strong>Oficial:</strong> Lost in Anomaly</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3312020">
   <a class="steam-action steam-play" href="steam://run/3312020" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3312020" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3312020" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-6510" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=6510">
+    <img src="../../assets/games/6510/steam-header.jpg" alt="Lost Planet: Extreme Condition" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=6510">🎮 Lost Planet: Extreme Condition</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>6510</code></span>
+      <span><strong>Oficial:</strong> Lost Planet™: Extreme Condition</span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="6510">
+  <a class="steam-action steam-play" href="steam://run/6510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/6510" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/6510" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-loutra-virtual-artist-residency" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Loutra: Virtual Artist Residency</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -728,9 +751,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>252110</code></span>
       <span><strong>Oficial:</strong> Lovers in a Dangerous Spacetime</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="252110">
   <a class="steam-action steam-play" href="steam://run/252110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -749,9 +770,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2408820</code></span>
       <span><strong>Oficial:</strong> Luma Island</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2408820">
   <a class="steam-action steam-play" href="steam://run/2408820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

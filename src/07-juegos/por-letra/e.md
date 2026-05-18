@@ -1,10 +1,22 @@
 # Juegos — E
 
-> Página alfabética compacta. Contiene **20** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **24** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
+<article id="game-meta-ealauncher" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 EALauncher</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>launcher</code></span>
+    </div>
+  </div>
+</article>
+
 <article id="game-meta-3293010" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=3293010">
     <img src="../../assets/games/3293010/steam-header.jpg" alt="Easy Delivery Co." loading="lazy" />
@@ -14,9 +26,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3293010</code></span>
       <span><strong>Oficial:</strong> Easy Delivery Co.</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3293010">
   <a class="steam-action steam-play" href="steam://run/3293010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,9 +45,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3302080</code></span>
       <span><strong>Oficial:</strong> Effulgence RPG</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3302080">
   <a class="steam-action steam-play" href="steam://run/3302080" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -56,9 +64,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1627570</code></span>
       <span><strong>Oficial:</strong> The Plucky Squire</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1627570">
   <a class="steam-action steam-play" href="steam://run/1627570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +83,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1245620</code></span>
       <span><strong>Oficial:</strong> ELDEN RING</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1245620">
   <a class="steam-action steam-play" href="steam://run/1245620" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -98,9 +102,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3642030</code></span>
       <span><strong>Oficial:</strong> Elysium Elect</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3642030">
   <a class="steam-action steam-play" href="steam://run/3642030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -119,15 +121,37 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>311690</code></span>
       <span><strong>Oficial:</strong> Enter the Gungeon</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="311690">
   <a class="steam-action steam-play" href="steam://run/311690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/311690" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/311690" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-epic-games-launcher" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Epic Games Launcher</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>launcher</code></span>
+    </div>
+  </div>
+</article>
+
+<article id="game-meta-eriksholm-the-stolen-dream-demo" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Eriksholm: The Stolen Dream Demo</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -140,9 +164,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>822540</code></span>
       <span><strong>Oficial:</strong> Escape From Tethys</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="822540">
   <a class="steam-action steam-play" href="steam://run/822540" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -161,9 +183,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1943950</code></span>
       <span><strong>Oficial:</strong> Escape the Backrooms</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1943950">
   <a class="steam-action steam-play" href="steam://run/1943950" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -182,9 +202,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>981600</code></span>
       <span><strong>Oficial:</strong> Eternium</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="981600">
   <a class="steam-action steam-play" href="steam://run/981600" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -203,9 +221,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2084970</code></span>
       <span><strong>Oficial:</strong> Etheria: Restart</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2084970">
   <a class="steam-action steam-play" href="steam://run/2084970" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -224,9 +240,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1868180</code></span>
       <span><strong>Oficial:</strong> Etrian Odyssey HD</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1868180">
   <a class="steam-action steam-play" href="steam://run/1868180" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -245,9 +259,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1868170</code></span>
       <span><strong>Oficial:</strong> Etrian Odyssey II HD</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1868170">
   <a class="steam-action steam-play" href="steam://run/1868170" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -266,9 +278,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1810820</code></span>
       <span><strong>Oficial:</strong> Etrian Odyssey III HD</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1810820">
   <a class="steam-action steam-play" href="steam://run/1810820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -287,9 +297,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>227300</code></span>
       <span><strong>Oficial:</strong> Euro Truck Simulator 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="227300">
   <a class="steam-action steam-play" href="steam://run/227300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -308,9 +316,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>8500</code></span>
       <span><strong>Oficial:</strong> EVE Online</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="8500">
   <a class="steam-action steam-play" href="steam://run/8500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -329,9 +335,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1065310</code></span>
       <span><strong>Oficial:</strong> Evil West</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1065310">
   <a class="steam-action steam-play" href="steam://run/1065310" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -350,9 +354,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>359310</code></span>
       <span><strong>Oficial:</strong> Evoland 2</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="359310">
   <a class="steam-action steam-play" href="steam://run/359310" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -371,9 +373,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1020470</code></span>
       <span><strong>Oficial:</strong> Evoland Legendary Edition</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1020470">
   <a class="steam-action steam-play" href="steam://run/1020470" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -392,9 +392,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2694210</code></span>
       <span><strong>Oficial:</strong> Exiled Survivors</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2694210">
   <a class="steam-action steam-play" href="steam://run/2694210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -413,14 +411,31 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>281820</code></span>
       <span><strong>Oficial:</strong> Explodemon</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="281820">
   <a class="steam-action steam-play" href="steam://run/281820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/281820" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/281820" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2999030" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2999030">
+    <img src="../../assets/games/2999030/steam-header.jpg" alt="Exploding Kittens&#174; 2" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2999030">🎮 Exploding Kittens&#174; 2</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2999030</code></span>
+      <span><strong>Oficial:</strong> Exploding Kittens&#174; 2</span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2999030">
+  <a class="steam-action steam-play" href="steam://run/2999030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2999030" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2999030" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

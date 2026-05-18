@@ -1,0 +1,16 @@
+{
+  "version": "V6.6.4",
+  "type": "metadata-script-hotfix",
+  "date": "2026-05-08",
+  "changes": [
+    "Corrige la ruta interna hacia scripts/17-enrich-steam-metadata.ps1 en 05-run-full-sync.ps1 usando Join-Path.",
+    "Corrige el error de PowerShell al asignar dataQuality.lastEnrichedAt cuando la propiedad no existe en games-metadata.json.",
+    "Agrega helpers robustos para crear o actualizar propiedades en PSCustomObject durante el enriquecimiento de metadata.",
+    "Mantiene el flujo: enriquecer metadata desde Steam Store API, reconstruir games-index.json y regenerar páginas/tooltips."
+  ],
+  "fixedErrors": [
+    "The term 'C:\\...\\scripts-enrich-steam-metadata.ps1' is not recognized...",
+    "Exception setting 'lastEnrichedAt': The property 'lastEnrichedAt' cannot be found on this object."
+  ],
+  "recommendedCommand": ".\\scripts\\05-run-full-sync.ps1 -DiscoverFromMarkdown -EnrichSteamMetadata -MetadataMaxGames 100 -MetadataDelayMs 2000"
+}

@@ -1,3 +1,18 @@
+<#
+.SYNOPSIS
+    Descarga imágenes oficiales de Steam para los juegos registrados.
+.DESCRIPTION
+    Usa `data/steam-games-registry.json` para descargar headers/capsules/backgrounds hacia
+    `src/assets/games/<steamAppId>/`. Puede actualizar páginas Markdown para apuntar a assets locales.
+.PARAMETER UpdateMarkdownPages
+    Actualiza referencias de imagen dentro de páginas Markdown generadas.
+.PARAMETER RefreshAssets
+    Redescarga assets aunque ya existan localmente.
+.PARAMETER WhatIfMode
+    Simula la corrida sin escribir archivos.
+.EXAMPLE
+    .\scripts\02-download-steam-images.ps1 -UpdateMarkdownPages -DelayMs 2500
+#>
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string]$ReportCsvPath = ".\data\steam-assets-report.csv",

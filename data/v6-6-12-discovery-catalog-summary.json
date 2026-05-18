@@ -1,0 +1,13 @@
+{
+  "version": "6.6.12",
+  "name": "Discovery reset y catálogo general",
+  "updatedAt": "2026-05-18T06:40:13.097182+00:00",
+  "changes": [
+    "Agregar 00-reset-discovery-state.ps1",
+    "Agregar 19-build-library-catalog.ps1",
+    "Detectar columnas Juego y Elemento",
+    "Preservar targets sin Steam App ID",
+    "Generar library-catalog.json para lista general completa",
+    "Resetear review/retry/ignored en la base generada"
+  ]
+}

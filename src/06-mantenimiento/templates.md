@@ -17,3 +17,4 @@ Plantillas separadas por uso.
 - [📌 Mini-guía de valores sugeridos](templates/13-mini-guia-de-valores-sugeridos.md)
 - [✅ Checklist antes de agregar algo nuevo](templates/14-checklist-antes-de-agregar-algo-nuevo.md)
 - [🧾 Regla final de templates](templates/15-regla-final-de-templates.md)
+- [🧩 Template de metadata DLC por iconos](templates/16-template-de-metadata-dlc-iconos.md)

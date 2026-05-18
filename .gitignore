@@ -40,6 +40,9 @@
 *.log
 
 # Archivos basura creados por error de parámetros
+/-AllowFuzzy
+/-RefreshAssets
+/-RefreshMetadata
 /-UpdateMarkdownPages
 /-UpdateTargets
 

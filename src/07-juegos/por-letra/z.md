@@ -1,6 +1,6 @@
 # Juegos — Z
 
-> Página alfabética compacta. Contiene **4** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **5** entradas generadas desde `data/library-catalog.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,9 +14,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>694280</code></span>
       <span><strong>Oficial:</strong> Zombie Army 4: Dead War</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="694280">
   <a class="steam-action steam-play" href="steam://run/694280" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -35,15 +33,25 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>301640</code></span>
       <span><strong>Oficial:</strong> Zombie Army Trilogy</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="301640">
   <a class="steam-action steam-play" href="steam://run/301640" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/301640" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/301640" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
+  </div>
+</article>
+
+<article id="game-meta-zombie-boom" class="compact-game-card compact-game-card--catalog-only">
+  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title">📦 Zombie Boom</div>
+    <div class="compact-game-card__meta">
+      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
+      <span><strong>Origen catálogo:</strong> <code>target</code></span>
+      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+    </div>
   </div>
 </article>
 
@@ -56,9 +64,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>220820</code></span>
       <span><strong>Oficial:</strong> Zombie Driver HD</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>provided</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="220820">
   <a class="steam-action steam-play" href="steam://run/220820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -77,9 +83,7 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>617670</code></span>
       <span><strong>Oficial:</strong> Zup! S</span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
-      <span><strong>Imagen:</strong> <code>steam</code></span>
+      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="617670">
   <a class="steam-action steam-play" href="steam://run/617670" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
