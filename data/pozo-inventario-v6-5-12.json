@@ -98,7 +98,7 @@
     "note": "Mantener como rareza/freebie; probar solo si hay antojo puntual."
   },
   {
-    "title": "Bord Killer",
+    "title": "Börd Killer",
     "collection": "ZZZ) El Pozo",
     "worthTrying": "🟥 No priorizar",
     "suggestedDestination": "🧊 Mantener en El Pozo",
@@ -131,6 +131,13 @@
     "worthTrying": "🟥 No priorizar",
     "suggestedDestination": "🧗 Plataformas / Aventura",
     "note": "No gastar tiempo salvo que haya interés específico o recomendación externa."
+  },
+  {
+    "title": "Bunny Guys!",
+    "collection": "ZZZ) El Pozo",
+    "worthTrying": "🟨 Quizá, revisar primero",
+    "suggestedDestination": "🎉 Party / Versus / Mesa",
+    "note": "Parkour multijugador; probar una sesión corta antes de rescatarlo del Pozo."
   },
   {
     "title": "Cast & Spell",
@@ -222,6 +229,13 @@
     "worthTrying": "🧪 Solo curiosidad / baja prioridad",
     "suggestedDestination": "🧊 Mantener en El Pozo",
     "note": "Mantener como rareza/freebie; probar solo si hay antojo puntual."
+  },
+  {
+    "title": "Dark Scrolls",
+    "collection": "ZZZ) El Pozo",
+    "worthTrying": "✅ Sí, candidato real",
+    "suggestedDestination": "🧗 Plataformas / 🎲 Roguelike",
+    "note": "Acción y plataformas con progresión roguelite; candidato real si el combate engancha."
   },
   {
     "title": "Deadswitch 3",
@@ -490,6 +504,13 @@
     "note": "Puede tener algo, pero no debe subir de cuarentena sin prueba breve."
   },
   {
+    "title": "Just Move Fall Dungeon Endless Abyss",
+    "collection": "ZZZ) El Pozo",
+    "worthTrying": "🧪 Solo curiosidad / baja prioridad",
+    "suggestedDestination": "🧊 Mantener en El Pozo",
+    "note": "Mantener como rareza/freebie; probar solo si hay antojo puntual."
+  },
+  {
     "title": "Just Move:Clean City Messy Battle",
     "collection": "ZZZ) El Pozo",
     "worthTrying": "🧪 Solo curiosidad / baja prioridad",
@@ -544,6 +565,13 @@
     "worthTrying": "🟨 Quizá, revisar primero",
     "suggestedDestination": "⚔️ RPG / Estrategia ligera",
     "note": "Puede tener algo, pero no debe subir de cuarentena sin prueba breve."
+  },
+  {
+    "title": "LivingBattle",
+    "collection": "ZZZ) El Pozo",
+    "worthTrying": "🧪 Solo curiosidad / baja prioridad",
+    "suggestedDestination": "🧊 Mantener en El Pozo",
+    "note": "La captura actual lo devuelve a El Pozo; no promover sin una prueba real."
   },
   {
     "title": "Loot Hero DX",
@@ -1272,6 +1300,13 @@
     "worthTrying": "🟨 Quizá, revisar primero",
     "suggestedDestination": "🌐 Internet persistente / Online",
     "note": "Puede tener algo, pero no debe subir de cuarentena sin prueba breve."
+  },
+  {
+    "title": "Winexy",
+    "collection": "ZZZ) El Pozo",
+    "worthTrying": "🟨 Quizá, revisar primero",
+    "suggestedDestination": "🧩 Puzzle / Ingenio",
+    "note": "Puzzle 3D de física y control de una esfera; revisar con una prueba breve."
   },
   {
     "title": "Yellow: The Yellow Artifact",

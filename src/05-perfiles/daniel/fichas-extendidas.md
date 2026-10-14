@@ -85,7 +85,7 @@
   <div class="extended-key-card__body">
     <h2>🐟 DAVE THE DIVER</h2>
     <div class="extended-key-meta">
-      <span class="extended-key-pill">Cozy / Farming / Vida tranquila</span>
+      <span class="extended-key-pill">Cozy / Vida tranquila</span>
       <span class="extended-key-pill">Postgame / Extras / Favorito</span>
       <span class="extended-key-pill">Energía: Media</span>
     </div>

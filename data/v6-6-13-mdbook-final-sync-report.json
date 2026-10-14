@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-08-17T13:22:00-06:00",
+  "collections": {
+    "technical": 6,
+    "sagas": 60,
+    "genres": 17,
+    "experiences": 7,
+    "social": 4,
+    "totalAuditedCollections": 94
+  },
+  "registryGamesWithAppId": 1116,
+  "newRegistryEntriesFromOverrides": 141,
+  "pozoCount": 190,
+  "mrdCount": 57,
+  "summaryUpdated": true,
+  "collectionPagesRegenerated": true,
+  "gamesIndexRegenerated": true,
+  "auditedCollections": 93,
+  "sourceCollectionPages": 94,
+  "imageTargets": 1116,
+  "libraryCatalogTotal": 1245,
+  "libraryCatalogResolvedSteam": 1123,
+  "reviewNeededRemaining": 133
+}

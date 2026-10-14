@@ -9,8 +9,7 @@
 #>
 param(
     [string]$SummaryPath = ".\src\SUMMARY.md",
-    [string]$RegistryPath = ".\data\steam-games-registry.json",
-    [string]$CatalogPath = ".\data\library-catalog.json"
+    [string]$RegistryPath = ".\data\steam-games-registry.json"
 )
 
 . "$PSScriptRoot\_registry-lib.ps1"
@@ -41,16 +40,9 @@ function Get-LetterSlug {
     return $Key.ToLowerInvariant()
 }
 
-$catalog = @()
-if (Test-Path $CatalogPath) {
-    $catalog = @(Load-JsonFile $CatalogPath @()) | Where-Object { $_.title } | Sort-Object title
-}
-if (-not $catalog -or $catalog.Count -eq 0) {
-    $catalog = @(Load-JsonFile $RegistryPath @()) | Where-Object { $_.steamAppId } | Sort-Object title
-}
-
+$registry = @(Load-JsonFile $RegistryPath @()) | Where-Object { $_.steamAppId } | Sort-Object title
 $groups = @{}
-foreach ($g in $catalog) {
+foreach ($g in $registry) {
     $key = Get-GameLetterKey ([string]$g.title)
     if (-not $groups.ContainsKey($key)) { $groups[$key] = 0 }
     $groups[$key]++

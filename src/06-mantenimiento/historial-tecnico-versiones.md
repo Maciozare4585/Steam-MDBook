@@ -158,6 +158,19 @@ Las páginas `V6.x` viven debajo de **Historial técnico de versiones**.
 
 ---
 
+
+## V6.6.13 — Auditoría completa de colecciones Steam · 2026-08-17
+
+- Se corroboraron **93 colecciones** contra capturas actuales de Steam en 15 batches.
+- Se sincronizaron las páginas de colecciones, conteos y navegación del `SUMMARY.md`.
+- `ZZZ) El Pozo` queda en **190 juegos** y `ZZZ) MRD` en **57 juegos**.
+- `ZZZ) Demos` y `ZZZ) Otros` quedan separados como colecciones técnicas independientes.
+- Se incorporan las nuevas casas principales detectadas durante la auditoría, incluyendo Kingdom Hearts, Horizon, Marathon, Metal Gear, Sniper Elite y Super Hot.
+- Se sincronizan `steam-games-registry.json`, `steam-image-targets.json`, `games-metadata.json`, `games-index.json` y el catálogo general con AppID manualmente corroborados.
+- Se regenera el índice alfabético de juegos y se limpia `review-needed` de entradas ya resueltas.
+
+[Ver detalle de la auditoría](v6-6-13-auditoria-biblioteca-2026-08-17.md).
+
 ## Estado técnico actual recomendado
 
 Para una corrida general razonable:
@@ -197,8 +210,11 @@ Ctrl + F5
 - Se agrega template copiable para editar metadata DLC manualmente.
 
 
-## V6.6.11 — Bitácora de avance y correcciones de colección
 
-- [V6.6.11 Bitácora de avance](v6-6-11-bitacora-avance.md)
-- Se agregó bitácora de avance de Daniel.
-- Se corrigieron VR/RPG/Assassin’s Creed, Pozo/MRD y estados de platinado.
+## V6.6.14 — Ajuste de taxonomía · 2026-08-17
+
+- Renombres de selectores Arcade, Cozy, Narrativa y YYY Coop.
+- Terror movido de Nivel 2 a Nivel 3.
+- Nueva colección mecánica `Cartas / Deckbuilder` con 9 juegos.
+- Familia XXX) y distinción Local/Online de YYY quedan abiertas para diseño.
+- Colecciones numeradas sin cambios.

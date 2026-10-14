@@ -1,6 +1,6 @@
 {
   "version": "6.6.0",
-  "updatedAt": "2026-05-11T19:12:50.5161452-07:00",
+  "updatedAt": "2026-10-13T22:49:34.2385175-06:00",
   "suggestions": [
     {
       "steamAppId": 454320,
@@ -147,6 +147,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 958520,
+      "title": "33 Immortals",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 958520,
+      "title": "33 Immortals",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 958520,
+      "title": "33 Immortals",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2466890,
       "title": "3D PUZZLE - Medieval Inn",
       "ruleId": "auto-singleplayer",
@@ -325,6 +349,30 @@
     {
       "steamAppId": 1222700,
       "title": "A Way Out",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1904480,
+      "title": "Absolum",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1904480,
+      "title": "Absolum",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 1904480,
+      "title": "Absolum",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -595,6 +643,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 211010,
+      "title": "Alien Shooter 2 Conscription",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 211010,
+      "title": "Alien Shooter 2 Conscription",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 563560,
       "title": "Alien Swarm: Reactive Drop",
       "ruleId": "auto-singleplayer",
@@ -723,6 +787,30 @@
       "priority": 1000
     },
     {
+      "steamAppId": 367270,
+      "title": "Angels Fall First",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 367270,
+      "title": "Angels Fall First",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 367270,
+      "title": "Angels Fall First",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1368030,
       "title": "ANNO: Mutationem",
       "ruleId": "auto-singleplayer",
@@ -789,6 +877,22 @@
     {
       "steamAppId": 1172470,
       "title": "Apex Legends",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3744480,
+      "title": "Arabian Gulf",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 3744480,
+      "title": "Arabian Gulf",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -1027,6 +1131,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 2208920,
+      "title": "Assassin’s Creed Valhalla",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2208920,
+      "title": "Assassin’s Creed Valhalla",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 244210,
       "title": "Assetto Corsa",
       "ruleId": "auto-singleplayer",
@@ -1045,6 +1165,22 @@
     {
       "steamAppId": 244210,
       "title": "Assetto Corsa",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1761070,
+      "title": "ASTLIBRA ～生きた証～ Revision Demo",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1761070,
+      "title": "ASTLIBRA ～生きた証～ Revision Demo",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -1739,6 +1875,30 @@
       "priority": 1000
     },
     {
+      "steamAppId": 203750,
+      "title": "Binary Domain",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 203750,
+      "title": "Binary Domain",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 203750,
+      "title": "Binary Domain",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 7670,
       "title": "BioShock",
       "ruleId": "auto-singleplayer",
@@ -1891,6 +2051,38 @@
       "priority": 100
     },
     {
+      "steamAppId": 2358720,
+      "title": "Black Myth: Wukong",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2358720,
+      "title": "Black Myth: Wukong",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 729660,
+      "title": "Blackout Z: Slaughterhouse Edition",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 729660,
+      "title": "Blackout Z: Slaughterhouse Edition",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 774361,
       "title": "Blasphemous",
       "ruleId": "auto-singleplayer",
@@ -1953,6 +2145,22 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 3199170,
+      "title": "BLOODSTRIKE",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 3199170,
+      "title": "BLOODSTRIKE",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 960090,
@@ -2037,6 +2245,14 @@
     {
       "steamAppId": 1282150,
       "title": "Bob Esponja: The Cosmic Shake",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 4747510,
+      "title": "BOMBANANA! Demo",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -2179,6 +2395,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 1623940,
+      "title": "Bramble: The Mountain King",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1623940,
+      "title": "Bramble: The Mountain King",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 285800,
       "title": "Braveland",
       "ruleId": "auto-singleplayer",
@@ -2245,6 +2477,22 @@
     {
       "steamAppId": 1607680,
       "title": "Bread & Fred",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 738520,
+      "title": "Breathedge",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 738520,
+      "title": "Breathedge",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -2283,6 +2531,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 696370,
+      "title": "BROKE PROTOCOL",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 696370,
+      "title": "BROKE PROTOCOL",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 696370,
+      "title": "BROKE PROTOCOL",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 4422650,
       "title": "Broken Voyage",
       "ruleId": "auto-singleplayer",
@@ -2329,6 +2601,22 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 2413660,
+      "title": "Bucket Brawl: Ahlman Edition",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2413660,
+      "title": "Bucket Brawl: Ahlman Edition",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 2835570,
@@ -2477,6 +2765,22 @@
     {
       "steamAppId": 3115010,
       "title": "Car Dealer Simulator: Prologue",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 645630,
+      "title": "Car Mechanic Simulator 2018",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 645630,
+      "title": "Car Mechanic Simulator 2018",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -2653,6 +2957,22 @@
     {
       "steamAppId": 544730,
       "title": "Catan Universe",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3569430,
+      "title": "Catgirl",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 3569430,
+      "title": "Catgirl",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -2899,6 +3219,22 @@
       "priority": 1000
     },
     {
+      "steamAppId": 1766740,
+      "title": "Choo-Choo Charles",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1766740,
+      "title": "Choo-Choo Charles",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 251130,
       "title": "Chroma Squad",
       "ruleId": "auto-singleplayer",
@@ -3007,6 +3343,86 @@
       "title": "Clair Obscur: Expedition 33",
       "ruleId": "auto-jovan-favoritos",
       "collection": "Jovan / Favoritos",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3873750,
+      "title": "Clair Obscur: Expedition 33 – Nos Vies En Lumière (Bonus Edition)",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2398450,
+      "title": "Classic Marathon",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2398450,
+      "title": "Classic Marathon",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2398450,
+      "title": "Classic Marathon",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2398490,
+      "title": "Classic Marathon 2",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2398490,
+      "title": "Classic Marathon 2",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2398490,
+      "title": "Classic Marathon 2",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2398520,
+      "title": "Classic Marathon Infinity",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2398520,
+      "title": "Classic Marathon Infinity",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2398520,
+      "title": "Classic Marathon Infinity",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
       "mode": "auto",
       "priority": 100
     },
@@ -3427,6 +3843,30 @@
       "priority": 1000
     },
     {
+      "steamAppId": 203770,
+      "title": "Crusader Kings II",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 203770,
+      "title": "Crusader Kings II",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 203770,
+      "title": "Crusader Kings II",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 247080,
       "title": "Crypt of the NecroDancer",
       "ruleId": "auto-singleplayer",
@@ -3611,6 +4051,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 1495710,
+      "title": "Cyberpunk 2077 Bonus Content",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1495710,
+      "title": "Cyberpunk 2077 Bonus Content",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2635670,
       "title": "Cycle Idle RPG",
       "ruleId": "auto-singleplayer",
@@ -3707,6 +4163,30 @@
       "priority": 1000
     },
     {
+      "steamAppId": 29900,
+      "title": "Dark Sector",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 29900,
+      "title": "Dark Sector",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 29900,
+      "title": "Dark Sector",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 570940,
       "title": "DARK SOULS REMASTERED",
       "ruleId": "auto-singleplayer",
@@ -3761,6 +4241,46 @@
       "collection": "4) REINICIAR PARTIDA (X RAZÓN)",
       "mode": "auto",
       "priority": 95
+    },
+    {
+      "steamAppId": 1940340,
+      "title": "Darkest Dungeon® II",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1940340,
+      "title": "Darkest Dungeon® II",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3064700,
+      "title": "Darkest Dungeon® II: Mod Tools",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 274520,
+      "title": "Darkwood",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 274520,
+      "title": "Darkwood",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 490860,
@@ -4277,6 +4797,22 @@
     {
       "steamAppId": 40,
       "title": "Deathmatch Classic",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2778430,
+      "title": "Deconstruction Simulator: Prologue",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2778430,
+      "title": "Deconstruction Simulator: Prologue",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -4763,6 +5299,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 1522160,
+      "title": "Disney Epic Mickey: Rebrushed",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1522160,
+      "title": "Disney Epic Mickey: Rebrushed",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 331970,
       "title": "Disney's Treasure Planet: Battle of Procyon",
       "ruleId": "auto-singleplayer",
@@ -5259,6 +5811,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 2228030,
+      "title": "Dr. Fetus' Mean Meat Machine",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2228030,
+      "title": "Dr. Fetus' Mean Meat Machine",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1222690,
       "title": "Dragon Age: Inquisition",
       "ruleId": "auto-singleplayer",
@@ -5459,6 +6027,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 1070580,
+      "title": "Drift86",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1070580,
+      "title": "Drift86",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 1070580,
+      "title": "Drift86",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 682990,
       "title": "Drug Dealer Simulator",
       "ruleId": "auto-singleplayer",
@@ -5571,6 +6163,38 @@
       "priority": 100
     },
     {
+      "steamAppId": 3405690,
+      "title": "EA SPORTS FC™ 26",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 3405690,
+      "title": "EA SPORTS FC™ 26",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 3405690,
+      "title": "EA SPORTS FC™ 26",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3629260,
+      "title": "EA SPORTS FC™ 26 SHOWCASE",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 3293010,
       "title": "Easy Delivery Co.",
       "ruleId": "auto-singleplayer",
@@ -5581,6 +6205,22 @@
     {
       "steamAppId": 3293010,
       "title": "Easy Delivery Co.",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 6100,
+      "title": "Eets",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 6100,
+      "title": "Eets",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -5675,6 +6315,62 @@
       "priority": 1000
     },
     {
+      "steamAppId": 1135230,
+      "title": "Ember Knights",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1135230,
+      "title": "Ember Knights",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 1135230,
+      "title": "Ember Knights",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2243110,
+      "title": "EMPTY SHELL",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2243110,
+      "title": "EMPTY SHELL",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 4356840,
+      "title": "Endix",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 4356840,
+      "title": "Endix",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 311690,
       "title": "Enter the Gungeon",
       "ruleId": "auto-singleplayer",
@@ -5693,6 +6389,22 @@
     {
       "steamAppId": 311690,
       "title": "Enter the Gungeon",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3675810,
+      "title": "Eriksholm: The Stolen Dream Demo",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 3675810,
+      "title": "Eriksholm: The Stolen Dream Demo",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -6001,6 +6713,14 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 2999030,
+      "title": "Exploding Kittens® 2",
+      "ruleId": "suggest-cartas-deckbuilder",
+      "collection": "Cartas / Deckbuilder",
+      "mode": "suggest",
+      "priority": 80
     },
     {
       "steamAppId": 2999030,
@@ -6257,6 +6977,22 @@
       "collection": "4) REINICIAR PARTIDA (X RAZÓN)",
       "mode": "auto",
       "priority": 95
+    },
+    {
+      "steamAppId": 611660,
+      "title": "Fallout 4 VR",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 611660,
+      "title": "Fallout 4 VR",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 1151340,
@@ -6683,6 +7419,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 883680,
+      "title": "Four Kings One War",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 883680,
+      "title": "Four Kings One War",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 883680,
+      "title": "Four Kings One War",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2021910,
       "title": "FPS Chess",
       "ruleId": "auto-online-multiplayer",
@@ -6709,6 +7469,46 @@
     {
       "steamAppId": 2943650,
       "title": "FragPunk",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 486780,
+      "title": "Fruit Ninja VR",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 486780,
+      "title": "Fruit Ninja VR",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3892270,
+      "title": "Gamble With Your Friends",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 3892270,
+      "title": "Gamble With Your Friends",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 3892270,
+      "title": "Gamble With Your Friends",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -6779,6 +7579,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 1085510,
+      "title": "Garfield Kart - Furious Racing",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 1085510,
+      "title": "Garfield Kart - Furious Racing",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1990740,
       "title": "Garro GT",
       "ruleId": "auto-singleplayer",
@@ -6821,6 +7637,70 @@
     {
       "steamAppId": 4000,
       "title": "Garry's Mod",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 916730,
+      "title": "Gato Roboto",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 916730,
+      "title": "Gato Roboto",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1097840,
+      "title": "Gears 5",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1097840,
+      "title": "Gears 5",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 1097840,
+      "title": "Gears 5",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2523720,
+      "title": "Gears of War: Reloaded",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2523720,
+      "title": "Gears of War: Reloaded",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2523720,
+      "title": "Gears of War: Reloaded",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -7083,6 +7963,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 12230,
+      "title": "Grand Theft Auto III (macOS)",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 12250,
+      "title": "Grand Theft Auto: San Andreas (macOS)",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 12110,
       "title": "Grand Theft Auto: Vice City",
       "ruleId": "auto-singleplayer",
@@ -7093,6 +7989,14 @@
     {
       "steamAppId": 12110,
       "title": "Grand Theft Auto: Vice City",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 12240,
+      "title": "Grand Theft Auto: Vice City (macOS)",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -7133,6 +8037,22 @@
     {
       "steamAppId": 599140,
       "title": "Graveyard Keeper",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 858710,
+      "title": "Gravity Circuit",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 858710,
+      "title": "Gravity Circuit",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -7395,6 +8315,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 275390,
+      "title": "Guacamelee! Super Turbo Championship Edition",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 275390,
+      "title": "Guacamelee! Super Turbo Championship Edition",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 275390,
+      "title": "Guacamelee! Super Turbo Championship Edition",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1284210,
       "title": "Guild Wars 2",
       "ruleId": "auto-online-multiplayer",
@@ -7441,6 +8385,22 @@
       "collection": "4) REINICIAR PARTIDA (X RAZÓN)",
       "mode": "auto",
       "priority": 95
+    },
+    {
+      "steamAppId": 1580180,
+      "title": "Gunbrella",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1580180,
+      "title": "Gunbrella",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 608800,
@@ -7787,6 +8747,30 @@
       "priority": 95
     },
     {
+      "steamAppId": 2806050,
+      "title": "Halo: Campaign Evolved",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2806050,
+      "title": "Halo: Campaign Evolved",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2806050,
+      "title": "Halo: Campaign Evolved",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 277430,
       "title": "Halo: Spartan Assault",
       "ruleId": "auto-singleplayer",
@@ -7883,6 +8867,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 1433340,
+      "title": "Happy's Humble Burger Farm",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1433340,
+      "title": "Happy's Humble Burger Farm",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2914740,
       "title": "Haus Of Irndrous",
       "ruleId": "auto-singleplayer",
@@ -8129,6 +9129,22 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 3372090,
+      "title": "HELL OF FEAR: Mind Breach",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 3372090,
+      "title": "HELL OF FEAR: Mind Breach",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 414340,
@@ -8235,6 +9251,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 1289310,
+      "title": "Helltaker",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1289310,
+      "title": "Helltaker",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 269210,
       "title": "Hero Siege",
       "ruleId": "auto-singleplayer",
@@ -8453,6 +9485,30 @@
     {
       "steamAppId": 55100,
       "title": "Homefront",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1671200,
+      "title": "Honkai Impact 3rd",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1671200,
+      "title": "Honkai Impact 3rd",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 1671200,
+      "title": "Honkai Impact 3rd",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -8859,6 +9915,30 @@
       "priority": 1000
     },
     {
+      "steamAppId": 3771740,
+      "title": "IQ Under Construction",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 3771740,
+      "title": "IQ Under Construction",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 3771740,
+      "title": "IQ Under Construction",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1703140,
       "title": "Isle of Jura",
       "ruleId": "auto-singleplayer",
@@ -9259,6 +10339,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 699240,
+      "title": "Keyboard Killers",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 699240,
+      "title": "Keyboard Killers",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1020330,
       "title": "Khan VS Kahn",
       "ruleId": "auto-singleplayer",
@@ -9411,6 +10507,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 1273710,
+      "title": "King of Crabs",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1273710,
+      "title": "King of Crabs",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 379430,
       "title": "Kingdom Come: Deliverance",
       "ruleId": "auto-singleplayer",
@@ -9437,6 +10549,54 @@
     {
       "steamAppId": 1771300,
       "title": "Kingdom Come: Deliverance II",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2552430,
+      "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2552430,
+      "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2552440,
+      "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2552440,
+      "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2552450,
+      "title": "KINGDOM HEARTS III + Re Mind (DLC)",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2552450,
+      "title": "KINGDOM HEARTS III + Re Mind (DLC)",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -9675,6 +10835,30 @@
       "priority": 1000
     },
     {
+      "steamAppId": 2215200,
+      "title": "LEGO Batman: Legacy of the Dark Knight",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2215200,
+      "title": "LEGO Batman: Legacy of the Dark Knight",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2215200,
+      "title": "LEGO Batman: Legacy of the Dark Knight",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1898290,
       "title": "LEGO Bricktales",
       "ruleId": "auto-singleplayer",
@@ -9709,6 +10893,30 @@
     {
       "steamAppId": 578330,
       "title": "LEGO City Undercover",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2950340,
+      "title": "LEGO Harry Potter Collection",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2950340,
+      "title": "LEGO Harry Potter Collection",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2950340,
+      "title": "LEGO Harry Potter Collection",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -10267,6 +11475,30 @@
       "priority": 1000
     },
     {
+      "steamAppId": 6510,
+      "title": "Lost Planet: Extreme Condition",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 6510,
+      "title": "Lost Planet: Extreme Condition",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 6510,
+      "title": "Lost Planet: Extreme Condition",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 252110,
       "title": "Lovers in a Dangerous Spacetime",
       "ruleId": "auto-singleplayer",
@@ -10405,6 +11637,22 @@
     {
       "steamAppId": 3716600,
       "title": "Mage Arena",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2141910,
+      "title": "Magic: The Gathering Arena",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2141910,
+      "title": "Magic: The Gathering Arena",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -10771,6 +12019,46 @@
       "priority": 100
     },
     {
+      "steamAppId": 311340,
+      "title": "METAL GEAR SOLID V: GROUND ZEROES",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 311340,
+      "title": "METAL GEAR SOLID V: GROUND ZEROES",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 287700,
+      "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 287700,
+      "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 287700,
+      "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 366250,
       "title": "Metal Slug",
       "ruleId": "auto-singleplayer",
@@ -11061,6 +12349,22 @@
     {
       "steamAppId": 286690,
       "title": "Metro 2033 Redux",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2669410,
+      "title": "Metro Awakening",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2669410,
+      "title": "Metro Awakening",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -11203,6 +12507,46 @@
       "priority": 100
     },
     {
+      "steamAppId": 1875580,
+      "title": "Mina the Hollower",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1875580,
+      "title": "Mina the Hollower",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1672970,
+      "title": "Minecraft Dungeons",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1672970,
+      "title": "Minecraft Dungeons",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 1672970,
+      "title": "Minecraft Dungeons",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 481870,
       "title": "Mini Thief",
       "ruleId": "auto-singleplayer",
@@ -11235,6 +12579,30 @@
       "priority": 1000
     },
     {
+      "steamAppId": 489520,
+      "title": "Minion Masters",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 489520,
+      "title": "Minion Masters",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 489520,
+      "title": "Minion Masters",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1657090,
       "title": "MiniRoyale",
       "ruleId": "auto-online-multiplayer",
@@ -11365,6 +12733,22 @@
     {
       "steamAppId": 2350790,
       "title": "Moonlighter 2: The Endless Vault",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1035110,
+      "title": "Moonrise Fall",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1035110,
+      "title": "Moonrise Fall",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -12435,6 +13819,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 4508340,
+      "title": "NTE: Neverness to Everness",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 4508340,
+      "title": "NTE: Neverness to Everness",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 4508340,
+      "title": "NTE: Neverness to Everness",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 540900,
       "title": "Nuclear Contingency",
       "ruleId": "auto-singleplayer",
@@ -12457,6 +13865,22 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 1971650,
+      "title": "OCTOPATH TRAVELER II",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1971650,
+      "title": "OCTOPATH TRAVELER II",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 769920,
@@ -13275,6 +14699,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 3527290,
+      "title": "PEAK",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 3527290,
+      "title": "PEAK",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 3527290,
+      "title": "PEAK",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 3480,
       "title": "Peggle Deluxe",
       "ruleId": "auto-singleplayer",
@@ -13499,6 +14947,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 442120,
+      "title": "Pinball FX Classic",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 442120,
+      "title": "Pinball FX Classic",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 442120,
+      "title": "Pinball FX Classic",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2337640,
       "title": "Pinball FX Midnight",
       "ruleId": "auto-singleplayer",
@@ -13517,6 +14989,22 @@
     {
       "steamAppId": 2337640,
       "title": "Pinball FX Midnight",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2642570,
+      "title": "Pinball Storm: Lokanta",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2642570,
+      "title": "Pinball Storm: Lokanta",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -13931,6 +15419,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 2012840,
+      "title": "Portal with RTX",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2012840,
+      "title": "Portal with RTX",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 601360,
       "title": "Portal: Revolution",
       "ruleId": "auto-singleplayer",
@@ -14049,6 +15553,22 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 2751000,
+      "title": "Prince of Persia The Lost Crown",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2751000,
+      "title": "Prince of Persia The Lost Crown",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 702150,
@@ -14219,6 +15739,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 1861500,
+      "title": "Pure Logic",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1861500,
+      "title": "Pure Logic",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2210,
       "title": "Quake 4",
       "ruleId": "auto-singleplayer",
@@ -14237,6 +15773,30 @@
     {
       "steamAppId": 2210,
       "title": "Quake 4",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2132850,
+      "title": "Rabbit and Steel",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2132850,
+      "title": "Rabbit and Steel",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2132850,
+      "title": "Rabbit and Steel",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -14299,6 +15859,30 @@
       "priority": 1000
     },
     {
+      "steamAppId": 2071280,
+      "title": "Ravenswatch",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2071280,
+      "title": "Ravenswatch",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2071280,
+      "title": "Ravenswatch",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2415660,
       "title": "Raventure",
       "ruleId": "auto-singleplayer",
@@ -14339,6 +15923,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 2129530,
+      "title": "REANIMAL",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 2129530,
+      "title": "REANIMAL",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 2129530,
+      "title": "REANIMAL",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1088790,
       "title": "Rebel Inc: Escalation",
       "ruleId": "auto-singleplayer",
@@ -14367,6 +15975,22 @@
       "title": "Rebel Inc: Escalation",
       "ruleId": "auto-terminados",
       "collection": "2) TERMINADOS",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1181630,
+      "title": "Rebel Inc: Escalation - Soundtrack",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1181630,
+      "title": "Rebel Inc: Escalation - Soundtrack",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
       "mode": "auto",
       "priority": 100
     },
@@ -14459,6 +16083,14 @@
       "priority": 1000
     },
     {
+      "steamAppId": 2684660,
+      "title": "REDkit DE THE WITCHER 3",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2514960,
       "title": "Refind Self: Desvela tu personalidad",
       "ruleId": "auto-singleplayer",
@@ -14497,6 +16129,22 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 633360,
+      "title": "Remothered: Tormented Fathers",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 633360,
+      "title": "Remothered: Tormented Fathers",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 99300,
@@ -14885,6 +16533,22 @@
     {
       "steamAppId": 391220,
       "title": "Rise of the Tomb Raider",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 35450,
+      "title": "Rising Storm/Red Orchestra 2 Multiplayer",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 35450,
+      "title": "Rising Storm/Red Orchestra 2 Multiplayer",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -15371,6 +17035,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 1037020,
+      "title": "ScourgeBringer",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 1037020,
+      "title": "ScourgeBringer",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 3257000,
       "title": "SCP: Containment Breach 2",
       "ruleId": "auto-singleplayer",
@@ -15435,6 +17115,14 @@
       "priority": 1000
     },
     {
+      "steamAppId": 4127570,
+      "title": "Scramble Knights Online Playtest",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 465760,
       "title": "Scrap Garden",
       "ruleId": "auto-singleplayer",
@@ -15457,6 +17145,30 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 301970,
+      "title": "Screencheat",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 301970,
+      "title": "Screencheat",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 301970,
+      "title": "Screencheat",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 218680,
@@ -15883,6 +17595,70 @@
       "priority": 100
     },
     {
+      "steamAppId": 552450,
+      "title": "Serious Sam VR: The First Encounter",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 552450,
+      "title": "Serious Sam VR: The First Encounter",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 552450,
+      "title": "Serious Sam VR: The First Encounter",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 465240,
+      "title": "Serious Sam VR: The Last Hope",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 465240,
+      "title": "Serious Sam VR: The Last Hope",
+      "ruleId": "auto-online-multiplayer",
+      "collection": "Multiplayer online",
+      "mode": "suggest",
+      "priority": 45
+    },
+    {
+      "steamAppId": 465240,
+      "title": "Serious Sam VR: The Last Hope",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 552460,
+      "title": "Serious Sam VR: The Second Encounter",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1792250,
+      "title": "Serious Sam: Siberian Mayhem",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 201480,
       "title": "Serious Sam: The Random Encounter",
       "ruleId": "auto-singleplayer",
@@ -15995,6 +17771,22 @@
       "priority": 1000
     },
     {
+      "steamAppId": 345820,
+      "title": "Shantae and the Pirate's Curse",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 764300,
+      "title": "Shantae: Half-Genie Hero Ultimate Edition",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2835310,
       "title": "Sharpshooter",
       "ruleId": "auto-singleplayer",
@@ -16017,6 +17809,22 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 326460,
+      "title": "ShellShock Live",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1875830,
+      "title": "Shin Megami Tensei V: Vengeance",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 250760,
@@ -16147,6 +17955,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 65980,
+      "title": "Sid Meier's Civilization: Beyond Earth",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 282210,
+      "title": "Sid Meier's Starships",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2138710,
       "title": "Sifu",
       "ruleId": "auto-singleplayer",
@@ -16157,6 +17981,14 @@
     {
       "steamAppId": 2138710,
       "title": "Sifu",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1262350,
+      "title": "SIGNALIS",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -16217,6 +18049,14 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 308600,
+      "title": "Skillshot City",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 245170,
@@ -16355,6 +18195,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 386360,
+      "title": "SMITE",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 858460,
+      "title": "SMITE - Public Test",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 740240,
       "title": "Snake Eyes Dungeon",
       "ruleId": "auto-singleplayer",
@@ -16377,6 +18233,38 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 312660,
+      "title": "Sniper Elite 4",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1029690,
+      "title": "Sniper Elite 5",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 63380,
+      "title": "Sniper Elite V2",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 728740,
+      "title": "Sniper Elite V2 Remastered",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 867210,
@@ -16455,6 +18343,14 @@
       "title": "Sonic Racing: CrossWorlds",
       "ruleId": "auto-jovan-favoritos",
       "collection": "Jovan / Favoritos",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2022670,
+      "title": "Sonic Superstars",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
       "mode": "auto",
       "priority": 100
     },
@@ -16605,6 +18501,22 @@
     {
       "steamAppId": 1412850,
       "title": "Spacelines From The Far Out",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2641470,
+      "title": "Spectre Divide",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 418530,
+      "title": "Spelunky 2",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -16963,6 +18875,14 @@
       "priority": 100
     },
     {
+      "steamAppId": 2381620,
+      "title": "Steam Engine Simulator",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 619700,
       "title": "Steel Rats",
       "ruleId": "auto-singleplayer",
@@ -17067,6 +18987,14 @@
       "priority": 100
     },
     {
+      "steamAppId": 312670,
+      "title": "Strange Brigade",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1332010,
       "title": "Stray",
       "ruleId": "auto-singleplayer",
@@ -17117,6 +19045,14 @@
     {
       "steamAppId": 1364780,
       "title": "Street Fighter 6",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1952120,
+      "title": "Street Fighter™ 6 - Open Beta",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -17169,6 +19105,38 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 264710,
+      "title": "Subnautica",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 264710,
+      "title": "Subnautica",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 848450,
+      "title": "Subnautica: Below Zero",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 848450,
+      "title": "Subnautica: Below Zero",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 315210,
@@ -17259,6 +19227,46 @@
       "priority": 95
     },
     {
+      "steamAppId": 40800,
+      "title": "Super Meat Boy",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 40800,
+      "title": "Super Meat Boy",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 40810,
+      "title": "Super Meat Boy Editor",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 581660,
+      "title": "Super Meat Boy Forever",
+      "ruleId": "auto-singleplayer",
+      "collection": "Singleplayer",
+      "mode": "auto",
+      "priority": 40
+    },
+    {
+      "steamAppId": 581660,
+      "title": "Super Meat Boy Forever",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1560100,
       "title": "Super Stupid Game",
       "ruleId": "auto-singleplayer",
@@ -17315,6 +19323,22 @@
       "priority": 100
     },
     {
+      "steamAppId": 617830,
+      "title": "SUPERHOT VR",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 690040,
+      "title": "SUPERHOT: MIND CONTROL DELETE",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1049410,
       "title": "Superliminal",
       "ruleId": "auto-singleplayer",
@@ -17381,6 +19405,14 @@
     {
       "steamAppId": 2709570,
       "title": "Supermarket Together",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 813630,
+      "title": "Supraland",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -17707,6 +19739,14 @@
       "priority": 1000
     },
     {
+      "steamAppId": 1003590,
+      "title": "Tetris® Effect: Connected",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 4120000,
       "title": "Thanks, She's A Rescue",
       "ruleId": "auto-singleplayer",
@@ -17949,6 +19989,14 @@
     {
       "steamAppId": 2221490,
       "title": "The Division 2",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3749720,
+      "title": "The Division Resurgence",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -18019,6 +20067,14 @@
       "priority": 100
     },
     {
+      "steamAppId": 611670,
+      "title": "The Elder Scrolls V: Skyrim VR",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1812290,
       "title": "The Elder Scrolls: Arena",
       "ruleId": "auto-singleplayer",
@@ -18117,6 +20173,14 @@
     {
       "steamAppId": 435530,
       "title": "The Final Station",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 2073850,
+      "title": "THE FINALS",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -18291,6 +20355,14 @@
       "priority": 100
     },
     {
+      "steamAppId": 2828500,
+      "title": "The Jackbox Megapicker",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 222420,
       "title": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
       "ruleId": "auto-singleplayer",
@@ -18579,6 +20651,14 @@
       "priority": 100
     },
     {
+      "steamAppId": 1272160,
+      "title": "The Life and Suffering of Sir Brante",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 360940,
       "title": "The Mean Greens - Plastic Warfare",
       "ruleId": "auto-online-multiplayer",
@@ -18667,6 +20747,14 @@
       "priority": 1000
     },
     {
+      "steamAppId": 1053710,
+      "title": "The Red Lantern",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 352520,
       "title": "The Silent Age",
       "ruleId": "auto-singleplayer",
@@ -18717,6 +20805,14 @@
     {
       "steamAppId": 897450,
       "title": "The Survivalists",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 552440,
+      "title": "The Talos Principle VR",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -19059,6 +21155,22 @@
       "priority": 1000
     },
     {
+      "steamAppId": 377300,
+      "title": "Thunder Tier One",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1712840,
+      "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1286680,
       "title": "Tiny Tina’s Wonderlands",
       "ruleId": "auto-singleplayer",
@@ -19125,6 +21237,14 @@
     {
       "steamAppId": 1237970,
       "title": "Titanfall 2",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 460930,
+      "title": "Tom Clancy's Ghost Recon Wildlands",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -19243,6 +21363,14 @@
       "priority": 1000
     },
     {
+      "steamAppId": 882710,
+      "title": "TouHou Makuka Sai ~ Fantastic Danmaku Festival",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 1510580,
       "title": "Toy Tinker Simulator",
       "ruleId": "auto-singleplayer",
@@ -19331,6 +21459,14 @@
       "priority": 100
     },
     {
+      "steamAppId": 3618520,
+      "title": "Twin Shot Deluxe",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 616560,
       "title": "Ultimate Epic Battle Simulator",
       "ruleId": "auto-singleplayer",
@@ -19365,6 +21501,14 @@
     {
       "steamAppId": 1035510,
       "title": "Ultimate Zombie Defense",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3224770,
+      "title": "Umamusume: Pretty Derby",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -19637,6 +21781,14 @@
     {
       "steamAppId": 837470,
       "title": "Untitled Goose Game",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 304930,
+      "title": "Unturned",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -20387,6 +22539,30 @@
       "priority": 100
     },
     {
+      "steamAppId": 2595010,
+      "title": "Whisper Mountain Outbreak - Pase Amigo",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3745500,
+      "title": "Whispers from the Star Demo",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 1134700,
+      "title": "Wild Terra 2: New Lands",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
       "steamAppId": 2978120,
       "title": "Wild West: Prototype",
       "ruleId": "auto-online-multiplayer",
@@ -20409,6 +22585,14 @@
       "collection": "ZZZ / Cuarentena",
       "mode": "manual_only",
       "priority": 1000
+    },
+    {
+      "steamAppId": 1599330,
+      "title": "Wildmender",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 640890,
@@ -20573,6 +22757,14 @@
     {
       "steamAppId": 552990,
       "title": "World of Warships",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 699130,
+      "title": "World War Z",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -20645,6 +22837,22 @@
     {
       "steamAppId": 327030,
       "title": "Worms W.M.D",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 228380,
+      "title": "Wreckfest",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 3513350,
+      "title": "Wuthering Waves",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -20733,6 +22941,14 @@
     {
       "steamAppId": 464260,
       "title": "Xeno Crisis",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
+    },
+    {
+      "steamAppId": 674750,
+      "title": "Yet Another Zombie Defense HD",
       "ruleId": "auto-sin-terminar",
       "collection": "1) SIN TERMINAR",
       "mode": "auto",
@@ -20833,6 +23049,14 @@
       "collection": "5) PA PLATINAR",
       "mode": "auto",
       "priority": 95
+    },
+    {
+      "steamAppId": 4162040,
+      "title": "Zenless Zone Zero",
+      "ruleId": "auto-sin-terminar",
+      "collection": "1) SIN TERMINAR",
+      "mode": "auto",
+      "priority": 100
     },
     {
       "steamAppId": 694280,

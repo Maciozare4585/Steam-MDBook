@@ -1,10 +1,3 @@
-
-## V6.6.11 — Bitácora de avance y correcciones de colección
-
-- Se agregó la bitácora de avance de Daniel.
-- Se corrigieron estados de HELLDIVERS/Yu-Gi-Oh! Master Duel.
-- Se ajustaron VR, RPG, Assassin’s Creed, El Pozo y MRD según capturas/correcciones recientes.
-
 # 📜 Log de cambios histórico
 
 > Resumen de evolución del documento y mdBook durante esta sesión.
@@ -152,7 +145,7 @@ Ejemplos:
 
 | Juego / app | Destino |
 |---|---|
-| Escape the Backrooms | `YYY) Historia / Puzzle` |
+| Escape the Backrooms | `YYY) Historia / Puzzle / Coop` |
 | Gang Beasts | `YYY) Party / Versus / Mesa` |
 | Godot Engine | `ZZZ) Demos y otros` |
 | Guns of Icarus Alliance | `YYY) PvE / Acción` + `Internet Persistente` |
@@ -679,9 +672,10 @@ mdbook serve --hostname 0.0.0.0 --port 3000
 | V6.5.5 mdBook | V6.5.4 + changelog histórico |
 | V6.5.7 mdBook | Base estable previa con sidebar/SUMMARY y auditoría de consistencia |
 | V6.5.8 mdBook | Acciones Steam y limpieza visual |
-| V6.5.13 mdBook | Base estable actual con Pozo + MRD como secciones propias |
+| V6.5.13 mdBook | Base histórica con Pozo + MRD como secciones propias |
+| V6.6.13 mdBook | **Base actual auditada contra Steam (2026-08-17)** |
 
-**Recomendación:** usar **V6.5.13** como baseline actual.
+**Recomendación:** usar **V6.6.13** como baseline actual.
 
 ---
 
@@ -777,3 +771,14 @@ Cambios principales:
 - Se extienden tooltips a colecciones, estados, decisión y perfiles.
 - Se agrega ficha dinámica única por `steamAppId`.
 - Se arregla `Dead as Disco` dentro de `Música / Ritmo` con 7 juegos.
+
+
+## V6.6.13 — Auditoría Steam y sincronización integral
+
+- **93 colecciones** corroboradas contra la biblioteca actual.
+- **El Pozo: 190** juegos.
+- **MRD: 57** juegos.
+- Páginas de sagas, géneros, experiencias y YYY regeneradas desde la fuente maestra actual.
+- Sidebar de colecciones actualizado con los conteos vigentes.
+- Registry, targets de imágenes, metadata base, catálogo general e índice dinámico sincronizados.
+- Registro técnico de la pasada: `data/v6-6-13-library-recheck-progress.json`.

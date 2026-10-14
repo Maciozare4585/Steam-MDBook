@@ -1,19 +1,28 @@
 # Juegos — G
 
-> Página alfabética compacta. Contiene **46** entradas generadas desde `data/library-catalog.json`.
+> Página alfabética compacta. Contiene **46** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
-<article id="game-meta-galaxyclient-gog-galaxy" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+<article id="game-meta-3892270" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3892270">
+    <img src="../../assets/games/3892270/steam-header.jpg" alt="Gamble With Your Friends" loading="lazy" />
+  </a>
   <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 GalaxyClient / GOG Galaxy</div>
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3892270">🎮 Gamble With Your Friends</a></div>
     <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>launcher</code></span>
+      <span><strong>App ID:</strong> <code>3892270</code></span>
+      <span><strong>Oficial:</strong> Gamble With Your Friends</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3892270">
+  <a class="steam-action steam-play" href="steam://run/3892270" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3892270" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3892270" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
   </div>
 </article>
 
@@ -26,25 +35,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>239820</code></span>
       <span><strong>Oficial:</strong> Game Dev Tycoon</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="239820">
   <a class="steam-action steam-play" href="steam://run/239820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/239820" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/239820" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-gamecraft" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Gamecraft</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -57,25 +56,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>285900</code></span>
       <span><strong>Oficial:</strong> Gang Beasts</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="285900">
   <a class="steam-action steam-play" href="steam://run/285900" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/285900" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/285900" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-gang-of-four" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Gang of Four</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -88,12 +77,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>362930</code></span>
       <span><strong>Oficial:</strong> Garfield Kart</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="362930">
   <a class="steam-action steam-play" href="steam://run/362930" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/362930" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/362930" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1085510" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1085510">
+    <img src="../../assets/games/1085510/steam-header.jpg" alt="Garfield Kart - Furious Racing" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1085510">🎮 Garfield Kart - Furious Racing</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1085510</code></span>
+      <span><strong>Oficial:</strong> Garfield Kart - Furious Racing</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1085510">
+  <a class="steam-action steam-play" href="steam://run/1085510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1085510" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1085510" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -107,7 +119,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1990740</code></span>
       <span><strong>Oficial:</strong> Barro GT</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1990740">
   <a class="steam-action steam-play" href="steam://run/1990740" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -126,12 +140,77 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>4000</code></span>
       <span><strong>Oficial:</strong> Garry&#39;s Mod</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="4000">
   <a class="steam-action steam-play" href="steam://run/4000" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/4000" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/4000" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-916730" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=916730">
+    <img src="../../assets/games/916730/steam-header.jpg" alt="Gato Roboto" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=916730">🎮 Gato Roboto</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>916730</code></span>
+      <span><strong>Oficial:</strong> Gato Roboto</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="916730">
+  <a class="steam-action steam-play" href="steam://run/916730" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/916730" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/916730" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1097840" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1097840">
+    <img src="../../assets/games/1097840/steam-header.jpg" alt="Gears 5" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1097840">🎮 Gears 5</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1097840</code></span>
+      <span><strong>Oficial:</strong> Gears 5</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1097840">
+  <a class="steam-action steam-play" href="steam://run/1097840" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1097840" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1097840" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2523720" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2523720">
+    <img src="../../assets/games/2523720/steam-header.jpg" alt="Gears of War: Reloaded" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2523720">🎮 Gears of War: Reloaded</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2523720</code></span>
+      <span><strong>Oficial:</strong> Gears of War: Reloaded</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2523720">
+  <a class="steam-action steam-play" href="steam://run/2523720" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2523720" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2523720" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -145,25 +224,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>322170</code></span>
       <span><strong>Oficial:</strong> Geometry Dash</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="322170">
   <a class="steam-action steam-play" href="steam://run/322170" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/322170" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/322170" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-go-mission-space-travel" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Go Mission: Space Travel</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -176,7 +245,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>251870</code></span>
       <span><strong>Oficial:</strong> Go! Go! Nippon! ~My First Trip to Japan~</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="251870">
   <a class="steam-action steam-play" href="steam://run/251870" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -195,7 +266,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>555000</code></span>
       <span><strong>Oficial:</strong> GOAT OF DUTY</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="555000">
   <a class="steam-action steam-play" href="steam://run/555000" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -214,7 +287,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>4103660</code></span>
       <span><strong>Oficial:</strong> Gobotix: Duo</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="4103660">
   <a class="steam-action steam-play" href="steam://run/4103660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -233,7 +308,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1593500</code></span>
       <span><strong>Oficial:</strong> God of War</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1593500">
   <a class="steam-action steam-play" href="steam://run/1593500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -252,7 +329,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2322010</code></span>
       <span><strong>Oficial:</strong> God of War Ragnar&#246;k</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2322010">
   <a class="steam-action steam-play" href="steam://run/2322010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -271,31 +350,14 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3244650</code></span>
       <span><strong>Oficial:</strong> Goddess Of Swing</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3244650">
   <a class="steam-action steam-play" href="steam://run/3244650" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3244650" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3244650" title="Abrir la página del juego en Steam">Tienda</a>
-</div>
-  </div>
-</article>
-
-<article id="game-meta-404790" class="compact-game-card">
-  <a class="compact-game-card__cover" href="../detalle.html?id=404790">
-    <img src="../../assets/games/404790/steam-header.jpg" alt="Godot Engine" loading="lazy" />
-  </a>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title"><a href="../detalle.html?id=404790">🎮 Godot Engine</a></div>
-    <div class="compact-game-card__meta">
-      <span><strong>App ID:</strong> <code>404790</code></span>
-      <span><strong>Oficial:</strong> Godot Engine</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
-    </div>
-    <div class="steam-actions steam-actions--compact" data-steam-appid="404790">
-  <a class="steam-action steam-play" href="steam://run/404790" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
-  <a class="steam-action steam-install" href="steam://install/404790" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
-  <a class="steam-action steam-store" href="https://store.steampowered.com/app/404790" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -309,7 +371,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1245430</code></span>
       <span><strong>Oficial:</strong> Golden Light</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1245430">
   <a class="steam-action steam-play" href="steam://run/1245430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -328,73 +392,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>431240</code></span>
       <span><strong>Oficial:</strong> Golf With Your Friends</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="431240">
   <a class="steam-action steam-play" href="steam://run/431240" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/431240" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/431240" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-goocubelets" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 GooCubelets</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
-  </div>
-</article>
-
-<article id="game-meta-goocubelets-2" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 GooCubelets 2</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
-  </div>
-</article>
-
-<article id="game-meta-goocubelets-ocd" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 GooCubelets: OCD</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
-  </div>
-</article>
-
-<article id="game-meta-goocubelets-the-algoorithm" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 GooCubelets: The Algoorithm</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
-  </div>
-</article>
-
-<article id="game-meta-goocubelets-the-void" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 GooCubelets: The Void</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -407,7 +413,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1496790</code></span>
       <span><strong>Oficial:</strong> Gotham Knights</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1496790">
   <a class="steam-action steam-play" href="steam://run/1496790" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -426,7 +434,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>436150</code></span>
       <span><strong>Oficial:</strong> Governor of Poker 3</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="436150">
   <a class="steam-action steam-play" href="steam://run/436150" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -445,12 +455,56 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>12100</code></span>
       <span><strong>Oficial:</strong> Grand Theft Auto III</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="12100">
   <a class="steam-action steam-play" href="steam://run/12100" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/12100" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/12100" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-12230" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=12230">
+    <img src="../../assets/games/12230/steam-header.jpg" alt="Grand Theft Auto III (macOS)" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=12230">🎮 Grand Theft Auto III (macOS)</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>12230</code></span>
+      <span><strong>Oficial:</strong> Grand Theft Auto III (macOS)</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="12230">
+  <a class="steam-action steam-play" href="steam://run/12230" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/12230" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/12230" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-12250" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=12250">
+    <img src="../../assets/games/12250/steam-header.jpg" alt="Grand Theft Auto: San Andreas (macOS)" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=12250">🎮 Grand Theft Auto: San Andreas (macOS)</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>12250</code></span>
+      <span><strong>Oficial:</strong> Grand Theft Auto: San Andreas (macOS)</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="12250">
+  <a class="steam-action steam-play" href="steam://run/12250" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/12250" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/12250" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -464,12 +518,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>12110</code></span>
       <span><strong>Oficial:</strong> Grand Theft Auto: Vice City</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="12110">
   <a class="steam-action steam-play" href="steam://run/12110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/12110" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/12110" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-12240" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=12240">
+    <img src="../../assets/games/12240/steam-header.jpg" alt="Grand Theft Auto: Vice City (macOS)" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=12240">🎮 Grand Theft Auto: Vice City (macOS)</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>12240</code></span>
+      <span><strong>Oficial:</strong> Grand Theft Auto: Vice City (macOS)</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="12240">
+  <a class="steam-action steam-play" href="steam://run/12240" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/12240" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/12240" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -483,7 +560,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2239140</code></span>
       <span><strong>Oficial:</strong> Grapples Galore</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2239140">
   <a class="steam-action steam-play" href="steam://run/2239140" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -502,12 +581,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>599140</code></span>
       <span><strong>Oficial:</strong> Graveyard Keeper</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="599140">
   <a class="steam-action steam-play" href="steam://run/599140" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/599140" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/599140" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-858710" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=858710">
+    <img src="../../assets/games/858710/steam-header.jpg" alt="Gravity Circuit" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=858710">🎮 Gravity Circuit</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>858710</code></span>
+      <span><strong>Oficial:</strong> Gravity Circuit</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="858710">
+  <a class="steam-action steam-play" href="steam://run/858710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/858710" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/858710" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -521,7 +623,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>877150</code></span>
       <span><strong>Oficial:</strong> Gravity Wars</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="877150">
   <a class="steam-action steam-play" href="steam://run/877150" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -540,7 +644,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>815370</code></span>
       <span><strong>Oficial:</strong> Green Hell</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="815370">
   <a class="steam-action steam-play" href="steam://run/815370" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -559,7 +665,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2387110</code></span>
       <span><strong>Oficial:</strong> Green Reaper</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2387110">
   <a class="steam-action steam-play" href="steam://run/2387110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -578,7 +686,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1570960</code></span>
       <span><strong>Oficial:</strong> Grey Instinct</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1570960">
   <a class="steam-action steam-play" href="steam://run/1570960" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -597,7 +707,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>44350</code></span>
       <span><strong>Oficial:</strong> GRID 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="44350">
   <a class="steam-action steam-play" href="steam://run/44350" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -616,7 +728,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1538850</code></span>
       <span><strong>Oficial:</strong> Grotto</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1538850">
   <a class="steam-action steam-play" href="steam://run/1538850" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -635,7 +749,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>12120</code></span>
       <span><strong>Oficial:</strong> Grand Theft Auto: San Andreas</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="12120">
   <a class="steam-action steam-play" href="steam://run/12120" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -654,7 +770,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3240220</code></span>
       <span><strong>Oficial:</strong> Grand Theft Auto V Enhanced</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3240220">
   <a class="steam-action steam-play" href="steam://run/3240220" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -673,7 +791,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3034980</code></span>
       <span><strong>Oficial:</strong> GTR - Garage Town Racing</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3034980">
   <a class="steam-action steam-play" href="steam://run/3034980" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -692,7 +812,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>214770</code></span>
       <span><strong>Oficial:</strong> Guacamelee! Gold Edition</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="214770">
   <a class="steam-action steam-play" href="steam://run/214770" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -702,15 +824,24 @@
   </div>
 </article>
 
-<article id="game-meta-guardians-of-the-sanctree-early-birds" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+<article id="game-meta-275390" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=275390">
+    <img src="../../assets/games/275390/steam-header.jpg" alt="Guacamelee! Super Turbo Championship Edition" loading="lazy" />
+  </a>
   <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Guardians of the Sanctree: Early Birds</div>
+    <div class="compact-game-card__title"><a href="../detalle.html?id=275390">🎮 Guacamelee! Super Turbo Championship Edition</a></div>
     <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+      <span><strong>App ID:</strong> <code>275390</code></span>
+      <span><strong>Oficial:</strong> Guacamelee! Super Turbo Championship Edition</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="275390">
+  <a class="steam-action steam-play" href="steam://run/275390" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/275390" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/275390" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
   </div>
 </article>
 
@@ -723,7 +854,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1284210</code></span>
       <span><strong>Oficial:</strong> Guild Wars 2&#174;</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1284210">
   <a class="steam-action steam-play" href="steam://run/1284210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -742,12 +875,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1384160</code></span>
       <span><strong>Oficial:</strong> GUILTY GEAR -STRIVE-</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1384160">
   <a class="steam-action steam-play" href="steam://run/1384160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1384160" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1384160" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1580180" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1580180">
+    <img src="../../assets/games/1580180/steam-header.jpg" alt="Gunbrella" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1580180">🎮 Gunbrella</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1580180</code></span>
+      <span><strong>Oficial:</strong> Gunbrella</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1580180">
+  <a class="steam-action steam-play" href="steam://run/1580180" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1580180" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1580180" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -761,7 +917,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>608800</code></span>
       <span><strong>Oficial:</strong> Guns of Icarus Alliance</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="608800">
   <a class="steam-action steam-play" href="steam://run/608800" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -780,7 +938,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>209080</code></span>
       <span><strong>Oficial:</strong> Guns of Icarus Online</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="209080">
   <a class="steam-action steam-play" href="steam://run/209080" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -799,7 +959,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1284410</code></span>
       <span><strong>Oficial:</strong> GWENT: The Witcher Card Game</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1284410">
   <a class="steam-action steam-play" href="steam://run/1284410" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

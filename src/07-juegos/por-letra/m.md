@@ -1,6 +1,6 @@
 # Juegos — M
 
-> Página alfabética compacta. Contiene **67** entradas generadas desde `data/library-catalog.json`.
+> Página alfabética compacta. Contiene **70** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,7 +14,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>234140</code></span>
       <span><strong>Oficial:</strong> Mad Max</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="234140">
   <a class="steam-action steam-play" href="steam://run/234140" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -33,7 +35,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>50130</code></span>
       <span><strong>Oficial:</strong> Mafia II (Classic)</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="50130">
   <a class="steam-action steam-play" href="steam://run/50130" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -52,7 +56,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1030830</code></span>
       <span><strong>Oficial:</strong> Mafia II: Definitive Edition</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1030830">
   <a class="steam-action steam-play" href="steam://run/1030830" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -71,7 +77,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>360430</code></span>
       <span><strong>Oficial:</strong> Mafia III: Definitive Edition</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="360430">
   <a class="steam-action steam-play" href="steam://run/360430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -90,7 +98,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1030840</code></span>
       <span><strong>Oficial:</strong> Mafia: Definitive Edition</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1030840">
   <a class="steam-action steam-play" href="steam://run/1030840" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -109,12 +119,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3716600</code></span>
       <span><strong>Oficial:</strong> Mage Arena</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3716600">
   <a class="steam-action steam-play" href="steam://run/3716600" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3716600" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3716600" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2141910" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2141910">
+    <img src="../../assets/games/2141910/steam-header.jpg" alt="Magic: The Gathering Arena" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2141910">🎮 Magic: The Gathering Arena</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2141910</code></span>
+      <span><strong>Oficial:</strong> Magic: The Gathering Arena</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2141910">
+  <a class="steam-action steam-play" href="steam://run/2141910" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2141910" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2141910" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -128,7 +161,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>42910</code></span>
       <span><strong>Oficial:</strong> Magicka</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="42910">
   <a class="steam-action steam-play" href="steam://run/42910" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -147,25 +182,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>238370</code></span>
       <span><strong>Oficial:</strong> Magicka 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="238370">
   <a class="steam-action steam-play" href="steam://run/238370" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/238370" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/238370" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-magicka-2-spell-balance-beta" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Magicka 2: Spell Balance Beta</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -178,7 +203,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>209630</code></span>
       <span><strong>Oficial:</strong> Magrunner: Dark Pulse</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="209630">
   <a class="steam-action steam-play" href="steam://run/209630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -197,7 +224,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>629820</code></span>
       <span><strong>Oficial:</strong> Maneater</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="629820">
   <a class="steam-action steam-play" href="steam://run/629820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -216,7 +245,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3220010</code></span>
       <span><strong>Oficial:</strong> Mangui</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3220010">
   <a class="steam-action steam-play" href="steam://run/3220010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -235,7 +266,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>216150</code></span>
       <span><strong>Oficial:</strong> MapleStory</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="216150">
   <a class="steam-action steam-play" href="steam://run/216150" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -254,7 +287,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3818230</code></span>
       <span><strong>Oficial:</strong> Maru Expedition: We can fly</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3818230">
   <a class="steam-action steam-play" href="steam://run/3818230" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -273,7 +308,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2767030</code></span>
       <span><strong>Oficial:</strong> Marvel Rivals</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2767030">
   <a class="steam-action steam-play" href="steam://run/2767030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -292,7 +329,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1088850</code></span>
       <span><strong>Oficial:</strong> Marvel&#39;s Guardians of the Galaxy</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1088850">
   <a class="steam-action steam-play" href="steam://run/1088850" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -311,7 +350,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2651280</code></span>
       <span><strong>Oficial:</strong> Marvel&#39;s Spider-Man 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2651280">
   <a class="steam-action steam-play" href="steam://run/2651280" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -330,7 +371,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1817070</code></span>
       <span><strong>Oficial:</strong> Marvel’s Spider-Man Remastered</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1817070">
   <a class="steam-action steam-play" href="steam://run/1817070" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -349,7 +392,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1817190</code></span>
       <span><strong>Oficial:</strong> Marvel’s Spider-Man: Miles Morales</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1817190">
   <a class="steam-action steam-play" href="steam://run/1817190" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -368,7 +413,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1328670</code></span>
       <span><strong>Oficial:</strong> Mass Effect™ Legendary Edition</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1328670">
   <a class="steam-action steam-play" href="steam://run/1328670" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -387,7 +434,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2452280</code></span>
       <span><strong>Oficial:</strong> Mecha BREAK</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2452280">
   <a class="steam-action steam-play" href="steam://run/2452280" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -406,7 +455,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3515490</code></span>
       <span><strong>Oficial:</strong> Melodic Mage</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3515490">
   <a class="steam-action steam-play" href="steam://run/3515490" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -425,7 +476,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2370990</code></span>
       <span><strong>Oficial:</strong> Merk Mayhem</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2370990">
   <a class="steam-action steam-play" href="steam://run/2370990" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -444,12 +497,56 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2417610</code></span>
       <span><strong>Oficial:</strong> METAL GEAR SOLID Δ: SNAKE EATER</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2417610">
   <a class="steam-action steam-play" href="steam://run/2417610" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2417610" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2417610" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-311340" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=311340">
+    <img src="../../assets/games/311340/steam-header.jpg" alt="METAL GEAR SOLID V: GROUND ZEROES" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=311340">🎮 METAL GEAR SOLID V: GROUND ZEROES</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>311340</code></span>
+      <span><strong>Oficial:</strong> METAL GEAR SOLID V: GROUND ZEROES</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="311340">
+  <a class="steam-action steam-play" href="steam://run/311340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/311340" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/311340" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-287700" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=287700">
+    <img src="../../assets/games/287700/steam-header.jpg" alt="METAL GEAR SOLID V: THE PHANTOM PAIN" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=287700">🎮 METAL GEAR SOLID V: THE PHANTOM PAIN</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>287700</code></span>
+      <span><strong>Oficial:</strong> METAL GEAR SOLID V: THE PHANTOM PAIN</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="287700">
+  <a class="steam-action steam-play" href="steam://run/287700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/287700" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/287700" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -463,7 +560,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>366250</code></span>
       <span><strong>Oficial:</strong> METAL SLUG</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="366250">
   <a class="steam-action steam-play" href="steam://run/366250" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -482,7 +581,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>366260</code></span>
       <span><strong>Oficial:</strong> METAL SLUG 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="366260">
   <a class="steam-action steam-play" href="steam://run/366260" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -501,7 +602,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>250180</code></span>
       <span><strong>Oficial:</strong> METAL SLUG 3</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="250180">
   <a class="steam-action steam-play" href="steam://run/250180" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -520,7 +623,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2963870</code></span>
       <span><strong>Oficial:</strong> Metal Slug: Awakening</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2963870">
   <a class="steam-action steam-play" href="steam://run/2963870" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -539,7 +644,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>356310</code></span>
       <span><strong>Oficial:</strong> METAL SLUG DEFENSE</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="356310">
   <a class="steam-action steam-play" href="steam://run/356310" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -558,7 +665,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1590760</code></span>
       <span><strong>Oficial:</strong> Metal Slug Tactics</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1590760">
   <a class="steam-action steam-play" href="steam://run/1590760" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -577,7 +686,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>312610</code></span>
       <span><strong>Oficial:</strong> METAL SLUG X</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="312610">
   <a class="steam-action steam-play" href="steam://run/312610" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -596,7 +707,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>975680</code></span>
       <span><strong>Oficial:</strong> METAL SLUG XX</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="975680">
   <a class="steam-action steam-play" href="steam://run/975680" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -615,7 +728,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1061910</code></span>
       <span><strong>Oficial:</strong> Metal: Hellsinger</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1061910">
   <a class="steam-action steam-play" href="steam://run/1061910" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -634,7 +749,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2878270</code></span>
       <span><strong>Oficial:</strong> Metal: Hellsinger VR</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2878270">
   <a class="steam-action steam-play" href="steam://run/2878270" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -653,7 +770,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>43110</code></span>
       <span><strong>Oficial:</strong> Metro 2033</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="43110">
   <a class="steam-action steam-play" href="steam://run/43110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -672,7 +791,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>286690</code></span>
       <span><strong>Oficial:</strong> Metro 2033 Redux</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="286690">
   <a class="steam-action steam-play" href="steam://run/286690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -691,7 +812,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2669410</code></span>
       <span><strong>Oficial:</strong> Metro Awakening</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2669410">
   <a class="steam-action steam-play" href="steam://run/2669410" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -710,7 +833,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>412020</code></span>
       <span><strong>Oficial:</strong> Metro Exodus</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="412020">
   <a class="steam-action steam-play" href="steam://run/412020" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -729,7 +854,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1449560</code></span>
       <span><strong>Oficial:</strong> Metro Exodus</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1449560">
   <a class="steam-action steam-play" href="steam://run/1449560" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -748,7 +875,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>43160</code></span>
       <span><strong>Oficial:</strong> Metro: Last Light Complete Edition</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-clean-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="43160">
   <a class="steam-action steam-play" href="steam://run/43160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -767,7 +896,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>287390</code></span>
       <span><strong>Oficial:</strong> Metro: Last Light Redux</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="287390">
   <a class="steam-action steam-play" href="steam://run/287390" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -786,7 +917,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>314160</code></span>
       <span><strong>Oficial:</strong> Microsoft Flight Simulator X: Steam Edition</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="314160">
   <a class="steam-action steam-play" href="steam://run/314160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -805,7 +938,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>241930</code></span>
       <span><strong>Oficial:</strong> Middle-earth™: Shadow of Mordor™</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="241930">
   <a class="steam-action steam-play" href="steam://run/241930" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -824,7 +959,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>356190</code></span>
       <span><strong>Oficial:</strong> Middle-earth™: Shadow of War™</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="356190">
   <a class="steam-action steam-play" href="steam://run/356190" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -843,12 +980,56 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1299360</code></span>
       <span><strong>Oficial:</strong> Mighty Goose</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1299360">
   <a class="steam-action steam-play" href="steam://run/1299360" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1299360" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1299360" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1875580" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1875580">
+    <img src="../../assets/games/1875580/steam-header.jpg" alt="Mina the Hollower" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1875580">🎮 Mina the Hollower</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1875580</code></span>
+      <span><strong>Oficial:</strong> Mina the Hollower</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1875580">
+  <a class="steam-action steam-play" href="steam://run/1875580" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1875580" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1875580" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1672970" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1672970">
+    <img src="../../assets/games/1672970/steam-header.jpg" alt="Minecraft Dungeons" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1672970">🎮 Minecraft Dungeons</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1672970</code></span>
+      <span><strong>Oficial:</strong> Minecraft Dungeons</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1672970">
+  <a class="steam-action steam-play" href="steam://run/1672970" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1672970" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1672970" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -862,12 +1043,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>481870</code></span>
       <span><strong>Oficial:</strong> Mini Thief</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="481870">
   <a class="steam-action steam-play" href="steam://run/481870" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/481870" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/481870" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-489520" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=489520">
+    <img src="../../assets/games/489520/steam-header.jpg" alt="Minion Masters" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=489520">🎮 Minion Masters</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>489520</code></span>
+      <span><strong>Oficial:</strong> Minion Masters</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="489520">
+  <a class="steam-action steam-play" href="steam://run/489520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/489520" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/489520" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -881,37 +1085,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1657090</code></span>
       <span><strong>Oficial:</strong> Mini Royale</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1657090">
   <a class="steam-action steam-play" href="steam://run/1657090" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1657090" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1657090" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-mod-organizer" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Mod Organizer</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>tool</code></span>
-    </div>
-  </div>
-</article>
-
-<article id="game-meta-monopolycity" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 MonopolyCity</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>game</code></span>
-    </div>
   </div>
 </article>
 
@@ -924,7 +1106,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1446780</code></span>
       <span><strong>Oficial:</strong> MONSTER HUNTER RISE</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1446780">
   <a class="steam-action steam-play" href="steam://run/1446780" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -943,25 +1127,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2246340</code></span>
       <span><strong>Oficial:</strong> Monster Hunter Wilds</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2246340">
   <a class="steam-action steam-play" href="steam://run/2246340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2246340" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2246340" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-monster-hunter-wilds-benchmark" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Monster Hunter Wilds Benchmark</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -974,7 +1148,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>582010</code></span>
       <span><strong>Oficial:</strong> Monster Hunter: World</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="582010">
   <a class="steam-action steam-play" href="steam://run/582010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -993,7 +1169,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>606150</code></span>
       <span><strong>Oficial:</strong> Moonlighter</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="606150">
   <a class="steam-action steam-play" href="steam://run/606150" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1012,12 +1190,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2350790</code></span>
       <span><strong>Oficial:</strong> Moonlighter 2: The Endless Vault</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2350790">
   <a class="steam-action steam-play" href="steam://run/2350790" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2350790" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2350790" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1035110" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1035110">
+    <img src="../../assets/games/1035110/steam-header.jpg" alt="Moonrise Fall" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1035110">🎮 Moonrise Fall</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1035110</code></span>
+      <span><strong>Oficial:</strong> Moonrise Fall</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1035110">
+  <a class="steam-action steam-play" href="steam://run/1035110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1035110" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1035110" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1031,7 +1232,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1658150</code></span>
       <span><strong>Oficial:</strong> Moonstone Island</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1658150">
   <a class="steam-action steam-play" href="steam://run/1658150" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1050,7 +1253,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3364880</code></span>
       <span><strong>Oficial:</strong> Moral Dilemma: The Interview</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3364880">
   <a class="steam-action steam-play" href="steam://run/3364880" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1069,7 +1274,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1971870</code></span>
       <span><strong>Oficial:</strong> Mortal Kombat 1</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1971870">
   <a class="steam-action steam-play" href="steam://run/1971870" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1088,7 +1295,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>976310</code></span>
       <span><strong>Oficial:</strong> Mortal Kombat&#160;11</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="976310">
   <a class="steam-action steam-play" href="steam://run/976310" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1107,7 +1316,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>307780</code></span>
       <span><strong>Oficial:</strong> Mortal Kombat X</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="307780">
   <a class="steam-action steam-play" href="steam://run/307780" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1126,7 +1337,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1625450</code></span>
       <span><strong>Oficial:</strong> Muck</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1625450">
   <a class="steam-action steam-play" href="steam://run/1625450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1145,7 +1358,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1818750</code></span>
       <span><strong>Oficial:</strong> MultiVersus</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1818750">
   <a class="steam-action steam-play" href="steam://run/1818750" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1164,7 +1379,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>638070</code></span>
       <span><strong>Oficial:</strong> Murderous Pursuits</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="638070">
   <a class="steam-action steam-play" href="steam://run/638070" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1183,7 +1400,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>774171</code></span>
       <span><strong>Oficial:</strong> Muse Dash</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="774171">
   <a class="steam-action steam-play" href="steam://run/774171" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1202,7 +1421,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3544930</code></span>
       <span><strong>Oficial:</strong> My life with you</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3544930">
   <a class="steam-action steam-play" href="steam://run/3544930" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1221,7 +1442,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3951230</code></span>
       <span><strong>Oficial:</strong> Myrkwood: Offshoot</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3951230">
   <a class="steam-action steam-play" href="steam://run/3951230" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -1240,7 +1463,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>4015530</code></span>
       <span><strong>Oficial:</strong> MyVoiceZoo</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="4015530">
   <a class="steam-action steam-play" href="steam://run/4015530" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

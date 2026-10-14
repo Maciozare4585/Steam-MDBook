@@ -1,10 +1,31 @@
 # Juegos — R
 
-> Página alfabética compacta. Contiene **52** entradas generadas desde `data/library-catalog.json`.
+> Página alfabética compacta. Contiene **51** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
+<article id="game-meta-2132850" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2132850">
+    <img src="../../assets/games/2132850/steam-header.jpg" alt="Rabbit and Steel" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2132850">🎮 Rabbit and Steel</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2132850</code></span>
+      <span><strong>Oficial:</strong> Rabbit and Steel</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2132850">
+  <a class="steam-action steam-play" href="steam://run/2132850" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2132850" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2132850" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-449630" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=449630">
     <img src="../../assets/games/449630/steam-header.jpg" alt="Rage Parking Simulator 2016" loading="lazy" />
@@ -14,7 +35,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>449630</code></span>
       <span><strong>Oficial:</strong> Rage Parking Simulator 2016</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-added-v6-4-2</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="449630">
   <a class="steam-action steam-play" href="steam://run/449630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -33,7 +56,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>312520</code></span>
       <span><strong>Oficial:</strong> Rain World</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="312520">
   <a class="steam-action steam-play" href="steam://run/312520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -52,12 +77,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2952470</code></span>
       <span><strong>Oficial:</strong> Rat Quest</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2952470">
   <a class="steam-action steam-play" href="steam://run/2952470" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2952470" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2952470" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2071280" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2071280">
+    <img src="../../assets/games/2071280/steam-header.jpg" alt="Ravenswatch" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2071280">🎮 Ravenswatch</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2071280</code></span>
+      <span><strong>Oficial:</strong> Ravenswatch</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2071280">
+  <a class="steam-action steam-play" href="steam://run/2071280" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2071280" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2071280" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -71,7 +119,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2415660</code></span>
       <span><strong>Oficial:</strong> Raventure</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2415660">
   <a class="steam-action steam-play" href="steam://run/2415660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -90,12 +140,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>15080</code></span>
       <span><strong>Oficial:</strong> Rayman Raving Rabbids™</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="15080">
   <a class="steam-action steam-play" href="steam://run/15080" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/15080" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/15080" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2129530" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2129530">
+    <img src="../../assets/games/2129530/steam-header.jpg" alt="REANIMAL" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2129530">🎮 REANIMAL</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2129530</code></span>
+      <span><strong>Oficial:</strong> REANIMAL</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2129530">
+  <a class="steam-action steam-play" href="steam://run/2129530" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2129530" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2129530" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -109,12 +182,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1088790</code></span>
       <span><strong>Oficial:</strong> Rebel Inc: Escalation</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1088790">
   <a class="steam-action steam-play" href="steam://run/1088790" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1088790" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1088790" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1181630" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1181630">
+    <img src="../../assets/games/1181630/steam-header.jpg" alt="Rebel Inc: Escalation - Soundtrack" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1181630">🎮 Rebel Inc: Escalation - Soundtrack</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1181630</code></span>
+      <span><strong>Oficial:</strong> Rebel Inc: Escalation - Soundtrack</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1181630">
+  <a class="steam-action steam-play" href="steam://run/1181630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1181630" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1181630" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -128,7 +224,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1174180</code></span>
       <span><strong>Oficial:</strong> Red Dead Redemption 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1174180">
   <a class="steam-action steam-play" href="steam://run/1174180" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -147,7 +245,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1076600</code></span>
       <span><strong>Oficial:</strong> Red Gate</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1076600">
   <a class="steam-action steam-play" href="steam://run/1076600" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -166,7 +266,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>448070</code></span>
       <span><strong>Oficial:</strong> Red Risk</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="448070">
   <a class="steam-action steam-play" href="steam://run/448070" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -176,39 +278,24 @@
   </div>
 </article>
 
-<article id="game-meta-red-wings" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+<article id="game-meta-2684660" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2684660">
+    <img src="../../assets/games/2684660/steam-header.jpg" alt="REDkit DE THE WITCHER 3" loading="lazy" />
+  </a>
   <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Red Wings</div>
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2684660">🎮 REDkit DE THE WITCHER 3</a></div>
     <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+      <span><strong>App ID:</strong> <code>2684660</code></span>
+      <span><strong>Oficial:</strong> REDkit DE THE WITCHER 3</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
-  </div>
-</article>
-
-<article id="game-meta-redkit-de-the-witcher-3" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 REDkit DE THE WITCHER 3</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
-  </div>
-</article>
-
-<article id="game-meta-refind-self" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Refind Self</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2684660">
+  <a class="steam-action steam-play" href="steam://run/2684660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2684660" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2684660" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
   </div>
 </article>
 
@@ -221,7 +308,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2514960</code></span>
       <span><strong>Oficial:</strong> Refind Self: The Personality Test Game</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2514960">
   <a class="steam-action steam-play" href="steam://run/2514960" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -240,7 +329,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1968320</code></span>
       <span><strong>Oficial:</strong> Relapse</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1968320">
   <a class="steam-action steam-play" href="steam://run/1968320" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -250,15 +341,24 @@
   </div>
 </article>
 
-<article id="game-meta-rem-the-prologue" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+<article id="game-meta-633360" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=633360">
+    <img src="../../assets/games/633360/steam-header.jpg" alt="Remothered: Tormented Fathers" loading="lazy" />
+  </a>
   <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 REM: The Prologue</div>
+    <div class="compact-game-card__title"><a href="../detalle.html?id=633360">🎮 Remothered: Tormented Fathers</a></div>
     <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+      <span><strong>App ID:</strong> <code>633360</code></span>
+      <span><strong>Oficial:</strong> Remothered: Tormented Fathers</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="633360">
+  <a class="steam-action steam-play" href="steam://run/633360" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/633360" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/633360" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
   </div>
 </article>
 
@@ -271,7 +371,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>99300</code></span>
       <span><strong>Oficial:</strong> Renegade Ops</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="99300">
   <a class="steam-action steam-play" href="steam://run/99300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -290,7 +392,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>304240</code></span>
       <span><strong>Oficial:</strong> Resident Evil</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="304240">
   <a class="steam-action steam-play" href="steam://run/304240" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -309,7 +413,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>339340</code></span>
       <span><strong>Oficial:</strong> Resident Evil 0</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="339340">
   <a class="steam-action steam-play" href="steam://run/339340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -328,7 +434,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>883710</code></span>
       <span><strong>Oficial:</strong> Resident Evil 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="883710">
   <a class="steam-action steam-play" href="steam://run/883710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -347,7 +455,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>952060</code></span>
       <span><strong>Oficial:</strong> Resident Evil 3</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="952060">
   <a class="steam-action steam-play" href="steam://run/952060" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -366,7 +476,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2050650</code></span>
       <span><strong>Oficial:</strong> Resident Evil 4</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2050650">
   <a class="steam-action steam-play" href="steam://run/2050650" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -385,7 +497,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>254700</code></span>
       <span><strong>Oficial:</strong> Resident Evil 4 (2005)</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="254700">
   <a class="steam-action steam-play" href="steam://run/254700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -404,7 +518,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>21690</code></span>
       <span><strong>Oficial:</strong> Resident Evil 5</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="21690">
   <a class="steam-action steam-play" href="steam://run/21690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -423,7 +539,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>221040</code></span>
       <span><strong>Oficial:</strong> Resident Evil 6</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="221040">
   <a class="steam-action steam-play" href="steam://run/221040" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -442,7 +560,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>418370</code></span>
       <span><strong>Oficial:</strong> Resident Evil 7 Biohazard</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="418370">
   <a class="steam-action steam-play" href="steam://run/418370" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -461,7 +581,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1236300</code></span>
       <span><strong>Oficial:</strong> Resident Evil Re:Verse</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1236300">
   <a class="steam-action steam-play" href="steam://run/1236300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -480,7 +602,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3764200</code></span>
       <span><strong>Oficial:</strong> Resident Evil Requiem</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3764200">
   <a class="steam-action steam-play" href="steam://run/3764200" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -499,7 +623,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>952070</code></span>
       <span><strong>Oficial:</strong> RESIDENT EVIL RESISTANCE</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="952070">
   <a class="steam-action steam-play" href="steam://run/952070" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -518,7 +644,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>222480</code></span>
       <span><strong>Oficial:</strong> Resident Evil Revelations</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="222480">
   <a class="steam-action steam-play" href="steam://run/222480" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -537,7 +665,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>287290</code></span>
       <span><strong>Oficial:</strong> Resident Evil Revelations 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="287290">
   <a class="steam-action steam-play" href="steam://run/287290" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -556,25 +686,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1196590</code></span>
       <span><strong>Oficial:</strong> Resident Evil Village</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1196590">
   <a class="steam-action steam-play" href="steam://run/1196590" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1196590" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1196590" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-rewire-demo" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 ReWire Demo</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -587,7 +707,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>60</code></span>
       <span><strong>Oficial:</strong> Ricochet</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="60">
   <a class="steam-action steam-play" href="steam://run/60" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -606,7 +728,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2073250</code></span>
       <span><strong>Oficial:</strong> Rift of the NecroDancer</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2073250">
   <a class="steam-action steam-play" href="steam://run/2073250" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -625,7 +749,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>391220</code></span>
       <span><strong>Oficial:</strong> Rise of the Tomb Raider™</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="391220">
   <a class="steam-action steam-play" href="steam://run/391220" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -635,15 +761,24 @@
   </div>
 </article>
 
-<article id="game-meta-rising-storm-red-orchestra-2-multiplayer" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+<article id="game-meta-35450" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=35450">
+    <img src="../../assets/games/35450/steam-header.jpg" alt="Rising Storm/Red Orchestra 2 Multiplayer" loading="lazy" />
+  </a>
   <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Rising Storm/Red Orchestra 2 Multiplayer</div>
+    <div class="compact-game-card__title"><a href="../detalle.html?id=35450">🎮 Rising Storm/Red Orchestra 2 Multiplayer</a></div>
     <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+      <span><strong>App ID:</strong> <code>35450</code></span>
+      <span><strong>Oficial:</strong> Rising Storm/Red Orchestra 2 Multiplayer</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="35450">
+  <a class="steam-action steam-play" href="steam://run/35450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/35450" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/35450" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
   </div>
 </article>
 
@@ -656,7 +791,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>632360</code></span>
       <span><strong>Oficial:</strong> Risk of Rain 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="632360">
   <a class="steam-action steam-play" href="steam://run/632360" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -675,7 +812,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1128810</code></span>
       <span><strong>Oficial:</strong> RISK: Global Domination</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1128810">
   <a class="steam-action steam-play" href="steam://run/1128810" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -694,7 +833,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>383980</code></span>
       <span><strong>Oficial:</strong> Rivals of Aether</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="383980">
   <a class="steam-action steam-play" href="steam://run/383980" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -713,7 +854,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1681430</code></span>
       <span><strong>Oficial:</strong> RoboCop: Rogue City</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1681430">
   <a class="steam-action steam-play" href="steam://run/1681430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -732,7 +875,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1187510</code></span>
       <span><strong>Oficial:</strong> Rock Simulator</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1187510">
   <a class="steam-action steam-play" href="steam://run/1187510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -751,25 +896,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>252950</code></span>
       <span><strong>Oficial:</strong> Rocket League&#174;</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="252950">
   <a class="steam-action steam-play" href="steam://run/252950" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/252950" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/252950" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-rockstar-games-launcher" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Rockstar Games Launcher</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>launcher</code></span>
-    </div>
   </div>
 </article>
 
@@ -782,7 +917,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1303350</code></span>
       <span><strong>Oficial:</strong> Rocky Mayhem</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1303350">
   <a class="steam-action steam-play" href="steam://run/1303350" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -801,7 +938,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>787810</code></span>
       <span><strong>Oficial:</strong> Rogue Heroes: Ruins of Tasos</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="787810">
   <a class="steam-action steam-play" href="steam://run/787810" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -820,7 +959,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>397720</code></span>
       <span><strong>Oficial:</strong> Romance of the Three Kingdoms Maker</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="397720">
   <a class="steam-action steam-play" href="steam://run/397720" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -839,7 +980,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3693260</code></span>
       <span><strong>Oficial:</strong> Room For One!</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3693260">
   <a class="steam-action steam-play" href="steam://run/3693260" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -858,31 +1001,14 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1993830</code></span>
       <span><strong>Oficial:</strong> ROTA: Bend Gravity</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1993830">
   <a class="steam-action steam-play" href="steam://run/1993830" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1993830" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1993830" title="Abrir la página del juego en Steam">Tienda</a>
-</div>
-  </div>
-</article>
-
-<article id="game-meta-220700" class="compact-game-card">
-  <a class="compact-game-card__cover" href="../detalle.html?id=220700">
-    <img src="../../assets/games/220700/steam-header.jpg" alt="RPG Maker VX Ace" loading="lazy" />
-  </a>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title"><a href="../detalle.html?id=220700">🎮 RPG Maker VX Ace</a></div>
-    <div class="compact-game-card__meta">
-      <span><strong>App ID:</strong> <code>220700</code></span>
-      <span><strong>Oficial:</strong> RPG Maker VX Ace</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
-    </div>
-    <div class="steam-actions steam-actions--compact" data-steam-appid="220700">
-  <a class="steam-action steam-play" href="steam://run/220700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
-  <a class="steam-action steam-install" href="steam://install/220700" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
-  <a class="steam-action steam-store" href="https://store.steampowered.com/app/220700" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -896,7 +1022,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1206610</code></span>
       <span><strong>Oficial:</strong> Rubber Bandits</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1206610">
   <a class="steam-action steam-play" href="steam://run/1206610" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -915,7 +1043,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3807810</code></span>
       <span><strong>Oficial:</strong> Ruby and The Lost Crystals</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3807810">
   <a class="steam-action steam-play" href="steam://run/3807810" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -934,7 +1064,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>302510</code></span>
       <span><strong>Oficial:</strong> Ryse: Son of Rome</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="302510">
   <a class="steam-action steam-play" href="steam://run/302510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

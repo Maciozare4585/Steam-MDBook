@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "title": "15. 🎮 Fichas independientes de juegos clave",
+    "slug": "15-fichas-independientes-de-juegos-clave",
+    "reason": "noise eliminado en V6.4.2"
+  },
+  {
+    "title": "Fichas extendidas",
+    "slug": "fichas-extendidas",
+    "reason": "target heading/noise"
+  },
+  {
+    "title": "Galería automática de assets",
+    "slug": "galer-a-autom-tica-de-assets",
+    "reason": "noise eliminado en V6.4.2"
+  },
+  {
+    "title": "Juegos",
+    "slug": "juegos",
+    "reason": "heading/noise detectado"
+  },
+  {
+    "title": "Páginas base",
+    "slug": "p-ginas-base",
+    "reason": "noise eliminado en V6.4.2"
+  },
+  {
+    "title": "V. Juegos clave",
+    "slug": "v-juegos-clave",
+    "reason": "target heading/noise"
+  }
+]

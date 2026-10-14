@@ -1214,23 +1214,3 @@ blockquote,
   font-size: 2rem;
   opacity: .75;
 }
-
-/* V6.6.12: entradas de catálogo sin Steam App ID */
-.compact-game-card--catalog-only {
-  opacity: .96;
-}
-
-.compact-game-card__cover--placeholder {
-  min-height: 110px;
-  border-radius: 13px;
-  display: grid;
-  place-items: center;
-  font-size: 2.3rem;
-  background: var(--steam-surface-image);
-  border: 1px dashed var(--steam-border-soft);
-}
-
-.compact-registry-link--catalog-only {
-  color: var(--fg);
-  opacity: .82;
-}

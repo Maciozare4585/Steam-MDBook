@@ -1,6 +1,6 @@
 {
-  "version": "6.6.0",
-  "updatedAt": "2026-05-07T23:59:00Z",
+  "version": "6.6.14",
+  "updatedAt": "2026-08-17T13:50:00-06:00",
   "ruleModes": {
     "auto": "se puede aplicar automáticamente",
     "suggest": "se recomienda y requiere confirmación",
@@ -22,6 +22,26 @@
         ],
         "anyGenres": [
           "Rhythm"
+        ]
+      }
+    },
+    {
+      "id": "suggest-cartas-deckbuilder",
+      "collection": "Cartas / Deckbuilder",
+      "mode": "suggest",
+      "priority": 80,
+      "conditions": {
+        "anyTags": [
+          "Deckbuilding",
+          "Card Game",
+          "Trading Card Game",
+          "Card Battler",
+          "deckbuilder",
+          "cartas",
+          "mazo"
+        ],
+        "anyGenres": [
+          "Card Game"
         ]
       }
     },

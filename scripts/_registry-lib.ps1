@@ -167,14 +167,7 @@ function Load-JsonFile($Path, $Default) {
 function Save-JsonFile($Path, $Data, [int]$Depth = 12) {
     $dir = Split-Path $Path -Parent
     if ($dir -and -not (Test-Path $dir)) { New-Item -ItemType Directory -Path $dir | Out-Null }
-
-    # ConvertTo-Json por pipeline puede dejar archivos vacíos cuando el input es @().
-    # Usar -InputObject conserva correctamente [] para arrays vacíos.
-    if ($null -eq $Data) { $json = "null" }
-    else { $json = ConvertTo-Json -InputObject $Data -Depth $Depth }
-
-    if ([string]::IsNullOrWhiteSpace($json)) { $json = "[]" }
-    Set-Content $Path -Value $json -Encoding UTF8
+    $Data | ConvertTo-Json -Depth $Depth | Set-Content $Path -Encoding UTF8
 }
 
 function Convert-ObjectToHashtable($Obj) {
@@ -199,61 +192,14 @@ function Test-MarkdownSeparatorRow($Cells) {
     return $true
 }
 
-function Get-SummaryMarkdownFiles {
-    param(
-        [string]$SummaryPath = ".\src\SUMMARY.md",
-        [switch]$AllMarkdownFiles
-    )
+function Get-MarkdownTargets {
+    $targets = @()
 
-    if ($AllMarkdownFiles -or -not (Test-Path $SummaryPath)) {
-        return @(Get-ChildItem ".\src" -Recurse -Filter "*.md" | Where-Object {
-            $_.FullName -notmatch "\\assets\\" -and
-            $_.FullName -notmatch "\\07-juegos\\" -and
-            $_.FullName -notmatch "\\06-mantenimiento\\"
-        })
-    }
-
-    $summaryDir = Split-Path (Resolve-Path $SummaryPath).Path -Parent
-    $summary = Get-Content $SummaryPath -Raw -Encoding UTF8
-    $matches = [regex]::Matches($summary, '\[[^\]]+\]\(([^)]+\.md)\)')
-    $files = New-Object System.Collections.Generic.List[object]
-    $seen = @{}
-
-    foreach ($m in $matches) {
-        $rel = [System.Net.WebUtility]::HtmlDecode($m.Groups[1].Value).Trim()
-        if ([string]::IsNullOrWhiteSpace($rel)) { continue }
-        if ($rel -match '^(https?:|mailto:|#)') { continue }
-        if ($rel -match '^07-juegos/' -or $rel -match '^06-mantenimiento/' -or $rel -match '/assets/') { continue }
-
-        $candidate = Join-Path $summaryDir $rel
-        if (-not (Test-Path $candidate)) { continue }
-
-        $item = Get-Item $candidate
-        $full = $item.FullName
-        if ($full -match "\\assets\\" -or $full -match "\\07-juegos\\" -or $full -match "\\06-mantenimiento\\") { continue }
-        if (-not $seen.ContainsKey($full)) {
-            $seen[$full] = $true
-            $files.Add($item)
-        }
-    }
-
-    if ($files.Count -gt 0) { return @($files.ToArray()) }
-
-    return @(Get-ChildItem ".\src" -Recurse -Filter "*.md" | Where-Object {
+    $files = Get-ChildItem ".\src" -Recurse -Filter "*.md" | Where-Object {
         $_.FullName -notmatch "\\assets\\" -and
         $_.FullName -notmatch "\\07-juegos\\" -and
         $_.FullName -notmatch "\\06-mantenimiento\\"
-    })
-}
-
-function Get-MarkdownTargets {
-    param(
-        [switch]$AllMarkdownFiles,
-        [string]$SummaryPath = ".\src\SUMMARY.md"
-    )
-
-    $targets = @()
-    $files = Get-SummaryMarkdownFiles -SummaryPath $SummaryPath -AllMarkdownFiles:$AllMarkdownFiles
+    }
 
     foreach ($file in $files) {
         $content = Get-Content $file.FullName -Raw -Encoding UTF8
@@ -264,8 +210,7 @@ function Get-MarkdownTargets {
 
             $gameColumn = -1
             for ($c = 0; $c -lt $headerCells.Count; $c++) {
-                $headerName = Normalize-Title (Clean-DisplayTitle $headerCells[$c])
-                if ($headerName -in @("juego", "elemento")) {
+                if ((Normalize-Title (Clean-DisplayTitle $headerCells[$c])) -eq "juego") {
                     $gameColumn = $c
                     break
                 }
@@ -277,14 +222,13 @@ function Get-MarkdownTargets {
                 if (-not $cells) { break }
                 if (Test-MarkdownSeparatorRow $cells) { continue }
                 if ($gameColumn -ge $cells.Count) { continue }
-
                 $title = Clean-DisplayTitle $cells[$gameColumn]
                 if ($title -and -not (Test-HeadingNoise $title) -and $title -notmatch "COMPLETAR|Variable|Casa principal") {
                     $targets += [pscustomobject]@{
                         title = $title
                         slug = New-Slug $title
                         steamAppId = ""
-                        priority = "discovered-markdown"
+                        priority = "discovered-table"
                         source = (ConvertTo-ProjectRelativePath $file.FullName)
                     }
                 }
@@ -295,17 +239,7 @@ function Get-MarkdownTargets {
     $dedup = @{}
     foreach ($t in $targets) {
         $key = Normalize-Title $t.title
-        if ([string]::IsNullOrWhiteSpace($key)) { continue }
         if (-not $dedup.ContainsKey($key)) { $dedup[$key] = $t }
-        else {
-            $existing = $dedup[$key]
-            $sources = @()
-            if ($existing.source) { $sources += @($existing.source) }
-            if ($existing.sources) { $sources += @($existing.sources) }
-            if ($t.source) { $sources += @($t.source) }
-            $sources = @($sources | Where-Object { $_ } | Select-Object -Unique)
-            $existing | Add-Member -NotePropertyName sources -NotePropertyValue $sources -Force
-        }
     }
     return @($dedup.Values)
 }

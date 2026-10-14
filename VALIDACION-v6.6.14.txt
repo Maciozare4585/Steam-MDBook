@@ -1,0 +1,19 @@
+Steam-MDBook V6.6.14 — validación local
+Fecha: 2026-08-17
+
+Cambios:
+- Arcade / Casual / Rápido: 28/28
+- Cozy / Vida tranquila: 8/8
+- Narrativa primero / experiencia: 37/37
+- YYY) Historia / Puzzle / Coop: 21/21
+- Terror movido a Nivel 3: 34/34
+- Cartas / Deckbuilder creada en Nivel 2: 9/9
+
+Integridad:
+- SUMMARY.md: 0 enlaces internos faltantes
+- Metadata: 9 juegos marcados en Cartas / Deckbuilder
+- Colecciones numeradas: sin cambios en V6.6.14
+- XXX) Internet: pendiente de diseño, no creada
+- YYY Local/Online: pendiente de diseño, no creada
+
+Nota: mdbook binario no está disponible en este entorno; se validaron rutas, conteos y archivos fuente/generados.

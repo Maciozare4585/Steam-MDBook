@@ -1,6 +1,6 @@
 # Juegos — F
 
-> Página alfabética compacta. Contiene **40** entradas generadas desde `data/library-catalog.json`.
+> Página alfabética compacta. Contiene **36** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,7 +14,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>21090</code></span>
       <span><strong>Oficial:</strong> F.E.A.R.</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="21090">
   <a class="steam-action steam-play" href="steam://run/21090" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -33,7 +35,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>16450</code></span>
       <span><strong>Oficial:</strong> F.E.A.R. 2: Project Origin</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="16450">
   <a class="steam-action steam-play" href="steam://run/16450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -52,7 +56,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>21100</code></span>
       <span><strong>Oficial:</strong> F.E.A.R. 3</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="21100">
   <a class="steam-action steam-play" href="steam://run/21100" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -71,7 +77,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>21110</code></span>
       <span><strong>Oficial:</strong> F.E.A.R.</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="21110">
   <a class="steam-action steam-play" href="steam://run/21110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -90,7 +98,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>21120</code></span>
       <span><strong>Oficial:</strong> F.E.A.R.</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="21120">
   <a class="steam-action steam-play" href="steam://run/21120" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -109,7 +119,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>286570</code></span>
       <span><strong>Oficial:</strong> F1 2015</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="286570">
   <a class="steam-action steam-play" href="steam://run/286570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -128,7 +140,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>38400</code></span>
       <span><strong>Oficial:</strong> Fallout: A Post Nuclear Role Playing Game</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="38400">
   <a class="steam-action steam-play" href="steam://run/38400" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -147,7 +161,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>38410</code></span>
       <span><strong>Oficial:</strong> Fallout 2: A Post Nuclear Role Playing Game</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="38410">
   <a class="steam-action steam-play" href="steam://run/38410" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -166,7 +182,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>22370</code></span>
       <span><strong>Oficial:</strong> Fallout 3: Game of the Year Edition</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="22370">
   <a class="steam-action steam-play" href="steam://run/22370" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -185,7 +203,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>377160</code></span>
       <span><strong>Oficial:</strong> Fallout 4</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="377160">
   <a class="steam-action steam-play" href="steam://run/377160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -204,7 +224,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>611660</code></span>
       <span><strong>Oficial:</strong> Fallout 4 VR</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="611660">
   <a class="steam-action steam-play" href="steam://run/611660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -223,25 +245,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1151340</code></span>
       <span><strong>Oficial:</strong> Fallout 76</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1151340">
   <a class="steam-action steam-play" href="steam://run/1151340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1151340" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1151340" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-fallout-76-public-test-server" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Fallout 76 Public Test Server</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -254,7 +266,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>588430</code></span>
       <span><strong>Oficial:</strong> Fallout Shelter</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="588430">
   <a class="steam-action steam-play" href="steam://run/588430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -273,7 +287,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>22380</code></span>
       <span><strong>Oficial:</strong> Fallout: New Vegas</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="22380">
   <a class="steam-action steam-play" href="steam://run/22380" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -292,7 +308,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>220240</code></span>
       <span><strong>Oficial:</strong> Far Cry 3</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="220240">
   <a class="steam-action steam-play" href="steam://run/220240" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -311,7 +329,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>246840</code></span>
       <span><strong>Oficial:</strong> FATE</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="246840">
   <a class="steam-action steam-play" href="steam://run/246840" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -330,7 +350,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>303690</code></span>
       <span><strong>Oficial:</strong> FATE: The Cursed King</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="303690">
   <a class="steam-action steam-play" href="steam://run/303690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -349,7 +371,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>303680</code></span>
       <span><strong>Oficial:</strong> FATE: The Traitor Soul</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="303680">
   <a class="steam-action steam-play" href="steam://run/303680" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -368,25 +392,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>276890</code></span>
       <span><strong>Oficial:</strong> FATE: Undiscovered Realms</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="276890">
   <a class="steam-action steam-play" href="steam://run/276890" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/276890" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/276890" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-fate-samurai-remnant-demo" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Fate/Samurai Remnant DEMO</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -399,25 +413,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>538100</code></span>
       <span><strong>Oficial:</strong> Feel The Snow</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="538100">
   <a class="steam-action steam-play" href="steam://run/538100" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/538100" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/538100" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-fiends-of-imprisonment" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Fiends of Imprisonment</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -430,25 +434,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>674520</code></span>
       <span><strong>Oficial:</strong> Fight&#39;N Rage</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="674520">
   <a class="steam-action steam-play" href="steam://run/674520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/674520" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/674520" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-fightcade1" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Fightcade1</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>emulator</code></span>
-    </div>
   </div>
 </article>
 
@@ -461,7 +455,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3837340</code></span>
       <span><strong>Oficial:</strong> FINAL FANTASY VII</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3837340">
   <a class="steam-action steam-play" href="steam://run/3837340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -480,7 +476,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>39140</code></span>
       <span><strong>Oficial:</strong> FINAL FANTASY VII</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="39140">
   <a class="steam-action steam-play" href="steam://run/39140" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -499,7 +497,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2909400</code></span>
       <span><strong>Oficial:</strong> FINAL FANTASY VII REBIRTH</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2909400">
   <a class="steam-action steam-play" href="steam://run/2909400" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -518,7 +518,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1462040</code></span>
       <span><strong>Oficial:</strong> FINAL FANTASY VII REMAKE INTERGRADE</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1462040">
   <a class="steam-action steam-play" href="steam://run/1462040" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -537,7 +539,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3222970</code></span>
       <span><strong>Oficial:</strong> Find 100 Ducks and Blast Them!</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3222970">
   <a class="steam-action steam-play" href="steam://run/3222970" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -556,7 +560,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>732690</code></span>
       <span><strong>Oficial:</strong> FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="732690">
   <a class="steam-action steam-play" href="steam://run/732690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -575,7 +581,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1799370</code></span>
       <span><strong>Oficial:</strong> Flash Party</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1799370">
   <a class="steam-action steam-play" href="steam://run/1799370" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -594,7 +602,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1314460</code></span>
       <span><strong>Oficial:</strong> Flicker of Hope</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1314460">
   <a class="steam-action steam-play" href="steam://run/1314460" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -613,25 +623,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>304390</code></span>
       <span><strong>Oficial:</strong> FOR HONOR™</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="304390">
   <a class="steam-action steam-play" href="steam://run/304390" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/304390" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/304390" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-for-honor-public-test" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 For Honor - Public Test</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -644,7 +644,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>751780</code></span>
       <span><strong>Oficial:</strong> Forager</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="751780">
   <a class="steam-action steam-play" href="steam://run/751780" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -663,12 +665,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1293830</code></span>
       <span><strong>Oficial:</strong> Forza Horizon 4</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1293830">
   <a class="steam-action steam-play" href="steam://run/1293830" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1293830" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1293830" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-883680" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=883680">
+    <img src="../../assets/games/883680/steam-header.jpg" alt="Four Kings One War" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=883680">🎮 Four Kings One War</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>883680</code></span>
+      <span><strong>Oficial:</strong> Four Kings One War</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="883680">
+  <a class="steam-action steam-play" href="steam://run/883680" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/883680" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/883680" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -682,7 +707,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2021910</code></span>
       <span><strong>Oficial:</strong> FPS Chess</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2021910">
   <a class="steam-action steam-play" href="steam://run/2021910" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -701,7 +728,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2943650</code></span>
       <span><strong>Oficial:</strong> FragPunk</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2943650">
   <a class="steam-action steam-play" href="steam://run/2943650" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -720,7 +749,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>486780</code></span>
       <span><strong>Oficial:</strong> Fruit Ninja VR</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="486780">
   <a class="steam-action steam-play" href="steam://run/486780" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>

@@ -17,7 +17,6 @@ Ese énfasis no representa a toda la biblioteca familiar: representa la lectura 
 | [Fichas independientes](fichas-independientes.md) | Resumen tabular de juegos personales relevantes |
 | [Favoritos de Daniel](favoritos.md) | Capa personal de favoritos |
 | [Backlog personal de Daniel](backlog-personal.md) | Prioridades y pendientes de Daniel |
-| [Bitácora de avance](bitacora-avance.md) | Avance exacto, próximos pasos y retomabilidad por juego |
 | [Selector por mood de Daniel](selector-por-mood.md) | Herramienta para decidir qué jugar según energía o antojo |
 
 ## Criterio

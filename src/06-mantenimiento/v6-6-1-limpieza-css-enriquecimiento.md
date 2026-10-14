@@ -13,7 +13,7 @@ Existían dos archivos que no figuraban en `SUMMARY.md` y eran versiones antigua
 - `src/02-colecciones/experiencias/06-vr-16-juegos.md` → archivado en `src/_orphaned/`
 - `src/02-colecciones/sociales/02-yyy-party-versus-mesa-32-juegos.md` → archivado en `src/_orphaned/`
 
-En ese corte, los archivos activos eran `06-vr-17-juegos.md` y `02-yyy-party-versus-mesa-33-juegos.md`. En versiones posteriores, VR fue actualizado a `06-vr-21-juegos.md`.
+Los archivos activos son `06-vr-17-juegos.md` y `02-yyy-party-versus-mesa-33-juegos.md`.
 
 ### Fallback de imagen en ficha dinámica
 

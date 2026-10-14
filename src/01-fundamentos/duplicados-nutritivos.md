@@ -5,7 +5,7 @@ Un duplicado es válido cuando **cambia la forma de elegir un juego**.
 | Juego | Casa principal | Duplicado nutritivo | Motivo |
 |---|---|---|---|
 | XCOM 2 | XCOM | ♟️ Táctico por turnos | Filtro mecánico claro |
-| Portal 2 | Portal | 🤝 YYY) Historia / Puzzle | Co-op/puzzle lo justifica |
+| Portal 2 | Portal | 🤝 YYY) Historia / Puzzle / Coop | Co-op/puzzle lo justifica |
 | Monster Hunter: World | Monster Hunter | 🤝 YYY) PvE / Acción | Jugarlo con gente cambia el uso |
 | Yu-Gi-Oh! Master Duel | Yu-Gi-Oh! | 🌐 Internet Persistente | Online/live-service |
 | The Witcher 3 | The Witcher | ⭐ Favoritos / 🔁 Toca replay / 🏁 Terminado | Valor personal e historial |
@@ -17,7 +17,7 @@ No duplicar solo porque:
 | Tiene campaña | Ensucia Campaña |
 | Tiene disparos | Ensucia Shooter |
 | Tiene zombies | Ensucia tema Zombies |
-| Es narrativo | Ensucia Narrativos / Experiencia |
+| Es narrativo | Ensucia Narrativa primero / experiencia |
 | Técnicamente encaja | No necesariamente ayuda a elegir |
 
 ---

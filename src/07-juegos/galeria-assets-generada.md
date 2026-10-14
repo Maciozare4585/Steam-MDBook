@@ -2,7 +2,7 @@
 
 > Página generada desde `data/steam-games-registry.json`.
 
-Total de juegos con metadata: **966**.
+Total de juegos con metadata: **1116**.
 
 Esta página es una galería técnica/global. No pertenece a ningún perfil personal. Para navegar con contexto, usa las colecciones; para ver metadatos, haz click en una tarjeta.
 
@@ -41,6 +41,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/322110/steam-header.jpg" alt="20XX" loading="lazy" />
   <span>20XX</span>
   <small>322110 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=958520" title="33 Immortals">
+  <img src="../assets/games/958520/steam-header.jpg" alt="33 Immortals" loading="lazy" />
+  <span>33 Immortals</span>
+  <small>958520 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=2466890" title="3D PUZZLE - Medieval Inn">
   <img src="../assets/games/2466890/steam-header.jpg" alt="3D PUZZLE - Medieval Inn" loading="lazy" />
@@ -86,6 +91,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1222700/steam-header.jpg" alt="A Way Out" loading="lazy" />
   <span>A Way Out</span>
   <small>1222700 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1904480" title="Absolum">
+  <img src="../assets/games/1904480/steam-header.jpg" alt="Absolum" loading="lazy" />
+  <span>Absolum</span>
+  <small>1904480 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=728240" title="Adventure Time: Pirates of the Enchiridion">
   <img src="../assets/games/728240/steam-header.jpg" alt="Adventure Time: Pirates of the Enchiridion" loading="lazy" />
@@ -147,6 +157,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Alice: Madness Returns</span>
   <small>19680 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=211010" title="Alien Shooter 2 Conscription">
+  <img src="../assets/games/211010/steam-header.jpg" alt="Alien Shooter 2 Conscription" loading="lazy" />
+  <span>Alien Shooter 2 Conscription</span>
+  <small>211010 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=563560" title="Alien Swarm: Reactive Drop">
   <img src="../assets/games/563560/steam-header.jpg" alt="Alien Swarm: Reactive Drop" loading="lazy" />
   <span>Alien Swarm: Reactive Drop</span>
@@ -182,6 +197,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Analog - Skin off</span>
   <small>3544080 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=367270" title="Angels Fall First">
+  <img src="../assets/games/367270/steam-header.jpg" alt="Angels Fall First" loading="lazy" />
+  <span>Angels Fall First</span>
+  <small>367270 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1368030" title="ANNO: Mutationem">
   <img src="../assets/games/1368030/steam-header.jpg" alt="ANNO: Mutationem" loading="lazy" />
   <span>ANNO: Mutationem</span>
@@ -201,6 +221,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1172470/steam-header.jpg" alt="Apex Legends" loading="lazy" />
   <span>Apex Legends</span>
   <small>1172470 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3744480" title="Arabian Gulf">
+  <img src="../assets/games/3744480/steam-header.jpg" alt="Arabian Gulf" loading="lazy" />
+  <span>Arabian Gulf</span>
+  <small>3744480 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=346110" title="ARK: Survival Evolved">
   <img src="../assets/games/346110/steam-header.jpg" alt="ARK: Survival Evolved" loading="lazy" />
@@ -252,10 +277,20 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Assassin’s Creed Unity</span>
   <small>289650 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2208920" title="Assassin’s Creed Valhalla">
+  <img src="../assets/games/2208920/steam-header.jpg" alt="Assassin’s Creed Valhalla" loading="lazy" />
+  <span>Assassin’s Creed Valhalla</span>
+  <small>2208920 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=244210" title="Assetto Corsa">
   <img src="../assets/games/244210/steam-header.jpg" alt="Assetto Corsa" loading="lazy" />
   <span>Assetto Corsa</span>
   <small>244210 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1761070" title="ASTLIBRA ～生きた証～ Revision Demo">
+  <img src="../assets/games/1761070/steam-header.jpg" alt="ASTLIBRA ～生きた証～ Revision Demo" loading="lazy" />
+  <span>ASTLIBRA ～生きた証～ Revision Demo</span>
+  <small>1761070 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=361420" title="ASTRONEER">
   <img src="../assets/games/361420/steam-header.jpg" alt="ASTRONEER" loading="lazy" />
@@ -417,6 +452,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Billies Wheelie</span>
   <small>3180310 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=203750" title="Binary Domain">
+  <img src="../assets/games/203750/steam-header.jpg" alt="Binary Domain" loading="lazy" />
+  <span>Binary Domain</span>
+  <small>203750 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=7670" title="BioShock">
   <img src="../assets/games/7670/steam-header.jpg" alt="BioShock" loading="lazy" />
   <span>BioShock</span>
@@ -457,6 +497,16 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Black Mesa</span>
   <small>362890 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2358720" title="Black Myth: Wukong">
+  <img src="../assets/games/2358720/steam-header.jpg" alt="Black Myth: Wukong" loading="lazy" />
+  <span>Black Myth: Wukong</span>
+  <small>2358720 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=729660" title="Blackout Z: Slaughterhouse Edition">
+  <img src="../assets/games/729660/steam-header.jpg" alt="Blackout Z: Slaughterhouse Edition" loading="lazy" />
+  <span>Blackout Z: Slaughterhouse Edition</span>
+  <small>729660 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=774361" title="Blasphemous">
   <img src="../assets/games/774361/steam-header.jpg" alt="Blasphemous" loading="lazy" />
   <span>Blasphemous</span>
@@ -471,6 +521,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/649190/steam-header.jpg" alt="Blast Zone! Tournament" loading="lazy" />
   <span>Blast Zone! Tournament</span>
   <small>649190 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3199170" title="BLOODSTRIKE">
+  <img src="../assets/games/3199170/steam-header.jpg" alt="BLOODSTRIKE" loading="lazy" />
+  <span>BLOODSTRIKE</span>
+  <small>3199170 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=960090" title="Bloons TD 6">
   <img src="../assets/games/960090/steam-header.jpg" alt="Bloons TD 6" loading="lazy" />
@@ -491,6 +546,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1282150/steam-header.jpg" alt="Bob Esponja: The Cosmic Shake" loading="lazy" />
   <span>Bob Esponja: The Cosmic Shake</span>
   <small>1282150 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=4747510" title="BOMBANANA! Demo">
+  <img src="../assets/games/4747510/steam-header.jpg" alt="BOMBANANA! Demo" loading="lazy" />
+  <span>BOMBANANA! Demo</span>
+  <small>4747510 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=49520" title="Borderlands 2">
   <img src="../assets/games/49520/steam-header.jpg" alt="Borderlands 2" loading="lazy" />
@@ -522,6 +582,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Borderlands: The Pre-Sequel</span>
   <small>261640 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1623940" title="Bramble: The Mountain King">
+  <img src="../assets/games/1623940/steam-header.jpg" alt="Bramble: The Mountain King" loading="lazy" />
+  <span>Bramble: The Mountain King</span>
+  <small>1623940 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=285800" title="Braveland">
   <img src="../assets/games/285800/steam-header.jpg" alt="Braveland" loading="lazy" />
   <span>Braveland</span>
@@ -537,10 +602,20 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Bread &amp; Fred</span>
   <small>1607680 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=738520" title="Breathedge">
+  <img src="../assets/games/738520/steam-header.jpg" alt="Breathedge" loading="lazy" />
+  <span>Breathedge</span>
+  <small>738520 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=274190" title="Broforce">
   <img src="../assets/games/274190/steam-header.jpg" alt="Broforce" loading="lazy" />
   <span>Broforce</span>
   <small>274190 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=696370" title="BROKE PROTOCOL">
+  <img src="../assets/games/696370/steam-header.jpg" alt="BROKE PROTOCOL" loading="lazy" />
+  <span>BROKE PROTOCOL</span>
+  <small>696370 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=4422650" title="Broken Voyage">
   <img src="../assets/games/4422650/steam-header.jpg" alt="Broken Voyage" loading="lazy" />
@@ -551,6 +626,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/3617560/steam-header.jpg" alt="Buck Trucker in Rowdy Business" loading="lazy" />
   <span>Buck Trucker in Rowdy Business</span>
   <small>3617560 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2413660" title="Bucket Brawl: Ahlman Edition">
+  <img src="../assets/games/2413660/steam-header.jpg" alt="Bucket Brawl: Ahlman Edition" loading="lazy" />
+  <span>Bucket Brawl: Ahlman Edition</span>
+  <small>2413660 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=2835570" title="Buckshot Roulette">
   <img src="../assets/games/2835570/steam-header.jpg" alt="Buckshot Roulette" loading="lazy" />
@@ -587,6 +667,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Car Dealer Simulator: Prologue</span>
   <small>3115010 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=645630" title="Car Mechanic Simulator 2018">
+  <img src="../assets/games/645630/steam-header.jpg" alt="Car Mechanic Simulator 2018" loading="lazy" />
+  <span>Car Mechanic Simulator 2018</span>
+  <small>645630 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=953490" title="CARRION">
   <img src="../assets/games/953490/steam-header.jpg" alt="CARRION" loading="lazy" />
   <span>CARRION</span>
@@ -621,6 +706,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/544730/steam-header.jpg" alt="Catan Universe" loading="lazy" />
   <span>Catan Universe</span>
   <small>544730 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3569430" title="Catgirl">
+  <img src="../assets/games/3569430/steam-header.jpg" alt="Catgirl" loading="lazy" />
+  <span>Catgirl</span>
+  <small>3569430 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=1999520" title="CATO: Buttered Cat">
   <img src="../assets/games/1999520/steam-header.jpg" alt="CATO: Buttered Cat" loading="lazy" />
@@ -672,6 +762,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Chompy Chomp Chomp</span>
   <small>292570 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1766740" title="Choo-Choo Charles">
+  <img src="../assets/games/1766740/steam-header.jpg" alt="Choo-Choo Charles" loading="lazy" />
+  <span>Choo-Choo Charles</span>
+  <small>1766740 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=251130" title="Chroma Squad">
   <img src="../assets/games/251130/steam-header.jpg" alt="Chroma Squad" loading="lazy" />
   <span>Chroma Squad</span>
@@ -696,6 +791,26 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1903340/steam-header.jpg" alt="Clair Obscur: Expedition 33" loading="lazy" />
   <span>Clair Obscur: Expedition 33</span>
   <small>1903340 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3873750" title="Clair Obscur: Expedition 33 – Nos Vies En Lumi&#232;re (Bonus Edition)">
+  <img src="../assets/games/3873750/steam-header.jpg" alt="Clair Obscur: Expedition 33 – Nos Vies En Lumi&#232;re (Bonus Edition)" loading="lazy" />
+  <span>Clair Obscur: Expedition 33 – Nos Vies En Lumi&#232;re (Bonus Edition)</span>
+  <small>3873750 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2398450" title="Classic Marathon">
+  <img src="../assets/games/2398450/steam-header.jpg" alt="Classic Marathon" loading="lazy" />
+  <span>Classic Marathon</span>
+  <small>2398450 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2398490" title="Classic Marathon 2">
+  <img src="../assets/games/2398490/steam-header.jpg" alt="Classic Marathon 2" loading="lazy" />
+  <span>Classic Marathon 2</span>
+  <small>2398490 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2398520" title="Classic Marathon Infinity">
+  <img src="../assets/games/2398520/steam-header.jpg" alt="Classic Marathon Infinity" loading="lazy" />
+  <span>Classic Marathon Infinity</span>
+  <small>2398520 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=228200" title="Company of Heroes">
   <img src="../assets/games/228200/steam-header.jpg" alt="Company of Heroes" loading="lazy" />
@@ -787,6 +902,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Crown Champion: Legends of the Arena</span>
   <small>527710 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=203770" title="Crusader Kings II">
+  <img src="../assets/games/203770/steam-header.jpg" alt="Crusader Kings II" loading="lazy" />
+  <span>Crusader Kings II</span>
+  <small>203770 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=247080" title="Crypt of the NecroDancer">
   <img src="../assets/games/247080/steam-header.jpg" alt="Crypt of the NecroDancer" loading="lazy" />
   <span>Crypt of the NecroDancer</span>
@@ -827,6 +947,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Cyberpunk 2077</span>
   <small>1091500 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1495710" title="Cyberpunk 2077 Bonus Content">
+  <img src="../assets/games/1495710/steam-header.jpg" alt="Cyberpunk 2077 Bonus Content" loading="lazy" />
+  <span>Cyberpunk 2077 Bonus Content</span>
+  <small>1495710 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2635670" title="Cycle Idle RPG">
   <img src="../assets/games/2635670/steam-header.jpg" alt="Cycle Idle RPG" loading="lazy" />
   <span>Cycle Idle RPG</span>
@@ -847,6 +972,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Dark Roll</span>
   <small>962810 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=29900" title="Dark Sector">
+  <img src="../assets/games/29900/steam-header.jpg" alt="Dark Sector" loading="lazy" />
+  <span>Dark Sector</span>
+  <small>29900 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=570940" title="DARK SOULS REMASTERED">
   <img src="../assets/games/570940/steam-header.jpg" alt="DARK SOULS REMASTERED" loading="lazy" />
   <span>DARK SOULS REMASTERED</span>
@@ -856,6 +986,21 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/262060/steam-header.jpg" alt="Darkest Dungeon" loading="lazy" />
   <span>Darkest Dungeon</span>
   <small>262060 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1940340" title="Darkest Dungeon&#174; II">
+  <img src="../assets/games/1940340/steam-header.jpg" alt="Darkest Dungeon&#174; II" loading="lazy" />
+  <span>Darkest Dungeon&#174; II</span>
+  <small>1940340 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3064700" title="Darkest Dungeon&#174; II: Mod Tools">
+  <img src="../assets/games/3064700/steam-header.jpg" alt="Darkest Dungeon&#174; II: Mod Tools" loading="lazy" />
+  <span>Darkest Dungeon&#174; II: Mod Tools</span>
+  <small>3064700 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=274520" title="Darkwood">
+  <img src="../assets/games/274520/steam-header.jpg" alt="Darkwood" loading="lazy" />
+  <span>Darkwood</span>
+  <small>274520 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=490860" title="DashBored">
   <img src="../assets/games/490860/steam-header.jpg" alt="DashBored" loading="lazy" />
@@ -976,6 +1121,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/40/steam-header.jpg" alt="Deathmatch Classic" loading="lazy" />
   <span>Deathmatch Classic</span>
   <small>40 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2778430" title="Deconstruction Simulator: Prologue">
+  <img src="../assets/games/2778430/steam-header.jpg" alt="Deconstruction Simulator: Prologue" loading="lazy" />
+  <span>Deconstruction Simulator: Prologue</span>
+  <small>2778430 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=548430" title="Deep Rock Galactic">
   <img src="../assets/games/548430/steam-header.jpg" alt="Deep Rock Galactic" loading="lazy" />
@@ -1102,6 +1252,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Disney Epic Mickey 2</span>
   <small>245300 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1522160" title="Disney Epic Mickey: Rebrushed">
+  <img src="../assets/games/1522160/steam-header.jpg" alt="Disney Epic Mickey: Rebrushed" loading="lazy" />
+  <span>Disney Epic Mickey: Rebrushed</span>
+  <small>1522160 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=331970" title="Disney&#39;s Treasure Planet: Battle of Procyon">
   <img src="../assets/games/331970/steam-header.jpg" alt="Disney&#39;s Treasure Planet: Battle of Procyon" loading="lazy" />
   <span>Disney&#39;s Treasure Planet: Battle of Procyon</span>
@@ -1212,6 +1367,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Downwell</span>
   <small>360740 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2228030" title="Dr. Fetus&#39; Mean Meat Machine">
+  <img src="../assets/games/2228030/steam-header.jpg" alt="Dr. Fetus&#39; Mean Meat Machine" loading="lazy" />
+  <span>Dr. Fetus&#39; Mean Meat Machine</span>
+  <small>2228030 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1222690" title="Dragon Age: Inquisition">
   <img src="../assets/games/1222690/steam-header.jpg" alt="Dragon Age: Inquisition" loading="lazy" />
   <span>Dragon Age: Inquisition</span>
@@ -1252,6 +1412,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>DREDGE</span>
   <small>1562430 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1070580" title="Drift86">
+  <img src="../assets/games/1070580/steam-header.jpg" alt="Drift86" loading="lazy" />
+  <span>Drift86</span>
+  <small>1070580 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=682990" title="Drug Dealer Simulator">
   <img src="../assets/games/682990/steam-header.jpg" alt="Drug Dealer Simulator" loading="lazy" />
   <span>Drug Dealer Simulator</span>
@@ -1277,10 +1442,25 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Dying Light 2: Reloaded Edition</span>
   <small>534380 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=3405690" title="EA SPORTS FC™ 26">
+  <img src="../assets/games/3405690/steam-header.jpg" alt="EA SPORTS FC™ 26" loading="lazy" />
+  <span>EA SPORTS FC™ 26</span>
+  <small>3405690 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3629260" title="EA SPORTS FC™ 26 SHOWCASE">
+  <img src="../assets/games/3629260/steam-header.jpg" alt="EA SPORTS FC™ 26 SHOWCASE" loading="lazy" />
+  <span>EA SPORTS FC™ 26 SHOWCASE</span>
+  <small>3629260 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=3293010" title="Easy Delivery Co.">
   <img src="../assets/games/3293010/steam-header.jpg" alt="Easy Delivery Co." loading="lazy" />
   <span>Easy Delivery Co.</span>
   <small>3293010 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=6100" title="Eets">
+  <img src="../assets/games/6100/steam-header.jpg" alt="Eets" loading="lazy" />
+  <span>Eets</span>
+  <small>6100 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=3302080" title="Effulgence RPG">
   <img src="../assets/games/3302080/steam-header.jpg" alt="Effulgence RPG" loading="lazy" />
@@ -1302,10 +1482,30 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Elysium Elect</span>
   <small>3642030 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1135230" title="Ember Knights">
+  <img src="../assets/games/1135230/steam-header.jpg" alt="Ember Knights" loading="lazy" />
+  <span>Ember Knights</span>
+  <small>1135230 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2243110" title="EMPTY SHELL">
+  <img src="../assets/games/2243110/steam-header.jpg" alt="EMPTY SHELL" loading="lazy" />
+  <span>EMPTY SHELL</span>
+  <small>2243110 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=4356840" title="Endix">
+  <img src="../assets/games/4356840/steam-header.jpg" alt="Endix" loading="lazy" />
+  <span>Endix</span>
+  <small>4356840 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=311690" title="Enter the Gungeon">
   <img src="../assets/games/311690/steam-header.jpg" alt="Enter the Gungeon" loading="lazy" />
   <span>Enter the Gungeon</span>
   <small>311690 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3675810" title="Eriksholm: The Stolen Dream Demo">
+  <img src="../assets/games/3675810/steam-header.jpg" alt="Eriksholm: The Stolen Dream Demo" loading="lazy" />
+  <span>Eriksholm: The Stolen Dream Demo</span>
+  <small>3675810 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=822540" title="Escape From Tethys">
   <img src="../assets/games/822540/steam-header.jpg" alt="Escape From Tethys" loading="lazy" />
@@ -1432,6 +1632,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Fallout 4</span>
   <small>377160 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=611660" title="Fallout 4 VR">
+  <img src="../assets/games/611660/steam-header.jpg" alt="Fallout 4 VR" loading="lazy" />
+  <span>Fallout 4 VR</span>
+  <small>611660 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1151340" title="Fallout 76">
   <img src="../assets/games/1151340/steam-header.jpg" alt="Fallout 76" loading="lazy" />
   <span>Fallout 76</span>
@@ -1537,6 +1742,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Forza Horizon 4</span>
   <small>1293830 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=883680" title="Four Kings One War">
+  <img src="../assets/games/883680/steam-header.jpg" alt="Four Kings One War" loading="lazy" />
+  <span>Four Kings One War</span>
+  <small>883680 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2021910" title="FPS Chess">
   <img src="../assets/games/2021910/steam-header.jpg" alt="FPS Chess" loading="lazy" />
   <span>FPS Chess</span>
@@ -1546,6 +1756,16 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/2943650/steam-header.jpg" alt="FragPunk" loading="lazy" />
   <span>FragPunk</span>
   <small>2943650 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=486780" title="Fruit Ninja VR">
+  <img src="../assets/games/486780/steam-header.jpg" alt="Fruit Ninja VR" loading="lazy" />
+  <span>Fruit Ninja VR</span>
+  <small>486780 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3892270" title="Gamble With Your Friends">
+  <img src="../assets/games/3892270/steam-header.jpg" alt="Gamble With Your Friends" loading="lazy" />
+  <span>Gamble With Your Friends</span>
+  <small>3892270 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=239820" title="Game Dev Tycoon">
   <img src="../assets/games/239820/steam-header.jpg" alt="Game Dev Tycoon" loading="lazy" />
@@ -1562,6 +1782,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Garfield Kart</span>
   <small>362930 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1085510" title="Garfield Kart - Furious Racing">
+  <img src="../assets/games/1085510/steam-header.jpg" alt="Garfield Kart - Furious Racing" loading="lazy" />
+  <span>Garfield Kart - Furious Racing</span>
+  <small>1085510 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1990740" title="Garro GT">
   <img src="../assets/games/1990740/steam-header.jpg" alt="Garro GT" loading="lazy" />
   <span>Garro GT</span>
@@ -1571,6 +1796,21 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/4000/steam-header.jpg" alt="Garry&#39;s Mod" loading="lazy" />
   <span>Garry&#39;s Mod</span>
   <small>4000 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=916730" title="Gato Roboto">
+  <img src="../assets/games/916730/steam-header.jpg" alt="Gato Roboto" loading="lazy" />
+  <span>Gato Roboto</span>
+  <small>916730 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1097840" title="Gears 5">
+  <img src="../assets/games/1097840/steam-header.jpg" alt="Gears 5" loading="lazy" />
+  <span>Gears 5</span>
+  <small>1097840 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2523720" title="Gears of War: Reloaded">
+  <img src="../assets/games/2523720/steam-header.jpg" alt="Gears of War: Reloaded" loading="lazy" />
+  <span>Gears of War: Reloaded</span>
+  <small>2523720 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=322170" title="Geometry Dash">
   <img src="../assets/games/322170/steam-header.jpg" alt="Geometry Dash" loading="lazy" />
@@ -1632,10 +1872,25 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Grand Theft Auto III</span>
   <small>12100 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=12230" title="Grand Theft Auto III (macOS)">
+  <img src="../assets/games/12230/steam-header.jpg" alt="Grand Theft Auto III (macOS)" loading="lazy" />
+  <span>Grand Theft Auto III (macOS)</span>
+  <small>12230 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=12250" title="Grand Theft Auto: San Andreas (macOS)">
+  <img src="../assets/games/12250/steam-header.jpg" alt="Grand Theft Auto: San Andreas (macOS)" loading="lazy" />
+  <span>Grand Theft Auto: San Andreas (macOS)</span>
+  <small>12250 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=12110" title="Grand Theft Auto: Vice City">
   <img src="../assets/games/12110/steam-header.jpg" alt="Grand Theft Auto: Vice City" loading="lazy" />
   <span>Grand Theft Auto: Vice City</span>
   <small>12110 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=12240" title="Grand Theft Auto: Vice City (macOS)">
+  <img src="../assets/games/12240/steam-header.jpg" alt="Grand Theft Auto: Vice City (macOS)" loading="lazy" />
+  <span>Grand Theft Auto: Vice City (macOS)</span>
+  <small>12240 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=2239140" title="Grapples Galore">
   <img src="../assets/games/2239140/steam-header.jpg" alt="Grapples Galore" loading="lazy" />
@@ -1646,6 +1901,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/599140/steam-header.jpg" alt="Graveyard Keeper" loading="lazy" />
   <span>Graveyard Keeper</span>
   <small>599140 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=858710" title="Gravity Circuit">
+  <img src="../assets/games/858710/steam-header.jpg" alt="Gravity Circuit" loading="lazy" />
+  <span>Gravity Circuit</span>
+  <small>858710 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=877150" title="Gravity Wars">
   <img src="../assets/games/877150/steam-header.jpg" alt="Gravity Wars" loading="lazy" />
@@ -1697,6 +1957,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Guacamelee!</span>
   <small>214770 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=275390" title="Guacamelee! Super Turbo Championship Edition">
+  <img src="../assets/games/275390/steam-header.jpg" alt="Guacamelee! Super Turbo Championship Edition" loading="lazy" />
+  <span>Guacamelee! Super Turbo Championship Edition</span>
+  <small>275390 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1284210" title="Guild Wars 2">
   <img src="../assets/games/1284210/steam-header.jpg" alt="Guild Wars 2" loading="lazy" />
   <span>Guild Wars 2</span>
@@ -1706,6 +1971,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1384160/steam-header.jpg" alt="GUILTY GEAR -STRIVE-" loading="lazy" />
   <span>GUILTY GEAR -STRIVE-</span>
   <small>1384160 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1580180" title="Gunbrella">
+  <img src="../assets/games/1580180/steam-header.jpg" alt="Gunbrella" loading="lazy" />
+  <span>Gunbrella</span>
+  <small>1580180 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=608800" title="Guns of Icarus Alliance">
   <img src="../assets/games/608800/steam-header.jpg" alt="Guns of Icarus Alliance" loading="lazy" />
@@ -1797,6 +2067,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Halo Wars: Definitive Edition</span>
   <small>459220 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2806050" title="Halo: Campaign Evolved">
+  <img src="../assets/games/2806050/steam-header.jpg" alt="Halo: Campaign Evolved" loading="lazy" />
+  <span>Halo: Campaign Evolved</span>
+  <small>2806050 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=277430" title="Halo: Spartan Assault">
   <img src="../assets/games/277430/steam-header.jpg" alt="Halo: Spartan Assault" loading="lazy" />
   <span>Halo: Spartan Assault</span>
@@ -1816,6 +2091,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1851380/steam-header.jpg" alt="Happy&#39;s Humble Burger Barn" loading="lazy" />
   <span>Happy&#39;s Humble Burger Barn</span>
   <small>1851380 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1433340" title="Happy&#39;s Humble Burger Farm">
+  <img src="../assets/games/1433340/steam-header.jpg" alt="Happy&#39;s Humble Burger Farm" loading="lazy" />
+  <span>Happy&#39;s Humble Burger Farm</span>
+  <small>1433340 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=2914740" title="Haus Of Irndrous">
   <img src="../assets/games/2914740/steam-header.jpg" alt="Haus Of Irndrous" loading="lazy" />
@@ -1867,6 +2147,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Helium Rain</span>
   <small>681330 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=3372090" title="HELL OF FEAR: Mind Breach">
+  <img src="../assets/games/3372090/steam-header.jpg" alt="HELL OF FEAR: Mind Breach" loading="lazy" />
+  <span>HELL OF FEAR: Mind Breach</span>
+  <small>3372090 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=414340" title="Hellblade: Senua’s Sacrifice">
   <img src="../assets/games/414340/steam-header.jpg" alt="Hellblade: Senua’s Sacrifice" loading="lazy" />
   <span>Hellblade: Senua’s Sacrifice</span>
@@ -1891,6 +2176,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1608450/steam-header.jpg" alt="Hellslave" loading="lazy" />
   <span>Hellslave</span>
   <small>1608450 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1289310" title="Helltaker">
+  <img src="../assets/games/1289310/steam-header.jpg" alt="Helltaker" loading="lazy" />
+  <span>Helltaker</span>
+  <small>1289310 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=269210" title="Hero Siege">
   <img src="../assets/games/269210/steam-header.jpg" alt="Hero Siege" loading="lazy" />
@@ -1946,6 +2236,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/55100/steam-header.jpg" alt="Homefront" loading="lazy" />
   <span>Homefront</span>
   <small>55100 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1671200" title="Honkai Impact 3rd">
+  <img src="../assets/games/1671200/steam-header.jpg" alt="Honkai Impact 3rd" loading="lazy" />
+  <span>Honkai Impact 3rd</span>
+  <small>1671200 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=1151640" title="Horizon Zero Dawn Complete Edition">
   <img src="../assets/games/1151640/steam-header.jpg" alt="Horizon Zero Dawn Complete Edition" loading="lazy" />
@@ -2052,6 +2347,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Invention 8</span>
   <small>3631620 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=3771740" title="IQ Under Construction">
+  <img src="../assets/games/3771740/steam-header.jpg" alt="IQ Under Construction" loading="lazy" />
+  <span>IQ Under Construction</span>
+  <small>3771740 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1703140" title="Isle of Jura">
   <img src="../assets/games/1703140/steam-header.jpg" alt="Isle of Jura" loading="lazy" />
   <span>Isle of Jura</span>
@@ -2142,6 +2442,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Kerbal Space Program</span>
   <small>220200 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=699240" title="Keyboard Killers">
+  <img src="../assets/games/699240/steam-header.jpg" alt="Keyboard Killers" loading="lazy" />
+  <span>Keyboard Killers</span>
+  <small>699240 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1020330" title="Khan VS Kahn">
   <img src="../assets/games/1020330/steam-header.jpg" alt="Khan VS Kahn" loading="lazy" />
   <span>Khan VS Kahn</span>
@@ -2177,6 +2482,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Killing Floor 2</span>
   <small>232090 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1273710" title="King of Crabs">
+  <img src="../assets/games/1273710/steam-header.jpg" alt="King of Crabs" loading="lazy" />
+  <span>King of Crabs</span>
+  <small>1273710 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=379430" title="Kingdom Come: Deliverance">
   <img src="../assets/games/379430/steam-header.jpg" alt="Kingdom Come: Deliverance" loading="lazy" />
   <span>Kingdom Come: Deliverance</span>
@@ -2186,6 +2496,21 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1771300/steam-header.jpg" alt="Kingdom Come: Deliverance II" loading="lazy" />
   <span>Kingdom Come: Deliverance II</span>
   <small>1771300 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2552430" title="KINGDOM HEARTS -HD 1.5+2.5 ReMIX-">
+  <img src="../assets/games/2552430/steam-header.jpg" alt="KINGDOM HEARTS -HD 1.5+2.5 ReMIX-" loading="lazy" />
+  <span>KINGDOM HEARTS -HD 1.5+2.5 ReMIX-</span>
+  <small>2552430 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2552440" title="KINGDOM HEARTS HD 2.8 Final Chapter Prologue">
+  <img src="../assets/games/2552440/steam-header.jpg" alt="KINGDOM HEARTS HD 2.8 Final Chapter Prologue" loading="lazy" />
+  <span>KINGDOM HEARTS HD 2.8 Final Chapter Prologue</span>
+  <small>2552440 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2552450" title="KINGDOM HEARTS III + Re Mind (DLC)">
+  <img src="../assets/games/2552450/steam-header.jpg" alt="KINGDOM HEARTS III + Re Mind (DLC)" loading="lazy" />
+  <span>KINGDOM HEARTS III + Re Mind (DLC)</span>
+  <small>2552450 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=701160" title="Kingdom Two Crowns">
   <img src="../assets/games/701160/steam-header.jpg" alt="Kingdom Two Crowns" loading="lazy" />
@@ -2232,6 +2557,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Legend of the Outlaw Mage</span>
   <small>1702990 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2215200" title="LEGO Batman: Legacy of the Dark Knight">
+  <img src="../assets/games/2215200/steam-header.jpg" alt="LEGO Batman: Legacy of the Dark Knight" loading="lazy" />
+  <span>LEGO Batman: Legacy of the Dark Knight</span>
+  <small>2215200 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1898290" title="LEGO Bricktales">
   <img src="../assets/games/1898290/steam-header.jpg" alt="LEGO Bricktales" loading="lazy" />
   <span>LEGO Bricktales</span>
@@ -2241,6 +2571,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/578330/steam-header.jpg" alt="LEGO City Undercover" loading="lazy" />
   <span>LEGO City Undercover</span>
   <small>578330 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2950340" title="LEGO Harry Potter Collection">
+  <img src="../assets/games/2950340/steam-header.jpg" alt="LEGO Harry Potter Collection" loading="lazy" />
+  <span>LEGO Harry Potter Collection</span>
+  <small>2950340 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=352400" title="LEGO Jurassic World">
   <img src="../assets/games/352400/steam-header.jpg" alt="LEGO Jurassic World" loading="lazy" />
@@ -2372,6 +2707,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Lost in Anomaly</span>
   <small>3312020 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=6510" title="Lost Planet: Extreme Condition">
+  <img src="../assets/games/6510/steam-header.jpg" alt="Lost Planet: Extreme Condition" loading="lazy" />
+  <span>Lost Planet: Extreme Condition</span>
+  <small>6510 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=252110" title="Lovers in a Dangerous Spacetime">
   <img src="../assets/games/252110/steam-header.jpg" alt="Lovers in a Dangerous Spacetime" loading="lazy" />
   <span>Lovers in a Dangerous Spacetime</span>
@@ -2411,6 +2751,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/3716600/steam-header.jpg" alt="Mage Arena" loading="lazy" />
   <span>Mage Arena</span>
   <small>3716600 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2141910" title="Magic: The Gathering Arena">
+  <img src="../assets/games/2141910/steam-header.jpg" alt="Magic: The Gathering Arena" loading="lazy" />
+  <span>Magic: The Gathering Arena</span>
+  <small>2141910 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=42910" title="Magicka">
   <img src="../assets/games/42910/steam-header.jpg" alt="Magicka" loading="lazy" />
@@ -2497,6 +2842,16 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Metal Gear Solid Delta Snake Eater</span>
   <small>2417610 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=311340" title="METAL GEAR SOLID V: GROUND ZEROES">
+  <img src="../assets/games/311340/steam-header.jpg" alt="METAL GEAR SOLID V: GROUND ZEROES" loading="lazy" />
+  <span>METAL GEAR SOLID V: GROUND ZEROES</span>
+  <small>311340 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=287700" title="METAL GEAR SOLID V: THE PHANTOM PAIN">
+  <img src="../assets/games/287700/steam-header.jpg" alt="METAL GEAR SOLID V: THE PHANTOM PAIN" loading="lazy" />
+  <span>METAL GEAR SOLID V: THE PHANTOM PAIN</span>
+  <small>287700 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=366250" title="Metal Slug">
   <img src="../assets/games/366250/steam-header.jpg" alt="Metal Slug" loading="lazy" />
   <span>Metal Slug</span>
@@ -2557,6 +2912,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Metro 2033 Redux</span>
   <small>286690 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2669410" title="Metro Awakening">
+  <img src="../assets/games/2669410/steam-header.jpg" alt="Metro Awakening" loading="lazy" />
+  <span>Metro Awakening</span>
+  <small>2669410 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=412020" title="Metro Exodus">
   <img src="../assets/games/412020/steam-header.jpg" alt="Metro Exodus" loading="lazy" />
   <span>Metro Exodus</span>
@@ -2597,10 +2957,25 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Mighty Goose</span>
   <small>1299360 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1875580" title="Mina the Hollower">
+  <img src="../assets/games/1875580/steam-header.jpg" alt="Mina the Hollower" loading="lazy" />
+  <span>Mina the Hollower</span>
+  <small>1875580 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1672970" title="Minecraft Dungeons">
+  <img src="../assets/games/1672970/steam-header.jpg" alt="Minecraft Dungeons" loading="lazy" />
+  <span>Minecraft Dungeons</span>
+  <small>1672970 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=481870" title="Mini Thief">
   <img src="../assets/games/481870/steam-header.jpg" alt="Mini Thief" loading="lazy" />
   <span>Mini Thief</span>
   <small>481870 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=489520" title="Minion Masters">
+  <img src="../assets/games/489520/steam-header.jpg" alt="Minion Masters" loading="lazy" />
+  <span>Minion Masters</span>
+  <small>489520 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=1657090" title="MiniRoyale">
   <img src="../assets/games/1657090/steam-header.jpg" alt="MiniRoyale" loading="lazy" />
@@ -2631,6 +3006,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/2350790/steam-header.jpg" alt="Moonlighter 2: The Endless Vault" loading="lazy" />
   <span>Moonlighter 2: The Endless Vault</span>
   <small>2350790 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1035110" title="Moonrise Fall">
+  <img src="../assets/games/1035110/steam-header.jpg" alt="Moonrise Fall" loading="lazy" />
+  <span>Moonrise Fall</span>
+  <small>1035110 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=1658150" title="Moonstone Island">
   <img src="../assets/games/1658150/steam-header.jpg" alt="Moonstone Island" loading="lazy" />
@@ -2872,10 +3252,20 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Nongunz: Doppelganger Edition</span>
   <small>1304780 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=4508340" title="NTE: Neverness to Everness">
+  <img src="../assets/games/4508340/steam-header.jpg" alt="NTE: Neverness to Everness" loading="lazy" />
+  <span>NTE: Neverness to Everness</span>
+  <small>4508340 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=540900" title="Nuclear Contingency">
   <img src="../assets/games/540900/steam-header.jpg" alt="Nuclear Contingency" loading="lazy" />
   <span>Nuclear Contingency</span>
   <small>540900 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1971650" title="OCTOPATH TRAVELER II">
+  <img src="../assets/games/1971650/steam-header.jpg" alt="OCTOPATH TRAVELER II" loading="lazy" />
+  <span>OCTOPATH TRAVELER II</span>
+  <small>1971650 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=769920" title="Odysseus Kosmos and his Robot Quest - Episode 1">
   <img src="../assets/games/769920/steam-header.jpg" alt="Odysseus Kosmos and his Robot Quest - Episode 1" loading="lazy" />
@@ -3072,6 +3462,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>PAYDAY 2</span>
   <small>218620 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=3527290" title="PEAK">
+  <img src="../assets/games/3527290/steam-header.jpg" alt="PEAK" loading="lazy" />
+  <span>PEAK</span>
+  <small>3527290 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=3480" title="Peggle Deluxe">
   <img src="../assets/games/3480/steam-header.jpg" alt="Peggle Deluxe" loading="lazy" />
   <span>Peggle Deluxe</span>
@@ -3132,10 +3527,20 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Pinball FX</span>
   <small>2328760 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=442120" title="Pinball FX Classic">
+  <img src="../assets/games/442120/steam-header.jpg" alt="Pinball FX Classic" loading="lazy" />
+  <span>Pinball FX Classic</span>
+  <small>442120 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2337640" title="Pinball FX Midnight">
   <img src="../assets/games/2337640/steam-header.jpg" alt="Pinball FX Midnight" loading="lazy" />
   <span>Pinball FX Midnight</span>
   <small>2337640 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2642570" title="Pinball Storm: Lokanta">
+  <img src="../assets/games/2642570/steam-header.jpg" alt="Pinball Storm: Lokanta" loading="lazy" />
+  <span>Pinball Storm: Lokanta</span>
+  <small>2642570 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=2202770" title="Pizza Hero">
   <img src="../assets/games/2202770/steam-header.jpg" alt="Pizza Hero" loading="lazy" />
@@ -3227,6 +3632,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Portal 2 Sixense Perceptual Pack</span>
   <small>247120 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2012840" title="Portal with RTX">
+  <img src="../assets/games/2012840/steam-header.jpg" alt="Portal with RTX" loading="lazy" />
+  <span>Portal with RTX</span>
+  <small>2012840 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=601360" title="Portal: Revolution">
   <img src="../assets/games/601360/steam-header.jpg" alt="Portal: Revolution" loading="lazy" />
   <span>Portal: Revolution</span>
@@ -3256,6 +3666,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/3714460/steam-header.jpg" alt="Prima Materia XXV" loading="lazy" />
   <span>Prima Materia XXV</span>
   <small>3714460 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2751000" title="Prince of Persia The Lost Crown">
+  <img src="../assets/games/2751000/steam-header.jpg" alt="Prince of Persia The Lost Crown" loading="lazy" />
+  <span>Prince of Persia The Lost Crown</span>
+  <small>2751000 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=702150" title="Project Mercury">
   <img src="../assets/games/702150/steam-header.jpg" alt="Project Mercury" loading="lazy" />
@@ -3302,10 +3717,20 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Pummel Party</span>
   <small>880940 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1861500" title="Pure Logic">
+  <img src="../assets/games/1861500/steam-header.jpg" alt="Pure Logic" loading="lazy" />
+  <span>Pure Logic</span>
+  <small>1861500 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2210" title="Quake 4">
   <img src="../assets/games/2210/steam-header.jpg" alt="Quake 4" loading="lazy" />
   <span>Quake 4</span>
   <small>2210 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2132850" title="Rabbit and Steel">
+  <img src="../assets/games/2132850/steam-header.jpg" alt="Rabbit and Steel" loading="lazy" />
+  <span>Rabbit and Steel</span>
+  <small>2132850 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=449630" title="Rage Parking Simulator 2016">
   <img src="../assets/games/449630/steam-header.jpg" alt="Rage Parking Simulator 2016" loading="lazy" />
@@ -3322,6 +3747,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Rat Quest</span>
   <small>2952470 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2071280" title="Ravenswatch">
+  <img src="../assets/games/2071280/steam-header.jpg" alt="Ravenswatch" loading="lazy" />
+  <span>Ravenswatch</span>
+  <small>2071280 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2415660" title="Raventure">
   <img src="../assets/games/2415660/steam-header.jpg" alt="Raventure" loading="lazy" />
   <span>Raventure</span>
@@ -3332,10 +3762,20 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Rayman: Raving Rabbids</span>
   <small>15080 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2129530" title="REANIMAL">
+  <img src="../assets/games/2129530/steam-header.jpg" alt="REANIMAL" loading="lazy" />
+  <span>REANIMAL</span>
+  <small>2129530 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1088790" title="Rebel Inc: Escalation">
   <img src="../assets/games/1088790/steam-header.jpg" alt="Rebel Inc: Escalation" loading="lazy" />
   <span>Rebel Inc: Escalation</span>
   <small>1088790 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1181630" title="Rebel Inc: Escalation - Soundtrack">
+  <img src="../assets/games/1181630/steam-header.jpg" alt="Rebel Inc: Escalation - Soundtrack" loading="lazy" />
+  <span>Rebel Inc: Escalation - Soundtrack</span>
+  <small>1181630 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=1174180" title="Red Dead Redemption 2">
   <img src="../assets/games/1174180/steam-header.jpg" alt="Red Dead Redemption 2" loading="lazy" />
@@ -3352,6 +3792,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Red Risk</span>
   <small>448070 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2684660" title="REDkit DE THE WITCHER 3">
+  <img src="../assets/games/2684660/steam-header.jpg" alt="REDkit DE THE WITCHER 3" loading="lazy" />
+  <span>REDkit DE THE WITCHER 3</span>
+  <small>2684660 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2514960" title="Refind Self: Desvela tu personalidad">
   <img src="../assets/games/2514960/steam-header.jpg" alt="Refind Self: Desvela tu personalidad" loading="lazy" />
   <span>Refind Self: Desvela tu personalidad</span>
@@ -3361,6 +3806,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1968320/steam-header.jpg" alt="Relapse" loading="lazy" />
   <span>Relapse</span>
   <small>1968320 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=633360" title="Remothered: Tormented Fathers">
+  <img src="../assets/games/633360/steam-header.jpg" alt="Remothered: Tormented Fathers" loading="lazy" />
+  <span>Remothered: Tormented Fathers</span>
+  <small>633360 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=99300" title="Renegade Ops">
   <img src="../assets/games/99300/steam-header.jpg" alt="Renegade Ops" loading="lazy" />
@@ -3456,6 +3906,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/391220/steam-header.jpg" alt="Rise of the Tomb Raider" loading="lazy" />
   <span>Rise of the Tomb Raider</span>
   <small>391220 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=35450" title="Rising Storm/Red Orchestra 2 Multiplayer">
+  <img src="../assets/games/35450/steam-header.jpg" alt="Rising Storm/Red Orchestra 2 Multiplayer" loading="lazy" />
+  <span>Rising Storm/Red Orchestra 2 Multiplayer</span>
+  <small>35450 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=632360" title="Risk of Rain 2">
   <img src="../assets/games/632360/steam-header.jpg" alt="Risk of Rain 2" loading="lazy" />
@@ -3567,6 +4022,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Scheming Through The Zombie Apocalypse: The Beginning</span>
   <small>813540 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1037020" title="ScourgeBringer">
+  <img src="../assets/games/1037020/steam-header.jpg" alt="ScourgeBringer" loading="lazy" />
+  <span>ScourgeBringer</span>
+  <small>1037020 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=3257000" title="SCP: Containment Breach 2">
   <img src="../assets/games/3257000/steam-header.jpg" alt="SCP: Containment Breach 2" loading="lazy" />
   <span>SCP: Containment Breach 2</span>
@@ -3577,10 +4037,20 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>SCP: Containment Breach Multiplayer</span>
   <small>1782380 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=4127570" title="Scramble Knights Online Playtest">
+  <img src="../assets/games/4127570/steam-header.jpg" alt="Scramble Knights Online Playtest" loading="lazy" />
+  <span>Scramble Knights Online Playtest</span>
+  <small>4127570 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=465760" title="Scrap Garden">
   <img src="../assets/games/465760/steam-header.jpg" alt="Scrap Garden" loading="lazy" />
   <span>Scrap Garden</span>
   <small>465760 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=301970" title="Screencheat">
+  <img src="../assets/games/301970/steam-header.jpg" alt="Screencheat" loading="lazy" />
+  <span>Screencheat</span>
+  <small>301970 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=218680" title="Scribblenauts Unlimited">
   <img src="../assets/games/218680/steam-header.jpg" alt="Scribblenauts Unlimited" loading="lazy" />
@@ -3677,6 +4147,26 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Serious Sam HD: The Second Encounter</span>
   <small>41014 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=552450" title="Serious Sam VR: The First Encounter">
+  <img src="../assets/games/552450/steam-header.jpg" alt="Serious Sam VR: The First Encounter" loading="lazy" />
+  <span>Serious Sam VR: The First Encounter</span>
+  <small>552450 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=465240" title="Serious Sam VR: The Last Hope">
+  <img src="../assets/games/465240/steam-header.jpg" alt="Serious Sam VR: The Last Hope" loading="lazy" />
+  <span>Serious Sam VR: The Last Hope</span>
+  <small>465240 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=552460" title="Serious Sam VR: The Second Encounter">
+  <img src="../assets/games/552460/steam-header.jpg" alt="Serious Sam VR: The Second Encounter" loading="lazy" />
+  <span>Serious Sam VR: The Second Encounter</span>
+  <small>552460 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1792250" title="Serious Sam: Siberian Mayhem">
+  <img src="../assets/games/1792250/steam-header.jpg" alt="Serious Sam: Siberian Mayhem" loading="lazy" />
+  <span>Serious Sam: Siberian Mayhem</span>
+  <small>1792250 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=201480" title="Serious Sam: The Random Encounter">
   <img src="../assets/games/201480/steam-header.jpg" alt="Serious Sam: The Random Encounter" loading="lazy" />
   <span>Serious Sam: The Random Encounter</span>
@@ -3702,10 +4192,30 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Shadowverse: Worlds Beyond</span>
   <small>2584990 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=345820" title="Shantae and the Pirate&#39;s Curse">
+  <img src="../assets/games/345820/steam-header.jpg" alt="Shantae and the Pirate&#39;s Curse" loading="lazy" />
+  <span>Shantae and the Pirate&#39;s Curse</span>
+  <small>345820 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=764300" title="Shantae: Half-Genie Hero Ultimate Edition">
+  <img src="../assets/games/764300/steam-header.jpg" alt="Shantae: Half-Genie Hero Ultimate Edition" loading="lazy" />
+  <span>Shantae: Half-Genie Hero Ultimate Edition</span>
+  <small>764300 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2835310" title="Sharpshooter">
   <img src="../assets/games/2835310/steam-header.jpg" alt="Sharpshooter" loading="lazy" />
   <span>Sharpshooter</span>
   <small>2835310 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=326460" title="ShellShock Live">
+  <img src="../assets/games/326460/steam-header.jpg" alt="ShellShock Live" loading="lazy" />
+  <span>ShellShock Live</span>
+  <small>326460 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1875830" title="Shin Megami Tensei V: Vengeance">
+  <img src="../assets/games/1875830/steam-header.jpg" alt="Shin Megami Tensei V: Vengeance" loading="lazy" />
+  <span>Shin Megami Tensei V: Vengeance</span>
+  <small>1875830 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=250760" title="Shovel Knight: Treasure Trove">
   <img src="../assets/games/250760/steam-header.jpg" alt="Shovel Knight: Treasure Trove" loading="lazy" />
@@ -3737,10 +4247,25 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Sid Meier&#39;s Civilization IV: Warlords</span>
   <small>3990 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=65980" title="Sid Meier&#39;s Civilization: Beyond Earth">
+  <img src="../assets/games/65980/steam-header.jpg" alt="Sid Meier&#39;s Civilization: Beyond Earth" loading="lazy" />
+  <span>Sid Meier&#39;s Civilization: Beyond Earth</span>
+  <small>65980 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=282210" title="Sid Meier&#39;s Starships">
+  <img src="../assets/games/282210/steam-header.jpg" alt="Sid Meier&#39;s Starships" loading="lazy" />
+  <span>Sid Meier&#39;s Starships</span>
+  <small>282210 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2138710" title="Sifu">
   <img src="../assets/games/2138710/steam-header.jpg" alt="Sifu" loading="lazy" />
   <span>Sifu</span>
   <small>2138710 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1262350" title="SIGNALIS">
+  <img src="../assets/games/1262350/steam-header.jpg" alt="SIGNALIS" loading="lazy" />
+  <span>SIGNALIS</span>
+  <small>1262350 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=2124490" title="SILENT HILL 2">
   <img src="../assets/games/2124490/steam-header.jpg" alt="SILENT HILL 2" loading="lazy" />
@@ -3756,6 +4281,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/3362870/steam-header.jpg" alt="SIMPWALK" loading="lazy" />
   <span>SIMPWALK</span>
   <small>3362870 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=308600" title="Skillshot City">
+  <img src="../assets/games/308600/steam-header.jpg" alt="Skillshot City" loading="lazy" />
+  <span>Skillshot City</span>
+  <small>308600 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=245170" title="Skullgirls 2nd Encore">
   <img src="../assets/games/245170/steam-header.jpg" alt="Skullgirls 2nd Encore" loading="lazy" />
@@ -3787,10 +4317,40 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Smart Factory Tycoon</span>
   <small>1755300 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=386360" title="SMITE">
+  <img src="../assets/games/386360/steam-header.jpg" alt="SMITE" loading="lazy" />
+  <span>SMITE</span>
+  <small>386360 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=858460" title="SMITE - Public Test">
+  <img src="../assets/games/858460/steam-header.jpg" alt="SMITE - Public Test" loading="lazy" />
+  <span>SMITE - Public Test</span>
+  <small>858460 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=740240" title="Snake Eyes Dungeon">
   <img src="../assets/games/740240/steam-header.jpg" alt="Snake Eyes Dungeon" loading="lazy" />
   <span>Snake Eyes Dungeon</span>
   <small>740240 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=312660" title="Sniper Elite 4">
+  <img src="../assets/games/312660/steam-header.jpg" alt="Sniper Elite 4" loading="lazy" />
+  <span>Sniper Elite 4</span>
+  <small>312660 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1029690" title="Sniper Elite 5">
+  <img src="../assets/games/1029690/steam-header.jpg" alt="Sniper Elite 5" loading="lazy" />
+  <span>Sniper Elite 5</span>
+  <small>1029690 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=63380" title="Sniper Elite V2">
+  <img src="../assets/games/63380/steam-header.jpg" alt="Sniper Elite V2" loading="lazy" />
+  <span>Sniper Elite V2</span>
+  <small>63380 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=728740" title="Sniper Elite V2 Remastered">
+  <img src="../assets/games/728740/steam-header.jpg" alt="Sniper Elite V2 Remastered" loading="lazy" />
+  <span>Sniper Elite V2 Remastered</span>
+  <small>728740 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=867210" title="Songs of Conquest">
   <img src="../assets/games/867210/steam-header.jpg" alt="Songs of Conquest" loading="lazy" />
@@ -3806,6 +4366,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/2486820/steam-header.jpg" alt="Sonic Racing: CrossWorlds" loading="lazy" />
   <span>Sonic Racing: CrossWorlds</span>
   <small>2486820 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2022670" title="Sonic Superstars">
+  <img src="../assets/games/2022670/steam-header.jpg" alt="Sonic Superstars" loading="lazy" />
+  <span>Sonic Superstars</span>
+  <small>2022670 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=2513280" title="SONIC X SHADOW GENERATIONS">
   <img src="../assets/games/2513280/steam-header.jpg" alt="SONIC X SHADOW GENERATIONS" loading="lazy" />
@@ -3841,6 +4406,16 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1412850/steam-header.jpg" alt="Spacelines From The Far Out" loading="lazy" />
   <span>Spacelines From The Far Out</span>
   <small>1412850 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2641470" title="Spectre Divide">
+  <img src="../assets/games/2641470/steam-header.jpg" alt="Spectre Divide" loading="lazy" />
+  <span>Spectre Divide</span>
+  <small>2641470 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=418530" title="Spelunky 2">
+  <img src="../assets/games/418530/steam-header.jpg" alt="Spelunky 2" loading="lazy" />
+  <span>Spelunky 2</span>
+  <small>418530 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=3147930" title="Sphere vs Gravity">
   <img src="../assets/games/3147930/steam-header.jpg" alt="Sphere vs Gravity" loading="lazy" />
@@ -3922,6 +4497,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Stealth Bastard Deluxe</span>
   <small>209190 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2381620" title="Steam Engine Simulator">
+  <img src="../assets/games/2381620/steam-header.jpg" alt="Steam Engine Simulator" loading="lazy" />
+  <span>Steam Engine Simulator</span>
+  <small>2381620 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=619700" title="Steel Rats">
   <img src="../assets/games/619700/steam-header.jpg" alt="Steel Rats" loading="lazy" />
   <span>Steel Rats</span>
@@ -3947,6 +4527,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Stormgate</span>
   <small>2012510 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=312670" title="Strange Brigade">
+  <img src="../assets/games/312670/steam-header.jpg" alt="Strange Brigade" loading="lazy" />
+  <span>Strange Brigade</span>
+  <small>312670 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1332010" title="Stray">
   <img src="../assets/games/1332010/steam-header.jpg" alt="Stray" loading="lazy" />
   <span>Stray</span>
@@ -3962,6 +4547,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Street Fighter 6</span>
   <small>1364780 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1952120" title="Street Fighter™ 6 - Open Beta">
+  <img src="../assets/games/1952120/steam-header.jpg" alt="Street Fighter™ 6 - Open Beta" loading="lazy" />
+  <span>Street Fighter™ 6 - Open Beta</span>
+  <small>1952120 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=512900" title="Streets of Rogue">
   <img src="../assets/games/512900/steam-header.jpg" alt="Streets of Rogue" loading="lazy" />
   <span>Streets of Rogue</span>
@@ -3971,6 +4561,16 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1282270/steam-header.jpg" alt="Strinova" loading="lazy" />
   <span>Strinova</span>
   <small>1282270 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=264710" title="Subnautica">
+  <img src="../assets/games/264710/steam-header.jpg" alt="Subnautica" loading="lazy" />
+  <span>Subnautica</span>
+  <small>264710 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=848450" title="Subnautica: Below Zero">
+  <img src="../assets/games/848450/steam-header.jpg" alt="Subnautica: Below Zero" loading="lazy" />
+  <span>Subnautica: Below Zero</span>
+  <small>848450 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=315210" title="Suicide Squad">
   <img src="../assets/games/315210/steam-header.jpg" alt="Suicide Squad" loading="lazy" />
@@ -3992,6 +4592,21 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Super Fancy Pants Adventure</span>
   <small>668210 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=40800" title="Super Meat Boy">
+  <img src="../assets/games/40800/steam-header.jpg" alt="Super Meat Boy" loading="lazy" />
+  <span>Super Meat Boy</span>
+  <small>40800 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=40810" title="Super Meat Boy Editor">
+  <img src="../assets/games/40810/steam-header.jpg" alt="Super Meat Boy Editor" loading="lazy" />
+  <span>Super Meat Boy Editor</span>
+  <small>40810 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=581660" title="Super Meat Boy Forever">
+  <img src="../assets/games/581660/steam-header.jpg" alt="Super Meat Boy Forever" loading="lazy" />
+  <span>Super Meat Boy Forever</span>
+  <small>581660 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1560100" title="Super Stupid Game">
   <img src="../assets/games/1560100/steam-header.jpg" alt="Super Stupid Game" loading="lazy" />
   <span>Super Stupid Game</span>
@@ -4007,6 +4622,16 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>SUPERHOT</span>
   <small>322500 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=617830" title="SUPERHOT VR">
+  <img src="../assets/games/617830/steam-header.jpg" alt="SUPERHOT VR" loading="lazy" />
+  <span>SUPERHOT VR</span>
+  <small>617830 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=690040" title="SUPERHOT: MIND CONTROL DELETE">
+  <img src="../assets/games/690040/steam-header.jpg" alt="SUPERHOT: MIND CONTROL DELETE" loading="lazy" />
+  <span>SUPERHOT: MIND CONTROL DELETE</span>
+  <small>690040 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1049410" title="Superliminal">
   <img src="../assets/games/1049410/steam-header.jpg" alt="Superliminal" loading="lazy" />
   <span>Superliminal</span>
@@ -4021,6 +4646,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/2709570/steam-header.jpg" alt="Supermarket Together" loading="lazy" />
   <span>Supermarket Together</span>
   <small>2709570 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=813630" title="Supraland">
+  <img src="../assets/games/813630/steam-header.jpg" alt="Supraland" loading="lazy" />
+  <span>Supraland</span>
+  <small>813630 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=2159120" title="SUR5">
   <img src="../assets/games/2159120/steam-header.jpg" alt="SUR5" loading="lazy" />
@@ -4092,6 +4722,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Terroro</span>
   <small>2880460 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1003590" title="Tetris&#174; Effect: Connected">
+  <img src="../assets/games/1003590/steam-header.jpg" alt="Tetris&#174; Effect: Connected" loading="lazy" />
+  <span>Tetris&#174; Effect: Connected</span>
+  <small>1003590 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=4120000" title="Thanks, She&#39;s A Rescue">
   <img src="../assets/games/4120000/steam-header.jpg" alt="Thanks, She&#39;s A Rescue" loading="lazy" />
   <span>Thanks, She&#39;s A Rescue</span>
@@ -4147,6 +4782,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>The Division 2</span>
   <small>2221490 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=3749720" title="The Division Resurgence">
+  <img src="../assets/games/3749720/steam-header.jpg" alt="The Division Resurgence" loading="lazy" />
+  <span>The Division Resurgence</span>
+  <small>3749720 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=94300" title="The Dream Machine">
   <img src="../assets/games/94300/steam-header.jpg" alt="The Dream Machine" loading="lazy" />
   <span>The Dream Machine</span>
@@ -4161,6 +4801,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/489830/steam-header.jpg" alt="The Elder Scrolls V: Skyrim Special Edition" loading="lazy" />
   <span>The Elder Scrolls V: Skyrim Special Edition</span>
   <small>489830 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=611670" title="The Elder Scrolls V: Skyrim VR">
+  <img src="../assets/games/611670/steam-header.jpg" alt="The Elder Scrolls V: Skyrim VR" loading="lazy" />
+  <span>The Elder Scrolls V: Skyrim VR</span>
+  <small>611670 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=1812290" title="The Elder Scrolls: Arena">
   <img src="../assets/games/1812290/steam-header.jpg" alt="The Elder Scrolls: Arena" loading="lazy" />
@@ -4186,6 +4831,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/435530/steam-header.jpg" alt="The Final Station" loading="lazy" />
   <span>The Final Station</span>
   <small>435530 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2073850" title="THE FINALS">
+  <img src="../assets/games/2073850/steam-header.jpg" alt="THE FINALS" loading="lazy" />
+  <span>THE FINALS</span>
+  <small>2073850 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=2074920" title="The First Descendant">
   <img src="../assets/games/2074920/steam-header.jpg" alt="The First Descendant" loading="lazy" />
@@ -4221,6 +4871,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1694600/steam-header.jpg" alt="THE HOUSE OF THE DEAD: Remake" loading="lazy" />
   <span>THE HOUSE OF THE DEAD: Remake</span>
   <small>1694600 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=2828500" title="The Jackbox Megapicker">
+  <img src="../assets/games/2828500/steam-header.jpg" alt="The Jackbox Megapicker" loading="lazy" />
+  <span>The Jackbox Megapicker</span>
+  <small>2828500 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=222420" title="THE KING OF FIGHTERS &#39;98 ULTIMATE MATCH FINAL EDITION">
   <img src="../assets/games/222420/steam-header.jpg" alt="THE KING OF FIGHTERS &#39;98 ULTIMATE MATCH FINAL EDITION" loading="lazy" />
@@ -4287,6 +4942,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>The LEGO NINJAGO Movie Video Game</span>
   <small>640590 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1272160" title="The Life and Suffering of Sir Brante">
+  <img src="../assets/games/1272160/steam-header.jpg" alt="The Life and Suffering of Sir Brante" loading="lazy" />
+  <span>The Life and Suffering of Sir Brante</span>
+  <small>1272160 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=360940" title="The Mean Greens - Plastic Warfare">
   <img src="../assets/games/360940/steam-header.jpg" alt="The Mean Greens - Plastic Warfare" loading="lazy" />
   <span>The Mean Greens - Plastic Warfare</span>
@@ -4307,6 +4967,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>The Odyssey of the Mammoth</span>
   <small>1881350 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=1053710" title="The Red Lantern">
+  <img src="../assets/games/1053710/steam-header.jpg" alt="The Red Lantern" loading="lazy" />
+  <span>The Red Lantern</span>
+  <small>1053710 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=352520" title="The Silent Age">
   <img src="../assets/games/352520/steam-header.jpg" alt="The Silent Age" loading="lazy" />
   <span>The Silent Age</span>
@@ -4321,6 +4986,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/897450/steam-header.jpg" alt="The Survivalists" loading="lazy" />
   <span>The Survivalists</span>
   <small>897450 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=552440" title="The Talos Principle VR">
+  <img src="../assets/games/552440/steam-header.jpg" alt="The Talos Principle VR" loading="lazy" />
+  <span>The Talos Principle VR</span>
+  <small>552440 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=246580" title="The Typing of The Dead: Overkill">
   <img src="../assets/games/246580/steam-header.jpg" alt="The Typing of The Dead: Overkill" loading="lazy" />
@@ -4402,6 +5072,16 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Three Sisters</span>
   <small>3584190 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=377300" title="Thunder Tier One">
+  <img src="../assets/games/377300/steam-header.jpg" alt="Thunder Tier One" loading="lazy" />
+  <span>Thunder Tier One</span>
+  <small>377300 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1712840" title="Tiny Tina&#39;s Assault on Dragon Keep: A Wonderlands One-shot Adventure">
+  <img src="../assets/games/1712840/steam-header.jpg" alt="Tiny Tina&#39;s Assault on Dragon Keep: A Wonderlands One-shot Adventure" loading="lazy" />
+  <span>Tiny Tina&#39;s Assault on Dragon Keep: A Wonderlands One-shot Adventure</span>
+  <small>1712840 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1286680" title="Tiny Tina’s Wonderlands">
   <img src="../assets/games/1286680/steam-header.jpg" alt="Tiny Tina’s Wonderlands" loading="lazy" />
   <span>Tiny Tina’s Wonderlands</span>
@@ -4416,6 +5096,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1237970/steam-header.jpg" alt="Titanfall 2" loading="lazy" />
   <span>Titanfall 2</span>
   <small>1237970 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=460930" title="Tom Clancy&#39;s Ghost Recon Wildlands">
+  <img src="../assets/games/460930/steam-header.jpg" alt="Tom Clancy&#39;s Ghost Recon Wildlands" loading="lazy" />
+  <span>Tom Clancy&#39;s Ghost Recon Wildlands</span>
+  <small>460930 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=359550" title="Tom Clancy&#39;s Rainbow Six Siege">
   <img src="../assets/games/359550/steam-header.jpg" alt="Tom Clancy&#39;s Rainbow Six Siege" loading="lazy" />
@@ -4436,6 +5121,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/201270/steam-header.jpg" alt="Total War: SHOGUN 2" loading="lazy" />
   <span>Total War: SHOGUN 2</span>
   <small>201270 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=882710" title="TouHou Makuka Sai ~ Fantastic Danmaku Festival">
+  <img src="../assets/games/882710/steam-header.jpg" alt="TouHou Makuka Sai ~ Fantastic Danmaku Festival" loading="lazy" />
+  <span>TouHou Makuka Sai ~ Fantastic Danmaku Festival</span>
+  <small>882710 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=1510580" title="Toy Tinker Simulator">
   <img src="../assets/games/1510580/steam-header.jpg" alt="Toy Tinker Simulator" loading="lazy" />
@@ -4462,6 +5152,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>TUNIC</span>
   <small>553420 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=3618520" title="Twin Shot Deluxe">
+  <img src="../assets/games/3618520/steam-header.jpg" alt="Twin Shot Deluxe" loading="lazy" />
+  <span>Twin Shot Deluxe</span>
+  <small>3618520 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=616560" title="Ultimate Epic Battle Simulator">
   <img src="../assets/games/616560/steam-header.jpg" alt="Ultimate Epic Battle Simulator" loading="lazy" />
   <span>Ultimate Epic Battle Simulator</span>
@@ -4471,6 +5166,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1035510/steam-header.jpg" alt="Ultimate Zombie Defense" loading="lazy" />
   <span>Ultimate Zombie Defense</span>
   <small>1035510 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3224770" title="Umamusume: Pretty Derby">
+  <img src="../assets/games/3224770/steam-header.jpg" alt="Umamusume: Pretty Derby" loading="lazy" />
+  <span>Umamusume: Pretty Derby</span>
+  <small>3224770 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=1659420" title="UNCHARTED: Legacy of Thieves Collection">
   <img src="../assets/games/1659420/steam-header.jpg" alt="UNCHARTED: Legacy of Thieves Collection" loading="lazy" />
@@ -4531,6 +5231,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/837470/steam-header.jpg" alt="Untitled Goose Game" loading="lazy" />
   <span>Untitled Goose Game</span>
   <small>837470 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=304930" title="Unturned">
+  <img src="../assets/games/304930/steam-header.jpg" alt="Unturned" loading="lazy" />
+  <span>Unturned</span>
+  <small>304930 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=3606890" title="Upload Labs">
   <img src="../assets/games/3606890/steam-header.jpg" alt="Upload Labs" loading="lazy" />
@@ -4712,10 +5417,30 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Whisper Mountain Outbreak</span>
   <small>1953230 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=2595010" title="Whisper Mountain Outbreak - Pase Amigo">
+  <img src="../assets/games/2595010/steam-header.jpg" alt="Whisper Mountain Outbreak - Pase Amigo" loading="lazy" />
+  <span>Whisper Mountain Outbreak - Pase Amigo</span>
+  <small>2595010 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3745500" title="Whispers from the Star Demo">
+  <img src="../assets/games/3745500/steam-header.jpg" alt="Whispers from the Star Demo" loading="lazy" />
+  <span>Whispers from the Star Demo</span>
+  <small>3745500 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1134700" title="Wild Terra 2: New Lands">
+  <img src="../assets/games/1134700/steam-header.jpg" alt="Wild Terra 2: New Lands" loading="lazy" />
+  <span>Wild Terra 2: New Lands</span>
+  <small>1134700 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2978120" title="Wild West: Prototype">
   <img src="../assets/games/2978120/steam-header.jpg" alt="Wild West: Prototype" loading="lazy" />
   <span>Wild West: Prototype</span>
   <small>2978120 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=1599330" title="Wildmender">
+  <img src="../assets/games/1599330/steam-header.jpg" alt="Wildmender" loading="lazy" />
+  <span>Wildmender</span>
+  <small>1599330 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=640890" title="Will Glow the Wisp">
   <img src="../assets/games/640890/steam-header.jpg" alt="Will Glow the Wisp" loading="lazy" />
@@ -4762,6 +5487,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>World of Warships</span>
   <small>552990 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=699130" title="World War Z">
+  <img src="../assets/games/699130/steam-header.jpg" alt="World War Z" loading="lazy" />
+  <span>World War Z</span>
+  <small>699130 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=1206560" title="WorldBox - God Simulator">
   <img src="../assets/games/1206560/steam-header.jpg" alt="WorldBox - God Simulator" loading="lazy" />
   <span>WorldBox - God Simulator</span>
@@ -4776,6 +5506,16 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/327030/steam-header.jpg" alt="Worms W.M.D" loading="lazy" />
   <span>Worms W.M.D</span>
   <small>327030 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=228380" title="Wreckfest">
+  <img src="../assets/games/228380/steam-header.jpg" alt="Wreckfest" loading="lazy" />
+  <span>Wreckfest</span>
+  <small>228380 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=3513350" title="Wuthering Waves">
+  <img src="../assets/games/3513350/steam-header.jpg" alt="Wuthering Waves" loading="lazy" />
+  <span>Wuthering Waves</span>
+  <small>3513350 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=268500" title="XCOM 2">
   <img src="../assets/games/268500/steam-header.jpg" alt="XCOM 2" loading="lazy" />
@@ -4797,6 +5537,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <span>Xeno Crisis</span>
   <small>464260 · steam</small>
 </a>
+<a class="assets-gallery-card" href="detalle.html?id=674750" title="Yet Another Zombie Defense HD">
+  <img src="../assets/games/674750/steam-header.jpg" alt="Yet Another Zombie Defense HD" loading="lazy" />
+  <span>Yet Another Zombie Defense HD</span>
+  <small>674750 · steam</small>
+</a>
 <a class="assets-gallery-card" href="detalle.html?id=2863840" title="YIIK Nameless Psychosis">
   <img src="../assets/games/2863840/steam-header.jpg" alt="YIIK Nameless Psychosis" loading="lazy" />
   <span>YIIK Nameless Psychosis</span>
@@ -4816,6 +5561,11 @@ Esta página es una galería técnica/global. No pertenece a ningún perfil pers
   <img src="../assets/games/1449850/steam-header.jpg" alt="Yu-Gi-Oh! Master Duel" loading="lazy" />
   <span>Yu-Gi-Oh! Master Duel</span>
   <small>1449850 · steam</small>
+</a>
+<a class="assets-gallery-card" href="detalle.html?id=4162040" title="Zenless Zone Zero">
+  <img src="../assets/games/4162040/steam-header.jpg" alt="Zenless Zone Zero" loading="lazy" />
+  <span>Zenless Zone Zero</span>
+  <small>4162040 · steam</small>
 </a>
 <a class="assets-gallery-card" href="detalle.html?id=694280" title="Zombie Army 4">
   <img src="../assets/games/694280/steam-header.jpg" alt="Zombie Army 4" loading="lazy" />

@@ -10,8 +10,8 @@ Registrar información manual reciente sobre propiedad de DLC y agregar los cuat
 |---|---:|---|
 | Blue Protocol: Star Resonance | `3681810` | Internet Persistente, RPG, YYY) PvE / Acción |
 | Desktop Mate | `3301060` | ZZZ) Demos y otros |
-| Supermarket Together | `2709570` | Simulator, Chill / Relax, Arcade / Casual, YYY) Party / Versus / Mesa |
-| Transformice | `335240` | Internet Persistente, Plataformas, Arcade / Casual, YYY) Party / Versus / Mesa |
+| Supermarket Together | `2709570` | Simulator, Chill / Relax, Arcade / Casual / Rápido, YYY) Party / Versus / Mesa |
+| Transformice | `335240` | Internet Persistente, Plataformas, Arcade / Casual / Rápido, YYY) Party / Versus / Mesa |
 
 ## DLC registrado manualmente
 

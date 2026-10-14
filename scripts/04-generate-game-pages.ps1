@@ -12,7 +12,6 @@
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string]$MetadataPath = ".\data\games-metadata.json",
-    [string]$CatalogPath = ".\data\library-catalog.json",
     [string]$OutDir = ".\src\07-juegos",
     [string]$DataOutDir = ".\src\assets\data",
     [switch]$IncludeIndividualPages
@@ -22,31 +21,6 @@ param(
 
 $registry = @(Load-JsonFile $RegistryPath @()) | Where-Object { $_.steamAppId }
 $registry = @($registry | Sort-Object title)
-
-# V6.6.12: La navegación general usa library-catalog.json si existe.
-# Ese catálogo incluye juegos sin Steam App ID, externos, demos y pendientes.
-$catalog = @()
-if (Test-Path $CatalogPath) {
-    $catalog = @(Load-JsonFile $CatalogPath @())
-}
-if (-not $catalog -or $catalog.Count -eq 0) {
-    $catalog = @($registry | ForEach-Object {
-        [pscustomobject]@{
-            canonicalId = "steam:$($_.steamAppId)"
-            title = $_.title
-            slug = $_.slug
-            steamAppId = $_.steamAppId
-            officialName = $_.officialName
-            steamType = $_.steamType
-            isResolvedSteam = $true
-            sourceType = "steam-registry"
-            priority = "registry-approved"
-            sourceFiles = @("data/steam-games-registry.json")
-            externalType = $null
-        }
-    })
-}
-$catalog = @($catalog | Sort-Object title)
 
 $metadataById = @{}
 if (Test-Path $MetadataPath) {
@@ -267,57 +241,6 @@ function New-CompactGameCard {
 "@
 }
 
-
-function New-CompactCatalogCard {
-    param($Item)
-
-    $title = Escape-Html ([string]$Item.title)
-    $official = Escape-Html ([string]$Item.officialName)
-    $sourceType = Escape-Html ([string]$Item.sourceType)
-    $priority = Escape-Html ([string]$Item.priority)
-    $externalType = Escape-Html ([string]$Item.externalType)
-    $slug = Escape-Html ([string]$Item.slug)
-
-    $appid = 0
-    $hasAppId = $false
-    if ($Item.steamAppId) { $hasAppId = [int]::TryParse([string]$Item.steamAppId, [ref]$appid) -and $appid -gt 0 }
-
-    if ($hasAppId) {
-@"
-<article id="game-meta-$appid" class="compact-game-card">
-  <a class="compact-game-card__cover" href="../detalle.html?id=$appid">
-    <img src="../../assets/games/$appid/steam-header.jpg" alt="$title" loading="lazy" />
-  </a>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title"><a href="../detalle.html?id=$appid">🎮 $title</a></div>
-    <div class="compact-game-card__meta">
-      <span><strong>App ID:</strong> <code>$appid</code></span>
-      <span><strong>Oficial:</strong> $official</span>
-      <span><strong>Origen catálogo:</strong> <code>$sourceType</code></span>
-    </div>
-    $(New-SteamActionsHtml -AppId $appid -Compact)
-  </div>
-</article>
-"@
-    }
-    else {
-        $label = if ($externalType) { $externalType } elseif ($priority) { $priority } else { "catalog-only" }
-@"
-<article id="game-meta-$slug" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 $title</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>$sourceType</code></span>
-      <span><strong>Tipo:</strong> <code>$label</code></span>
-    </div>
-  </div>
-</article>
-"@
-    }
-}
-
 function Write-DetailPage {
     $content = @'
 # 🎮 Ficha dinámica de juego
@@ -359,7 +282,7 @@ $gameIndex = @($registry | ForEach-Object { New-GameIndexEntry $_ })
 Save-JsonFile (Join-Path $DataOutDir "games-index.json") $gameIndex 14
 
 $groups = @{}
-foreach ($g in $catalog) {
+foreach ($g in $registry) {
     $key = Get-GameLetterKey ([string]$g.title)
     if (-not $groups.ContainsKey($key)) { $groups[$key] = New-Object System.Collections.Generic.List[object] }
     $groups[$key].Add($g)
@@ -380,14 +303,14 @@ foreach ($key in $keys) {
     $lines = New-Object System.Collections.Generic.List[string]
     $lines.Add("# Juegos — $key")
     $lines.Add("")
-    $lines.Add("> Página alfabética compacta. Contiene **$($items.Count)** entradas generadas desde ``data/library-catalog.json``.")
+    $lines.Add("> Página alfabética compacta. Contiene **$($items.Count)** entradas generadas desde ``data/steam-games-registry.json``.")
     $lines.Add("")
     $lines.Add("[← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)")
     $lines.Add("")
     $lines.Add('<div class="compact-game-list">')
 
     foreach ($g in $items) {
-        $lines.Add((New-CompactCatalogCard $g))
+        $lines.Add((New-CompactGameCard $g))
         $lines.Add("")
     }
 
@@ -398,12 +321,11 @@ foreach ($key in $keys) {
 $index = New-Object System.Collections.Generic.List[string]
 $index.Add("# 🎮 Juegos / Metadatos")
 $index.Add("")
-$index.Add("> Índice global compacto generado desde ``data/library-catalog.json``. Incluye entradas con Steam App ID y entradas de catálogo sin resolver.")
+$index.Add("> Índice global compacto generado desde ``data/steam-games-registry.json``.")
 $index.Add("")
 $index.Add("Esta sección ya no lista todos los juegos individuales en el sidebar. Los detalles se dividen por letra y cada juego puede abrirse en una ficha dinámica única.")
 $index.Add("")
-$index.Add("**Total en catálogo general:** ``$($catalog.Count)`` entradas.  ")
-$index.Add("**Con Steam App ID:** ``$($registry.Count)`` entradas.")
+$index.Add("**Total registrado:** ``$($registry.Count)`` juegos/apps con ``steamAppId``.")
 $index.Add("")
 $index.Add("## Ficha dinámica")
 $index.Add("")
@@ -424,22 +346,13 @@ $index.Add("")
 $index.Add("Cada enlace abre la ficha dinámica del juego correspondiente.")
 $index.Add("")
 $index.Add('<div class="compact-registry-index">')
-foreach ($g in $catalog) {
+foreach ($g in $registry) {
+    $appid = [int]$g.steamAppId
     $title = Escape-Html ([string]$g.title)
-    $appid = 0
-    $hasAppId = $false
-    if ($g.steamAppId) { $hasAppId = [int]::TryParse([string]$g.steamAppId, [ref]$appid) -and $appid -gt 0 }
-
-    if ($hasAppId) {
-        $index.Add("  <a id=`"game-meta-$appid`" class=`"compact-registry-link`" href=`"detalle.html?id=$appid`">🎮 $title</a>")
-    }
-    else {
-        $slug = Escape-Html ([string]$g.slug)
-        $index.Add("  <span id=`"game-meta-$slug`" class=`"compact-registry-link compact-registry-link--catalog-only`">📦 $title</span>")
-    }
+    $index.Add("  <a id=`"game-meta-$appid`" class=`"compact-registry-link`" href=`"detalle.html?id=$appid`">🎮 $title</a>")
 }
 $index.Add('</div>')
 
 Set-Content (Join-Path $OutDir "index.md") ($index -join "`n") -Encoding UTF8
 
-Write-Step "Páginas de juegos, catálogo general y games-index.json generados en $OutDir."
+Write-Step "Páginas de juegos, ficha dinámica y games-index.json generados en $OutDir."

@@ -2,6 +2,8 @@
 
 README de uso rápido para levantar, sincronizar, enriquecer y mantener el mdBook de la biblioteca familiar de Steam.
 
+> **Baseline vigente:** V6.6.14 · 2026-08-17 · 93 colecciones corroboradas contra Steam + `Cartas / Deckbuilder` creada por taxonomía · El Pozo 190 · MRD 57.
+
 > Este README es operativo. El changelog/versionado histórico debe vivir dentro del mdBook, en `src/06-mantenimiento/` o la sección equivalente.
 
 ---
@@ -608,86 +610,3 @@ Guía rápida, si existe:
 ```text
 docs/git-workflow.md
 ```
-
----
-
-## 16. Reparar discovery / lista general completa
-
-Usa este flujo cuando las colecciones sí tienen todos los juegos, pero la sección `VII. Juegos / Metadatos` muestra menos entradas porque solo estaba leyendo el registry de Steam.
-
-### 16.1 Reset seguro del discovery
-
-```powershell
-.\scripts\00-reset-discovery-state.ps1 -GenerateExternalGames
-```
-
-Hace backup en `data/_backup_discovery_reset_yyyyMMdd-HHmmss`, limpia:
-
-```txt
-data/steam-games-review-needed.json
-data/steam-games-retry-needed.json
-data/steam-games-ignored.json
-```
-
-y reconstruye:
-
-```txt
-data/steam-image-targets.json
-data/library-discovered-targets.json
-data/external-games.json
-```
-
-No borra `data/steam-games-registry.json`.
-
-### 16.2 Generar catálogo general
-
-```powershell
-.\scripts\19-build-library-catalog.ps1
-```
-
-Genera:
-
-```txt
-data/library-catalog.json
-src/assets/data/library-catalog.json
-data/library-catalog-report.json
-```
-
-`library-catalog.json` es la lista general completa: incluye juegos Steam confirmados, externos, demos, herramientas y entradas sin AppID.
-
-### 16.3 Regenerar índice general
-
-```powershell
-.\scripts\04-generate-game-pages.ps1
-.\scripts\11-sanitize-games-summary.ps1
-mdbook clean
-mdbook build
-mdbook serve --open
-```
-
-### 16.4 Flujo corto recomendado
-
-```powershell
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
-Get-ChildItem .\scripts\*.ps1 | Unblock-File
-
-.\scripts\00-reset-discovery-state.ps1 -GenerateExternalGames
-.\scripts\19-build-library-catalog.ps1
-.\scripts\04-generate-game-pages.ps1
-.\scripts\11-sanitize-games-summary.ps1
-
-mdbook clean
-mdbook build
-mdbook serve --open
-```
-
-### 16.5 Resolver AppIDs faltantes después del reset
-
-```powershell
-.\scripts\01-sync-steam-ids.ps1 -DiscoverFromMarkdown -AllowFuzzy -UpdateTargets
-.\scripts\19-build-library-catalog.ps1
-.\scripts\04-generate-game-pages.ps1
-.\scripts\11-sanitize-games-summary.ps1
-```
-
-No uses `-RegistryOnlyTargets` salvo que quieras volver al comportamiento viejo de guardar únicamente juegos con AppID aprobado.

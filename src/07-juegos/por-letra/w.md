@@ -1,6 +1,6 @@
 # Juegos — W
 
-> Página alfabética compacta. Contiene **50** entradas generadas desde `data/library-catalog.json`.
+> Página alfabética compacta. Contiene **46** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -14,7 +14,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>215080</code></span>
       <span><strong>Oficial:</strong> WAKFU</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="215080">
   <a class="steam-action steam-play" href="steam://run/215080" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -33,25 +35,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2187290</code></span>
       <span><strong>Oficial:</strong> Wall World</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2187290">
   <a class="steam-action steam-play" href="steam://run/2187290" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2187290" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2187290" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-wallpaper-alive" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Wallpaper Alive</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -64,7 +56,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>431960</code></span>
       <span><strong>Oficial:</strong> Wallpaper Engine</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="431960">
   <a class="steam-action steam-play" href="steam://run/431960" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -83,7 +77,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2386610</code></span>
       <span><strong>Oficial:</strong> Wandering Skies</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2386610">
   <a class="steam-action steam-play" href="steam://run/2386610" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -102,7 +98,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>236390</code></span>
       <span><strong>Oficial:</strong> War Thunder</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="236390">
   <a class="steam-action steam-play" href="steam://run/236390" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -121,7 +119,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>671610</code></span>
       <span><strong>Oficial:</strong> Warfork</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="671610">
   <a class="steam-action steam-play" href="steam://run/671610" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -140,7 +140,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>230410</code></span>
       <span><strong>Oficial:</strong> Warframe</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="230410">
   <a class="steam-action steam-play" href="steam://run/230410" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -159,7 +161,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2005010</code></span>
       <span><strong>Oficial:</strong> Warhammer 40,000: Boltgun</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2005010">
   <a class="steam-action steam-play" href="steam://run/2005010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -178,7 +182,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1361210</code></span>
       <span><strong>Oficial:</strong> Warhammer 40,000: Darktide</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1361210">
   <a class="steam-action steam-play" href="steam://run/1361210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -197,7 +203,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>489630</code></span>
       <span><strong>Oficial:</strong> Warhammer 40,000: Gladius - Relics of War</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="489630">
   <a class="steam-action steam-play" href="steam://run/489630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -216,7 +224,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>55150</code></span>
       <span><strong>Oficial:</strong> Warhammer 40,000: Space Marine - Anniversary Edition</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="55150">
   <a class="steam-action steam-play" href="steam://run/55150" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -235,25 +245,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2183900</code></span>
       <span><strong>Oficial:</strong> Warhammer 40,000: Space Marine 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2183900">
   <a class="steam-action steam-play" href="steam://run/2183900" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2183900" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2183900" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-warhammer-40-000-space-marine-2-public-test-server" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Warhammer 40,000: Space Marine 2 - Public Test Server</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
   </div>
 </article>
 
@@ -266,7 +266,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2078450</code></span>
       <span><strong>Oficial:</strong> Warhammer 40,000: Speed Freeks</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2078450">
   <a class="steam-action steam-play" href="steam://run/2078450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -285,7 +287,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>552500</code></span>
       <span><strong>Oficial:</strong> Warhammer: Vermintide 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="552500">
   <a class="steam-action steam-play" href="steam://run/552500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -304,7 +308,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>243470</code></span>
       <span><strong>Oficial:</strong> Watch_Dogs™</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="243470">
   <a class="steam-action steam-play" href="steam://run/243470" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -323,7 +329,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>21010</code></span>
       <span><strong>Oficial:</strong> Watchmen: The End is Nigh</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="21010">
   <a class="steam-action steam-play" href="steam://run/21010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -342,7 +350,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>21030</code></span>
       <span><strong>Oficial:</strong> Watchmen: The End is Nigh Part 2</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="21030">
   <a class="steam-action steam-play" href="steam://run/21030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -361,7 +371,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1103210</code></span>
       <span><strong>Oficial:</strong> We Become What We Behold [Fan-Made Port]</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1103210">
   <a class="steam-action steam-play" href="steam://run/1103210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -380,7 +392,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>582500</code></span>
       <span><strong>Oficial:</strong> We Were Here</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="582500">
   <a class="steam-action steam-play" href="steam://run/582500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -399,7 +413,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2296990</code></span>
       <span><strong>Oficial:</strong> We Were Here Expeditions: The FriendShip</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2296990">
   <a class="steam-action steam-play" href="steam://run/2296990" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -418,7 +434,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1341290</code></span>
       <span><strong>Oficial:</strong> We Were Here Forever</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1341290">
   <a class="steam-action steam-play" href="steam://run/1341290" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -437,7 +455,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>865360</code></span>
       <span><strong>Oficial:</strong> We Were Here Together</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="865360">
   <a class="steam-action steam-play" href="steam://run/865360" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -456,7 +476,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>677160</code></span>
       <span><strong>Oficial:</strong> We Were Here Too</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="677160">
   <a class="steam-action steam-play" href="steam://run/677160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -475,7 +497,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2747770</code></span>
       <span><strong>Oficial:</strong> Wednesdays</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2747770">
   <a class="steam-action steam-play" href="steam://run/2747770" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -494,7 +518,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>3564740</code></span>
       <span><strong>Oficial:</strong> Where Winds Meet</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="3564740">
   <a class="steam-action steam-play" href="steam://run/3564740" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -513,7 +539,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1953230</code></span>
       <span><strong>Oficial:</strong> Whisper Mountain Outbreak</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1953230">
   <a class="steam-action steam-play" href="steam://run/1953230" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -523,63 +551,66 @@
   </div>
 </article>
 
-<article id="game-meta-whisper-mountain-outbreak-pase-amigo" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+<article id="game-meta-2595010" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2595010">
+    <img src="../../assets/games/2595010/steam-header.jpg" alt="Whisper Mountain Outbreak - Pase Amigo" loading="lazy" />
+  </a>
   <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Whisper Mountain Outbreak - Pase Amigo</div>
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2595010">🎮 Whisper Mountain Outbreak - Pase Amigo</a></div>
     <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+      <span><strong>App ID:</strong> <code>2595010</code></span>
+      <span><strong>Oficial:</strong> Whisper Mountain Outbreak - Pase Amigo</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2595010">
+  <a class="steam-action steam-play" href="steam://run/2595010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2595010" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2595010" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
   </div>
 </article>
 
-<article id="game-meta-whitelily-1" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+<article id="game-meta-3745500" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3745500">
+    <img src="../../assets/games/3745500/steam-header.jpg" alt="Whispers from the Star Demo" loading="lazy" />
+  </a>
   <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 WhiteLily 1: 丽丽公主</div>
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3745500">🎮 Whispers from the Star Demo</a></div>
     <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+      <span><strong>App ID:</strong> <code>3745500</code></span>
+      <span><strong>Oficial:</strong> Whispers from the Star Demo</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3745500">
+  <a class="steam-action steam-play" href="steam://run/3745500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3745500" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3745500" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
   </div>
 </article>
 
-<article id="game-meta-why-so-evil" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+<article id="game-meta-1134700" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1134700">
+    <img src="../../assets/games/1134700/steam-header.jpg" alt="Wild Terra 2: New Lands" loading="lazy" />
+  </a>
   <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Why So Evil</div>
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1134700">🎮 Wild Terra 2: New Lands</a></div>
     <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+      <span><strong>App ID:</strong> <code>1134700</code></span>
+      <span><strong>Oficial:</strong> Wild Terra 2: New Lands</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
-  </div>
-</article>
-
-<article id="game-meta-why-so-evil-2-dystopia" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Why So Evil 2: Dystopia</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
-  </div>
-</article>
-
-<article id="game-meta-wild-life-demo" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 Wild Life Demo</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
-    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1134700">
+  <a class="steam-action steam-play" href="steam://run/1134700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1134700" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1134700" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
   </div>
 </article>
 
@@ -592,12 +623,35 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>2978120</code></span>
       <span><strong>Oficial:</strong> Wild West: Prototype</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="2978120">
   <a class="steam-action steam-play" href="steam://run/2978120" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2978120" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2978120" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1599330" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1599330">
+    <img src="../../assets/games/1599330/steam-header.jpg" alt="Wildmender" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1599330">🎮 Wildmender</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1599330</code></span>
+      <span><strong>Oficial:</strong> Wildmender</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1599330">
+  <a class="steam-action steam-play" href="steam://run/1599330" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1599330" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1599330" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -611,7 +665,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>640890</code></span>
       <span><strong>Oficial:</strong> Will Glow the Wisp</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="640890">
   <a class="steam-action steam-play" href="steam://run/640890" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -630,49 +686,15 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>707010</code></span>
       <span><strong>Oficial:</strong> Will To Live Online</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>storesearch-exact</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="707010">
   <a class="steam-action steam-play" href="steam://run/707010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/707010" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/707010" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
-  </div>
-</article>
-
-<article id="game-meta-winds-pro" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 WinDS PRO</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>emulator</code></span>
-    </div>
-  </div>
-</article>
-
-<article id="game-meta-winds-pro-fx" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 WinDS PRO FX</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>emulator</code></span>
-    </div>
-  </div>
-</article>
-
-<article id="game-meta-winkawaks" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
-  <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 WinKawaks</div>
-    <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>emulator</code></span>
-    </div>
   </div>
 </article>
 
@@ -685,7 +707,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>445980</code></span>
       <span><strong>Oficial:</strong> Wizard of Legend</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="445980">
   <a class="steam-action steam-play" href="steam://run/445980" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -704,7 +728,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>612880</code></span>
       <span><strong>Oficial:</strong> Wolfenstein II: The New Colossus</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="612880">
   <a class="steam-action steam-play" href="steam://run/612880" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -723,7 +749,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>350080</code></span>
       <span><strong>Oficial:</strong> Wolfenstein: The Old Blood</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="350080">
   <a class="steam-action steam-play" href="steam://run/350080" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -742,7 +770,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1407200</code></span>
       <span><strong>Oficial:</strong> World of Tanks</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1407200">
   <a class="steam-action steam-play" href="steam://run/1407200" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -761,7 +791,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>444200</code></span>
       <span><strong>Oficial:</strong> World of Tanks Blitz</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="444200">
   <a class="steam-action steam-play" href="steam://run/444200" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -780,7 +812,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>790710</code></span>
       <span><strong>Oficial:</strong> World of Warplanes</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="790710">
   <a class="steam-action steam-play" href="steam://run/790710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -799,7 +833,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>552990</code></span>
       <span><strong>Oficial:</strong> World of Warships</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="552990">
   <a class="steam-action steam-play" href="steam://run/552990" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -809,15 +845,24 @@
   </div>
 </article>
 
-<article id="game-meta-world-of-warships-composers-choice" class="compact-game-card compact-game-card--catalog-only">
-  <div class="compact-game-card__cover compact-game-card__cover--placeholder">📦</div>
+<article id="game-meta-699130" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=699130">
+    <img src="../../assets/games/699130/steam-header.jpg" alt="World War Z" loading="lazy" />
+  </a>
   <div class="compact-game-card__body">
-    <div class="compact-game-card__title">📦 World of Warships — Composer&#39;s Choice</div>
+    <div class="compact-game-card__title"><a href="../detalle.html?id=699130">🎮 World War Z</a></div>
     <div class="compact-game-card__meta">
-      <span><strong>Estado:</strong> <code>sin Steam App ID</code></span>
-      <span><strong>Origen catálogo:</strong> <code>target</code></span>
-      <span><strong>Tipo:</strong> <code>discovered-markdown</code></span>
+      <span><strong>App ID:</strong> <code>699130</code></span>
+      <span><strong>Oficial:</strong> World War Z</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="699130">
+  <a class="steam-action steam-play" href="steam://run/699130" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/699130" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/699130" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
   </div>
 </article>
 
@@ -830,7 +875,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>1206560</code></span>
       <span><strong>Oficial:</strong> WorldBox - God Simulator</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="1206560">
   <a class="steam-action steam-play" href="steam://run/1206560" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -849,7 +896,9 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>200170</code></span>
       <span><strong>Oficial:</strong> Worms Revolution</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="200170">
   <a class="steam-action steam-play" href="steam://run/200170" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
@@ -868,12 +917,56 @@
     <div class="compact-game-card__meta">
       <span><strong>App ID:</strong> <code>327030</code></span>
       <span><strong>Oficial:</strong> Worms W.M.D</span>
-      <span><strong>Origen catálogo:</strong> <code>steam-registry</code></span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
     </div>
     <div class="steam-actions steam-actions--compact" data-steam-appid="327030">
   <a class="steam-action steam-play" href="steam://run/327030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/327030" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/327030" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-228380" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=228380">
+    <img src="../../assets/games/228380/steam-header.jpg" alt="Wreckfest" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=228380">🎮 Wreckfest</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>228380</code></span>
+      <span><strong>Oficial:</strong> Wreckfest</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="228380">
+  <a class="steam-action steam-play" href="steam://run/228380" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/228380" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/228380" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3513350" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3513350">
+    <img src="../../assets/games/3513350/steam-header.jpg" alt="Wuthering Waves" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3513350">🎮 Wuthering Waves</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3513350</code></span>
+      <span><strong>Oficial:</strong> Wuthering Waves</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3513350">
+  <a class="steam-action steam-play" href="steam://run/3513350" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3513350" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3513350" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
