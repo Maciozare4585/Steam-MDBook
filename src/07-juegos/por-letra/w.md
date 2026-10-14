@@ -1,6 +1,6 @@
 # Juegos — W
 
-> Página alfabética compacta. Contiene **39** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **46** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -551,6 +551,69 @@
   </div>
 </article>
 
+<article id="game-meta-2595010" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2595010">
+    <img src="../../assets/games/2595010/steam-header.jpg" alt="Whisper Mountain Outbreak - Pase Amigo" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2595010">🎮 Whisper Mountain Outbreak - Pase Amigo</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2595010</code></span>
+      <span><strong>Oficial:</strong> Whisper Mountain Outbreak - Pase Amigo</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2595010">
+  <a class="steam-action steam-play" href="steam://run/2595010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2595010" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2595010" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3745500" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3745500">
+    <img src="../../assets/games/3745500/steam-header.jpg" alt="Whispers from the Star Demo" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3745500">🎮 Whispers from the Star Demo</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3745500</code></span>
+      <span><strong>Oficial:</strong> Whispers from the Star Demo</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3745500">
+  <a class="steam-action steam-play" href="steam://run/3745500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3745500" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3745500" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1134700" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1134700">
+    <img src="../../assets/games/1134700/steam-header.jpg" alt="Wild Terra 2: New Lands" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1134700">🎮 Wild Terra 2: New Lands</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1134700</code></span>
+      <span><strong>Oficial:</strong> Wild Terra 2: New Lands</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1134700">
+  <a class="steam-action steam-play" href="steam://run/1134700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1134700" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1134700" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-2978120" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=2978120">
     <img src="../../assets/games/2978120/steam-header.jpg" alt="Wild West: Prototype" loading="lazy" />
@@ -568,6 +631,27 @@
   <a class="steam-action steam-play" href="steam://run/2978120" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2978120" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2978120" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1599330" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1599330">
+    <img src="../../assets/games/1599330/steam-header.jpg" alt="Wildmender" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1599330">🎮 Wildmender</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1599330</code></span>
+      <span><strong>Oficial:</strong> Wildmender</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1599330">
+  <a class="steam-action steam-play" href="steam://run/1599330" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1599330" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1599330" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -761,6 +845,27 @@
   </div>
 </article>
 
+<article id="game-meta-699130" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=699130">
+    <img src="../../assets/games/699130/steam-header.jpg" alt="World War Z" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=699130">🎮 World War Z</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>699130</code></span>
+      <span><strong>Oficial:</strong> World War Z</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="699130">
+  <a class="steam-action steam-play" href="steam://run/699130" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/699130" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/699130" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1206560" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1206560">
     <img src="../../assets/games/1206560/steam-header.jpg" alt="WorldBox - God Simulator" loading="lazy" />
@@ -820,6 +925,48 @@
   <a class="steam-action steam-play" href="steam://run/327030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/327030" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/327030" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-228380" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=228380">
+    <img src="../../assets/games/228380/steam-header.jpg" alt="Wreckfest" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=228380">🎮 Wreckfest</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>228380</code></span>
+      <span><strong>Oficial:</strong> Wreckfest</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="228380">
+  <a class="steam-action steam-play" href="steam://run/228380" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/228380" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/228380" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3513350" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3513350">
+    <img src="../../assets/games/3513350/steam-header.jpg" alt="Wuthering Waves" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3513350">🎮 Wuthering Waves</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3513350</code></span>
+      <span><strong>Oficial:</strong> Wuthering Waves</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3513350">
+  <a class="steam-action steam-play" href="steam://run/3513350" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3513350" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3513350" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

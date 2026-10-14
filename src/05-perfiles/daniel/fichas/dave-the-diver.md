@@ -9,7 +9,7 @@
 | Campo | Valor |
 |---|---|
 | Última revisión | 2026-05-05 |
-| Casa principal | Cozy / Farming / Vida tranquila |
+| Casa principal | Cozy / Vida tranquila |
 | Tipo base | Aventura cozy / gestión / exploración |
 | Estado personal | 🏁 Terminado / 🎁 Postgame-Extras / 💯 Pa platinar / ⭐ Favorito |
 | Colecciones útiles | Cozy, Postgame, Pa platinar, Favoritos |
@@ -24,6 +24,15 @@
 
 </div>
 </div>
+
+
+
+
+
+
+
+
+
 
 
 

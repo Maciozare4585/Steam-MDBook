@@ -1,6 +1,6 @@
 # Juegos — L
 
-> Página alfabética compacta. Contiene **36** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **39** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -131,6 +131,27 @@
   </div>
 </article>
 
+<article id="game-meta-2215200" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2215200">
+    <img src="../../assets/games/2215200/steam-header.jpg" alt="LEGO Batman: Legacy of the Dark Knight" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2215200">🎮 LEGO Batman: Legacy of the Dark Knight</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2215200</code></span>
+      <span><strong>Oficial:</strong> LEGO Batman: Legacy of the Dark Knight</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2215200">
+  <a class="steam-action steam-play" href="steam://run/2215200" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2215200" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2215200" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1898290" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1898290">
     <img src="../../assets/games/1898290/steam-header.jpg" alt="LEGO Bricktales" loading="lazy" />
@@ -169,6 +190,27 @@
   <a class="steam-action steam-play" href="steam://run/578330" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/578330" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/578330" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2950340" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2950340">
+    <img src="../../assets/games/2950340/steam-header.jpg" alt="LEGO Harry Potter Collection" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2950340">🎮 LEGO Harry Potter Collection</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2950340</code></span>
+      <span><strong>Oficial:</strong> LEGO Harry Potter Collection</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2950340">
+  <a class="steam-action steam-play" href="steam://run/2950340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2950340" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2950340" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -715,6 +757,27 @@
   <a class="steam-action steam-play" href="steam://run/3312020" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3312020" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3312020" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-6510" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=6510">
+    <img src="../../assets/games/6510/steam-header.jpg" alt="Lost Planet: Extreme Condition" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=6510">🎮 Lost Planet: Extreme Condition</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>6510</code></span>
+      <span><strong>Oficial:</strong> Lost Planet: Extreme Condition</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="6510">
+  <a class="steam-action steam-play" href="steam://run/6510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/6510" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/6510" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

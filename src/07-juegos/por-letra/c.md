@@ -1,6 +1,6 @@
 # Juegos — C
 
-> Página alfabética compacta. Contiene **54** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **63** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -106,6 +106,27 @@
   <a class="steam-action steam-play" href="steam://run/3115010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3115010" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3115010" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-645630" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=645630">
+    <img src="../../assets/games/645630/steam-header.jpg" alt="Car Mechanic Simulator 2018" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=645630">🎮 Car Mechanic Simulator 2018</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>645630</code></span>
+      <span><strong>Oficial:</strong> Car Mechanic Simulator 2018</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="645630">
+  <a class="steam-action steam-play" href="steam://run/645630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/645630" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/645630" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -253,6 +274,27 @@
   <a class="steam-action steam-play" href="steam://run/544730" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/544730" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/544730" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3569430" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3569430">
+    <img src="../../assets/games/3569430/steam-header.jpg" alt="Catgirl" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3569430">🎮 Catgirl</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3569430</code></span>
+      <span><strong>Oficial:</strong> Catgirl</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3569430">
+  <a class="steam-action steam-play" href="steam://run/3569430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3569430" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3569430" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -467,6 +509,27 @@
   </div>
 </article>
 
+<article id="game-meta-1766740" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1766740">
+    <img src="../../assets/games/1766740/steam-header.jpg" alt="Choo-Choo Charles" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1766740">🎮 Choo-Choo Charles</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1766740</code></span>
+      <span><strong>Oficial:</strong> Choo-Choo Charles</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1766740">
+  <a class="steam-action steam-play" href="steam://run/1766740" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1766740" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1766740" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-251130" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=251130">
     <img src="../../assets/games/251130/steam-header.jpg" alt="Chroma Squad" loading="lazy" />
@@ -568,6 +631,90 @@
   <a class="steam-action steam-play" href="steam://run/1903340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1903340" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1903340" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3873750" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3873750">
+    <img src="../../assets/games/3873750/steam-header.jpg" alt="Clair Obscur: Expedition 33 – Nos Vies En Lumi&#232;re (Bonus Edition)" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3873750">🎮 Clair Obscur: Expedition 33 – Nos Vies En Lumi&#232;re (Bonus Edition)</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3873750</code></span>
+      <span><strong>Oficial:</strong> Clair Obscur: Expedition 33 – Nos Vies En Lumi&#232;re (Bonus Edition)</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3873750">
+  <a class="steam-action steam-play" href="steam://run/3873750" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3873750" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3873750" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2398450" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2398450">
+    <img src="../../assets/games/2398450/steam-header.jpg" alt="Classic Marathon" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2398450">🎮 Classic Marathon</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2398450</code></span>
+      <span><strong>Oficial:</strong> Classic Marathon</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2398450">
+  <a class="steam-action steam-play" href="steam://run/2398450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2398450" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2398450" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2398490" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2398490">
+    <img src="../../assets/games/2398490/steam-header.jpg" alt="Classic Marathon 2" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2398490">🎮 Classic Marathon 2</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2398490</code></span>
+      <span><strong>Oficial:</strong> Classic Marathon 2</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2398490">
+  <a class="steam-action steam-play" href="steam://run/2398490" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2398490" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2398490" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2398520" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2398520">
+    <img src="../../assets/games/2398520/steam-header.jpg" alt="Classic Marathon Infinity" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2398520">🎮 Classic Marathon Infinity</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2398520</code></span>
+      <span><strong>Oficial:</strong> Classic Marathon Infinity</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2398520">
+  <a class="steam-action steam-play" href="steam://run/2398520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2398520" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2398520" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -950,6 +1097,27 @@
   </div>
 </article>
 
+<article id="game-meta-203770" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=203770">
+    <img src="../../assets/games/203770/steam-header.jpg" alt="Crusader Kings II" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=203770">🎮 Crusader Kings II</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>203770</code></span>
+      <span><strong>Oficial:</strong> Crusader Kings II</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="203770">
+  <a class="steam-action steam-play" href="steam://run/203770" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/203770" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/203770" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-247080" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=247080">
     <img src="../../assets/games/247080/steam-header.jpg" alt="Crypt of the NecroDancer" loading="lazy" />
@@ -1114,6 +1282,27 @@
   <a class="steam-action steam-play" href="steam://run/1091500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1091500" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1091500" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1495710" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1495710">
+    <img src="../../assets/games/1495710/steam-header.jpg" alt="Cyberpunk 2077 Bonus Content" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1495710">🎮 Cyberpunk 2077 Bonus Content</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1495710</code></span>
+      <span><strong>Oficial:</strong> Cyberpunk 2077 Bonus Content</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1495710">
+  <a class="steam-action steam-play" href="steam://run/1495710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1495710" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1495710" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

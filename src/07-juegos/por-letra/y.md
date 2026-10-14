@@ -1,10 +1,31 @@
 # Juegos — Y
 
-> Página alfabética compacta. Contiene **4** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **5** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
+<article id="game-meta-674750" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=674750">
+    <img src="../../assets/games/674750/steam-header.jpg" alt="Yet Another Zombie Defense HD" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=674750">🎮 Yet Another Zombie Defense HD</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>674750</code></span>
+      <span><strong>Oficial:</strong> Yet Another Zombie Defense HD</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="674750">
+  <a class="steam-action steam-play" href="steam://run/674750" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/674750" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/674750" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-2863840" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=2863840">
     <img src="../../assets/games/2863840/steam-header.jpg" alt="YIIK Nameless Psychosis" loading="lazy" />

@@ -1,0 +1,50 @@
+{
+  "version": "v6.6.11",
+  "updatedAt": "2026-05-18T23:59:00Z",
+  "added": [
+    {
+      "title": "Darkest Dungeon® II",
+      "steamAppId": 1940340
+    },
+    {
+      "title": "Darkest Dungeon® II: Mod Tools",
+      "steamAppId": 3064700
+    },
+    {
+      "title": "Dr. Fetus' Mean Meat Machine",
+      "steamAppId": 2228030
+    },
+    {
+      "title": "King of Crabs",
+      "steamAppId": 1273710
+    },
+    {
+      "title": "Subnautica",
+      "steamAppId": 264710
+    },
+    {
+      "title": "Subnautica: Below Zero",
+      "steamAppId": 848450
+    },
+    {
+      "title": "Super Meat Boy",
+      "steamAppId": 40800
+    },
+    {
+      "title": "Super Meat Boy Editor",
+      "steamAppId": 40810
+    },
+    {
+      "title": "Super Meat Boy Forever",
+      "steamAppId": 581660
+    }
+  ],
+  "collectionCounts": {
+    "Plataformas": 26,
+    "Puzzle / Ingenio": 31,
+    "Roguelike / Roguelite": 32,
+    "Supervivencia / Crafting": 23,
+    "Internet Persistente": 62,
+    "ZZZ) Demos y otros": 45
+  }
+}

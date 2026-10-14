@@ -1,6 +1,6 @@
 # Juegos — B
 
-> Página alfabética compacta. Contiene **55** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **65** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -572,6 +572,27 @@
   </div>
 </article>
 
+<article id="game-meta-203750" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=203750">
+    <img src="../../assets/games/203750/steam-header.jpg" alt="Binary Domain" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=203750">🎮 Binary Domain</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>203750</code></span>
+      <span><strong>Oficial:</strong> Binary Domain</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="203750">
+  <a class="steam-action steam-play" href="steam://run/203750" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/203750" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/203750" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-7670" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=7670">
     <img src="../../assets/games/7670/steam-header.jpg" alt="BioShock" loading="lazy" />
@@ -740,6 +761,48 @@
   </div>
 </article>
 
+<article id="game-meta-2358720" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2358720">
+    <img src="../../assets/games/2358720/steam-header.jpg" alt="Black Myth: Wukong" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2358720">🎮 Black Myth: Wukong</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2358720</code></span>
+      <span><strong>Oficial:</strong> Black Myth: Wukong</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2358720">
+  <a class="steam-action steam-play" href="steam://run/2358720" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2358720" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2358720" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-729660" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=729660">
+    <img src="../../assets/games/729660/steam-header.jpg" alt="Blackout Z: Slaughterhouse Edition" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=729660">🎮 Blackout Z: Slaughterhouse Edition</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>729660</code></span>
+      <span><strong>Oficial:</strong> Blackout Z: Slaughterhouse Edition</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="729660">
+  <a class="steam-action steam-play" href="steam://run/729660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/729660" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/729660" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-774361" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=774361">
     <img src="../../assets/games/774361/steam-header.jpg" alt="Blasphemous" loading="lazy" />
@@ -803,6 +866,27 @@
   </div>
 </article>
 
+<article id="game-meta-3199170" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3199170">
+    <img src="../../assets/games/3199170/steam-header.jpg" alt="BLOODSTRIKE" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3199170">🎮 BLOODSTRIKE</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3199170</code></span>
+      <span><strong>Oficial:</strong> BLOODSTRIKE</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3199170">
+  <a class="steam-action steam-play" href="steam://run/3199170" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3199170" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3199170" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-960090" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=960090">
     <img src="../../assets/games/960090/steam-header.jpg" alt="Bloons TD 6" loading="lazy" />
@@ -845,6 +929,27 @@
   </div>
 </article>
 
+<article id="game-meta-3681810" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3681810">
+    <img src="../../assets/games/3681810/steam-header.jpg" alt="Blue Protocol: Star Resonance" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3681810">🎮 Blue Protocol: Star Resonance</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3681810</code></span>
+      <span><strong>Oficial:</strong> Blue Protocol: Star Resonance</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3681810">
+  <a class="steam-action steam-play" href="steam://run/3681810" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3681810" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3681810" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1282150" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1282150">
     <img src="../../assets/games/1282150/steam-header.jpg" alt="Bob Esponja: The Cosmic Shake" loading="lazy" />
@@ -862,6 +967,27 @@
   <a class="steam-action steam-play" href="steam://run/1282150" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1282150" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1282150" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-4747510" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=4747510">
+    <img src="../../assets/games/4747510/steam-header.jpg" alt="BOMBANANA! Demo" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=4747510">🎮 BOMBANANA! Demo</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>4747510</code></span>
+      <span><strong>Oficial:</strong> BOMBANANA! Demo</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="4747510">
+  <a class="steam-action steam-play" href="steam://run/4747510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/4747510" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/4747510" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -992,6 +1118,27 @@
   </div>
 </article>
 
+<article id="game-meta-1623940" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1623940">
+    <img src="../../assets/games/1623940/steam-header.jpg" alt="Bramble: The Mountain King" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1623940">🎮 Bramble: The Mountain King</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1623940</code></span>
+      <span><strong>Oficial:</strong> Bramble: The Mountain King</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1623940">
+  <a class="steam-action steam-play" href="steam://run/1623940" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1623940" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1623940" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-285800" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=285800">
     <img src="../../assets/games/285800/steam-header.jpg" alt="Braveland" loading="lazy" />
@@ -1055,6 +1202,27 @@
   </div>
 </article>
 
+<article id="game-meta-738520" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=738520">
+    <img src="../../assets/games/738520/steam-header.jpg" alt="Breathedge" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=738520">🎮 Breathedge</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>738520</code></span>
+      <span><strong>Oficial:</strong> Breathedge</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="738520">
+  <a class="steam-action steam-play" href="steam://run/738520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/738520" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/738520" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-274190" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=274190">
     <img src="../../assets/games/274190/steam-header.jpg" alt="Broforce" loading="lazy" />
@@ -1072,6 +1240,27 @@
   <a class="steam-action steam-play" href="steam://run/274190" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/274190" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/274190" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-696370" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=696370">
+    <img src="../../assets/games/696370/steam-header.jpg" alt="BROKE PROTOCOL" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=696370">🎮 BROKE PROTOCOL</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>696370</code></span>
+      <span><strong>Oficial:</strong> BROKE PROTOCOL</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="696370">
+  <a class="steam-action steam-play" href="steam://run/696370" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/696370" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/696370" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1114,6 +1303,27 @@
   <a class="steam-action steam-play" href="steam://run/3617560" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3617560" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3617560" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2413660" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2413660">
+    <img src="../../assets/games/2413660/steam-header.jpg" alt="Bucket Brawl: Ahlman Edition" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2413660">🎮 Bucket Brawl: Ahlman Edition</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2413660</code></span>
+      <span><strong>Oficial:</strong> Bucket Brawl: Ahlman Edition</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2413660">
+  <a class="steam-action steam-play" href="steam://run/2413660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2413660" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2413660" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

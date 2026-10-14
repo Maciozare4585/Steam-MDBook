@@ -123,7 +123,7 @@ Un duplicado es válido cuando **cambia la forma de elegir un juego**.
 | Juego | Casa principal | Duplicado nutritivo | Motivo |
 |---|---|---|---|
 | XCOM 2 | XCOM | ♟️ Táctico por turnos | Filtro mecánico claro |
-| Portal 2 | Portal | 🤝 YYY) Historia / Puzzle | Co-op/puzzle lo justifica |
+| Portal 2 | Portal | 🤝 YYY) Historia / Puzzle / Coop | Co-op/puzzle lo justifica |
 | Monster Hunter: World | Monster Hunter | 🤝 YYY) PvE / Acción | Jugarlo con gente cambia el uso |
 | Yu-Gi-Oh! Master Duel | Yu-Gi-Oh! | 🌐 Internet Persistente | Online/live-service |
 | The Witcher 3 | The Witcher | ⭐ Favoritos / 🔁 Toca replay / 🏁 Terminado | Valor personal e historial |
@@ -135,7 +135,7 @@ No duplicar solo porque:
 | Tiene campaña | Ensucia Campaña |
 | Tiene disparos | Ensucia Shooter |
 | Tiene zombies | Ensucia tema Zombies |
-| Es narrativo | Ensucia Narrativos / Experiencia |
+| Es narrativo | Ensucia Narrativa primero / experiencia |
 | Técnicamente encaja | No necesariamente ayuda a elegir |
 
 ---
@@ -156,6 +156,8 @@ Ejemplo aceptado:
 |---|---|---|
 | Deep Rock Galactic | 🚫 8) Abandonado + 🤝 YYY) PvE / Acción | Lo dejaste por una razón personal, pero sigue siendo útil como referencia PvE social |
 | Starbound | 🚫 8) Abandonado + 🪓 Supervivencia / Crafting | Se acepta como excepción: se queda como está |
+| Subnautica | Supervivencia / Crafting | Género mecánico | Solo si aporta | Supervivencia submarina |
+| Subnautica: Below Zero | Supervivencia / Crafting | Género mecánico | Solo si aporta | Supervivencia submarina / expansión independiente |
 | Yu-Gi-Oh! Duel Links | 🚫 8) Abandonado + 🧬 Yu-Gi-Oh! | Estado personal no invalida su saga |
 
 ---
@@ -235,60 +237,81 @@ Ejemplo aceptado:
 
 </details>
 <details>
-<summary>🧪 ZZZ) Demos y otros · Técnica · 38 elementos · ✅</summary>
+<summary>🧪 ZZZ) Demos · Técnica · 17 elementos · ✅</summary>
+
+**Función:** demos, showcases, pases de amigo y versiones de prueba jugables. Separado de juegos normales.
 
 | Elemento | Casa principal | Rol | Nota |
 |---|---|---|---|
-| 001 Game Creator Demo | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Aimlabs | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| ANNO: Mutationem Demo | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Animeaze | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Banana | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Bongo Cat | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| BOXROOM Demo | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| DRAGON BALL Z: KAKAROT Versión demo | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Fallout 76 Public Test Server | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Fate/Samurai Remnant DEMO | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| For Honor - Public Test | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Godot Engine | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Hellblade: Senua’s Sacrifice VR Edition | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| HITMAN WOA Free Demo | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Magicka 2 Spell Balance Beta | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Monster Hunter Wilds Benchmark | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Paladins - Public Test | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Pick Me Up Demo | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| PRAGMATA SKETCHBOOK - DEMO | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| PUBG: Test Server | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| ReWire Demo | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| RPG Maker VX Ace | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Serious Sam Fusion 2017 beta | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Skyrim Script Extender (SKSE) | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Space Marine 2 - Public Test Server | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Starbound - Unstable | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| SteamVR | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Street Fighter 6 - Open Beta | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| tModLoader | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Tom Clancy's Rainbow Six Siege - Test Server | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Tom Clancy's The Division 2 - Test Server | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Tom Clancy's The Division PTS | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| VRChat | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| VTube Studio | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Wallpaper Alive | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Wallpaper Engine | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Wild Life Demo | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
-| Te, що лишається Demo | ZZZ) Demos y otros | Demo / beta / herramienta | Separado de juegos normales |
+| 001 Game Creator Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| ANNO: Mutationem Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| ASTLIBRA ～生きた証～ Revision Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| BOMBANANA! Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| BOXROOM Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| DRAGON BALL Z: KAKAROT Versión demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| EA SPORTS FC™ 26 SHOWCASE | ZZZ) Demos | Demo / showcase | Separado de juegos normales |
+| Eriksholm: The Stolen Dream Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| Fate/Samurai Remnant DEMO | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| HITMAN WOA Free Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| Pick Me Up Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| PRAGMATA SKETCHBOOK - DEMO | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| ReWire Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| Whisper Mountain Outbreak - Pase Amigo | ZZZ) Demos | Pase de amigo / demo | Permite unirse sin poseer el juego completo |
+| Whispers from the Star Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| Wild Life Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
+| Te, що лишається Demo | ZZZ) Demos | Demo / prueba | Separado de juegos normales |
 
 </details>
 <details>
-<summary>🎧 Bandas sonoras · Técnica · ✅</summary>
+<summary>🧰 ZZZ) Otros · Técnica · 29 elementos · ✅</summary>
+
+**Función:** herramientas, software, betas, test servers y utilidades que no deben competir con juegos normales.
+
+| Elemento | Casa principal | Rol | Nota |
+|---|---|---|---|
+| Aimlabs | ZZZ) Otros | Herramienta / software | Separado de juegos normales |
+| Animeaze | ZZZ) Otros | Herramienta / software | Separado de juegos normales |
+| Banana | ZZZ) Otros | App / utilidad | Separado de juegos normales |
+| Bongo Cat | ZZZ) Otros | App / utilidad | Separado de juegos normales |
+| Desktop Mate | ZZZ) Otros | App / utilidad | Mascota de escritorio / software con DLC |
+| Fallout 76 Public Test Server | ZZZ) Otros | Test server | Separado del juego principal |
+| For Honor - Public Test | ZZZ) Otros | Test server | Separado del juego principal |
+| Godot Engine | ZZZ) Otros | Herramienta / software | Motor de desarrollo |
+| Lossless Scaling | ZZZ) Otros | Herramienta / software | Utilidad de escalado / frame generation |
+| Magicka 2: Spell Balance Beta | ZZZ) Otros | Beta | Separado del juego principal |
+| Paladins - Public Test | ZZZ) Otros | Test server | Separado del juego principal |
+| PUBG: Test Server | ZZZ) Otros | Test server | Separado del juego principal |
+| REDkit DE THE WITCHER 3 | ZZZ) Otros | Herramienta / modding | Herramienta oficial de modding |
+| RPG Maker VX Ace | ZZZ) Otros | Herramienta / software | Motor / herramienta de creación |
+| Serious Sam Fusion 2017 (beta) | ZZZ) Otros | Beta / herramienta | Separado de juegos normales |
+| Skyrim Script Extender (SKSE) | ZZZ) Otros | Herramienta / modding | Utilidad de modding |
+| SMITE - Public Test | ZZZ) Otros | Test server | Separado del juego principal |
+| Starbound - Unstable | ZZZ) Otros | Beta / rama inestable | Separado del juego principal |
+| Street Fighter™ 6 - Open Beta | ZZZ) Otros | Beta | Separado del juego principal |
+| The Jackbox Megapicker | ZZZ) Otros | Launcher / herramienta | Selector de juegos Jackbox |
+| tModLoader | ZZZ) Otros | Herramienta / modding | Loader de mods de Terraria |
+| Tom Clancy's Rainbow Six Siege - Test Server | ZZZ) Otros | Test server | Separado del juego principal |
+| Tom Clancy's The Division 2 - Test Server | ZZZ) Otros | Test server | Separado del juego principal |
+| Tom Clancy's The Division PTS | ZZZ) Otros | Test server | Separado del juego principal |
+| VTube Studio | ZZZ) Otros | Herramienta / software | Software de avatar / tracking |
+| Wallpaper Alive | ZZZ) Otros | Herramienta / software | Wallpapers animados |
+| Wallpaper Engine | ZZZ) Otros | Herramienta / software | Wallpapers animados |
+| Warhammer 40,000: Space Marine 2 - Public Test Server | ZZZ) Otros | Test server | Nombre actual completo en Steam |
+| Wreckfest Throw-A-Santa + Sneak Peek 2.0 | ZZZ) Otros | Demo técnica / extra | Aplicación histórica separada de Wreckfest |
+
+</details>
+<details>
+<summary>🎧 Bandas sonoras · Técnica · 13 elementos · ✅</summary>
 
 **Función:** OST, audiobooks y música extra. No se mezcla con sagas principales.
 
 | Elemento | Casa principal | Rol | Nota |
 |---|---|---|---|
-| Clair Obscur: Expedition 33 – Nos Vies En Lumière | Bandas sonoras | Soundtrack / música | Elemento extra |
+| Clair Obscur: Expedition 33 – Nos Vies En Lumière (Bonus Edition) | Bandas sonoras | Soundtrack / música | Elemento extra |
+| Cyberpunk 2077 Bonus Content | Bandas sonoras | Bonus content / extra | Elemento extra |
 | Darkest Dungeon: The Soundtrack | Bandas sonoras | Soundtrack / música | Elemento extra |
 | Dying Light Original Soundtrack | Bandas sonoras | Soundtrack / música | Elemento extra |
+| Rebel Inc: Escalation - Soundtrack | Bandas sonoras | Soundtrack / música | Elemento extra |
 | Sea of Thieves: Athena's Fortune Audiobook | Bandas sonoras | Soundtrack / música | Elemento extra |
 | Sea of Thieves Original Soundtrack - 2024 Edition | Bandas sonoras | Soundtrack / música | Elemento extra |
 | Sea of Thieves Original Soundtrack - 2025 Edition | Bandas sonoras | Soundtrack / música | Elemento extra |
@@ -300,7 +323,7 @@ Ejemplo aceptado:
 
 </details>
 <details>
-<summary>🧊 ZZZ) El Pozo · Cuarentena · destino sugerido solo si vale la pena</summary>
+<summary>🧊 ZZZ) El Pozo · Cuarentena · 190 juegos · ✅ · destino sugerido solo si vale la pena</summary>
 
 **Regla:** el destino sugerido no significa moverlo. Solo indica a dónde podría ir **si el juego pasa filtro de interés, calidad, reputación, instalación, valor personal o intención real de jugarlo**.
 
@@ -319,7 +342,7 @@ Ejemplo aceptado:
 
 </details>
 <details>
-<summary>🧊 ZZZ) MRD · Cuarentena baja prioridad · ✅</summary>
+<summary>🧊 ZZZ) MRD · Cuarentena baja prioridad · 57 juegos · ✅</summary>
 
 **Función:** descarte, freebies de baja prioridad, shovelware o prologues random.  
 **Regla:** no promover por lote.
@@ -327,7 +350,7 @@ Ejemplo aceptado:
 | Grupo | Rol | Criterio |
 |---|---|---|
 | Puzzle / Ingenio | Destino sugerido posible | Solo si algún juego concreto interesa |
-| Arcade / Casual | Destino sugerido posible | No contaminar Arcade con relleno |
+| Arcade / Casual / Rápido | Destino sugerido posible | No contaminar Arcade con relleno |
 | Terror | Destino sugerido posible | Solo promover si vale la pena |
 | Plataformas / Acción 2D | Destino sugerido posible | Revisar caso por caso |
 | Internet Persistente / Online | Destino sugerido posible | Cuidado con test servers / builds |
@@ -365,9 +388,9 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 |---|---|---|---|---|
 | Assassin’s Creed | Assassin’s Creed | Saga / universo | No, salvo excepción | Casa principal |
 | Assassin’s Creed Brotherhood | Assassin’s Creed | Saga / universo | No, salvo excepción | Casa principal |
-| Assassin’s Creed II | Assassin’s Creed | Saga / universo | No, salvo excepción | Casa principal |
 | Assassin’s Creed Revelations | Assassin’s Creed | Saga / universo | No, salvo excepción | Casa principal |
 | Assassin’s Creed Unity | Assassin’s Creed | Saga / universo | No, salvo excepción | Casa principal |
+| Assassin’s Creed Valhalla | Assassin’s Creed | Saga / universo | No, salvo excepción | Casa principal |
 
 </details>
 
@@ -431,19 +454,34 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 | Borderlands: The Pre-Sequel | Borderlands | Saga / universo | No, salvo excepción | Casa principal |
 | New Tales from the Borderlands | Borderlands | Saga / universo | No, salvo excepción | Casa principal |
 | Tales from the Borderlands | Borderlands | Saga / universo | No, salvo excepción | Casa principal |
-| Tiny Tina’s Wonderlands | Borderlands | Saga / universo | No, salvo excepción | Casa principal |
+| Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure | Borderlands | Saga / universo | No, salvo excepción | Casa principal |
 
 </details>
 
 <details>
-<summary>🧬 LEGO · 15 juegos · ✅</summary>
+<summary>🧬 Kingdom Hearts · 3 juegos · ✅</summary>
+
+**Función:** casa principal de `Kingdom Hearts`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| KINGDOM HEARTS -HD 1.5+2.5 ReMIX- | Kingdom Hearts | Saga / universo | No, salvo excepción | Casa principal |
+| KINGDOM HEARTS HD 2.8 Final Chapter Prologue | Kingdom Hearts | Saga / universo | No, salvo excepción | Casa principal |
+| KINGDOM HEARTS III + Re Mind (DLC) | Kingdom Hearts | Saga / universo | No, salvo excepción | Casa principal |
+
+</details>
+
+<details>
+<summary>🧬 LEGO · 17 juegos · ✅</summary>
 
 **Función:** casa principal de `LEGO`.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
+| LEGO Batman: Legacy of the Dark Knight | LEGO | Saga / universo | No, salvo excepción | Casa principal |
 | LEGO Bricktales | LEGO | Saga / universo | No, salvo excepción | Casa principal |
 | LEGO City Undercover | LEGO | Saga / universo | No, salvo excepción | Casa principal |
+| LEGO Harry Potter Collection | LEGO | Saga / universo | No, salvo excepción | Casa principal |
 | LEGO Jurassic World | LEGO | Saga / universo | No, salvo excepción | Casa principal |
 | LEGO MARVEL Super Heroes | LEGO | Saga / universo | No, salvo excepción | Casa principal |
 | LEGO MARVEL Super Heroes 2 | LEGO | Saga / universo | No, salvo excepción | Casa principal |
@@ -462,19 +500,21 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 
 
 <details>
-<summary>🧬 Civilization · 7 juegos · ✅</summary>
+<summary>🧬 Sid Meier's · 9 juegos · ✅</summary>
 
-**Función:** casa principal de `Civilization`.
+**Función:** casa principal de los títulos `Sid Meier's` agrupados así en Steam.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
-| Sid Meier's Civilization III: Complete | Civilization | Saga / universo | No, salvo excepción | Casa principal |
-| Sid Meier's Civilization IV | Civilization | Saga / universo | No, salvo excepción | Casa principal |
-| Sid Meier's Civilization IV: Beyond the Sword | Civilization | Saga / universo | No, salvo excepción | Casa principal |
-| Sid Meier's Civilization IV: Colonization | Civilization | Saga / universo | No, salvo excepción | Casa principal |
-| Sid Meier's Civilization IV: Warlords | Civilization | Saga / universo | No, salvo excepción | Casa principal |
-| Sid Meier's Civilization V | Civilization | Saga / universo | No, salvo excepción | Casa principal |
-| Sid Meier's Civilization VI | Civilization | Saga / universo | No, salvo excepción | Casa principal |
+| Sid Meier's Civilization: Beyond Earth | Sid Meier's | Saga / universo | No, salvo excepción | Casa principal |
+| Sid Meier's Civilization III: Complete | Sid Meier's | Saga / universo | No, salvo excepción | Casa principal |
+| Sid Meier's Civilization IV | Sid Meier's | Saga / universo | No, salvo excepción | Casa principal |
+| Sid Meier's Civilization IV: Beyond the Sword | Sid Meier's | Saga / universo | No, salvo excepción | Casa principal |
+| Sid Meier's Civilization IV: Colonization | Sid Meier's | Saga / universo | No, salvo excepción | Casa principal |
+| Sid Meier's Civilization IV: Warlords | Sid Meier's | Saga / universo | No, salvo excepción | Casa principal |
+| Sid Meier's Civilization V | Sid Meier's | Saga / universo | No, salvo excepción | Casa principal |
+| Sid Meier's Civilization VI | Sid Meier's | Saga / universo | No, salvo excepción | Casa principal |
+| Sid Meier's Starships | Sid Meier's | Saga / universo | No, salvo excepción | Casa principal |
 
 </details>
 <details>
@@ -665,9 +705,9 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
 | Fallout | Fallout | Saga / universo | No, salvo excepción | Casa principal |
-| Fallout 2 | Fallout | Saga / universo | No, salvo excepción | Casa principal |
 | Fallout 3 - Game of the Year Edition | Fallout | Saga / universo | No, salvo excepción | Casa principal |
 | Fallout 4 | Fallout | Saga / universo | No, salvo excepción | Casa principal |
+| Fallout 4 VR | Fallout | Saga / universo | No, salvo excepción | Casa principal |
 | Fallout 76 | Fallout | Saga / universo | No, salvo excepción | Casa principal |
 | Fallout: New Vegas | Fallout | Saga / universo | No, salvo excepción | Casa principal |
 | Fallout Shelter | Fallout | Saga / universo | No, salvo excepción | Casa principal |
@@ -711,15 +751,18 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 
 </details>
 <details>
-<summary>🧬 GTA · 3 juegos · ✅</summary>
+<summary>🧬 GTA · 6 juegos · ✅</summary>
 
 **Función:** casa principal de `GTA`.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
-| Grand Theft Auto III | GTA | Saga / universo | No, salvo excepción | Casa principal |
-| Grand Theft Auto: San Andreas | GTA | Saga / universo | No, salvo excepción | Casa principal |
-| Grand Theft Auto: Vice City | GTA | Saga / universo | No, salvo excepción | Casa principal |
+| Grand Theft Auto III | GTA | Saga / universo | No, salvo excepción | Windows · Steam AppID 12100 |
+| Grand Theft Auto III (macOS) | GTA | Saga / universo | No, salvo excepción | Steam muestra el mismo título · AppID 12230 |
+| Grand Theft Auto: San Andreas | GTA | Saga / universo | No, salvo excepción | Windows · Steam AppID 12120 |
+| Grand Theft Auto: San Andreas (macOS) | GTA | Saga / universo | No, salvo excepción | Steam muestra el mismo título · AppID 12250 |
+| Grand Theft Auto: Vice City | GTA | Saga / universo | No, salvo excepción | Windows · Steam AppID 12110 |
+| Grand Theft Auto: Vice City (macOS) | GTA | Saga / universo | No, salvo excepción | Steam muestra el mismo título · AppID 12240 |
 
 </details>
 <details>
@@ -746,12 +789,13 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 
 </details>
 <details>
-<summary>🧬 Halo · 5 juegos · ✅</summary>
+<summary>🧬 Halo · 6 juegos · ✅</summary>
 
 **Función:** casa principal de `Halo`.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
+| Halo: Campaign Evolved | Halo | Saga / universo | No, salvo excepción | Casa principal |
 | Halo Infinite | Halo | Saga / universo | No, salvo excepción | Casa principal |
 | Halo: Spartan Assault | Halo | Saga / universo | No, salvo excepción | Casa principal |
 | Halo: Spartan Strike | Halo | Saga / universo | No, salvo excepción | Casa principal |
@@ -769,6 +813,18 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 | HITMAN | Hitman | Saga / universo | No, salvo excepción | Casa principal |
 | HITMAN 2 | Hitman | Saga / universo | No, salvo excepción | Casa principal |
 | HITMAN World of Assassination | Hitman | Saga / universo | No, salvo excepción | Casa principal |
+
+</details>
+<details>
+<summary>🧬 Horizon · 3 juegos · ✅</summary>
+
+**Función:** casa principal de `Horizon`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| Horizon Forbidden West Complete Edition | Horizon | Saga / universo | No, salvo excepción | Casa principal |
+| Horizon Zero Dawn Complete Edition | Horizon | Saga / universo | No, salvo excepción | Casa principal |
+| Horizon Zero Dawn Remastered | Horizon | Saga / universo | No, salvo excepción | Casa principal |
 
 </details>
 <details>
@@ -797,6 +853,31 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 
 </details>
 <details>
+<summary>🧬 Marathon · 3 juegos · ✅</summary>
+
+**Función:** casa principal de `Marathon`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| Classic Marathon | Marathon | Saga / universo | No, salvo excepción | Casa principal |
+| Classic Marathon 2 | Marathon | Saga / universo | No, salvo excepción | Casa principal |
+| Classic Marathon Infinity | Marathon | Saga / universo | No, salvo excepción | Casa principal |
+
+</details>
+<details>
+<summary>🧬 Metal Gear · 3 juegos · ✅</summary>
+
+**Función:** casa principal de `Metal Gear`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| METAL GEAR SOLID V: GROUND ZEROES | Metal Gear | Saga / universo | No, salvo excepción | Casa principal |
+| METAL GEAR SOLID V: THE PHANTOM PAIN | Metal Gear | Saga / universo | No, salvo excepción | Casa principal |
+| METAL GEAR SOLID Δ: SNAKE EATER | Metal Gear | Saga / universo | No, salvo excepción | Casa principal |
+
+</details>
+
+<details>
 <summary>🧬 Metal Slug · 8 juegos · ✅</summary>
 
 **Función:** casa principal de `Metal Slug`.
@@ -814,7 +895,7 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 
 </details>
 <details>
-<summary>🧬 Metro · 6 juegos · ✅</summary>
+<summary>🧬 Metro · 7 juegos · ✅</summary>
 
 **Función:** casa principal de `Metro`.
 
@@ -822,6 +903,7 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 |---|---|---|---|---|
 | Metro 2033 | Metro | Saga / universo | No, salvo excepción | Casa principal |
 | Metro 2033 Redux | Metro | Saga / universo | No, salvo excepción | Casa principal |
+| Metro Awakening | Metro | Saga / universo | No, salvo excepción | Casa principal |
 | Metro Exodus | Metro | Saga / universo | No, salvo excepción | Casa principal |
 | Metro Exodus Enhanced Edition | Metro | Saga / universo | No, salvo excepción | Casa principal |
 | Metro: Last Light Complete Edition | Metro | Saga / universo | No, salvo excepción | Casa principal |
@@ -914,7 +996,7 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 
 </details>
 <details>
-<summary>🧬 Portal · 4 juegos · ✅</summary>
+<summary>🧬 Portal · 5 juegos · ✅</summary>
 
 **Función:** casa principal de `Portal`.
 
@@ -924,6 +1006,7 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 | Portal 2 | Portal | Saga / universo | No, salvo excepción | Casa principal |
 | Portal 2 Sixense Perceptual Pack | Portal | Saga / universo | No, salvo excepción | Casa principal |
 | Portal: Revolution | Portal | Saga / universo | No, salvo excepción | Casa principal |
+| Portal with RTX | Portal | Saga / universo | No, salvo excepción | Casa principal |
 
 </details>
 <details>
@@ -951,7 +1034,7 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 
 </details>
 <details>
-<summary>🧬 Serious Sam · 11 juegos · ✅</summary>
+<summary>🧬 Serious Sam · 15 juegos · ✅</summary>
 
 **Función:** casa principal de `Serious Sam`.
 
@@ -967,11 +1050,28 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 | Serious Sam Double D XXL | Serious Sam | Saga / universo | No, salvo excepción | Casa principal |
 | Serious Sam HD: The First Encounter | Serious Sam | Saga / universo | No, salvo excepción | Casa principal |
 | Serious Sam HD: The Second Encounter | Serious Sam | Saga / universo | No, salvo excepción | Casa principal |
+| Serious Sam: Siberian Mayhem | Serious Sam | Saga / universo | No, salvo excepción | Casa principal |
 | Serious Sam: The Random Encounter | Serious Sam | Saga / universo | No, salvo excepción | Casa principal |
+| Serious Sam VR: The First Encounter | Serious Sam | Saga / universo | No, salvo excepción | Casa principal |
+| Serious Sam VR: The Last Hope | Serious Sam | Saga / universo | No, salvo excepción | Casa principal |
+| Serious Sam VR: The Second Encounter | Serious Sam | Saga / universo | No, salvo excepción | Casa principal |
 
 </details>
 <details>
-<summary>🧬 Sonic · 3 juegos · ✅</summary>
+<summary>🧬 Sniper Elite · 4 juegos · ✅</summary>
+
+**Función:** casa principal de `Sniper Elite`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| Sniper Elite V2 | Sniper Elite | Saga / universo | No, salvo excepción | Casa principal |
+| Sniper Elite 4 | Sniper Elite | Saga / universo | No, salvo excepción | Casa principal |
+| Sniper Elite 5 | Sniper Elite | Saga / universo | No, salvo excepción | Casa principal |
+| Sniper Elite V2 Remastered | Sniper Elite | Saga / universo | No, salvo excepción | Casa principal |
+
+</details>
+<details>
+<summary>🧬 Sonic · 4 juegos · ✅</summary>
 
 **Función:** casa principal de `Sonic`.
 
@@ -979,6 +1079,7 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 |---|---|---|---|---|
 | Sonic Frontiers | Sonic | Saga / universo | No, salvo excepción | Casa principal |
 | Sonic Racing: CrossWorlds | Sonic | Saga / universo | No, salvo excepción | Casa principal |
+| Sonic Superstars | Sonic | Saga / universo | No, salvo excepción | Casa principal |
 | SONIC X SHADOW GENERATIONS | Sonic | Saga / universo | No, salvo excepción | Casa principal |
 
 </details>
@@ -1007,7 +1108,19 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 
 </details>
 <details>
-<summary>🧬 The Elder Scrolls · 3 juegos · ✅</summary>
+<summary>🧬 Super Hot · 3 juegos · ✅</summary>
+
+**Función:** casa principal de `Super Hot`.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| SUPERHOT | Super Hot | Saga / universo | No, salvo excepción | Casa principal |
+| SUPERHOT: MIND CONTROL DELETE | Super Hot | Saga / universo | No, salvo excepción | Casa principal |
+| SUPERHOT VR | Super Hot | Saga / universo | No, salvo excepción | Casa principal |
+
+</details>
+<details>
+<summary>🧬 The Elder Scrolls · 4 juegos · ✅</summary>
 
 **Función:** casa principal de `The Elder Scrolls`.
 
@@ -1016,6 +1129,7 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 | The Elder Scrolls: Arena | The Elder Scrolls | Saga / universo | No, salvo excepción | Casa principal |
 | The Elder Scrolls II: Daggerfall | The Elder Scrolls | Saga / universo | No, salvo excepción | Casa principal |
 | The Elder Scrolls V: Skyrim Special Edition | The Elder Scrolls | Saga / universo | No, salvo excepción | Casa principal |
+| The Elder Scrolls V: Skyrim VR | The Elder Scrolls | Saga / universo | 🥽 VR | Duplicado nutritivo por hardware/contexto |
 
 </details>
 <details>
@@ -1105,39 +1219,44 @@ Estas colecciones ya tienen lista exacta capturada y dejan de estar como pendien
 Estas colecciones responden: **¿cómo se juega?**
 
 <details>
-<summary>🕹️ Arcade / Casual · 23 juegos · ✅</summary>
+<summary>🕹️ Arcade / Casual / Rápido · 28 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
-| 100% Orange Juice | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Capcom Arcade Stadium | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Geometry Dash | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Idle Slayer - Incremental RPG | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Infectonator 3: Apocalypse | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Infectonator: Survivors | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Joe Danger | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Joe Danger 2: The Movie | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Peggle Deluxe | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Peggle Nights | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Pinball FX | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Pinball FX Midnight | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Polygoneer | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| The Henry Stickmin Collection | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| The Typing of The Dead: Overkill | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Worms Revolution | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Worms W.M.D | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Xeno Crisis | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Zombie Driver HD | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Draw Slasher | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| Find 100 Ducks and Blast Them! | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| MyVoiceZoo | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
-| NIDUS | Arcade / Casual | Género mecánico | Solo si aporta | Género mecánico |
+| 100% Orange Juice | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Capcom Arcade Stadium | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Draw Slasher | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Find 100 Ducks and Blast Them! | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Geometry Dash | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Idle Slayer - Incremental RPG | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Infectonator: Survivors | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Infectonator 3: Apocalypse | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Joe Danger | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Joe Danger 2: The Movie | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Keyboard Killers | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| MyVoiceZoo | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| NIDUS | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Peggle Deluxe | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Peggle Nights | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Pinball FX | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Pinball FX Classic | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Pinball FX Midnight | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Pinball Storm: Lokanta | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Pinball / arcade con progresión roguelite |
+| Polygoneer | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Tetris® Effect: Connected | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Puzzle arcade / score attack |
+| The Henry Stickmin Collection | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| The Typing of The Dead: Overkill | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| TouHou Makuka Sai ~ Fantastic Danmaku Festival | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Bullet hell / arcade |
+| Worms Revolution | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Worms W.M.D | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Xeno Crisis | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
+| Zombie Driver HD | Arcade / Casual / Rápido | Género mecánico | Solo si aporta | Género mecánico |
 
 </details>
 <details>
-<summary>🏎️ Carreras · 12 juegos · ✅</summary>
+<summary>🏎️ Carreras · 14 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
@@ -1145,20 +1264,42 @@ Estas colecciones responden: **¿cómo se juega?**
 |---|---|---|---|---|
 | Assetto Corsa | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 | Barro | Carreras | Género mecánico | Solo si aporta | Género mecánico |
-| Garro GT | Carreras | Género mecánico | Solo si aporta | Género mecánico |
+| Barro GT | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 | Burnout Paradise Remastered | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 | DiRT Rally | Carreras | Género mecánico | Solo si aporta | Género mecánico |
+| Drift86 | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 | F1 2015 | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 | Forza Horizon 4 | Carreras | Género mecánico | Solo si aporta | Género mecánico |
-| Garfield Kart | Carreras | Género mecánico | Solo si aporta | Género mecánico |
+| Garfield Kart - Furious Racing | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 | GRID 2 | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 | Need for Speed Heat | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 | Need for Speed Hot Pursuit Remastered | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 | Nightmare Kart | Carreras | Género mecánico | Solo si aporta | Género mecánico |
+| Wreckfest | Carreras | Género mecánico | Solo si aporta | Género mecánico |
 
 </details>
 <details>
-<summary>♟️ Estrategia · 19 juegos · ✅</summary>
+<summary>🃏 Cartas / Deckbuilder · 9 juegos · ✅</summary>
+
+**Función:** Selector mecánico para juegos donde las cartas, el mazo o la construcción de deck son una parte central de la decisión de juego.
+
+**Regla de cuarentena:** juegos de cartas que sigan en `ZZZ) El Pozo` o `ZZZ) MRD` no entran automáticamente. Ejemplo actual: `Shadowverse: Worlds Beyond` sigue en El Pozo hasta que sea promovido.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| Balatro | Roguelike / Roguelite | Género mecánico | Sí | Constructor de mazos / póker roguelike |
+| Exploding Kittens® 2 | YYY) Party / Versus / Mesa | Género mecánico | Sí | Juego de cartas party; duplicado nutritivo por mecánica |
+| GWENT: The Witcher Card Game | The Witcher | Género mecánico | Sí | CCG / duelo de cartas |
+| Magic: The Gathering Arena | Internet Persistente | Género mecánico | Sí | TCG / construcción de mazos |
+| Placid Plastic Deck - A Quiet Quest | Chill / Relax | Género mecánico | Sí | Batallas de cartas / mazo como mecánica central |
+| Slay the Spire | Roguelike / Roguelite | Género mecánico | Sí | Deckbuilder roguelike |
+| Stacklands | Gestión | Género mecánico | Sí | Cartas como núcleo de construcción y gestión |
+| Yu-Gi-Oh! Duel Links | Yu-Gi-Oh! | Género mecánico | Sí | TCG / duelo de cartas |
+| Yu-Gi-Oh! Master Duel | Yu-Gi-Oh! | Género mecánico | Sí | TCG / duelo de cartas |
+
+</details>
+<details>
+<summary>♟️ Estrategia · 21 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
@@ -1170,18 +1311,20 @@ Estas colecciones responden: **¿cómo se juega?**
 | Ashes of the Singularity: Escalation | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Bloons TD 6 | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Catan Universe | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
+| Crusader Kings II | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Disney's Treasure Planet: Battle of Procyon | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
+| Four Kings One War | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | I’m not a Monster | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Khan VS Kahn | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Kingdom Two Crowns | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | LivingForest | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
+| Minion Masters | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Night is Coming — Wrath of the Woods | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Plague Inc: Evolved | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Plants vs. Zombies: Game of the Year | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Rebel Inc: Escalation | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | RISK: Global Domination | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Stormgate | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
-| The Lamplighters League | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 | Total War: SHOGUN 2 | Estrategia | Género mecánico | Solo si aporta | Género mecánico |
 
 </details>
@@ -1206,7 +1349,7 @@ Estas colecciones responden: **¿cómo se juega?**
 
 </details>
 <details>
-<summary>🧭 Metroidvania · 14 juegos · ✅</summary>
+<summary>🧭 Metroidvania · 19 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
@@ -1218,18 +1361,23 @@ Estas colecciones responden: **¿cómo se juega?**
 | Blasphemous 2 | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 | CARRION | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 | CATO: Buttered Cat | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
-| Guacamelee! | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
+| Gato Roboto | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
+| Guacamelee! Super Turbo Championship Edition | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 | Hollow Knight | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 | Hollow Knight: Silksong | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 | Jaded | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
+| Mina the Hollower | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 | Narvas | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 | Nine Sols | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
+| Prince of Persia The Lost Crown | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 | Rain World | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
+| Shantae and the Pirate's Curse | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
+| Shantae: Half-Genie Hero Ultimate Edition | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 | Stealth Bastard Deluxe | Metroidvania | Género mecánico | Solo si aporta | Género mecánico |
 
 </details>
 <details>
-<summary>🎵 Música / Ritmo · 6 juegos · ✅</summary>
+<summary>🎵 Música / Ritmo · 7 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
@@ -1237,6 +1385,7 @@ Estas colecciones responden: **¿cómo se juega?**
 |---|---|---|---|---|
 | Audiosurf | Música / Ritmo | Género mecánico | Solo si aporta | Género mecánico |
 | Crypt of the NecroDancer | Música / Ritmo | Género mecánico | Solo si aporta | Género mecánico |
+| Dead as Disco | Música / Ritmo | Género mecánico | Solo si aporta | Género mecánico |
 | Metal: Hellsinger | Música / Ritmo | Género mecánico | Solo si aporta | Género mecánico |
 | Muse Dash | Música / Ritmo | Género mecánico | Solo si aporta | Género mecánico |
 | Rift of the NecroDancer | Música / Ritmo | Género mecánico | Solo si aporta | Género mecánico |
@@ -1269,7 +1418,7 @@ Estas colecciones responden: **¿cómo se juega?**
 
 </details>
 <details>
-<summary>🧗 Plataformas · 24 juegos · ✅</summary>
+<summary>🧗 Plataformas · 30 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
@@ -1282,7 +1431,10 @@ Estas colecciones responden: **¿cómo se juega?**
 | Crash Bandicoot N. Sane Trilogy | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | Cuphead | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | Disney Epic Mickey 2 | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
+| Disney Epic Mickey: Rebrushed | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | El Escudero Valiente | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
+| Gravity Circuit | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
+| Gunbrella | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | Huntdown | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | INSIDE | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | Kao the Kangaroo: Round 2 | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
@@ -1294,15 +1446,18 @@ Estas colecciones responden: **¿cómo se juega?**
 | Psychonauts | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | Psychonauts 2 | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | Shovel Knight: Treasure Trove | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
+| Spelunky 2 | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | Super Fancy Pants Adventure | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
+| Super Meat Boy | Plataformas | Género mecánico | Solo si aporta | Plataformas de precisión |
+| Super Meat Boy Forever | Plataformas | Género mecánico | Solo si aporta | Plataformas / runner de precisión |
 | The Fancy Pants Adventures: Classic Pack | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | Unravel | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 | Unravel Two | Plataformas | Género mecánico | Solo si aporta | Género mecánico |
 
 </details>
 <details>
-<summary>🧠 Puzzle / Ingenio · 30 juegos · ✅</summary>
+<summary>🧠 Puzzle / Ingenio · 38 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
@@ -1313,11 +1468,17 @@ Estas colecciones responden: **¿cómo se juega?**
 | Divide by Sheep | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Do Not Feed the Monkeys | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Down the Rabbit Hole Flattened | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
+| Dr. Fetus' Mean Meat Machine | Puzzle / Ingenio | Género mecánico | Solo si aporta | Puzzle arcade de reflejos |
+| Eets | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
+| Fireboy & Watergirl: Fairy Tales | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Grey Instinct - Part 1 | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Grotto | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
+| Helltaker | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Hue | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
+| IQ Under Construction | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | KIDS | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Magrunner: Dark Pulse | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
+| Moonrise Fall | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Moral Dilemma: The Interview | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Papers, Please | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Party Hard | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
@@ -1325,11 +1486,13 @@ Estas colecciones responden: **¿cómo se juega?**
 | Patrick's Parabox | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Poly Bridge | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Poly Bridge 2 | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
+| Pure Logic | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Refind Self: Desvela tu personalidad | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Scribblenauts Unlimited | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Scribblenauts Unmasked | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Station to Station | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | Superliminal | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
+| Supraland | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | The Last Campfire | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | [the Sequence] | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
 | The WereCleaner | Puzzle / Ingenio | Género mecánico | Solo si aporta | Género mecánico |
@@ -1341,22 +1504,27 @@ Estas colecciones responden: **¿cómo se juega?**
 
 </details>
 <details>
-<summary>🎲 Roguelike / Roguelite · 31 juegos · ✅</summary>
+<summary>🎲 Roguelike / Roguelite · 39 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
 | 20XX | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
+| 33 Immortals | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
+| Absolum | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Balatro | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Barony | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | BELOW | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
+| Children of Morta | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Cult of the Lamb | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Darkest Dungeon | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
+| Darkest Dungeon® II | Roguelike / Roguelite | Género mecánico | Solo si aporta | Roguelike de expedición y combate por turnos |
 | Dead Cells | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Death Road to Canada | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Dome Keeper | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Downwell | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
+| Ember Knights | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Enter the Gungeon | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Hades | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Have a Nice Death | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
@@ -1371,7 +1539,10 @@ Estas colecciones responden: **¿cómo se juega?**
 | Nongunz: Doppelganger Edition | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | One More Dungeon | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | One Way Heroics | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
+| Rabbit and Steel | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
+| Ravenswatch | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Risk of Rain 2 | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
+| ScourgeBringer | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Slay the Spire | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | Streets of Rogue | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
 | The Binding of Isaac: Rebirth | Roguelike / Roguelite | Género mecánico | Solo si aporta | Género mecánico |
@@ -1381,46 +1552,53 @@ Estas colecciones responden: **¿cómo se juega?**
 
 </details>
 <details>
-<summary>⚔️ RPG · 12 juegos · ✅</summary>
+<summary>⚔️ RPG · 11 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
 | Alpha Protocol | RPG | Género mecánico | Solo si aporta | Género mecánico |
-| Baldur's Gate 3 | RPG | Género mecánico | Solo si aporta | Género mecánico |
+| Catgirl | RPG | Género mecánico | Solo si aporta | Género mecánico |
 | Child of Light | RPG | Género mecánico | Solo si aporta | Género mecánico |
 | Clair Obscur: Expedition 33 | RPG | Género mecánico | Solo si aporta | Género mecánico |
-| Cyberpunk 2077 | RPG | Género mecánico | Solo si aporta | Género mecánico |
 | Dragon Age: Inquisition | RPG | Género mecánico | Solo si aporta | Género mecánico |
 | Eternium | RPG | Género mecánico | Solo si aporta | Género mecánico |
 | Pathfinder: Wrath of the Righteous | RPG | Género mecánico | Solo si aporta | Género mecánico |
-| Sea of Stars | RPG | Género mecánico | Solo si aporta | Género mecánico |
-| TheOuterWorldsSpacersChoiceEdition | RPG | Género mecánico | Solo si aporta | Género mecánico |
+| Sea of Stars: Sunset Edition | RPG | Género mecánico | Solo si aporta | Género mecánico |
+| Shin Megami Tensei V: Vengeance | RPG | Género mecánico | Solo si aporta | Género mecánico |
 | Titan Quest Anniversary Edition | RPG | Género mecánico | Solo si aporta | Género mecánico |
 | YIIK Nameless Psychosis | RPG | Género mecánico | Solo si aporta | Género mecánico |
 
 </details>
 <details>
-<summary>🔫 Shooter · 49 juegos · ✅</summary>
+<summary>🔫 Shooter · 66 juegos · ✅</summary>
 
 **Función:** Género madre curado; no se parte por ahora.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
+| Alien Shooter 2 Conscription | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Alien Swarm: Reactive Drop | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Angels Fall First | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Apex Legends | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
-| Arma: Cold War Assault | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Arabian Gulf | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Arma: Cold War Assault Remastered | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Atomic Heart | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Back 4 Blood | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Binary Domain | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Blackout Z: Slaughterhouse Edition | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Call of Duty: Black Ops III | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Call of Juarez Gunslinger | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Dark Sector | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Day of Defeat | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Day of Defeat: Source | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Delta Force | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Evil West | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Far Cry 3 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | FragPunk | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Gears 5 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Gears of War: Reloaded | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | HELLDIVERS 2 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | High On Life | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Homefront | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
@@ -1428,6 +1606,7 @@ Estas colecciones responden: **¿cómo se juega?**
 | Intravenous | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Killing Floor | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Killing Floor 2 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Lost Planet: Extreme Condition | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Metal: Hellsinger | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Neon White | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Overwatch | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
@@ -1435,32 +1614,40 @@ Estas colecciones responden: **¿cómo se juega?**
 | Police Stories | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | POSTAL | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Prey | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Prey: Typhon Hunter | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Project Warlock | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
-| PUBG | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| PUBG: BATTLEGROUNDS | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Quake 4 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Renegade Ops | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Rising Storm/Red Orchestra 2 Multiplayer | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | RoboCop: Rogue City | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
-| S.T.A.L.K.E.R. | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
-| SUPERHOT | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Spectre Divide | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| S.T.A.L.K.E.R.: Shadow of Chernobyl | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| S.T.A.L.K.E.R.: Shadow of Chernobyl - Enhanced Edition | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Strange Brigade | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Suicide Squad: Kill the Justice League | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Team Fortress Classic | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Team Fortress 2 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | The Anacrusis | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | The Darkness II | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
-| The Division | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
-| The Division 2 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Thunder Tier One | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Titanfall 2 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Tom Clancy's Ghost Recon Wildlands | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Tom Clancy's The Division | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Tom Clancy's The Division 2 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Ultimate Zombie Defense | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Unreal Gold | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Velocity Ultra | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Void Bastards | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
-| Wolfenstein II | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Wolfenstein II: The New Colossus | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Wolfenstein: The Old Blood | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
-| Zombie Army 4 | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Yet Another Zombie Defense HD | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
+| Zombie Army 4: Dead War | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 | Zombie Army Trilogy | Shooter | Género mecánico | Solo si aporta | Género madre curado; no se parte por ahora |
 
 </details>
 <details>
-<summary>🧪 Simulator · 23 juegos · ✅</summary>
+<summary>🧪 Simulator · 26 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
@@ -1469,22 +1656,25 @@ Estas colecciones responden: **¿cómo se juega?**
 | Auto Sale Life: Fresh Start | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Autobahn Police Simulator | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Battle Simulator: Counter Stickman | Simulator | Género mecánico | Solo si aporta | Género mecánico |
-| Car Dealer Simulator: Prologue | Simulator | Género mecánico | Solo si aporta | Género mecánico |
+| Car Dealer Simulator: Prologue - Early Days | Simulator | Género mecánico | Solo si aporta | Género mecánico |
+| Car Mechanic Simulator 2018 | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Cast n Chill | Simulator | Género mecánico | Solo si aporta | Género mecánico |
-| Construction Simulator: Prologue | Simulator | Género mecánico | Solo si aporta | Género mecánico |
+| Deconstruction Simulator: Prologue | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Delfini | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Drug Dealer Simulator | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Easy Delivery Co. | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Euro Truck Simulator 2 | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | House Flipper | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Kerbal Space Program | Simulator | Género mecánico | Solo si aporta | Género mecánico |
-| Microsoft Flight Simulator X | Simulator | Género mecánico | Solo si aporta | Género mecánico |
+| Microsoft Flight Simulator X: Steam Edition | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Placid Plastic Duck Simulator | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Rage Parking Simulator 2016 | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Rock Simulator | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Saloon Simulator: Prologue | Simulator | Género mecánico | Solo si aporta | Género mecánico |
+| Steam Engine Simulator | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Streamer Life Simulator | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Supermarket Simulator | Simulator | Género mecánico | Solo si aporta | Género mecánico |
+| Supermarket Together | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | The Sims 4 | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Toy Tinker Simulator | Simulator | Género mecánico | Solo si aporta | Género mecánico |
 | Ultimate Epic Battle Simulator | Simulator | Género mecánico | Solo si aporta | Género mecánico |
@@ -1492,29 +1682,30 @@ Estas colecciones responden: **¿cómo se juega?**
 
 </details>
 <details>
-<summary>🔥 Souls / Soulslike · 13 juegos · ✅</summary>
+<summary>🔥 Souls / Soulslike · 14 juegos · ✅</summary>
 
 **Función:** Género mecánico.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
 | Another Crab’s Treasure | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
+| Black Myth: Wukong | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 | Blasphemous | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 | Blasphemous 2 | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
-| DARK SOULS REMASTERED | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
+| DARK SOULS™: REMASTERED | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 | ELDEN RING | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 | Lies of P | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
-| Lords of the Fallen | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 | Lords Of The Fallen | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
+| Lords of the Fallen | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 | Nine Sols | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 | Nioh: Complete Edition | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 | Sifu | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
-| Stellar Blade | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
+| Stellar Blade™ | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 | TUNIC | Souls / Soulslike | Género mecánico | Solo si aporta | Género mecánico |
 
 </details>
 <details>
-<summary>🪓 Supervivencia / Crafting · 21 juegos · ✅</summary>
+<summary>🪓 Supervivencia / Crafting · 26 juegos · ✅</summary>
 
 **Función:** supervivencia, crafting, mundo compartido, exploración, recursos o progreso sistémico.
 
@@ -1525,6 +1716,8 @@ Estas colecciones responden: **¿cómo se juega?**
 | 7 Days to Die | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | ARK: Survival Evolved | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | ASTRONEER | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
+| Breathedge | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
+| Chernobylite Complete Edition | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | Core Keeper | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | Crashlands | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | Don’t Starve | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
@@ -1539,10 +1732,13 @@ Estas colecciones responden: **¿cómo se juega?**
 | Sons Of The Forest | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | Starbound | Supervivencia / Crafting | Género mecánico | Excepción aceptada | Se queda aunque también esté en Abandonado |
 | Stardew Valley | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
+| Subnautica | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
+| Subnautica: Below Zero | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | Terraria | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | The Forest | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | The Survivalists | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 | This War of Mine | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
+| Wildmender | Supervivencia / Crafting | Género mecánico | Solo si aporta | Género mecánico |
 
 </details>
 <details>
@@ -1564,48 +1760,13 @@ Estas colecciones responden: **¿cómo se juega?**
 | XCOM: Chimera Squad | Táctico por turnos | Género mecánico | Solo si aporta | Duplicados nutritivos aceptados |
 
 </details>
-<details>
-<summary>👻 Terror · 26 juegos · ✅</summary>
-
-**Función:** Género mecánico.
-
-| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
-|---|---|---|---|---|
-| Alien: Isolation | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Amnesia: A Machine for Pigs | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Amnesia: The Dark Descent | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Buckshot Roulette | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Chamber Survival | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| DISTRAINT: Deluxe Edition | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Flicker of Hope | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Golden Light | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Happy's Humble Burger Barn | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Hidden Deep | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Indigo Park | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Inunaki Tunnel | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Look Outside | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| No, I'm not a Human | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| No More Noise | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Outlast | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Outlast 2 | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| SILENT HILL 2 | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| SILENT HILL f | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| The Callisto Protocol | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| The Evil Within | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| The Final Station | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| THE HOUSE OF THE DEAD 2: Remake | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| THE HOUSE OF THE DEAD: Remake | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Vampyr | Terror | Género mecánico | Solo si aporta | Género mecánico |
-| Whisper Mountain Outbreak | Terror | Género mecánico | Solo si aporta | Género mecánico |
-
-</details>
 
 ## 10. 🎭 Nivel 3 — Experiencia / contexto
 
 Estas colecciones responden: **¿en qué mood, situación o intención jugaría esto?**
 
 <details>
-<summary>🎬 Campaña · 46 juegos · ✅</summary>
+<summary>🎬 Campaña · 45 juegos · ✅</summary>
 
 **Función:** Campañas single-player curadas; no todo juego con historia.
 
@@ -1618,6 +1779,7 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 | Bayonetta | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Call of Juarez Gunslinger | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Control Ultimate Edition | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
+| Cyberpunk 2077 | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Days Gone | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Effulgence RPG | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Evil West | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
@@ -1626,8 +1788,6 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 | Hellblade: Senua’s Sacrifice | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Hellslave | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Hogwarts Legacy | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
-| Horizon Zero Dawn Complete Edition | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
-| Horizon Zero Dawn Remastered | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Hotline Miami | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Hotline Miami 2: Wrong Number | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Killer is Dead | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
@@ -1637,9 +1797,9 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 | Maneater | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Marvel’s Guardians of the Galaxy | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Mass Effect Legendary Edition | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
-| Metal Gear Solid Δ: Snake Eater | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Middle-earth: Shadow of Mordor | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Middle-earth: Shadow of War | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
+| OCTOPATH TRAVELER II | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Panzer Dragoon: Remake | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Prototype | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
 | Prototype 2 | Campaña | Experiencia / contexto | Sí, si ayuda a elegir | Campañas single-player curadas; no todo juego con historia |
@@ -1682,37 +1842,42 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 
 </details>
 <details>
-<summary>🌾 Cozy / Farming / Vida tranquila · 8 juegos · ✅</summary>
+<summary>🌾 Cozy / Vida tranquila · 8 juegos · ✅</summary>
 
 **Función:** Experiencia / contexto.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
-| DAVE THE DIVER | Cozy / Farming / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Deiland | Cozy / Farming / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Graveyard Keeper | Cozy / Farming / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| House Flipper | Cozy / Farming / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Luma Island | Cozy / Farming / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Moonstone Island | Cozy / Farming / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Spiritfarer | Cozy / Farming / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Stardew Valley | Cozy / Farming / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| DAVE THE DIVER | Cozy / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Deiland | Cozy / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Graveyard Keeper | Cozy / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| House Flipper | Cozy / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Luma Island | Cozy / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Moonstone Island | Cozy / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Spiritfarer | Cozy / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Stardew Valley | Cozy / Vida tranquila | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
 
 </details>
 <details>
-<summary>🌐 Internet Persistente · 59 juegos · ✅</summary>
+<summary>🌐 Internet Persistente · 81 juegos · ✅</summary>
 
 **Función:** online, live-service, MMO, matchmaking o multijugador persistente.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
+| 33 Immortals | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | AdventureQuest 3D | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Albion Online | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Angels Fall First | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Apex Legends | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | ARK: Survival Of The Fittest | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Back 4 Blood | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | BitCraft Online | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Black Desert | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| BLOODSTRIKE | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Blue Protocol: Star Resonance | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Brawlhalla | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| BROKE PROTOCOL | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Counter-Strike 2 | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Crossout | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Dark and Darker | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
@@ -1720,54 +1885,71 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 | Delta Force | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Destiny 2 | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Dungeonborne | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Endix | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | EVE Online | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | FOR HONOR | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| FragPunk | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Governor of Poker 3 | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Guild Wars 2 | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Guns of Icarus Alliance | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Guns of Icarus Online | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | HELLDIVERS 2 | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Honkai Impact 3rd | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Infestation: The New Z | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| King of Crabs | Internet Persistente | Online / live-service | Solo si aporta | Multijugador online persistente |
 | Lost Ark | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Mage Arena | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Magic: The Gathering Arena | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | MapleStory | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Marvel Rivals | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Mecha BREAK | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | MiniRoyale | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | NARAKA: BLADEPOINT | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Natural Selection 2 | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| NTE: Neverness to Everness | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Once Human | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Overwatch | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Paladins | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Path of Exile | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | PAYDAY 2 | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Phantasy Star Online 2 New Genesis | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
-| PUBG | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| PUBG: BATTLEGROUNDS | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Rocket League | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Scramble Knights Online Playtest | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Sea of Thieves | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Skillshot City | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Sky: Niños de la Luz | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
-| STALCRAFT: X | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| SMITE | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| STALZONE | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Star Conflict | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
-| Star Wars: The Old Republic | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
-| Suicide Squad | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
-| SUPER VIVE | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| STAR WARS: The Old Republic | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Suicide Squad: Kill the Justice League | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| SUPERVIVE | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Team Fortress Classic | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Team Fortress 2 | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| The Division Resurgence | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| THE FINALS | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | The First Descendant | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | The Mean Greens - Plastic Warfare | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Tom Clancy's Rainbow Six Siege | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Transformice | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Umamusume: Pretty Derby | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Unturned | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | WAKFU | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | War Thunder | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | Warframe | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Wild Terra 2: New Lands | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | World of Tanks | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | World of Tanks Blitz | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | World of Warplanes | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 | World of Warships | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
-| Yu-Gi-Oh! Duel Links | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
-| Yu-Gi-Oh! Master Duel | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| World War Z | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Wuthering Waves | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
+| Zenless Zone Zero | Internet Persistente | Experiencia / contexto | Sí, si ayuda a elegir | Online / persistente |
 
 </details>
 <details>
-<summary>💎 Grind / Loot / Progreso · 11 juegos · ✅</summary>
+<summary>💎 Grind / Loot / Progreso · 12 juegos · ✅</summary>
 
 **Función:** Experiencia / contexto.
 
@@ -1776,6 +1958,7 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 | Destiny 2 | Grind / Loot / Progreso | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
 | Hero Siege | Grind / Loot / Progreso | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
 | Lost Ark | Grind / Loot / Progreso | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Minecraft Dungeons | Grind / Loot / Progreso | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
 | Nioh: Complete Edition | Grind / Loot / Progreso | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
 | Palworld | Grind / Loot / Progreso | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
 | Path of Exile | Grind / Loot / Progreso | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
@@ -1787,7 +1970,7 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 
 </details>
 <details>
-<summary>🥽 VR · 16 juegos · ✅</summary>
+<summary>🥽 VR · 26 juegos · ✅</summary>
 
 **Función:** Hardware/contexto; duplicado nutritivo permitido.
 
@@ -1796,6 +1979,9 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 | Batman: Arkham VR | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | Borderlands 2 VR | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | DOOM VFR | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| Fallout 4 VR | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| FIVE NIGHTS AT FREDDY'S: HELP WANTED | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| Fruit Ninja VR | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | Half-Life: Alyx | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | Heaven Forest NIGHTS | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | Heaven Island - VR MMO | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
@@ -1803,55 +1989,109 @@ Estas colecciones responden: **¿en qué mood, situación o intención jugaría 
 | HITMAN World of Assassination | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | Keep Talking and Nobody Explodes | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | Metal: Hellsinger VR | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| Metro Awakening | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | No Man's Sky | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | Prey: Typhon Hunter | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | Serious Sam 3 VR: BFE | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| Serious Sam VR: The First Encounter | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| Serious Sam VR: The Last Hope | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| Serious Sam VR: The Second Encounter | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| SUPERHOT VR | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| The Elder Scrolls V: Skyrim VR | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | The Forest | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | The Lab | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
+| The Talos Principle VR | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 | VRChat | VR | Experiencia / contexto | Sí, si ayuda a elegir | Hardware/contexto; duplicado nutritivo permitido |
 
 </details>
 <details>
-<summary>📖 Narrativos / Experiencia · 34 juegos · ✅</summary>
+<summary>📖 Narrativa primero / experiencia · 37 juegos · ✅</summary>
 
 **Función:** Experiencia / contexto.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
-| A Plague Tale: Requiem | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Beyond: Two Souls | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Call of Cthulhu | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| DELTARUNE | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Deponia | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Detroit: Become Human | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Disco Elysium | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Heavy Rain | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Journey | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Kulebra and the Souls of Limbo | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Life is Strange | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| LISA | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Night in the Woods | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Nobody Wants to Die | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| OMORI | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Orwell | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Pilgrims | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Scheming Through The Zombie Apocalypse: The Beginning | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Seen | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Spiritfarer | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| STEINS;GATE | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Stray | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Syberia | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Syberia 2 | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Tell Me Why | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| The Awesome Adventures of Captain Spirit | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| The Dream Machine | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| The Last Campfire | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| The Last of Us Part I | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| The Last of Us Part II Remastered | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| The Silent Age | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| The Walking Dead: The Telltale Definitive Series | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Undertale | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
-| Wednesdays | Narrativos / Experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| A Plague Tale: Requiem | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Beyond: Two Souls | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Bramble: The Mountain King | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Call of Cthulhu | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| DELTARUNE | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Deponia | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Detroit: Become Human | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Disco Elysium | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Heavy Rain | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Journey | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Kulebra and the Souls of Limbo | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Life is Strange | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| LISA | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Night in the Woods | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Nobody Wants to Die | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| OMORI | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Orwell | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Pilgrims | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Scheming Through The Zombie Apocalypse: The Beginning | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Seen | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Spiritfarer | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| STEINS;GATE | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Stray | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Syberia | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Syberia 2 | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Tell Me Why | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| The Awesome Adventures of Captain Spirit | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| The Dream Machine | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| The Last Campfire | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| The Last of Us Part I | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| The Last of Us Part II Remastered | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| The Life and Suffering of Sir Brante | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| The Red Lantern | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| The Silent Age | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| The Walking Dead: The Telltale Definitive Series | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Undertale | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+| Wednesdays | Narrativa primero / experiencia | Experiencia / contexto | Sí, si ayuda a elegir | Experiencia / contexto |
+
+</details>
+
+<details>
+<summary>👻 Terror · 34 juegos · ✅</summary>
+
+**Función:** Experiencia / contexto: horror, tensión, incomodidad o miedo como intención principal al elegir qué jugar.
+
+| Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
+|---|---|---|---|---|
+| Alien: Isolation | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Amnesia: A Machine for Pigs | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Amnesia: The Dark Descent | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Buckshot Roulette | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Chamber Survival | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Choo-Choo Charles | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Darkwood | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| DISTRAINT: Deluxe Edition | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| EMPTY SHELL | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Flicker of Hope | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Golden Light | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Happy's Humble Burger Barn | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Happy's Humble Burger Farm | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| HELL OF FEAR: Mind Breach | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Hidden Deep | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Indigo Park | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Inunaki Tunnel | Terror | Experiencia / contexto | Sí, si ayuda a elegir | En Steam aparece como `Inunaki Tunnel | 犬鳴トンネル`; terror como intención de juego |
+| Look Outside | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| No, I'm not a Human | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| No More Noise | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Outlast | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Outlast 2 | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| REANIMAL | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Remothered: Tormented Fathers | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| SIGNALIS | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| SILENT HILL 2 | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| SILENT HILL f | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| The Callisto Protocol | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| The Evil Within | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| The Final Station | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| THE HOUSE OF THE DEAD 2: Remake | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| THE HOUSE OF THE DEAD: Remake | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Vampyr | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
+| Whisper Mountain Outbreak | Terror | Experiencia / contexto | Sí, si ayuda a elegir | Terror / horror como intención de juego |
 
 </details>
 
@@ -1875,34 +2115,37 @@ Actualmente existe como **nivel conceptual**, pero no hay colección temática a
 Estas reemplazan a `Pa jugar con alguien` y funcionan como selector social más limpio.
 
 <details>
-<summary>🤝 YYY) Historia / Puzzle · 18 juegos · ✅</summary>
+<summary>🤝 YYY) Historia / Puzzle / Coop · 21 juegos · ✅</summary>
 
 **Función:** selector social de historia/puzzle/co-op. Se aceptan duplicados porque ayudan a decidir qué jugar con otras personas.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
-| A Way Out | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| Bread & Fred | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| Escape the Backrooms | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| Haven | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| It Takes Two | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| Keep Talking and Nobody Explodes | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| Lovers in a Dangerous Spacetime | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| PICO PARK: Classic Edition | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| Portal 2 | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| Split Fiction | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| The Escapists 2 | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| Unrailed! | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| Unravel Two | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| We Were Here | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| We Were Here Expeditions: The FriendShip | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| We Were Here Forever | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| We Were Here Together | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
-| We Were Here Too | 🤝 YYY) Historia / Puzzle | Social / YYY | Sí | Duplicado nutritivo social |
+| A Way Out | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Bread & Fred | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Escape the Backrooms | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Haven | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| It Takes Two | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Keep Talking and Nobody Explodes | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Lovers in a Dangerous Spacetime | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Magicka 2 | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| PICO PARK: Classic Edition | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Portal 2 | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Spelunky 2 | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Split Fiction | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| The Escapists 2 | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Twin Shot Deluxe | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Unrailed! | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| Unravel Two | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| We Were Here | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| We Were Here Expeditions: The FriendShip | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| We Were Here Forever | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| We Were Here Together | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
+| We Were Here Too | 🤝 YYY) Historia / Puzzle / Coop | Social / YYY | Sí | Duplicado nutritivo social |
 
 </details>
 <details>
-<summary>🎲 YYY) Party / Versus / Mesa · 32 juegos · ✅</summary>
+<summary>🎲 YYY) Party / Versus / Mesa · 38 juegos · ✅</summary>
 
 **Función:** selector social de party, versus o mesa. Se aceptan duplicados porque ayudan a decidir qué jugar con otras personas.
 
@@ -1914,18 +2157,21 @@ Estas reemplazan a `Pa jugar con alguien` y funcionan como selector social más 
 | Blast Zone! Tournament | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Brawlhalla | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Broforce | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
+| Bucket Brawl: Ahlman Edition | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Buckshot Roulette | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Castle Crashers | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Drawful 2 | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Duck Game | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
+| EA SPORTS FC™ 26 | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
+| Exploding Kittens® 2 | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | FPS Chess | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
+| Gamble With Your Friends | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Gang Beasts | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Golf With Your Friends | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Mage Arena | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | MultiVersus | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Overcooked | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Overcooked! All You Can Eat | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
-| Overcooked2 | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Party Club | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Plunder Panic | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Pummel Party | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
@@ -1934,24 +2180,30 @@ Estas reemplazan a `Pa jugar con alguien` y funcionan como selector social más 
 | Rivals of Aether | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Rocket League | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Rubber Bandits | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
+| Screencheat | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
+| ShellShock Live | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Spacelines From The Far Out | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Stick Fight: The Game | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Tabletop Simulator | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
+| Tetris® Effect: Connected | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Trash Patrol - Academic Version | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Worms Revolution | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 | Worms W.M.D | 🎲 YYY) Party / Versus / Mesa | Social / YYY | Sí | Duplicado nutritivo social |
 
 </details>
 <details>
-<summary>⚔️ YYY) PvE / Acción · 25 juegos · ✅</summary>
+<summary>⚔️ YYY) PvE / Acción · 31 juegos · ✅</summary>
 
 **Función:** selector social PvE/acción/co-op. Se aceptan duplicados porque ayudan a decidir qué jugar con otras personas.
 
 | Juego | Casa principal | Estado / rol | Duplicado nutritivo | Nota |
 |---|---|---|---|---|
+| 33 Immortals | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
+| Absolum | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Alien Swarm: Reactive Drop | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Back 4 Blood | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Deep Rock Galactic | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
+| Ember Knights | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Guns of Icarus Alliance | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | HELLDIVERS | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | HELLDIVERS 2 | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
@@ -1960,10 +2212,12 @@ Estas reemplazan a `Pa jugar con alguien` y funcionan como selector social más 
 | Left 4 Dead | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Left 4 Dead 2 | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Lethal Company | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
+| Minecraft Dungeons | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | MONSTER HUNTER RISE | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Monster Hunter Wilds | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Monster Hunter: World | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | PAYDAY 2 | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
+| Rabbit and Steel | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Risk of Rain 2 | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Rogue Heroes: Ruins of Tasos | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Sanctum 2 | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
@@ -1972,12 +2226,13 @@ Estas reemplazan a `Pa jugar con alguien` y funcionan como selector social más 
 | Warhammer: Vermintide 2 | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Watchmen: The End Is Nigh | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Watchmen: The End Is Nigh Part 2 | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
+| Yet Another Zombie Defense HD | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Zombie Army 4: Dead War | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 | Zombie Army Trilogy | ⚔️ YYY) PvE / Acción | Social / YYY | Sí | Duplicado nutritivo social |
 
 </details>
 <details>
-<summary>🪓 YYY) Survival / Sandbox · 16 juegos · ✅</summary>
+<summary>🪓 YYY) Survival / Sandbox · 18 juegos · ✅</summary>
 
 **Función:** selector social survival/sandbox. Se aceptan duplicados porque ayudan a decidir qué jugar con otras personas.
 
@@ -1992,7 +2247,9 @@ Estas reemplazan a `Pa jugar con alguien` y funcionan como selector social más 
 | Muck | 🪓 YYY) Survival / Sandbox | Social / YYY | Sí | Duplicado nutritivo social |
 | No Man’s Sky | 🪓 YYY) Survival / Sandbox | Social / YYY | Sí | Duplicado nutritivo social |
 | Palworld | 🪓 YYY) Survival / Sandbox | Social / YYY | Sí | Duplicado nutritivo social |
+| PEAK | 🪓 YYY) Survival / Sandbox | Social / YYY | Sí | Duplicado nutritivo social |
 | Project Zomboid | 🪓 YYY) Survival / Sandbox | Social / YYY | Sí | Duplicado nutritivo social |
+| R.E.P.O. | 🪓 YYY) Survival / Sandbox | Social / YYY | Sí | Duplicado nutritivo social |
 | Sea of Thieves | 🪓 YYY) Survival / Sandbox | Social / YYY | Sí | Duplicado nutritivo social |
 | Sons Of The Forest | 🪓 YYY) Survival / Sandbox | Social / YYY | Sí | Duplicado nutritivo social |
 | Stardew Valley | 🪓 YYY) Survival / Sandbox | Social / YYY | Sí | Duplicado nutritivo social |
@@ -2542,16 +2799,17 @@ Esta sección no depende de colecciones. Resume juegos relevantes por **tipo bas
 | Spore | Spore | Sandbox / creatividad / evolución | 🏁 Terminado / ⭐ Favorito | Alta | Valor histórico fuerte |
 | Halo: The Master Chief Collection | Halo | FPS / campaña / multijugador | 🏁 Terminado / 🔁 Replay / ⭐ Favorito | Alta | Halo CE/Reach son núcleo personal |
 | Elden Ring | Souls / Soulslike | RPG acción / soulslike | 🧩 Sin terminar / 💯 Pa platinar / ⭐ Favorito | Alta | Pausado cerca del final base; posible DLC |
-| DAVE THE DIVER | Cozy / Farming / Vida tranquila | Cozy / gestión / aventura | 💯 Pa platinar / ⭐ Favorito | Media | Historia principal cerrada; DLC pendientes |
+| DAVE THE DIVER | Cozy / Vida tranquila | Cozy / gestión / aventura | 💯 Pa platinar / ⭐ Favorito | Media | Historia principal cerrada; DLC pendientes |
 | Tibia | 0) EXTERNOS / Internet Persistente | MMO / nostalgia | 🚫 Abandonado / ⭐ Favorito | Nostalgia | Importancia de infancia |
 ## 16. 💡 Sugerencias futuras
 
 Estas no son colecciones activas. Son candidatas posibles si algún día aportan valor real.
 
+> `🃏 Cartas / Deckbuilder` fue promovida a colección activa de Nivel 2 en V6.6.14 y ya no se considera sugerencia futura.
+
 | Colección sugerida | Nivel | Juegos candidatos | Duplicado nutritivo | Veredicto |
 |---|---|---|---|---|
 | 🌌 Postapocalíptico | Tema / ambientación | Fallout, Metro, S.T.A.L.K.E.R., Mad Max, Dying Light, Project Zomboid, This War of Mine | Sí, si representa antojo real | Primera candidata temática, no obligatoria |
-| 🃏 Cartas / Deckbuilder | Género mecánico / experiencia | Balatro, Slay the Spire, Yu-Gi-Oh!, GWENT, Shadowverse | Sí | Buena futura si crece o si se usa como filtro |
 | 👊 Beat ’em up / Brawler | Género mecánico | Castle Crashers, Fight’N Rage, Watchmen, Broforce | Sí | No urgente; YYY/Peleas lo absorben por ahora |
 | 🧱 Pixel Art | Tema / estética visual | Stardew Valley, Terraria, Celeste, Dead Cells, Blasphemous, Hotline Miami | Solo si se usa como antojo visual | Candidata estética; alto riesgo de volverse etiqueta gigante |
 | 🧟 Zombies | Tema / ambientación | Left 4 Dead, Project Zomboid, Dying Light, Resident Evil, Zombie Army | Solo si se usa como antojo | Menos prioritaria que Postapocalíptico |
@@ -2833,7 +3091,7 @@ Para juegos del backlog activo que no necesitan ficha extendida completa, usar e
 | Campo | Valor |
 |---|---|
 | Última revisión | 2026-05-05 |
-| Casa principal | Cozy / Farming / Vida tranquila |
+| Casa principal | Cozy / Vida tranquila |
 | Tipo base | Aventura cozy / gestión / exploración |
 | Estado personal | 🏁 Terminado / 🎁 Postgame-Extras / 💯 Pa platinar / ⭐ Favorito |
 | Colecciones útiles | Cozy, Postgame, Pa platinar, Favoritos |
@@ -2986,7 +3244,7 @@ Para juegos del backlog activo que no necesitan ficha extendida completa, usar e
 | Cierre secundario | `2.5) POSTGAME / EXTRAS` |
 | Algo seguro y conocido | `7) TOCA REPLAY` o `Favoritos` |
 | Algo social | `YYY)` |
-| Algo ligero | `Chill`, `Cozy`, `Arcade / Casual` |
+| Algo ligero | `Chill`, `Cozy`, `Arcade / Casual / Rápido` |
 | Algo intenso | `Souls`, `Terror`, `Shooter`, `Metroidvania` |
 | Algo mental | `Puzzle`, `Táctico por turnos`, `Gestión` |
 | Algo online | `Internet Persistente` |
@@ -2996,7 +3254,7 @@ Para juegos del backlog activo que no necesitan ficha extendida completa, usar e
 
 | Tengo... | Quiero... | Mejor opción |
 |---|---|---|
-| Poco tiempo | Algo con cierre rápido | Arcade / Casual, Roguelike, Puzzle corto |
+| Poco tiempo | Algo con cierre rápido | Arcade / Casual / Rápido, Roguelike, Puzzle corto |
 | Mucho tiempo | Avance serio | Campaña, RPG, Sin terminar |
 | Cansancio | Baja fricción | Chill / Relax, Cozy, Dave, Peggle |
 | Energía | Reto | Souls, Hollow Knight, Cuphead |

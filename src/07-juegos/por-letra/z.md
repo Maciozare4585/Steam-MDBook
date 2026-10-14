@@ -1,10 +1,31 @@
 # Juegos — Z
 
-> Página alfabética compacta. Contiene **4** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **5** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
+<article id="game-meta-4162040" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=4162040">
+    <img src="../../assets/games/4162040/steam-header.jpg" alt="Zenless Zone Zero" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=4162040">🎮 Zenless Zone Zero</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>4162040</code></span>
+      <span><strong>Oficial:</strong> Zenless Zone Zero</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="4162040">
+  <a class="steam-action steam-play" href="steam://run/4162040" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/4162040" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/4162040" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-694280" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=694280">
     <img src="../../assets/games/694280/steam-header.jpg" alt="Zombie Army 4" loading="lazy" />

@@ -1,6 +1,6 @@
 # Juegos — A
 
-> Página alfabética compacta. Contiene **43** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **49** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -85,6 +85,27 @@
   <a class="steam-action steam-play" href="steam://run/1222700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1222700" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1222700" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1904480" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1904480">
+    <img src="../../assets/games/1904480/steam-header.jpg" alt="Absolum" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1904480">🎮 Absolum</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1904480</code></span>
+      <span><strong>Oficial:</strong> Absolum</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1904480">
+  <a class="steam-action steam-play" href="steam://run/1904480" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1904480" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1904480" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -341,6 +362,27 @@
   </div>
 </article>
 
+<article id="game-meta-211010" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=211010">
+    <img src="../../assets/games/211010/steam-header.jpg" alt="Alien Shooter 2 Conscription" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=211010">🎮 Alien Shooter 2 Conscription</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>211010</code></span>
+      <span><strong>Oficial:</strong> Alien Shooter 2 Conscription</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="211010">
+  <a class="steam-action steam-play" href="steam://run/211010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/211010" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/211010" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-563560" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=563560">
     <img src="../../assets/games/563560/steam-header.jpg" alt="Alien Swarm: Reactive Drop" loading="lazy" />
@@ -488,6 +530,27 @@
   </div>
 </article>
 
+<article id="game-meta-367270" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=367270">
+    <img src="../../assets/games/367270/steam-header.jpg" alt="Angels Fall First" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=367270">🎮 Angels Fall First</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>367270</code></span>
+      <span><strong>Oficial:</strong> Angels Fall First</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="367270">
+  <a class="steam-action steam-play" href="steam://run/367270" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/367270" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/367270" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1368030" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1368030">
     <img src="../../assets/games/1368030/steam-header.jpg" alt="ANNO: Mutationem" loading="lazy" />
@@ -568,6 +631,27 @@
   <a class="steam-action steam-play" href="steam://run/1172470" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1172470" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1172470" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3744480" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3744480">
+    <img src="../../assets/games/3744480/steam-header.jpg" alt="Arabian Gulf" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3744480">🎮 Arabian Gulf</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3744480</code></span>
+      <span><strong>Oficial:</strong> Arabian Gulf</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3744480">
+  <a class="steam-action steam-play" href="steam://run/3744480" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3744480" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3744480" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -782,6 +866,27 @@
   </div>
 </article>
 
+<article id="game-meta-2208920" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2208920">
+    <img src="../../assets/games/2208920/steam-header.jpg" alt="Assassin’s Creed Valhalla" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2208920">🎮 Assassin’s Creed Valhalla</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2208920</code></span>
+      <span><strong>Oficial:</strong> Assassin’s Creed Valhalla</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2208920">
+  <a class="steam-action steam-play" href="steam://run/2208920" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2208920" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2208920" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-244210" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=244210">
     <img src="../../assets/games/244210/steam-header.jpg" alt="Assetto Corsa" loading="lazy" />
@@ -799,6 +904,27 @@
   <a class="steam-action steam-play" href="steam://run/244210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/244210" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/244210" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1761070" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1761070">
+    <img src="../../assets/games/1761070/steam-header.jpg" alt="ASTLIBRA ～生きた証～ Revision Demo" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1761070">🎮 ASTLIBRA ～生きた証～ Revision Demo</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1761070</code></span>
+      <span><strong>Oficial:</strong> ASTLIBRA ～生きた証～ Revision Demo</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1761070">
+  <a class="steam-action steam-play" href="steam://run/1761070" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1761070" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1761070" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

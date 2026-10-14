@@ -12,6 +12,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "100 Cats New York",
+    "slug": "100-cats-new-york",
+    "steamAppId": 2782380,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "100 Ninja Cats",
+    "slug": "100-ninja-cats",
+    "steamAppId": 2776810,
+    "priority": "registry-approved"
+  },
+  {
     "title": "100% Orange Juice",
     "slug": "100-orange-juice",
     "steamAppId": 282800,
@@ -30,6 +42,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "33 Immortals",
+    "slug": "33-immortals",
+    "steamAppId": 958520,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "3D PUZZLE - Medieval Inn",
+    "slug": "3d-puzzle-medieval-inn",
+    "steamAppId": 2466890,
+    "priority": "registry-approved"
+  },
+  {
     "title": "5D Chess With Multiverse Time Travel",
     "slug": "5d-chess-with-multiverse-time-travel",
     "steamAppId": 1349230,
@@ -42,9 +66,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "8AM",
+    "slug": "8am",
+    "steamAppId": 2835590,
+    "priority": "registry-approved"
+  },
+  {
     "title": "911 Operator",
     "slug": "911-operator",
     "steamAppId": 503560,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "A Detective's Novel",
+    "slug": "a-detectives-novel",
+    "steamAppId": 503820,
     "priority": "registry-approved"
   },
   {
@@ -66,6 +102,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Absolum",
+    "slug": "absolum",
+    "steamAppId": 1904480,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Adventure Time: Pirates of the Enchiridion",
     "slug": "adventure-time-pirates-of-the-enchiridion",
     "steamAppId": 728240,
@@ -81,6 +123,18 @@
     "title": "Aegis Defenders",
     "slug": "aegis-defenders",
     "steamAppId": 371140,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Aeonic",
+    "slug": "aeonic",
+    "steamAppId": 3277530,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Aesop Rock's Black Hole Superette Experience",
+    "slug": "aesop-rocks-black-hole-superette-experience",
+    "steamAppId": 3741350,
     "priority": "registry-approved"
   },
   {
@@ -126,6 +180,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Alien Shooter 2 Conscription",
+    "slug": "alien-shooter-2-conscription",
+    "steamAppId": 211010,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Alien Swarm: Reactive Drop",
     "slug": "alien-swarm-reactive-drop",
     "steamAppId": 563560,
@@ -162,6 +222,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Analog - Skin off",
+    "slug": "analog-skin-off",
+    "steamAppId": 3544080,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Angels Fall First",
+    "slug": "angels-fall-first",
+    "steamAppId": 367270,
+    "priority": "registry-approved"
+  },
+  {
     "title": "ANNO: Mutationem",
     "slug": "anno-mutationem",
     "steamAppId": 1368030,
@@ -174,9 +246,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Antimatter Dimensions",
+    "slug": "antimatter-dimensions",
+    "steamAppId": 1399720,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Apex Legends",
     "slug": "apex-legends",
     "steamAppId": 1172470,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Arabian Gulf",
+    "slug": "arabian-gulf",
+    "steamAppId": 3744480,
     "priority": "registry-approved"
   },
   {
@@ -195,6 +279,12 @@
     "title": "Arma: Cold War Assault",
     "slug": "arma-cold-war-assault",
     "steamAppId": 65790,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Around - The Game",
+    "slug": "around-the-game",
+    "steamAppId": 4081740,
     "priority": "registry-approved"
   },
   {
@@ -231,6 +321,12 @@
     "title": "Assassin’s Creed Unity",
     "slug": "assassins-creed-unity",
     "steamAppId": 289650,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Assassin’s Creed Valhalla",
+    "slug": "assassins-creed-valhalla",
+    "steamAppId": 2208920,
     "priority": "registry-approved"
   },
   {
@@ -390,6 +486,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Bearly Awesome",
+    "slug": "bearly-awesome",
+    "steamAppId": 3560160,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Beavers Be Dammed",
+    "slug": "beavers-be-dammed",
+    "steamAppId": 764570,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Beholder",
     "slug": "beholder",
     "steamAppId": 475550,
@@ -402,9 +510,27 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Between Two Castles - Digital Edition",
+    "slug": "between-two-castles-digital-edition",
+    "steamAppId": 1158500,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Beyond: Two Souls",
     "slug": "beyond-two-souls",
     "steamAppId": 960990,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Billies Wheelie",
+    "slug": "billies-wheelie",
+    "steamAppId": 3180310,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Binary Domain",
+    "slug": "binary-domain",
+    "steamAppId": 203750,
     "priority": "registry-approved"
   },
   {
@@ -456,6 +582,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Black Myth: Wukong",
+    "slug": "black-myth-wukong",
+    "steamAppId": 2358720,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Blackout Z: Slaughterhouse Edition",
+    "slug": "blackout-z-slaughterhouse-edition",
+    "steamAppId": 729660,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Blasphemous",
     "slug": "blasphemous",
     "steamAppId": 774361,
@@ -474,9 +612,27 @@
     "priority": "registry-approved"
   },
   {
+    "title": "BLOODSTRIKE",
+    "slug": "bloodstrike",
+    "steamAppId": 3199170,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Bloons TD 6",
     "slug": "bloons-td-6",
     "steamAppId": 960090,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Blue Archive",
+    "slug": "blue-archive",
+    "steamAppId": 3557620,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Blue Protocol: Star Resonance",
+    "slug": "blue-protocol-star-resonance",
+    "steamAppId": 3681810,
     "priority": "registry-approved"
   },
   {
@@ -522,6 +678,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Bramble: The Mountain King",
+    "slug": "bramble-the-mountain-king",
+    "steamAppId": 1623940,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Braveland",
+    "slug": "braveland",
+    "steamAppId": 285800,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Brawlhalla",
     "slug": "brawlhalla",
     "steamAppId": 291550,
@@ -534,9 +702,39 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Breathedge",
+    "slug": "breathedge",
+    "steamAppId": 738520,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Broforce",
     "slug": "broforce",
     "steamAppId": 274190,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "BROKE PROTOCOL",
+    "slug": "broke-protocol",
+    "steamAppId": 696370,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Broken Voyage",
+    "slug": "broken-voyage",
+    "steamAppId": 4422650,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Buck Trucker in Rowdy Business",
+    "slug": "buck-trucker-in-rowdy-business",
+    "steamAppId": 3617560,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Bucket Brawl: Ahlman Edition",
+    "slug": "bucket-brawl-ahlman-edition",
+    "steamAppId": 2413660,
     "priority": "registry-approved"
   },
   {
@@ -582,9 +780,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Car Mechanic Simulator 2018",
+    "slug": "car-mechanic-simulator-2018",
+    "steamAppId": 645630,
+    "priority": "registry-approved"
+  },
+  {
     "title": "CARRION",
     "slug": "carrion",
     "steamAppId": 953490,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Cast & Spell",
+    "slug": "cast-and-spell",
+    "steamAppId": 3032020,
     "priority": "registry-approved"
   },
   {
@@ -600,9 +810,27 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Cat-aclysm",
+    "slug": "cat-aclysm",
+    "steamAppId": 2431320,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Catacombs",
+    "slug": "catacombs",
+    "steamAppId": 3017800,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Catan Universe",
     "slug": "catan-universe",
     "steamAppId": 544730,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Catgirl",
+    "slug": "catgirl",
+    "steamAppId": 3569430,
     "priority": "registry-approved"
   },
   {
@@ -612,15 +840,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Cave Crawlers",
+    "slug": "cave-crawlers",
+    "steamAppId": 2143030,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Celeste",
     "slug": "celeste",
     "steamAppId": 504230,
     "priority": "registry-approved"
   },
   {
+    "title": "Cell to Singularity - Evolution Never Ends",
+    "slug": "cell-to-singularity-evolution-never-ends",
+    "steamAppId": 977400,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Chamber Survival",
     "slug": "chamber-survival",
     "steamAppId": 2943780,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Chef Strikes Back",
+    "slug": "chef-strikes-back",
+    "steamAppId": 3329730,
     "priority": "registry-approved"
   },
   {
@@ -639,6 +885,18 @@
     "title": "Chill Corner",
     "slug": "chill-corner",
     "steamAppId": 1749630,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Chompy Chomp Chomp",
+    "slug": "chompy-chomp-chomp",
+    "steamAppId": 292570,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Choo-Choo Charles",
+    "slug": "choo-choo-charles",
+    "steamAppId": 1766740,
     "priority": "registry-approved"
   },
   {
@@ -669,6 +927,24 @@
     "title": "Clair Obscur: Expedition 33",
     "slug": "clair-obscur-expedition-33",
     "steamAppId": 1903340,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Classic Marathon",
+    "slug": "classic-marathon",
+    "steamAppId": 2398450,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Classic Marathon 2",
+    "slug": "classic-marathon-2",
+    "steamAppId": 2398490,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Classic Marathon Infinity",
+    "slug": "classic-marathon-infinity",
+    "steamAppId": 2398520,
     "priority": "registry-approved"
   },
   {
@@ -732,9 +1008,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "CPU Invaders",
+    "slug": "cpu-invaders",
+    "steamAppId": 595440,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Crash Bandicoot N. Sane Trilogy",
     "slug": "crash-bandicoot-n-sane-trilogy",
     "steamAppId": 731490,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Crashed",
+    "slug": "crashed",
+    "steamAppId": 3405100,
     "priority": "registry-approved"
   },
   {
@@ -744,9 +1032,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Creative Console",
+    "slug": "creative-console",
+    "steamAppId": 2070880,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Crossout",
     "slug": "crossout",
     "steamAppId": 386180,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Crowalt: Traces of the Lost Colony",
+    "slug": "crowalt-traces-of-the-lost-colony",
+    "steamAppId": 1269500,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Crown Champion: Legends of the Arena",
+    "slug": "crown-champion-legends-of-the-arena",
+    "steamAppId": 527710,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Crusader Kings II",
+    "slug": "crusader-kings-ii",
+    "steamAppId": 203770,
     "priority": "registry-approved"
   },
   {
@@ -786,15 +1098,51 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Cybarian: The Time Travelling Warrior",
+    "slug": "cybarian-the-time-travelling-warrior",
+    "steamAppId": 928840,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Cyberpunk 2077",
     "slug": "cyberpunk-2077",
     "steamAppId": 1091500,
     "priority": "registry-approved"
   },
   {
+    "title": "Cyberpunk 2077 Bonus Content",
+    "slug": "cyberpunk-2077-bonus-content",
+    "steamAppId": 1495710,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Cycle Idle RPG",
+    "slug": "cycle-idle-rpg",
+    "steamAppId": 2635670,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Daisho: Survival of a Samurai",
+    "slug": "daisho-survival-of-a-samurai",
+    "steamAppId": 2502650,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Dark and Darker",
     "slug": "dark-and-darker",
     "steamAppId": 2016590,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Dark Roll",
+    "slug": "dark-roll",
+    "steamAppId": 962810,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Dark Sector",
+    "slug": "dark-sector",
+    "steamAppId": 29900,
     "priority": "registry-approved"
   },
   {
@@ -807,6 +1155,24 @@
     "title": "Darkest Dungeon",
     "slug": "darkest-dungeon",
     "steamAppId": 262060,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Darkest Dungeon® II",
+    "slug": "darkest-dungeon-ii",
+    "steamAppId": 1940340,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Darkwood",
+    "slug": "darkwood",
+    "steamAppId": 274520,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "DashBored",
+    "slug": "dashbored",
+    "steamAppId": 490860,
     "priority": "registry-approved"
   },
   {
@@ -864,12 +1230,6 @@
     "priority": "registry-approved"
   },
   {
-    "title": "Dead Island: Epidemic",
-    "slug": "dead-island-epidemic",
-    "steamAppId": 222900,
-    "priority": "registry-approved"
-  },
-  {
     "title": "Dead Rising 2",
     "slug": "dead-rising-2",
     "steamAppId": 45740,
@@ -924,6 +1284,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Deadswitch 3",
+    "slug": "deadswitch-3",
+    "steamAppId": 1131080,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Death Fungeon",
+    "slug": "death-fungeon",
+    "steamAppId": 897630,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Death Road to Canada",
     "slug": "death-road-to-canada",
     "steamAppId": 252610,
@@ -936,15 +1308,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Deconstruction Simulator: Prologue",
+    "slug": "deconstruction-simulator-prologue",
+    "steamAppId": 2778430,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Deep Rock Galactic",
     "slug": "deep-rock-galactic",
     "steamAppId": 548430,
     "priority": "registry-approved"
   },
   {
-    "title": "Deiland",
-    "slug": "deiland",
-    "steamAppId": 760620,
+    "title": "Deep Siege",
+    "slug": "deep-siege",
+    "steamAppId": 3384270,
     "priority": "registry-approved"
   },
   {
@@ -966,9 +1344,27 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Demolish & Build 2017",
+    "slug": "demolish-and-build-2017",
+    "steamAppId": 470740,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Deponia",
     "slug": "deponia",
     "steamAppId": 214340,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Depths Of Horror: Mushroom Day",
+    "slug": "depths-of-horror-mushroom-day",
+    "steamAppId": 1590840,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Desktop Mate",
+    "slug": "desktop-mate",
+    "steamAppId": 3301060,
     "priority": "registry-approved"
   },
   {
@@ -1014,6 +1410,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Dichotomy Illusion: The Coser Disassembly Incident",
+    "slug": "dichotomy-illusion-the-coser-disassembly-incident",
+    "steamAppId": 3679440,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Dino D-Day",
+    "slug": "dino-d-day",
+    "steamAppId": 70000,
+    "priority": "registry-approved"
+  },
+  {
     "title": "DiRT Rally",
     "slug": "dirt-rally",
     "steamAppId": 310560,
@@ -1050,9 +1458,27 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Disney Epic Mickey: Rebrushed",
+    "slug": "disney-epic-mickey-rebrushed",
+    "steamAppId": 1522160,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Disney's Treasure Planet: Battle of Procyon",
     "slug": "disney-s-treasure-planet-battle-of-procyon",
     "steamAppId": 331970,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Dissonance",
+    "slug": "dissonance",
+    "steamAppId": 1911980,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Distant Space 2",
+    "slug": "distant-space-2",
+    "steamAppId": 729460,
     "priority": "registry-approved"
   },
   {
@@ -1146,15 +1572,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Double Shoulders",
+    "slug": "double-shoulders",
+    "steamAppId": 3393620,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Down the Rabbit Hole Flattened",
     "slug": "down-the-rabbit-hole-flattened",
     "steamAppId": 3399980,
     "priority": "registry-approved"
   },
   {
+    "title": "Downtown Drift",
+    "slug": "downtown-drift",
+    "steamAppId": 1077340,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Downwell",
     "slug": "downwell",
     "steamAppId": 360740,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Dr. Fetus' Mean Meat Machine",
+    "slug": "dr-fetus-mean-meat-machine",
+    "steamAppId": 2228030,
     "priority": "registry-approved"
   },
   {
@@ -1206,6 +1650,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Drift86",
+    "slug": "drift86",
+    "steamAppId": 1070580,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Drug Dealer Simulator",
     "slug": "drug-dealer-simulator",
     "steamAppId": 682990,
@@ -1236,9 +1686,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "EA SPORTS FC™ 26",
+    "slug": "ea-sports-fc-26",
+    "steamAppId": 3405690,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Easy Delivery Co.",
     "slug": "easy-delivery-co",
     "steamAppId": 3293010,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Eets",
+    "slug": "eets",
+    "steamAppId": 6100,
     "priority": "registry-approved"
   },
   {
@@ -1260,9 +1722,39 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Elysium Elect",
+    "slug": "elysium-elect",
+    "steamAppId": 3642030,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Ember Knights",
+    "slug": "ember-knights",
+    "steamAppId": 1135230,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "EMPTY SHELL",
+    "slug": "empty-shell",
+    "steamAppId": 2243110,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Endix",
+    "slug": "endix",
+    "steamAppId": 4356840,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Enter the Gungeon",
     "slug": "enter-the-gungeon",
     "steamAppId": 311690,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Escape From Tethys",
+    "slug": "escape-from-tethys",
+    "steamAppId": 822540,
     "priority": "registry-approved"
   },
   {
@@ -1275,6 +1767,12 @@
     "title": "Eternium",
     "slug": "eternium",
     "steamAppId": 981600,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Etheria: Restart",
+    "slug": "etheria-restart",
+    "steamAppId": 2084970,
     "priority": "registry-approved"
   },
   {
@@ -1323,6 +1821,24 @@
     "title": "Evoland Legendary Edition",
     "slug": "evoland-legendary-edition",
     "steamAppId": 1020470,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Exiled Survivors",
+    "slug": "exiled-survivors",
+    "steamAppId": 2694210,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Explodemon",
+    "slug": "explodemon",
+    "steamAppId": 281820,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Exploding Kittens® 2",
+    "slug": "exploding-kittens-2",
+    "steamAppId": 2999030,
     "priority": "registry-approved"
   },
   {
@@ -1386,6 +1902,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Fallout 4 VR",
+    "slug": "fallout-4-vr",
+    "steamAppId": 611660,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Fallout 76",
     "slug": "fallout-76",
     "steamAppId": 1151340,
@@ -1434,6 +1956,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Feel The Snow",
+    "slug": "feel-the-snow",
+    "steamAppId": 538100,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Fight'N Rage",
     "slug": "fightn-rage",
     "steamAppId": 674520,
@@ -1470,6 +1998,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+    "slug": "five-nights-at-freddy-s-help-wanted",
+    "steamAppId": 732690,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Flash Party",
+    "slug": "flash-party",
+    "steamAppId": 1799370,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Flicker of Hope",
     "slug": "flicker-of-hope",
     "steamAppId": 1314460,
@@ -1494,6 +2034,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Four Kings One War",
+    "slug": "four-kings-one-war",
+    "steamAppId": 883680,
+    "priority": "registry-approved"
+  },
+  {
     "title": "FPS Chess",
     "slug": "fps-chess",
     "steamAppId": 2021910,
@@ -1503,6 +2049,18 @@
     "title": "FragPunk",
     "slug": "fragpunk",
     "steamAppId": 2943650,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Fruit Ninja VR",
+    "slug": "fruit-ninja-vr",
+    "steamAppId": 486780,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Gamble With Your Friends",
+    "slug": "gamble-with-your-friends",
+    "steamAppId": 3892270,
     "priority": "registry-approved"
   },
   {
@@ -1524,6 +2082,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Garfield Kart - Furious Racing",
+    "slug": "garfield-kart-furious-racing",
+    "steamAppId": 1085510,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Garro GT",
     "slug": "garro-gt",
     "steamAppId": 1990740,
@@ -1536,9 +2100,45 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Gato Roboto",
+    "slug": "gato-roboto",
+    "steamAppId": 916730,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Gears 5",
+    "slug": "gears-5",
+    "steamAppId": 1097840,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Gears of War: Reloaded",
+    "slug": "gears-of-war-reloaded",
+    "steamAppId": 2523720,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Geometry Dash",
     "slug": "geometry-dash",
     "steamAppId": 322170,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Go! Go! Nippon! ~My First Trip to Japan~",
+    "slug": "go-go-nippon-my-first-trip-to-japan",
+    "steamAppId": 251870,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "GOAT OF DUTY",
+    "slug": "goat-of-duty",
+    "steamAppId": 555000,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Gobotix: Duo",
+    "slug": "gobotix-duo",
+    "steamAppId": 4103660,
     "priority": "registry-approved"
   },
   {
@@ -1551,6 +2151,12 @@
     "title": "God of War Ragnarök",
     "slug": "god-of-war-ragnar-k",
     "steamAppId": 2322010,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Goddess Of Swing",
+    "slug": "goddess-of-swing",
+    "steamAppId": 3244650,
     "priority": "registry-approved"
   },
   {
@@ -1584,9 +2190,27 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Grand Theft Auto III (macOS)",
+    "slug": "grand-theft-auto-iii-macos",
+    "steamAppId": 12230,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Grand Theft Auto: San Andreas (macOS)",
+    "slug": "grand-theft-auto-san-andreas-macos",
+    "steamAppId": 12250,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Grand Theft Auto: Vice City",
     "slug": "grand-theft-auto-vice-city",
     "steamAppId": 12110,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Grapples Galore",
+    "slug": "grapples-galore",
+    "steamAppId": 2239140,
     "priority": "registry-approved"
   },
   {
@@ -1596,9 +2220,27 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Gravity Circuit",
+    "slug": "gravity-circuit",
+    "steamAppId": 858710,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Gravity Wars",
+    "slug": "gravity-wars",
+    "steamAppId": 877150,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Green Hell",
     "slug": "green-hell",
     "steamAppId": 815370,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Green Reaper",
+    "slug": "green-reaper",
+    "steamAppId": 2387110,
     "priority": "registry-approved"
   },
   {
@@ -1632,9 +2274,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "GTR - Garage Town Racing",
+    "slug": "gtr-garage-town-racing",
+    "steamAppId": 3034980,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Guacamelee!",
     "slug": "guacamelee",
     "steamAppId": 214770,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Guacamelee! Super Turbo Championship Edition",
+    "slug": "guacamelee-super-turbo-championship-edition",
+    "steamAppId": 275390,
     "priority": "registry-approved"
   },
   {
@@ -1647,6 +2301,12 @@
     "title": "GUILTY GEAR -STRIVE-",
     "slug": "guilty-gear-strive",
     "steamAppId": 1384160,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Gunbrella",
+    "slug": "gunbrella",
+    "steamAppId": 1580180,
     "priority": "registry-approved"
   },
   {
@@ -1671,6 +2331,12 @@
     "title": "Hades",
     "slug": "hades",
     "steamAppId": 1145360,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Hades' Star",
+    "slug": "hades-star",
+    "steamAppId": 755800,
     "priority": "registry-approved"
   },
   {
@@ -1752,6 +2418,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Halo: Campaign Evolved",
+    "slug": "halo-campaign-evolved",
+    "steamAppId": 2806050,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Halo: Spartan Assault",
     "slug": "halo-spartan-assault",
     "steamAppId": 277430,
@@ -1776,6 +2448,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Happy's Humble Burger Farm",
+    "slug": "happys-humble-burger-farm",
+    "steamAppId": 1433340,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Haus Of Irndrous",
+    "slug": "haus-of-irndrous",
+    "steamAppId": 2914740,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Have a Nice Death",
     "slug": "have-a-nice-death",
     "steamAppId": 1740720,
@@ -1794,6 +2478,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Headsnatchers",
+    "slug": "headsnatchers",
+    "steamAppId": 797410,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Heartopia",
+    "slug": "heartopia",
+    "steamAppId": 4025700,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Heaven Forest NIGHTS",
     "slug": "heaven-forest-nights",
     "steamAppId": 360970,
@@ -1809,6 +2505,18 @@
     "title": "Heavy Rain",
     "slug": "heavy-rain",
     "steamAppId": 960910,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Helium Rain",
+    "slug": "helium-rain",
+    "steamAppId": 681330,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "HELL OF FEAR: Mind Breach",
+    "slug": "hell-of-fear-mind-breach",
+    "steamAppId": 3372090,
     "priority": "registry-approved"
   },
   {
@@ -1839,6 +2547,12 @@
     "title": "Hellslave",
     "slug": "hellslave",
     "steamAppId": 1608450,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Helltaker",
+    "slug": "helltaker",
+    "steamAppId": 1289310,
     "priority": "registry-approved"
   },
   {
@@ -1908,6 +2622,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Honkai Impact 3rd",
+    "slug": "honkai-impact-3rd",
+    "steamAppId": 1671200,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Horizon Zero Dawn Complete Edition",
     "slug": "horizon-zero-dawn-complete",
     "steamAppId": 1151640,
@@ -1935,6 +2655,12 @@
     "title": "House Flipper",
     "slug": "house-flipper",
     "steamAppId": 613100,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Hoversteppers: Zone 1",
+    "slug": "hoversteppers-zone-1",
+    "steamAppId": 2777190,
     "priority": "registry-approved"
   },
   {
@@ -2022,6 +2748,24 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Invention 8",
+    "slug": "invention-8",
+    "steamAppId": 3631620,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "IQ Under Construction",
+    "slug": "iq-under-construction",
+    "steamAppId": 3771740,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Isle of Jura",
+    "slug": "isle-of-jura",
+    "steamAppId": 1703140,
+    "priority": "registry-approved"
+  },
+  {
     "title": "It Takes Two",
     "slug": "it-takes-two",
     "steamAppId": 1426210,
@@ -2037,6 +2781,12 @@
     "title": "Jagged Alliance Gold",
     "slug": "jagged-alliance-gold",
     "steamAppId": 283270,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Jivana",
+    "slug": "jivana",
+    "steamAppId": 1815340,
     "priority": "registry-approved"
   },
   {
@@ -2064,9 +2814,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Just Ignore Them",
+    "slug": "just-ignore-them",
+    "steamAppId": 561770,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Just Move:Clean City Messy Battle",
+    "slug": "just-move-clean-city-messy-battle",
+    "steamAppId": 3414900,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Kabounce",
+    "slug": "kabounce",
+    "steamAppId": 431930,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Kao the Kangaroo: Round 2",
     "slug": "kao-the-kangaroo-round-2",
     "steamAppId": 1048540,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Katharsi",
+    "slug": "katharsi",
+    "steamAppId": 3365850,
     "priority": "registry-approved"
   },
   {
@@ -2082,9 +2856,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "KEO",
+    "slug": "keo",
+    "steamAppId": 1424910,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Kerbal Space Program",
     "slug": "kerbal-space-program",
     "steamAppId": 220200,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Keyboard Killers",
+    "slug": "keyboard-killers",
+    "steamAppId": 699240,
     "priority": "registry-approved"
   },
   {
@@ -2097,6 +2883,12 @@
     "title": "KIDS",
     "slug": "kids",
     "steamAppId": 793370,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Kiki",
+    "slug": "kiki",
+    "steamAppId": 2142680,
     "priority": "registry-approved"
   },
   {
@@ -2124,6 +2916,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "King of Crabs",
+    "slug": "king-of-crabs",
+    "steamAppId": 1273710,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Kingdom Come: Deliverance",
     "slug": "kingdom-come-deliverance",
     "steamAppId": 379430,
@@ -2133,6 +2931,24 @@
     "title": "Kingdom Come: Deliverance II",
     "slug": "kingdom-come-deliverance-ii",
     "steamAppId": 1771300,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+    "slug": "kingdom-hearts-hd-1-5-2-5-remix",
+    "steamAppId": 2552430,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+    "slug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
+    "steamAppId": 2552440,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "KINGDOM HEARTS III + Re Mind (DLC)",
+    "slug": "kingdom-hearts-iii-re-mind-dlc",
+    "steamAppId": 2552450,
     "priority": "registry-approved"
   },
   {
@@ -2184,6 +3000,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Legend of the Outlaw Mage",
+    "slug": "legend-of-the-outlaw-mage",
+    "steamAppId": 1702990,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "LEGO Batman: Legacy of the Dark Knight",
+    "slug": "lego-batman-legacy-of-the-dark-knight",
+    "steamAppId": 2215200,
+    "priority": "registry-approved"
+  },
+  {
     "title": "LEGO Bricktales",
     "slug": "lego-bricktales",
     "steamAppId": 1898290,
@@ -2193,6 +3021,12 @@
     "title": "LEGO City Undercover",
     "slug": "lego-city-undercover",
     "steamAppId": 578330,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "LEGO Harry Potter Collection",
+    "slug": "lego-harry-potter-collection",
+    "steamAppId": 2950340,
     "priority": "registry-approved"
   },
   {
@@ -2316,6 +3150,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Loot Hero DX",
+    "slug": "loot-hero-dx",
+    "steamAppId": 294040,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Lords of the Fallen",
     "slug": "lords-of-the-fallen",
     "steamAppId": 1501750,
@@ -2331,6 +3171,24 @@
     "title": "Lost Ark",
     "slug": "lost-ark",
     "steamAppId": 1599340,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Lost Daughter",
+    "slug": "lost-daughter",
+    "steamAppId": 1008690,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Lost in Anomaly",
+    "slug": "lost-in-anomaly",
+    "steamAppId": 3312020,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Lost Planet: Extreme Condition",
+    "slug": "lost-planet-extreme-condition",
+    "steamAppId": 6510,
     "priority": "registry-approved"
   },
   {
@@ -2382,6 +3240,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Magic: The Gathering Arena",
+    "slug": "magic-the-gathering-arena",
+    "steamAppId": 2141910,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Magicka",
     "slug": "magicka",
     "steamAppId": 42910,
@@ -2406,9 +3270,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Mangui",
+    "slug": "mangui",
+    "steamAppId": 3220010,
+    "priority": "registry-approved"
+  },
+  {
     "title": "MapleStory",
     "slug": "maplestory",
     "steamAppId": 216150,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Maru Expedition: We can fly",
+    "slug": "maru-expedition-we-can-fly",
+    "steamAppId": 3818230,
     "priority": "registry-approved"
   },
   {
@@ -2454,9 +3330,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Melodic Mage",
+    "slug": "melodic-mage",
+    "steamAppId": 3515490,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Merk Mayhem",
+    "slug": "merk-mayhem",
+    "steamAppId": 2370990,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Metal Gear Solid Delta Snake Eater",
     "slug": "metal-gear-solid-delta-snake-eater",
     "steamAppId": 2417610,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "METAL GEAR SOLID V: GROUND ZEROES",
+    "slug": "metal-gear-solid-v-ground-zeroes",
+    "steamAppId": 311340,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+    "slug": "metal-gear-solid-v-the-phantom-pain",
+    "steamAppId": 287700,
     "priority": "registry-approved"
   },
   {
@@ -2532,6 +3432,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Metro Awakening",
+    "slug": "metro-awakening",
+    "steamAppId": 2669410,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Metro Exodus",
     "slug": "metro-exodus",
     "steamAppId": 412020,
@@ -2541,12 +3447,6 @@
     "title": "Metro Exodus Enhanced Edition",
     "slug": "metro-exodus-enhanced-edition",
     "steamAppId": 1449560,
-    "priority": "registry-approved"
-  },
-  {
-    "title": "Metro: Last Light Complete Edition",
-    "slug": "metro-last-light-complete",
-    "steamAppId": 43160,
     "priority": "registry-approved"
   },
   {
@@ -2577,6 +3477,30 @@
     "title": "Mighty Goose",
     "slug": "mighty-goose",
     "steamAppId": 1299360,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Mina the Hollower",
+    "slug": "mina-the-hollower",
+    "steamAppId": 1875580,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Minecraft Dungeons",
+    "slug": "minecraft-dungeons",
+    "steamAppId": 1672970,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Mini Thief",
+    "slug": "mini-thief",
+    "steamAppId": 481870,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Minion Masters",
+    "slug": "minion-masters",
+    "steamAppId": 489520,
     "priority": "registry-approved"
   },
   {
@@ -2613,6 +3537,12 @@
     "title": "Moonlighter 2: The Endless Vault",
     "slug": "moonlighter-2-the-endless-vault",
     "steamAppId": 2350790,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Moonrise Fall",
+    "slug": "moonrise-fall",
+    "steamAppId": 1035110,
     "priority": "registry-approved"
   },
   {
@@ -2658,15 +3588,39 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Murderous Pursuits",
+    "slug": "murderous-pursuits",
+    "steamAppId": 638070,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Muse Dash",
     "slug": "muse-dash",
     "steamAppId": 774171,
     "priority": "registry-approved"
   },
   {
+    "title": "My life with you",
+    "slug": "my-life-with-you",
+    "steamAppId": 3544930,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Myrkwood: Offshoot",
+    "slug": "myrkwood-offshoot",
+    "steamAppId": 3951230,
+    "priority": "registry-approved"
+  },
+  {
     "title": "MyVoiceZoo",
     "slug": "myvoicezoo",
     "steamAppId": 4015530,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Nanika Game Online",
+    "slug": "nanika-game-online",
+    "steamAppId": 2952070,
     "priority": "registry-approved"
   },
   {
@@ -2736,6 +3690,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Nephise Begins",
+    "slug": "nephise-begins",
+    "steamAppId": 628950,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "NETHER HEROES",
+    "slug": "nether-heroes",
+    "steamAppId": 2964410,
+    "priority": "registry-approved"
+  },
+  {
     "title": "NeuroVoider",
     "slug": "neurovoider",
     "steamAppId": 400450,
@@ -2745,6 +3711,12 @@
     "title": "New Tales from the Borderlands",
     "slug": "new-tales-from-the-borderlands",
     "steamAppId": 1454970,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "NEXT JUMP: Shmup Tactics",
+    "slug": "next-jump-shmup-tactics",
+    "steamAppId": 624690,
     "priority": "registry-approved"
   },
   {
@@ -2766,15 +3738,15 @@
     "priority": "registry-approved"
   },
   {
-    "title": "Night in the Woods",
-    "slug": "night-in-the-woods",
-    "steamAppId": 481510,
+    "title": "Nifty Smashers",
+    "slug": "nifty-smashers",
+    "steamAppId": 3367060,
     "priority": "registry-approved"
   },
   {
-    "title": "Night is Coming — Wrath of the Woods",
-    "slug": "night-is-coming-wrath-of-the-woods",
-    "steamAppId": 3405660,
+    "title": "Night in the Woods",
+    "slug": "night-in-the-woods",
+    "steamAppId": 481510,
     "priority": "registry-approved"
   },
   {
@@ -2790,9 +3762,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "NineHells",
+    "slug": "ninehells",
+    "steamAppId": 2860410,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Nioh: Complete Edition",
     "slug": "nioh-complete",
     "steamAppId": 485510,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Nirvana",
+    "slug": "nirvana",
+    "steamAppId": 3462980,
     "priority": "registry-approved"
   },
   {
@@ -2808,6 +3792,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "No Turning Back: The Pixel Art Action-Adventure Roguelike",
+    "slug": "no-turning-back-the-pixel-art-action-adventure-roguelike",
+    "steamAppId": 358080,
+    "priority": "registry-approved"
+  },
+  {
     "title": "No, I'm not a Human",
     "slug": "no-im-not-a-human",
     "steamAppId": 3180070,
@@ -2820,6 +3810,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Nocturnal",
+    "slug": "nocturnal",
+    "steamAppId": 1634080,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Noita",
     "slug": "noita",
     "steamAppId": 881100,
@@ -2829,6 +3825,42 @@
     "title": "Nongunz: Doppelganger Edition",
     "slug": "nongunz-doppelganger-edition",
     "steamAppId": 1304780,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "NTE: Neverness to Everness",
+    "slug": "nte-neverness-to-everness",
+    "steamAppId": 4508340,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Nuclear Contingency",
+    "slug": "nuclear-contingency",
+    "steamAppId": 540900,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "OCTOPATH TRAVELER II",
+    "slug": "octopath-traveler-ii",
+    "steamAppId": 1971650,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Odysseus Kosmos and his Robot Quest - Episode 1",
+    "slug": "odysseus-kosmos-and-his-robot-quest-episode-1",
+    "steamAppId": 769920,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Oh, Bugger!",
+    "slug": "oh-bugger",
+    "steamAppId": 3365900,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "OmniBus",
+    "slug": "omnibus",
+    "steamAppId": 415740,
     "priority": "registry-approved"
   },
   {
@@ -2856,6 +3888,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "OneShift",
+    "slug": "oneshift",
+    "steamAppId": 862740,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Ori and the Blind Forest",
     "slug": "ori-and-the-blind-forest",
     "steamAppId": 261570,
@@ -2880,6 +3918,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Out Of The Shadows",
+    "slug": "out-of-the-shadows",
+    "steamAppId": 3506830,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Outlast",
     "slug": "outlast",
     "steamAppId": 238320,
@@ -2889,6 +3933,12 @@
     "title": "Outlast 2",
     "slug": "outlast-2",
     "steamAppId": 414700,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Over the Counter",
+    "slug": "over-the-counter",
+    "steamAppId": 1626460,
     "priority": "registry-approved"
   },
   {
@@ -2946,6 +3996,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Palmier Island",
+    "slug": "palmier-island",
+    "steamAppId": 4070790,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Palworld",
     "slug": "palworld",
     "steamAppId": 1623730,
@@ -2961,6 +4017,24 @@
     "title": "Papers, Please",
     "slug": "papers-please",
     "steamAppId": 239030,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Paradox Soul",
+    "slug": "paradox-soul",
+    "steamAppId": 610570,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Paragnosia",
+    "slug": "paragnosia",
+    "steamAppId": 3017580,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Particula",
+    "slug": "particula",
+    "steamAppId": 343360,
     "priority": "registry-approved"
   },
   {
@@ -3003,6 +4077,12 @@
     "title": "PAYDAY 2",
     "slug": "payday-2",
     "steamAppId": 218620,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "PEAK",
+    "slug": "peak",
+    "steamAppId": 3527290,
     "priority": "registry-approved"
   },
   {
@@ -3078,9 +4158,27 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Pinball FX Classic",
+    "slug": "pinball-fx-classic",
+    "steamAppId": 442120,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Pinball FX Midnight",
     "slug": "pinball-fx-midnight",
     "steamAppId": 2337640,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Pinball Storm: Lokanta",
+    "slug": "pinball-storm-lokanta",
+    "steamAppId": 2642570,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Pizza Hero",
+    "slug": "pizza-hero",
+    "steamAppId": 2202770,
     "priority": "registry-approved"
   },
   {
@@ -3120,9 +4218,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Playing Kafka",
+    "slug": "playing-kafka",
+    "steamAppId": 2911850,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Plunder Panic",
     "slug": "plunder-panic",
     "steamAppId": 1455900,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Poco",
+    "slug": "poco",
+    "steamAppId": 3454610,
     "priority": "registry-approved"
   },
   {
@@ -3141,6 +4251,12 @@
     "title": "Poly Bridge 2",
     "slug": "poly-bridge-2",
     "steamAppId": 1062160,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Polyball",
+    "slug": "polyball",
+    "steamAppId": 368180,
     "priority": "registry-approved"
   },
   {
@@ -3168,15 +4284,21 @@
     "priority": "registry-approved"
   },
   {
-    "title": "Portal: Revolution",
-    "slug": "portal-revolution",
-    "steamAppId": 601360,
+    "title": "Portal with RTX",
+    "slug": "portal-with-rtx",
+    "steamAppId": 2012840,
     "priority": "registry-approved"
   },
   {
     "title": "POSTAL",
     "slug": "postal",
     "steamAppId": 232770,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Powwow Bound: A Menominee Homecoming",
+    "slug": "powwow-bound-a-menominee-homecoming",
+    "steamAppId": 3778870,
     "priority": "registry-approved"
   },
   {
@@ -3189,6 +4311,24 @@
     "title": "Prey: Typhon Hunter",
     "slug": "prey-typhon-hunter",
     "steamAppId": 741820,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Prima Materia XXV",
+    "slug": "prima-materia-xxv",
+    "steamAppId": 3714460,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Prince of Persia The Lost Crown",
+    "slug": "prince-of-persia-the-lost-crown",
+    "steamAppId": 2751000,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Project Mercury",
+    "slug": "project-mercury",
+    "steamAppId": 702150,
     "priority": "registry-approved"
   },
   {
@@ -3240,15 +4380,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Pure Logic",
+    "slug": "pure-logic",
+    "steamAppId": 1861500,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Quake 4",
     "slug": "quake-4",
     "steamAppId": 2210,
     "priority": "registry-approved"
   },
   {
-    "title": "Rage Parking Simulator 2016",
-    "slug": "rage-parking-simulator-2016",
-    "steamAppId": 449630,
+    "title": "Rabbit and Steel",
+    "slug": "rabbit-and-steel",
+    "steamAppId": 2132850,
     "priority": "registry-approved"
   },
   {
@@ -3258,9 +4404,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Rat Quest",
+    "slug": "rat-quest",
+    "steamAppId": 2952470,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Ravenswatch",
+    "slug": "ravenswatch",
+    "steamAppId": 2071280,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Raventure",
+    "slug": "raventure",
+    "steamAppId": 2415660,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Rayman: Raving Rabbids",
     "slug": "rayman-raving-rabbids",
     "steamAppId": 15080,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "REANIMAL",
+    "slug": "reanimal",
+    "steamAppId": 2129530,
     "priority": "registry-approved"
   },
   {
@@ -3276,9 +4446,39 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Red Gate",
+    "slug": "red-gate",
+    "steamAppId": 1076600,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Red Risk",
+    "slug": "red-risk",
+    "steamAppId": 448070,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "REDkit DE THE WITCHER 3",
+    "slug": "redkit-de-the-witcher-3",
+    "steamAppId": 2684660,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Refind Self: Desvela tu personalidad",
     "slug": "refind-self-desvela-tu-personalidad",
     "steamAppId": 2514960,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Relapse",
+    "slug": "relapse",
+    "steamAppId": 1968320,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Remothered: Tormented Fathers",
+    "slug": "remothered-tormented-fathers",
+    "steamAppId": 633360,
     "priority": "registry-approved"
   },
   {
@@ -3378,6 +4578,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Ricochet",
+    "slug": "ricochet",
+    "steamAppId": 60,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Rift of the NecroDancer",
     "slug": "rift-of-the-necrodancer",
     "steamAppId": 2073250,
@@ -3387,6 +4593,12 @@
     "title": "Rise of the Tomb Raider",
     "slug": "rise-of-the-tomb-raider",
     "steamAppId": 391220,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Rising Storm/Red Orchestra 2 Multiplayer",
+    "slug": "rising-storm-red-orchestra-2-multiplayer",
+    "steamAppId": 35450,
     "priority": "registry-approved"
   },
   {
@@ -3426,15 +4638,45 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Rocky Mayhem",
+    "slug": "rocky-mayhem",
+    "steamAppId": 1303350,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Rogue Heroes: Ruins of Tasos",
     "slug": "rogue-heroes-ruins-of-tasos",
     "steamAppId": 787810,
     "priority": "registry-approved"
   },
   {
+    "title": "Romance of the Three Kingdoms Maker",
+    "slug": "romance-of-the-three-kingdoms-maker",
+    "steamAppId": 397720,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Room For One!",
+    "slug": "room-for-one",
+    "steamAppId": 3693260,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "ROTA: Bend Gravity",
+    "slug": "rota-bend-gravity",
+    "steamAppId": 1993830,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Rubber Bandits",
     "slug": "rubber-bandits",
     "steamAppId": 1206610,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Ruby and The Lost Crystals",
+    "slug": "ruby-and-the-lost-crystals",
+    "steamAppId": 3807810,
     "priority": "registry-approved"
   },
   {
@@ -3474,6 +4716,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Sandwalkers - Prologue",
+    "slug": "sandwalkers-prologue",
+    "steamAppId": 2995230,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Sayonara Wild Hearts",
     "slug": "sayonara-wild-hearts",
     "steamAppId": 1122720,
@@ -3486,9 +4734,39 @@
     "priority": "registry-approved"
   },
   {
+    "title": "ScourgeBringer",
+    "slug": "scourgebringer",
+    "steamAppId": 1037020,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "SCP: Containment Breach 2",
+    "slug": "scp-containment-breach-2",
+    "steamAppId": 3257000,
+    "priority": "registry-approved"
+  },
+  {
     "title": "SCP: Containment Breach Multiplayer",
     "slug": "scp-containment-breach-multiplayer",
     "steamAppId": 1782380,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Scramble Knights Online Playtest",
+    "slug": "scramble-knights-online-playtest",
+    "steamAppId": 4127570,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Scrap Garden",
+    "slug": "scrap-garden",
+    "steamAppId": 465760,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Screencheat",
+    "slug": "screencheat",
+    "steamAppId": 301970,
     "priority": "registry-approved"
   },
   {
@@ -3516,9 +4794,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Seconda",
+    "slug": "seconda",
+    "steamAppId": 4127470,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Seen",
     "slug": "seen",
     "steamAppId": 1069740,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sentience. The Android's Tale",
+    "slug": "sentience-the-androids-tale",
+    "steamAppId": 635850,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Separated by Nightmares: Where Duty Dies",
+    "slug": "separated-by-nightmares-where-duty-dies",
+    "steamAppId": 3428910,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Serial Cleaner",
+    "slug": "serial-cleaner",
+    "steamAppId": 522210,
     "priority": "registry-approved"
   },
   {
@@ -3582,9 +4884,39 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Serious Sam VR: The First Encounter",
+    "slug": "serious-sam-vr-the-first-encounter",
+    "steamAppId": 552450,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Serious Sam VR: The Last Hope",
+    "slug": "serious-sam-vr-the-last-hope",
+    "steamAppId": 465240,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Serious Sam VR: The Second Encounter",
+    "slug": "serious-sam-vr-the-second-encounter",
+    "steamAppId": 552460,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Serious Sam: Siberian Mayhem",
+    "slug": "serious-sam-siberian-mayhem",
+    "steamAppId": 1792250,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Serious Sam: The Random Encounter",
     "slug": "serious-sam-the-random-encounter",
     "steamAppId": 201480,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Shade Silver",
+    "slug": "shade-silver",
+    "steamAppId": 2905180,
     "priority": "registry-approved"
   },
   {
@@ -3594,9 +4926,45 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Shadows of Doubt",
+    "slug": "shadows-of-doubt",
+    "steamAppId": 986130,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Shadowverse: Worlds Beyond",
     "slug": "shadowverse-worlds-beyond",
     "steamAppId": 2584990,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Shantae and the Pirate's Curse",
+    "slug": "shantae-and-the-pirates-curse",
+    "steamAppId": 345820,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Shantae: Half-Genie Hero Ultimate Edition",
+    "slug": "shantae-half-genie-hero-ultimate-edition",
+    "steamAppId": 764300,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sharpshooter",
+    "slug": "sharpshooter",
+    "steamAppId": 2835310,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "ShellShock Live",
+    "slug": "shellshock-live",
+    "steamAppId": 326460,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Shin Megami Tensei V: Vengeance",
+    "slug": "shin-megami-tensei-v-vengeance",
+    "steamAppId": 1875830,
     "priority": "registry-approved"
   },
   {
@@ -3636,9 +5004,27 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Sid Meier's Civilization: Beyond Earth",
+    "slug": "sid-meiers-civilization-beyond-earth",
+    "steamAppId": 65980,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sid Meier's Starships",
+    "slug": "sid-meiers-starships",
+    "steamAppId": 282210,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Sifu",
     "slug": "sifu",
     "steamAppId": 2138710,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "SIGNALIS",
+    "slug": "signalis",
+    "steamAppId": 1262350,
     "priority": "registry-approved"
   },
   {
@@ -3651,6 +5037,18 @@
     "title": "SILENT HILL f",
     "slug": "silent-hill-f",
     "steamAppId": 2947440,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "SIMPWALK",
+    "slug": "simpwalk",
+    "steamAppId": 3362870,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Skillshot City",
+    "slug": "skillshot-city",
+    "steamAppId": 308600,
     "priority": "registry-approved"
   },
   {
@@ -3678,9 +5076,51 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Slime Saga",
+    "slug": "slime-saga",
+    "steamAppId": 4032230,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Smart Factory Tycoon",
     "slug": "smart-factory-tycoon",
     "steamAppId": 1755300,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "SMITE",
+    "slug": "smite",
+    "steamAppId": 386360,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Snake Eyes Dungeon",
+    "slug": "snake-eyes-dungeon",
+    "steamAppId": 740240,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sniper Elite 4",
+    "slug": "sniper-elite-4",
+    "steamAppId": 312660,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sniper Elite 5",
+    "slug": "sniper-elite-5",
+    "steamAppId": 1029690,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sniper Elite V2",
+    "slug": "sniper-elite-v2",
+    "steamAppId": 63380,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sniper Elite V2 Remastered",
+    "slug": "sniper-elite-v2-remastered",
+    "steamAppId": 728740,
     "priority": "registry-approved"
   },
   {
@@ -3699,6 +5139,12 @@
     "title": "Sonic Racing: CrossWorlds",
     "slug": "sonic-racing-crossworlds",
     "steamAppId": 2486820,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sonic Superstars",
+    "slug": "sonic-superstars",
+    "steamAppId": 2022670,
     "priority": "registry-approved"
   },
   {
@@ -3726,9 +5172,39 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Space Bear",
+    "slug": "space-bear",
+    "steamAppId": 1169200,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Space Hat",
+    "slug": "space-hat",
+    "steamAppId": 2805210,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Spacelines From The Far Out",
     "slug": "spacelines-from-the-far-out",
     "steamAppId": 1412850,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Spectre Divide",
+    "slug": "spectre-divide",
+    "steamAppId": 2641470,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Spelunky 2",
+    "slug": "spelunky-2",
+    "steamAppId": 418530,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sphere vs Gravity",
+    "slug": "sphere-vs-gravity",
+    "steamAppId": 3147930,
     "priority": "registry-approved"
   },
   {
@@ -3822,6 +5298,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Steam Engine Simulator",
+    "slug": "steam-engine-simulator",
+    "steamAppId": 2381620,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Steel Rats",
+    "slug": "steel-rats",
+    "steamAppId": 619700,
+    "priority": "registry-approved"
+  },
+  {
     "title": "STEINS;GATE",
     "slug": "steins-gate",
     "steamAppId": 412830,
@@ -3846,6 +5334,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Strange Brigade",
+    "slug": "strange-brigade",
+    "steamAppId": 312670,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Stray",
     "slug": "stray",
     "steamAppId": 1332010,
@@ -3864,9 +5358,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Street Fighter™ 6 - Open Beta",
+    "slug": "street-fighter-6-open-beta",
+    "steamAppId": 1952120,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Streets of Rogue",
     "slug": "streets-of-rogue",
     "steamAppId": 512900,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Strinova",
+    "slug": "strinova",
+    "steamAppId": 1282270,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Subnautica",
+    "slug": "subnautica",
+    "steamAppId": 264710,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Subnautica: Below Zero",
+    "slug": "subnautica-below-zero",
+    "steamAppId": 848450,
     "priority": "registry-approved"
   },
   {
@@ -3882,9 +5400,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "SUPER DISTRO",
+    "slug": "super-distro",
+    "steamAppId": 364690,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Super Fancy Pants Adventure",
     "slug": "super-fancy-pants-adventure",
     "steamAppId": 668210,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Super Meat Boy",
+    "slug": "super-meat-boy",
+    "steamAppId": 40800,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Super Meat Boy Forever",
+    "slug": "super-meat-boy-forever",
+    "steamAppId": 581660,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Super Stupid Game",
+    "slug": "super-stupid-game",
+    "steamAppId": 1560100,
     "priority": "registry-approved"
   },
   {
@@ -3900,6 +5442,18 @@
     "priority": "registry-approved"
   },
   {
+    "title": "SUPERHOT VR",
+    "slug": "superhot-vr",
+    "steamAppId": 617830,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "SUPERHOT: MIND CONTROL DELETE",
+    "slug": "superhot-mind-control-delete",
+    "steamAppId": 690040,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Superliminal",
     "slug": "superliminal",
     "steamAppId": 1049410,
@@ -3909,6 +5463,36 @@
     "title": "Supermarket Simulator",
     "slug": "supermarket-simulator",
     "steamAppId": 2670630,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Supermarket Together",
+    "slug": "supermarket-together",
+    "steamAppId": 2709570,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Supraland",
+    "slug": "supraland",
+    "steamAppId": 813630,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "SUR5",
+    "slug": "sur5",
+    "steamAppId": 2159120,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Swallow the Sea",
+    "slug": "swallow-the-sea",
+    "steamAppId": 1511860,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Sword of Convallaria",
+    "slug": "sword-of-convallaria",
+    "steamAppId": 2526380,
     "priority": "registry-approved"
   },
   {
@@ -3960,9 +5544,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Temp Zero",
+    "slug": "temp-zero",
+    "steamAppId": 1938850,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Terraria",
     "slug": "terraria",
     "steamAppId": 105600,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Terroro",
+    "slug": "terroro",
+    "steamAppId": 2880460,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Tetris® Effect: Connected",
+    "slug": "tetris-effect-connected",
+    "steamAppId": 1003590,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Thanks, She's A Rescue",
+    "slug": "thanks-shes-a-rescue",
+    "steamAppId": 4120000,
     "priority": "registry-approved"
   },
   {
@@ -3975,6 +5583,12 @@
     "title": "The Awesome Adventures of Captain Spirit",
     "slug": "the-awesome-adventures-of-captain-spirit",
     "steamAppId": 845070,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Backrooms Game FREE Edition",
+    "slug": "the-backrooms-game-free-edition",
+    "steamAppId": 1111210,
     "priority": "registry-approved"
   },
   {
@@ -4020,6 +5634,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "The Division Resurgence",
+    "slug": "the-division-resurgence",
+    "steamAppId": 3749720,
+    "priority": "registry-approved"
+  },
+  {
     "title": "The Dream Machine",
     "slug": "the-dream-machine",
     "steamAppId": 94300,
@@ -4035,6 +5655,12 @@
     "title": "The Elder Scrolls V: Skyrim Special Edition",
     "slug": "the-elder-scrolls-v-skyrim-special-edition",
     "steamAppId": 489830,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim VR",
+    "slug": "the-elder-scrolls-v-skyrim-vr",
+    "steamAppId": 611670,
     "priority": "registry-approved"
   },
   {
@@ -4068,6 +5694,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "THE FINALS",
+    "slug": "the-finals",
+    "steamAppId": 2073850,
+    "priority": "registry-approved"
+  },
+  {
     "title": "The First Descendant",
     "slug": "the-first-descendant",
     "steamAppId": 2074920,
@@ -4077,6 +5709,12 @@
     "title": "The Forest",
     "slug": "the-forest",
     "steamAppId": 242760,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "THE GREAT GEOMETRIC MULTIVERSE TOUR",
+    "slug": "the-great-geometric-multiverse-tour",
+    "steamAppId": 887400,
     "priority": "registry-approved"
   },
   {
@@ -4101,6 +5739,12 @@
     "title": "THE HOUSE OF THE DEAD: Remake",
     "slug": "the-house-of-the-dead-remake",
     "steamAppId": 1694600,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Jackbox Megapicker",
+    "slug": "the-jackbox-megapicker",
+    "steamAppId": 2828500,
     "priority": "registry-approved"
   },
   {
@@ -4134,6 +5778,24 @@
     "priority": "registry-approved"
   },
   {
+    "title": "The Last Flame: Prologue",
+    "slug": "the-last-flame-prologue",
+    "steamAppId": 2517810,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Last Hope",
+    "slug": "the-last-hope",
+    "steamAppId": 522570,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Last King Prologue",
+    "slug": "the-last-king-prologue",
+    "steamAppId": 1118040,
+    "priority": "registry-approved"
+  },
+  {
     "title": "The Last of Us Part I",
     "slug": "the-last-of-us-part-i",
     "steamAppId": 1888930,
@@ -4164,9 +5826,39 @@
     "priority": "registry-approved"
   },
   {
+    "title": "The Life and Suffering of Sir Brante",
+    "slug": "the-life-and-suffering-of-sir-brante",
+    "steamAppId": 1272160,
+    "priority": "registry-approved"
+  },
+  {
     "title": "The Mean Greens - Plastic Warfare",
     "slug": "the-mean-greens-plastic-warfare",
     "steamAppId": 360940,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Monarch: First Light",
+    "slug": "the-monarch-first-light",
+    "steamAppId": 2838550,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Mr. Rabbit Magic Show",
+    "slug": "the-mr-rabbit-magic-show",
+    "steamAppId": 3472550,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Odyssey of the Mammoth",
+    "slug": "the-odyssey-of-the-mammoth",
+    "steamAppId": 1881350,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Red Lantern",
+    "slug": "the-red-lantern",
+    "steamAppId": 1053710,
     "priority": "registry-approved"
   },
   {
@@ -4188,9 +5880,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "The Talos Principle VR",
+    "slug": "the-talos-principle-vr",
+    "steamAppId": 552440,
+    "priority": "registry-approved"
+  },
+  {
     "title": "The Typing of The Dead: Overkill",
     "slug": "the-typing-of-the-dead-overkill",
     "steamAppId": 246580,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Uncertain: Last Quiet Day",
+    "slug": "the-uncertain-last-quiet-day",
+    "steamAppId": 406970,
     "priority": "registry-approved"
   },
   {
@@ -4203,6 +5907,12 @@
     "title": "The WereCleaner",
     "slug": "the-werecleaner",
     "steamAppId": 2795000,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "The Witch's fabulous Cracker Show",
+    "slug": "the-witchs-fabulous-cracker-show",
+    "steamAppId": 3868950,
     "priority": "registry-approved"
   },
   {
@@ -4230,6 +5940,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "The Zhukov Line",
+    "slug": "the-zhukov-line",
+    "steamAppId": 2744260,
+    "priority": "registry-approved"
+  },
+  {
     "title": "TheEscapists",
     "slug": "theescapists",
     "steamAppId": 298630,
@@ -4248,9 +5964,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "This Game is Ground Breaking",
+    "slug": "this-game-is-ground-breaking",
+    "steamAppId": 3561850,
+    "priority": "registry-approved"
+  },
+  {
     "title": "This War of Mine",
     "slug": "this-war-of-mine",
     "steamAppId": 282070,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Three Sisters",
+    "slug": "three-sisters",
+    "steamAppId": 3584190,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Thunder Tier One",
+    "slug": "thunder-tier-one",
+    "steamAppId": 377300,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+    "slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
+    "steamAppId": 1712840,
     "priority": "registry-approved"
   },
   {
@@ -4269,6 +6009,12 @@
     "title": "Titanfall 2",
     "slug": "titanfall-2",
     "steamAppId": 1237970,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Tom Clancy's Ghost Recon Wildlands",
+    "slug": "tom-clancys-ghost-recon-wildlands",
+    "steamAppId": 460930,
     "priority": "registry-approved"
   },
   {
@@ -4296,6 +6042,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "TouHou Makuka Sai ~ Fantastic Danmaku Festival",
+    "slug": "touhou-makuka-sai-fantastic-danmaku-festival",
+    "steamAppId": 882710,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Toy Tinker Simulator",
     "slug": "toy-tinker-simulator",
     "steamAppId": 1510580,
@@ -4305,6 +6057,12 @@
     "title": "Trailmakers",
     "slug": "trailmakers",
     "steamAppId": 585420,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Transformice",
+    "slug": "transformice",
+    "steamAppId": 335240,
     "priority": "registry-approved"
   },
   {
@@ -4320,6 +6078,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Twin Shot Deluxe",
+    "slug": "twin-shot-deluxe",
+    "steamAppId": 3618520,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Ultimate Epic Battle Simulator",
     "slug": "ultimate-epic-battle-simulator",
     "steamAppId": 616560,
@@ -4329,6 +6093,12 @@
     "title": "Ultimate Zombie Defense",
     "slug": "ultimate-zombie-defense",
     "steamAppId": 1035510,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Umamusume: Pretty Derby",
+    "slug": "umamusume-pretty-derby",
+    "steamAppId": 3224770,
     "priority": "registry-approved"
   },
   {
@@ -4344,9 +6114,33 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Unforgiving Trials: The Darkest Crusade",
+    "slug": "unforgiving-trials-the-darkest-crusade",
+    "steamAppId": 489220,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Unforgiving Trials: The Space Crusade",
+    "slug": "unforgiving-trials-the-space-crusade",
+    "steamAppId": 535760,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "UNLOVED",
+    "slug": "unloved",
+    "steamAppId": 321270,
+    "priority": "registry-approved"
+  },
+  {
     "title": "UnMetal",
     "slug": "unmetal",
     "steamAppId": 1203710,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Unplagued",
+    "slug": "unplagued",
+    "steamAppId": 3062930,
     "priority": "registry-approved"
   },
   {
@@ -4380,9 +6174,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Unturned",
+    "slug": "unturned",
+    "steamAppId": 304930,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Upload Labs",
     "slug": "upload-labs",
     "steamAppId": 3606890,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "V-Shift",
+    "slug": "v-shift",
+    "steamAppId": 3361890,
     "priority": "registry-approved"
   },
   {
@@ -4410,9 +6216,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Viking: Battle for Asgard",
+    "slug": "viking-battle-for-asgard",
+    "steamAppId": 211160,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Void Bastards",
     "slug": "void-bastards",
     "steamAppId": 857980,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "VolleySmash",
+    "slug": "volleysmash",
+    "steamAppId": 3166420,
     "priority": "registry-approved"
   },
   {
@@ -4440,9 +6258,21 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Wandering Skies",
+    "slug": "wandering-skies",
+    "steamAppId": 2386610,
+    "priority": "registry-approved"
+  },
+  {
     "title": "War Thunder",
     "slug": "war-thunder",
     "steamAppId": 236390,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Warfork",
+    "slug": "warfork",
+    "steamAppId": 671610,
     "priority": "registry-approved"
   },
   {
@@ -4566,6 +6396,36 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Wild Terra 2: New Lands",
+    "slug": "wild-terra-2-new-lands",
+    "steamAppId": 1134700,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Wild West: Prototype",
+    "slug": "wild-west-prototype",
+    "steamAppId": 2978120,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Wildmender",
+    "slug": "wildmender",
+    "steamAppId": 1599330,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Will Glow the Wisp",
+    "slug": "will-glow-the-wisp",
+    "steamAppId": 640890,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Will To Live Online",
+    "slug": "will-to-live-online",
+    "steamAppId": 707010,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Wizard of Legend",
     "slug": "wizard-of-legend",
     "steamAppId": 445980,
@@ -4608,6 +6468,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "World War Z",
+    "slug": "world-war-z",
+    "steamAppId": 699130,
+    "priority": "registry-approved"
+  },
+  {
     "title": "WorldBox - God Simulator",
     "slug": "worldbox-god-simulator",
     "steamAppId": 1206560,
@@ -4623,6 +6489,18 @@
     "title": "Worms W.M.D",
     "slug": "worms-w-m-d",
     "steamAppId": 327030,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Wreckfest",
+    "slug": "wreckfest",
+    "steamAppId": 228380,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Wuthering Waves",
+    "slug": "wuthering-waves",
+    "steamAppId": 3513350,
     "priority": "registry-approved"
   },
   {
@@ -4650,6 +6528,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Yet Another Zombie Defense HD",
+    "slug": "yet-another-zombie-defense-hd",
+    "steamAppId": 674750,
+    "priority": "registry-approved"
+  },
+  {
     "title": "YIIK Nameless Psychosis",
     "slug": "yiik-nameless-psychosis",
     "steamAppId": 2863840,
@@ -4674,6 +6558,12 @@
     "priority": "registry-approved"
   },
   {
+    "title": "Zenless Zone Zero",
+    "slug": "zenless-zone-zero",
+    "steamAppId": 4162040,
+    "priority": "registry-approved"
+  },
+  {
     "title": "Zombie Army 4",
     "slug": "zombie-army-4",
     "steamAppId": 694280,
@@ -4689,6 +6579,12 @@
     "title": "Zombie Driver HD",
     "slug": "zombie-driver-hd",
     "steamAppId": 220820,
+    "priority": "registry-approved"
+  },
+  {
+    "title": "Zup! S",
+    "slug": "zup-s",
+    "steamAppId": 617670,
     "priority": "registry-approved"
   }
 ]

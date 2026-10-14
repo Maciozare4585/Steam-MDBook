@@ -1,10 +1,31 @@
 # Juegos — R
 
-> Página alfabética compacta. Contiene **44** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **51** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
+<article id="game-meta-2132850" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2132850">
+    <img src="../../assets/games/2132850/steam-header.jpg" alt="Rabbit and Steel" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2132850">🎮 Rabbit and Steel</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2132850</code></span>
+      <span><strong>Oficial:</strong> Rabbit and Steel</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2132850">
+  <a class="steam-action steam-play" href="steam://run/2132850" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2132850" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2132850" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-449630" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=449630">
     <img src="../../assets/games/449630/steam-header.jpg" alt="Rage Parking Simulator 2016" loading="lazy" />
@@ -68,6 +89,27 @@
   </div>
 </article>
 
+<article id="game-meta-2071280" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2071280">
+    <img src="../../assets/games/2071280/steam-header.jpg" alt="Ravenswatch" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2071280">🎮 Ravenswatch</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2071280</code></span>
+      <span><strong>Oficial:</strong> Ravenswatch</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2071280">
+  <a class="steam-action steam-play" href="steam://run/2071280" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2071280" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2071280" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-2415660" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=2415660">
     <img src="../../assets/games/2415660/steam-header.jpg" alt="Raventure" loading="lazy" />
@@ -110,6 +152,27 @@
   </div>
 </article>
 
+<article id="game-meta-2129530" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2129530">
+    <img src="../../assets/games/2129530/steam-header.jpg" alt="REANIMAL" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2129530">🎮 REANIMAL</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2129530</code></span>
+      <span><strong>Oficial:</strong> REANIMAL</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2129530">
+  <a class="steam-action steam-play" href="steam://run/2129530" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2129530" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2129530" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1088790" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1088790">
     <img src="../../assets/games/1088790/steam-header.jpg" alt="Rebel Inc: Escalation" loading="lazy" />
@@ -127,6 +190,27 @@
   <a class="steam-action steam-play" href="steam://run/1088790" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1088790" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1088790" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1181630" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1181630">
+    <img src="../../assets/games/1181630/steam-header.jpg" alt="Rebel Inc: Escalation - Soundtrack" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1181630">🎮 Rebel Inc: Escalation - Soundtrack</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1181630</code></span>
+      <span><strong>Oficial:</strong> Rebel Inc: Escalation - Soundtrack</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1181630">
+  <a class="steam-action steam-play" href="steam://run/1181630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1181630" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1181630" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -194,6 +278,27 @@
   </div>
 </article>
 
+<article id="game-meta-2684660" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2684660">
+    <img src="../../assets/games/2684660/steam-header.jpg" alt="REDkit DE THE WITCHER 3" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2684660">🎮 REDkit DE THE WITCHER 3</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2684660</code></span>
+      <span><strong>Oficial:</strong> REDkit DE THE WITCHER 3</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2684660">
+  <a class="steam-action steam-play" href="steam://run/2684660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2684660" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2684660" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-2514960" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=2514960">
     <img src="../../assets/games/2514960/steam-header.jpg" alt="Refind Self: Desvela tu personalidad" loading="lazy" />
@@ -232,6 +337,27 @@
   <a class="steam-action steam-play" href="steam://run/1968320" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1968320" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1968320" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-633360" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=633360">
+    <img src="../../assets/games/633360/steam-header.jpg" alt="Remothered: Tormented Fathers" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=633360">🎮 Remothered: Tormented Fathers</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>633360</code></span>
+      <span><strong>Oficial:</strong> Remothered: Tormented Fathers</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="633360">
+  <a class="steam-action steam-play" href="steam://run/633360" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/633360" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/633360" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -631,6 +757,27 @@
   <a class="steam-action steam-play" href="steam://run/391220" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/391220" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/391220" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-35450" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=35450">
+    <img src="../../assets/games/35450/steam-header.jpg" alt="Rising Storm/Red Orchestra 2 Multiplayer" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=35450">🎮 Rising Storm/Red Orchestra 2 Multiplayer</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>35450</code></span>
+      <span><strong>Oficial:</strong> Rising Storm/Red Orchestra 2 Multiplayer</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="35450">
+  <a class="steam-action steam-play" href="steam://run/35450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/35450" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/35450" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

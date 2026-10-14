@@ -1,0 +1,240 @@
+[
+  {
+    "title": "App Recovery",
+    "slug": "app-recovery",
+    "source": "external",
+    "type": "tool",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Artix Game Launcher",
+    "slug": "artix-game-launcher",
+    "source": "external",
+    "type": "launcher",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Assassin's Creed III",
+    "slug": "assassins-creed-iii",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "slug": "baldurs-gate-3",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "citra-qt",
+    "slug": "citra-qt",
+    "source": "external",
+    "type": "emulator",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "slug": "cyberpunk-2077",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "DREDGE",
+    "slug": "dredge",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "EALauncher",
+    "slug": "ealauncher",
+    "source": "external",
+    "type": "launcher",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Epic Games Launcher",
+    "slug": "epic-games-launcher",
+    "source": "external",
+    "type": "launcher",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Fallout 2",
+    "slug": "fallout-2",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Fightcade1",
+    "slug": "fightcade1",
+    "source": "external",
+    "type": "emulator",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "GalaxyClient / GOG Galaxy",
+    "slug": "galaxyclient-gog-galaxy",
+    "source": "external",
+    "type": "launcher",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "GTA5_Enhanced",
+    "slug": "gta5-enhanced",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Habbo Launcher",
+    "slug": "habbo-launcher",
+    "source": "external",
+    "type": "launcher",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Hod2",
+    "slug": "hod2",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Hytale Launcher",
+    "slug": "hytale-launcher",
+    "source": "external",
+    "type": "launcher",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Joyxoff",
+    "slug": "joyxoff",
+    "source": "external",
+    "type": "tool",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "LeagueClient",
+    "slug": "leagueclient",
+    "source": "external",
+    "type": "launcher",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Little Fighter 2",
+    "slug": "little-fighter-2",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Mod Organizer",
+    "slug": "mod-organizer",
+    "source": "external",
+    "type": "tool",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "MonopolyCity",
+    "slug": "monopolycity",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "NeoRAGEx 5.0",
+    "slug": "neoragex-5-0",
+    "source": "external",
+    "type": "emulator",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Overcooked2",
+    "slug": "overcooked2",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "PlantsVsZombiesRH",
+    "slug": "plantsvszombiesrh",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Rockstar Games Launcher",
+    "slug": "rockstar-games-launcher",
+    "source": "external",
+    "type": "launcher",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "SCHOOLDAYS HQ",
+    "slug": "schooldays-hq",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "TheEscapists",
+    "slug": "theescapists",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "TheOuterWorldsSpacersChoiceEdition",
+    "slug": "theouterworldsspacerschoiceedition",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Tibia",
+    "slug": "tibia",
+    "source": "external",
+    "type": "game",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "Ubisoft Connect",
+    "slug": "ubisoft-connect",
+    "source": "external",
+    "type": "launcher",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "WinDS PRO",
+    "slug": "winds-pro",
+    "source": "external",
+    "type": "emulator",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "WinDS PRO FX",
+    "slug": "winds-pro-fx",
+    "source": "external",
+    "type": "emulator",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "WinKawaks",
+    "slug": "winkawaks",
+    "source": "external",
+    "type": "emulator",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  },
+  {
+    "title": "yuzu",
+    "slug": "yuzu",
+    "source": "external",
+    "type": "emulator",
+    "sourceFile": "src/02-colecciones/tecnicas/01-0-externos-tecnica.md"
+  }
+]

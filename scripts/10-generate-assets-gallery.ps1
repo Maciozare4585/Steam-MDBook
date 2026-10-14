@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Genera la galería global de assets.
+.DESCRIPTION
+    Crea `src/07-juegos/galeria-assets-generada.md` desde el registry. Cada tarjeta apunta a la ficha dinámica
+    `detalle.html?id=<steamAppId>` para evitar navegación intermedia por letra.
+.EXAMPLE
+    .\scripts\10-generate-assets-gallery.ps1
+#>
 param(
     [string]$RegistryPath = ".\data\steam-games-registry.json",
     [string]$OutPath = ".\src\07-juegos\galeria-assets-generada.md"
@@ -58,7 +67,7 @@ foreach ($g in ($registry | Sort-Object title)) {
     $mdProjectRel = ConvertTo-ProjectRelativePath $OutPath
     $img = Get-MdBookRelativeAssetPath -MarkdownFile $mdProjectRel -ProjectRelativeAssetPath "src/assets/games/$appid/steam-header.jpg"
     $letterSlug = Get-LetterSlug (Get-GameLetterKey $title)
-    $link = "por-letra/$letterSlug.html#game-meta-$appid"
+    $link = "detalle.html?id=$appid"
 
     $safeTitle = Escape-Html $title
     $safeSource = Escape-Html $source

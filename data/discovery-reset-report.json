@@ -1,0 +1,21 @@
+{
+  "version": "6.6.12",
+  "updatedAt": "2026-05-17T23:43:26.8606348-07:00",
+  "backupDir": ".\\data\\_backup_discovery_reset_20260517-234321",
+  "markdownTargets": 1111,
+  "previousTargets": 1116,
+  "registryEntries": 972,
+  "rebuiltTargets": 1116,
+  "targetsWithSteamAppId": 972,
+  "targetsWithoutSteamAppId": 144,
+  "resetFiles": [
+    ".\\data\\steam-games-review-needed.json",
+    ".\\data\\steam-games-retry-needed.json",
+    ".\\data\\steam-games-ignored.json"
+  ],
+  "notes": [
+    "steam-games-registry.json no se borra; conserva IDs aprobados.",
+    "steam-image-targets.json ahora conserva títulos descubiertos aunque aún no tengan Steam App ID.",
+    "La lista general debe generarse con scripts/19-build-library-catalog.ps1 y scripts/04-generate-game-pages.ps1."
+  ]
+}

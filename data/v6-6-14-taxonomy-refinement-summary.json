@@ -1,0 +1,46 @@
+{
+  "version": "6.6.14",
+  "date": "2026-08-17T13:50:00-06:00",
+  "type": "taxonomy-refinement",
+  "renames": {
+    "Arcade / Casual": "Arcade / Casual / Rápido",
+    "Cozy / Farming / Vida tranquila": "Cozy / Vida tranquila",
+    "Narrativos / Experiencia": "Narrativa primero / experiencia",
+    "YYY) Historia / Puzzle": "YYY) Historia / Puzzle / Coop"
+  },
+  "moves": [
+    {
+      "collection": "Terror",
+      "fromLevel": 2,
+      "toLevel": 3
+    }
+  ],
+  "newCollections": [
+    {
+      "collection": "Cartas / Deckbuilder",
+      "level": 2,
+      "count": 9,
+      "games": [
+        "Balatro",
+        "Exploding Kittens® 2",
+        "GWENT: The Witcher Card Game",
+        "Magic: The Gathering Arena",
+        "Placid Plastic Deck - A Quiet Quest",
+        "Slay the Spire",
+        "Stacklands",
+        "Yu-Gi-Oh! Duel Links",
+        "Yu-Gi-Oh! Master Duel"
+      ]
+    }
+  ],
+  "deferred": [
+    "XXX) Internet taxonomy — design pending",
+    "YYY local/online/both distinction — design pending",
+    "Numered state collections — explicitly untouched"
+  ],
+  "metadataPatched": {
+    "renamedMemberships": 85,
+    "cardsAddedToMetadata": 9,
+    "cardsAddedToGamesIndex": 9
+  }
+}

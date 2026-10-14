@@ -1,6 +1,6 @@
 # Juegos — H
 
-> Página alfabética compacta. Contiene **53** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **58** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -320,6 +320,27 @@
   </div>
 </article>
 
+<article id="game-meta-2806050" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2806050">
+    <img src="../../assets/games/2806050/steam-header.jpg" alt="Halo: Campaign Evolved" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2806050">🎮 Halo: Campaign Evolved</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2806050</code></span>
+      <span><strong>Oficial:</strong> Halo: Campaign Evolved</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2806050">
+  <a class="steam-action steam-play" href="steam://run/2806050" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2806050" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2806050" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-277430" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=277430">
     <img src="../../assets/games/277430/steam-header.jpg" alt="Halo: Spartan Assault" loading="lazy" />
@@ -400,6 +421,27 @@
   <a class="steam-action steam-play" href="steam://run/1851380" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1851380" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1851380" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1433340" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1433340">
+    <img src="../../assets/games/1433340/steam-header.jpg" alt="Happy&#39;s Humble Burger Farm" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1433340">🎮 Happy&#39;s Humble Burger Farm</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1433340</code></span>
+      <span><strong>Oficial:</strong> Happy&#39;s Humble Burger Farm</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1433340">
+  <a class="steam-action steam-play" href="steam://run/1433340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1433340" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1433340" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -614,6 +656,27 @@
   </div>
 </article>
 
+<article id="game-meta-3372090" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3372090">
+    <img src="../../assets/games/3372090/steam-header.jpg" alt="HELL OF FEAR: Mind Breach" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3372090">🎮 HELL OF FEAR: Mind Breach</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3372090</code></span>
+      <span><strong>Oficial:</strong> HELL OF FEAR: Mind Breach</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3372090">
+  <a class="steam-action steam-play" href="steam://run/3372090" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3372090" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3372090" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-414340" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=414340">
     <img src="../../assets/games/414340/steam-header.jpg" alt="Hellblade: Senua’s Sacrifice" loading="lazy" />
@@ -715,6 +778,27 @@
   <a class="steam-action steam-play" href="steam://run/1608450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1608450" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1608450" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1289310" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1289310">
+    <img src="../../assets/games/1289310/steam-header.jpg" alt="Helltaker" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1289310">🎮 Helltaker</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1289310</code></span>
+      <span><strong>Oficial:</strong> Helltaker</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1289310">
+  <a class="steam-action steam-play" href="steam://run/1289310" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1289310" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1289310" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -946,6 +1030,27 @@
   <a class="steam-action steam-play" href="steam://run/55100" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/55100" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/55100" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1671200" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1671200">
+    <img src="../../assets/games/1671200/steam-header.jpg" alt="Honkai Impact 3rd" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1671200">🎮 Honkai Impact 3rd</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1671200</code></span>
+      <span><strong>Oficial:</strong> Honkai Impact 3rd</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1671200">
+  <a class="steam-action steam-play" href="steam://run/1671200" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1671200" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1671200" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

@@ -1,6 +1,6 @@
 # Juegos — D
 
-> Página alfabética compacta. Contiene **88** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **97** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -68,6 +68,27 @@
   </div>
 </article>
 
+<article id="game-meta-29900" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=29900">
+    <img src="../../assets/games/29900/steam-header.jpg" alt="Dark Sector" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=29900">🎮 Dark Sector</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>29900</code></span>
+      <span><strong>Oficial:</strong> Dark Sector</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="29900">
+  <a class="steam-action steam-play" href="steam://run/29900" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/29900" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/29900" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-570940" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=570940">
     <img src="../../assets/games/570940/steam-header.jpg" alt="DARK SOULS REMASTERED" loading="lazy" />
@@ -106,6 +127,69 @@
   <a class="steam-action steam-play" href="steam://run/262060" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/262060" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/262060" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1940340" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1940340">
+    <img src="../../assets/games/1940340/steam-header.jpg" alt="Darkest Dungeon&#174; II" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1940340">🎮 Darkest Dungeon&#174; II</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1940340</code></span>
+      <span><strong>Oficial:</strong> Darkest Dungeon&#174; II</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1940340">
+  <a class="steam-action steam-play" href="steam://run/1940340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1940340" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1940340" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3064700" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3064700">
+    <img src="../../assets/games/3064700/steam-header.jpg" alt="Darkest Dungeon&#174; II: Mod Tools" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3064700">🎮 Darkest Dungeon&#174; II: Mod Tools</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3064700</code></span>
+      <span><strong>Oficial:</strong> Darkest Dungeon&#174; II: Mod Tools</span>
+      <span><strong>Tipo:</strong> <code>tool</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3064700">
+  <a class="steam-action steam-play" href="steam://run/3064700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3064700" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3064700" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-274520" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=274520">
+    <img src="../../assets/games/274520/steam-header.jpg" alt="Darkwood" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=274520">🎮 Darkwood</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>274520</code></span>
+      <span><strong>Oficial:</strong> Darkwood</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="274520">
+  <a class="steam-action steam-play" href="steam://run/274520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/274520" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/274520" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -614,6 +698,27 @@
   </div>
 </article>
 
+<article id="game-meta-2778430" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2778430">
+    <img src="../../assets/games/2778430/steam-header.jpg" alt="Deconstruction Simulator: Prologue" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2778430">🎮 Deconstruction Simulator: Prologue</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2778430</code></span>
+      <span><strong>Oficial:</strong> Deconstruction Simulator: Prologue</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2778430">
+  <a class="steam-action steam-play" href="steam://run/2778430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2778430" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2778430" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-548430" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=548430">
     <img src="../../assets/games/548430/steam-header.jpg" alt="Deep Rock Galactic" loading="lazy" />
@@ -799,6 +904,27 @@
   <a class="steam-action steam-play" href="steam://run/1590840" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1590840" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1590840" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3301060" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3301060">
+    <img src="../../assets/games/3301060/steam-header.jpg" alt="Desktop Mate" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3301060">🎮 Desktop Mate</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3301060</code></span>
+      <span><strong>Oficial:</strong> Desktop Mate</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3301060">
+  <a class="steam-action steam-play" href="steam://run/3301060" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3301060" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3301060" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1114,6 +1240,27 @@
   <a class="steam-action steam-play" href="steam://run/245300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/245300" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/245300" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1522160" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1522160">
+    <img src="../../assets/games/1522160/steam-header.jpg" alt="Disney Epic Mickey: Rebrushed" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1522160">🎮 Disney Epic Mickey: Rebrushed</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1522160</code></span>
+      <span><strong>Oficial:</strong> Disney Epic Mickey: Rebrushed</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1522160">
+  <a class="steam-action steam-play" href="steam://run/1522160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1522160" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1522160" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1580,6 +1727,27 @@
   </div>
 </article>
 
+<article id="game-meta-2228030" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2228030">
+    <img src="../../assets/games/2228030/steam-header.jpg" alt="Dr. Fetus&#39; Mean Meat Machine" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2228030">🎮 Dr. Fetus&#39; Mean Meat Machine</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2228030</code></span>
+      <span><strong>Oficial:</strong> Dr. Fetus&#39; Mean Meat Machine</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2228030">
+  <a class="steam-action steam-play" href="steam://run/2228030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2228030" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2228030" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1222690" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1222690">
     <img src="../../assets/games/1222690/steam-header.jpg" alt="Dragon Age: Inquisition" loading="lazy" />
@@ -1744,6 +1912,27 @@
   <a class="steam-action steam-play" href="steam://run/1562430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1562430" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1562430" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1070580" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1070580">
+    <img src="../../assets/games/1070580/steam-header.jpg" alt="Drift86" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1070580">🎮 Drift86</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1070580</code></span>
+      <span><strong>Oficial:</strong> Drift86</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1070580">
+  <a class="steam-action steam-play" href="steam://run/1070580" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1070580" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1070580" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

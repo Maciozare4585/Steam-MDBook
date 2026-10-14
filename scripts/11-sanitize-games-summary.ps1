@@ -1,3 +1,12 @@
+<#
+.SYNOPSIS
+    Limpia la sección de juegos dentro de `SUMMARY.md`.
+.DESCRIPTION
+    Evita que el sidebar liste cientos de juegos individuales; conserva la navegación compacta por índice,
+    detalle dinámico, páginas por letra, galería y reportes técnicos.
+.EXAMPLE
+    .\scripts\11-sanitize-games-summary.ps1
+#>
 param(
     [string]$SummaryPath = ".\src\SUMMARY.md",
     [string]$RegistryPath = ".\data\steam-games-registry.json"
@@ -49,6 +58,7 @@ if ($groups.ContainsKey("OTROS")) { $keys.Add("OTROS") }
 
 $letterLines = New-Object System.Collections.Generic.List[string]
 $letterLines.Add("  - [Índice alfabético](07-juegos/index.md)")
+$letterLines.Add("  - [Detalle dinámico de juego](07-juegos/detalle.md)")
 foreach ($key in $keys) {
     $slug = Get-LetterSlug $key
     $letterLines.Add("  - [Juegos — $key](07-juegos/por-letra/$slug.md)")
@@ -64,3 +74,4 @@ $summary = [regex]::Replace($summary, '- \[VII\. Juegos / Metadatos\]\(07-juegos
 Set-Content $SummaryPath $summary -Encoding UTF8
 
 Write-Step "SUMMARY saneado: VII. Juegos / Metadatos compacto por letras."
+

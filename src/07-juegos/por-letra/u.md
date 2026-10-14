@@ -1,6 +1,6 @@
 # Juegos — U
 
-> Página alfabética compacta. Contiene **15** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **17** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -43,6 +43,27 @@
   <a class="steam-action steam-play" href="steam://run/1035510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1035510" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1035510" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3224770" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3224770">
+    <img src="../../assets/games/3224770/steam-header.jpg" alt="Umamusume: Pretty Derby" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3224770">🎮 Umamusume: Pretty Derby</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3224770</code></span>
+      <span><strong>Oficial:</strong> Umamusume: Pretty Derby</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3224770">
+  <a class="steam-action steam-play" href="steam://run/3224770" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3224770" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3224770" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -295,6 +316,27 @@
   <a class="steam-action steam-play" href="steam://run/837470" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/837470" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/837470" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-304930" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=304930">
+    <img src="../../assets/games/304930/steam-header.jpg" alt="Unturned" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=304930">🎮 Unturned</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>304930</code></span>
+      <span><strong>Oficial:</strong> Unturned</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="304930">
+  <a class="steam-action steam-play" href="steam://run/304930" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/304930" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/304930" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

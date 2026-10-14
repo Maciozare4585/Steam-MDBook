@@ -1,6 +1,6 @@
 # Juegos — K
 
-> Página alfabética compacta. Contiene **19** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **24** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -152,6 +152,27 @@
   </div>
 </article>
 
+<article id="game-meta-699240" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=699240">
+    <img src="../../assets/games/699240/steam-header.jpg" alt="Keyboard Killers" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=699240">🎮 Keyboard Killers</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>699240</code></span>
+      <span><strong>Oficial:</strong> Keyboard Killers</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="699240">
+  <a class="steam-action steam-play" href="steam://run/699240" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/699240" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/699240" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1020330" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1020330">
     <img src="../../assets/games/1020330/steam-header.jpg" alt="Khan VS Kahn" loading="lazy" />
@@ -299,6 +320,27 @@
   </div>
 </article>
 
+<article id="game-meta-1273710" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1273710">
+    <img src="../../assets/games/1273710/steam-header.jpg" alt="King of Crabs" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1273710">🎮 King of Crabs</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1273710</code></span>
+      <span><strong>Oficial:</strong> King of Crabs</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1273710">
+  <a class="steam-action steam-play" href="steam://run/1273710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1273710" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1273710" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-379430" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=379430">
     <img src="../../assets/games/379430/steam-header.jpg" alt="Kingdom Come: Deliverance" loading="lazy" />
@@ -337,6 +379,69 @@
   <a class="steam-action steam-play" href="steam://run/1771300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1771300" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1771300" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2552430" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2552430">
+    <img src="../../assets/games/2552430/steam-header.jpg" alt="KINGDOM HEARTS -HD 1.5+2.5 ReMIX-" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2552430">🎮 KINGDOM HEARTS -HD 1.5+2.5 ReMIX-</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2552430</code></span>
+      <span><strong>Oficial:</strong> KINGDOM HEARTS -HD 1.5+2.5 ReMIX-</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2552430">
+  <a class="steam-action steam-play" href="steam://run/2552430" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2552430" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2552430" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2552440" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2552440">
+    <img src="../../assets/games/2552440/steam-header.jpg" alt="KINGDOM HEARTS HD 2.8 Final Chapter Prologue" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2552440">🎮 KINGDOM HEARTS HD 2.8 Final Chapter Prologue</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2552440</code></span>
+      <span><strong>Oficial:</strong> KINGDOM HEARTS HD 2.8 Final Chapter Prologue</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2552440">
+  <a class="steam-action steam-play" href="steam://run/2552440" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2552440" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2552440" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2552450" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2552450">
+    <img src="../../assets/games/2552450/steam-header.jpg" alt="KINGDOM HEARTS III + Re Mind (DLC)" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2552450">🎮 KINGDOM HEARTS III + Re Mind (DLC)</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2552450</code></span>
+      <span><strong>Oficial:</strong> KINGDOM HEARTS III + Re Mind (DLC)</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2552450">
+  <a class="steam-action steam-play" href="steam://run/2552450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2552450" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2552450" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

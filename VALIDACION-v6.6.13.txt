@@ -1,0 +1,26 @@
+Steam-MDBook V6.6.13 — validación final
+Fecha: 2026-08-17
+
+Auditoría manual contra capturas Steam:
+- 15 batches
+- 93 colecciones corroboradas
+- ZZZ) El Pozo: 190/190
+- ZZZ) MRD: 57/57
+
+Sincronización mdBook:
+- SUMMARY.md: 0 enlaces Markdown faltantes
+- Páginas de colección con conteo: 91 páginas validadas, 0 discrepancias
+- Registry con steamAppId: 1116 entradas, 0 AppID duplicados
+- games-metadata.json: 1116 entradas
+- games-index.json: 1116 entradas
+- steam-image-targets.json: 1116 entradas
+- review-needed: 133 pendientes reales restantes
+
+Nota:
+No se ejecutó `mdbook build` dentro del entorno de entrega porque el binario `mdbook`
+no está instalado en este contenedor. La estructura de SUMMARY y archivos Markdown fue
+validada por rutas y conteos. En Windows, desde la raíz del proyecto:
+
+  mdbook clean
+  mdbook build
+  mdbook serve --open

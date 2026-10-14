@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.steam-mdbook/schemas/game-metadata.schema.json",
+  "title": "Steam MDBook Game Metadata V6.6.6",
+  "type": "object",
+  "required": [
+    "version",
+    "games"
+  ],
+  "properties": {
+    "version": {
+      "type": "string"
+    },
+    "updatedAt": {
+      "type": "string"
+    },
+    "games": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "canonicalId",
+          "steamAppId",
+          "title",
+          "steamMetadata",
+          "playerState",
+          "profileMetadata",
+          "dataQuality"
+        ],
+        "properties": {
+          "canonicalId": {
+            "type": "string"
+          },
+          "steamAppId": {
+            "type": "integer"
+          },
+          "title": {
+            "type": "string"
+          },
+          "officialName": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "type": {
+            "type": "string"
+          },
+          "steamMetadata": {
+            "type": "object"
+          },
+          "playModes": {
+            "type": "object"
+          },
+          "steamFeatures": {
+            "type": "object"
+          },
+          "dlcInfo": {
+            "type": "object"
+          },
+          "playerState": {
+            "type": "object"
+          },
+          "recommendationMetadata": {
+            "type": "object"
+          },
+          "profileMetadata": {
+            "type": "object"
+          },
+          "libraryPlacement": {
+            "type": "object"
+          },
+          "platforms": {
+            "type": "object"
+          },
+          "dataQuality": {
+            "type": "object"
+          }
+        }
+      }
+    }
+  }
+}

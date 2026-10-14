@@ -1,6 +1,6 @@
 # Juegos — I
 
-> Página alfabética compacta. Contiene **15** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **16** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -274,6 +274,27 @@
   <a class="steam-action steam-play" href="steam://run/3631620" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3631620" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3631620" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3771740" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3771740">
+    <img src="../../assets/games/3771740/steam-header.jpg" alt="IQ Under Construction" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3771740">🎮 IQ Under Construction</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3771740</code></span>
+      <span><strong>Oficial:</strong> IQ Under Construction</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3771740">
+  <a class="steam-action steam-play" href="steam://run/3771740" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3771740" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3771740" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

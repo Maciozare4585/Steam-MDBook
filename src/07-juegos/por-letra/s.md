@@ -1,6 +1,6 @@
 # Juegos — S
 
-> Página alfabética compacta. Contiene **103** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **139** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -173,6 +173,27 @@
   </div>
 </article>
 
+<article id="game-meta-1037020" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1037020">
+    <img src="../../assets/games/1037020/steam-header.jpg" alt="ScourgeBringer" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1037020">🎮 ScourgeBringer</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1037020</code></span>
+      <span><strong>Oficial:</strong> ScourgeBringer</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1037020">
+  <a class="steam-action steam-play" href="steam://run/1037020" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1037020" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1037020" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-3257000" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=3257000">
     <img src="../../assets/games/3257000/steam-header.jpg" alt="SCP: Containment Breach 2" loading="lazy" />
@@ -215,6 +236,27 @@
   </div>
 </article>
 
+<article id="game-meta-4127570" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=4127570">
+    <img src="../../assets/games/4127570/steam-header.jpg" alt="Scramble Knights Online Playtest" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=4127570">🎮 Scramble Knights Online Playtest</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>4127570</code></span>
+      <span><strong>Oficial:</strong> Scramble Knights Online Playtest</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="4127570">
+  <a class="steam-action steam-play" href="steam://run/4127570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/4127570" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/4127570" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-465760" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=465760">
     <img src="../../assets/games/465760/steam-header.jpg" alt="Scrap Garden" loading="lazy" />
@@ -232,6 +274,27 @@
   <a class="steam-action steam-play" href="steam://run/465760" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/465760" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/465760" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-301970" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=301970">
+    <img src="../../assets/games/301970/steam-header.jpg" alt="Screencheat" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=301970">🎮 Screencheat</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>301970</code></span>
+      <span><strong>Oficial:</strong> Screencheat</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="301970">
+  <a class="steam-action steam-play" href="steam://run/301970" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/301970" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/301970" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -635,6 +698,90 @@
   </div>
 </article>
 
+<article id="game-meta-552450" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=552450">
+    <img src="../../assets/games/552450/steam-header.jpg" alt="Serious Sam VR: The First Encounter" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=552450">🎮 Serious Sam VR: The First Encounter</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>552450</code></span>
+      <span><strong>Oficial:</strong> Serious Sam VR: The First Encounter</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="552450">
+  <a class="steam-action steam-play" href="steam://run/552450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/552450" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/552450" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-465240" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=465240">
+    <img src="../../assets/games/465240/steam-header.jpg" alt="Serious Sam VR: The Last Hope" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=465240">🎮 Serious Sam VR: The Last Hope</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>465240</code></span>
+      <span><strong>Oficial:</strong> Serious Sam VR: The Last Hope</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="465240">
+  <a class="steam-action steam-play" href="steam://run/465240" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/465240" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/465240" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-552460" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=552460">
+    <img src="../../assets/games/552460/steam-header.jpg" alt="Serious Sam VR: The Second Encounter" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=552460">🎮 Serious Sam VR: The Second Encounter</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>552460</code></span>
+      <span><strong>Oficial:</strong> Serious Sam VR: The Second Encounter</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="552460">
+  <a class="steam-action steam-play" href="steam://run/552460" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/552460" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/552460" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1792250" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1792250">
+    <img src="../../assets/games/1792250/steam-header.jpg" alt="Serious Sam: Siberian Mayhem" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1792250">🎮 Serious Sam: Siberian Mayhem</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1792250</code></span>
+      <span><strong>Oficial:</strong> Serious Sam: Siberian Mayhem</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1792250">
+  <a class="steam-action steam-play" href="steam://run/1792250" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1792250" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1792250" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-201480" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=201480">
     <img src="../../assets/games/201480/steam-header.jpg" alt="Serious Sam: The Random Encounter" loading="lazy" />
@@ -740,6 +887,48 @@
   </div>
 </article>
 
+<article id="game-meta-345820" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=345820">
+    <img src="../../assets/games/345820/steam-header.jpg" alt="Shantae and the Pirate&#39;s Curse" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=345820">🎮 Shantae and the Pirate&#39;s Curse</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>345820</code></span>
+      <span><strong>Oficial:</strong> Shantae and the Pirate&#39;s Curse</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="345820">
+  <a class="steam-action steam-play" href="steam://run/345820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/345820" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/345820" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-764300" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=764300">
+    <img src="../../assets/games/764300/steam-header.jpg" alt="Shantae: Half-Genie Hero Ultimate Edition" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=764300">🎮 Shantae: Half-Genie Hero Ultimate Edition</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>764300</code></span>
+      <span><strong>Oficial:</strong> Shantae: Half-Genie Hero Ultimate Edition</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="764300">
+  <a class="steam-action steam-play" href="steam://run/764300" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/764300" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/764300" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-2835310" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=2835310">
     <img src="../../assets/games/2835310/steam-header.jpg" alt="Sharpshooter" loading="lazy" />
@@ -757,6 +946,48 @@
   <a class="steam-action steam-play" href="steam://run/2835310" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2835310" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2835310" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-326460" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=326460">
+    <img src="../../assets/games/326460/steam-header.jpg" alt="ShellShock Live" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=326460">🎮 ShellShock Live</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>326460</code></span>
+      <span><strong>Oficial:</strong> ShellShock Live</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="326460">
+  <a class="steam-action steam-play" href="steam://run/326460" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/326460" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/326460" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1875830" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1875830">
+    <img src="../../assets/games/1875830/steam-header.jpg" alt="Shin Megami Tensei V: Vengeance" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1875830">🎮 Shin Megami Tensei V: Vengeance</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1875830</code></span>
+      <span><strong>Oficial:</strong> Shin Megami Tensei V: Vengeance</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1875830">
+  <a class="steam-action steam-play" href="steam://run/1875830" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1875830" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1875830" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -887,6 +1118,48 @@
   </div>
 </article>
 
+<article id="game-meta-65980" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=65980">
+    <img src="../../assets/games/65980/steam-header.jpg" alt="Sid Meier&#39;s Civilization: Beyond Earth" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=65980">🎮 Sid Meier&#39;s Civilization: Beyond Earth</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>65980</code></span>
+      <span><strong>Oficial:</strong> Sid Meier&#39;s Civilization: Beyond Earth</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="65980">
+  <a class="steam-action steam-play" href="steam://run/65980" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/65980" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/65980" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-282210" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=282210">
+    <img src="../../assets/games/282210/steam-header.jpg" alt="Sid Meier&#39;s Starships" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=282210">🎮 Sid Meier&#39;s Starships</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>282210</code></span>
+      <span><strong>Oficial:</strong> Sid Meier&#39;s Starships</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="282210">
+  <a class="steam-action steam-play" href="steam://run/282210" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/282210" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/282210" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-2138710" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=2138710">
     <img src="../../assets/games/2138710/steam-header.jpg" alt="Sifu" loading="lazy" />
@@ -904,6 +1177,27 @@
   <a class="steam-action steam-play" href="steam://run/2138710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2138710" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2138710" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1262350" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1262350">
+    <img src="../../assets/games/1262350/steam-header.jpg" alt="SIGNALIS" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1262350">🎮 SIGNALIS</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1262350</code></span>
+      <span><strong>Oficial:</strong> SIGNALIS</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1262350">
+  <a class="steam-action steam-play" href="steam://run/1262350" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1262350" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1262350" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -967,6 +1261,27 @@
   <a class="steam-action steam-play" href="steam://run/3362870" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3362870" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3362870" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-308600" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=308600">
+    <img src="../../assets/games/308600/steam-header.jpg" alt="Skillshot City" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=308600">🎮 Skillshot City</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>308600</code></span>
+      <span><strong>Oficial:</strong> Skillshot City</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="308600">
+  <a class="steam-action steam-play" href="steam://run/308600" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/308600" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/308600" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1097,6 +1412,48 @@
   </div>
 </article>
 
+<article id="game-meta-386360" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=386360">
+    <img src="../../assets/games/386360/steam-header.jpg" alt="SMITE" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=386360">🎮 SMITE</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>386360</code></span>
+      <span><strong>Oficial:</strong> SMITE</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="386360">
+  <a class="steam-action steam-play" href="steam://run/386360" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/386360" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/386360" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-858460" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=858460">
+    <img src="../../assets/games/858460/steam-header.jpg" alt="SMITE - Public Test" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=858460">🎮 SMITE - Public Test</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>858460</code></span>
+      <span><strong>Oficial:</strong> SMITE - Public Test</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="858460">
+  <a class="steam-action steam-play" href="steam://run/858460" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/858460" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/858460" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-740240" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=740240">
     <img src="../../assets/games/740240/steam-header.jpg" alt="Snake Eyes Dungeon" loading="lazy" />
@@ -1114,6 +1471,90 @@
   <a class="steam-action steam-play" href="steam://run/740240" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/740240" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/740240" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-312660" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=312660">
+    <img src="../../assets/games/312660/steam-header.jpg" alt="Sniper Elite 4" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=312660">🎮 Sniper Elite 4</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>312660</code></span>
+      <span><strong>Oficial:</strong> Sniper Elite 4</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="312660">
+  <a class="steam-action steam-play" href="steam://run/312660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/312660" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/312660" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1029690" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1029690">
+    <img src="../../assets/games/1029690/steam-header.jpg" alt="Sniper Elite 5" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1029690">🎮 Sniper Elite 5</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1029690</code></span>
+      <span><strong>Oficial:</strong> Sniper Elite 5</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1029690">
+  <a class="steam-action steam-play" href="steam://run/1029690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1029690" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1029690" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-63380" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=63380">
+    <img src="../../assets/games/63380/steam-header.jpg" alt="Sniper Elite V2" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=63380">🎮 Sniper Elite V2</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>63380</code></span>
+      <span><strong>Oficial:</strong> Sniper Elite V2</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="63380">
+  <a class="steam-action steam-play" href="steam://run/63380" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/63380" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/63380" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-728740" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=728740">
+    <img src="../../assets/games/728740/steam-header.jpg" alt="Sniper Elite V2 Remastered" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=728740">🎮 Sniper Elite V2 Remastered</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>728740</code></span>
+      <span><strong>Oficial:</strong> Sniper Elite V2 Remastered</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="728740">
+  <a class="steam-action steam-play" href="steam://run/728740" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/728740" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/728740" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1177,6 +1618,27 @@
   <a class="steam-action steam-play" href="steam://run/2486820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2486820" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2486820" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2022670" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2022670">
+    <img src="../../assets/games/2022670/steam-header.jpg" alt="Sonic Superstars" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2022670">🎮 Sonic Superstars</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2022670</code></span>
+      <span><strong>Oficial:</strong> Sonic Superstars</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2022670">
+  <a class="steam-action steam-play" href="steam://run/2022670" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2022670" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2022670" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1324,6 +1786,48 @@
   <a class="steam-action steam-play" href="steam://run/1412850" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1412850" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1412850" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2641470" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2641470">
+    <img src="../../assets/games/2641470/steam-header.jpg" alt="Spectre Divide" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2641470">🎮 Spectre Divide</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2641470</code></span>
+      <span><strong>Oficial:</strong> Spectre Divide</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2641470">
+  <a class="steam-action steam-play" href="steam://run/2641470" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2641470" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2641470" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-418530" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=418530">
+    <img src="../../assets/games/418530/steam-header.jpg" alt="Spelunky 2" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=418530">🎮 Spelunky 2</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>418530</code></span>
+      <span><strong>Oficial:</strong> Spelunky 2</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="418530">
+  <a class="steam-action steam-play" href="steam://run/418530" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/418530" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/418530" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1664,6 +2168,27 @@
   </div>
 </article>
 
+<article id="game-meta-2381620" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2381620">
+    <img src="../../assets/games/2381620/steam-header.jpg" alt="Steam Engine Simulator" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2381620">🎮 Steam Engine Simulator</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2381620</code></span>
+      <span><strong>Oficial:</strong> Steam Engine Simulator</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2381620">
+  <a class="steam-action steam-play" href="steam://run/2381620" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2381620" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2381620" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-619700" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=619700">
     <img src="../../assets/games/619700/steam-header.jpg" alt="Steel Rats" loading="lazy" />
@@ -1769,6 +2294,27 @@
   </div>
 </article>
 
+<article id="game-meta-312670" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=312670">
+    <img src="../../assets/games/312670/steam-header.jpg" alt="Strange Brigade" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=312670">🎮 Strange Brigade</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>312670</code></span>
+      <span><strong>Oficial:</strong> Strange Brigade</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="312670">
+  <a class="steam-action steam-play" href="steam://run/312670" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/312670" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/312670" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1332010" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1332010">
     <img src="../../assets/games/1332010/steam-header.jpg" alt="Stray" loading="lazy" />
@@ -1832,6 +2378,27 @@
   </div>
 </article>
 
+<article id="game-meta-1952120" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1952120">
+    <img src="../../assets/games/1952120/steam-header.jpg" alt="Street Fighter™ 6 - Open Beta" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1952120">🎮 Street Fighter™ 6 - Open Beta</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1952120</code></span>
+      <span><strong>Oficial:</strong> Street Fighter™ 6 - Open Beta</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1952120">
+  <a class="steam-action steam-play" href="steam://run/1952120" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1952120" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1952120" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-512900" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=512900">
     <img src="../../assets/games/512900/steam-header.jpg" alt="Streets of Rogue" loading="lazy" />
@@ -1870,6 +2437,48 @@
   <a class="steam-action steam-play" href="steam://run/1282270" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1282270" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1282270" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-264710" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=264710">
+    <img src="../../assets/games/264710/steam-header.jpg" alt="Subnautica" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=264710">🎮 Subnautica</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>264710</code></span>
+      <span><strong>Oficial:</strong> Subnautica</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="264710">
+  <a class="steam-action steam-play" href="steam://run/264710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/264710" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/264710" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-848450" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=848450">
+    <img src="../../assets/games/848450/steam-header.jpg" alt="Subnautica: Below Zero" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=848450">🎮 Subnautica: Below Zero</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>848450</code></span>
+      <span><strong>Oficial:</strong> Subnautica: Below Zero</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="848450">
+  <a class="steam-action steam-play" href="steam://run/848450" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/848450" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/848450" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1958,6 +2567,69 @@
   </div>
 </article>
 
+<article id="game-meta-40800" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=40800">
+    <img src="../../assets/games/40800/steam-header.jpg" alt="Super Meat Boy" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=40800">🎮 Super Meat Boy</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>40800</code></span>
+      <span><strong>Oficial:</strong> Super Meat Boy</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="40800">
+  <a class="steam-action steam-play" href="steam://run/40800" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/40800" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/40800" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-40810" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=40810">
+    <img src="../../assets/games/40810/steam-header.jpg" alt="Super Meat Boy Editor" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=40810">🎮 Super Meat Boy Editor</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>40810</code></span>
+      <span><strong>Oficial:</strong> Super Meat Boy Editor</span>
+      <span><strong>Tipo:</strong> <code>tool</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="40810">
+  <a class="steam-action steam-play" href="steam://run/40810" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/40810" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/40810" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-581660" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=581660">
+    <img src="../../assets/games/581660/steam-header.jpg" alt="Super Meat Boy Forever" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=581660">🎮 Super Meat Boy Forever</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>581660</code></span>
+      <span><strong>Oficial:</strong> Super Meat Boy Forever</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="581660">
+  <a class="steam-action steam-play" href="steam://run/581660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/581660" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/581660" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1560100" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1560100">
     <img src="../../assets/games/1560100/steam-header.jpg" alt="Super Stupid Game" loading="lazy" />
@@ -2021,6 +2693,48 @@
   </div>
 </article>
 
+<article id="game-meta-617830" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=617830">
+    <img src="../../assets/games/617830/steam-header.jpg" alt="SUPERHOT VR" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=617830">🎮 SUPERHOT VR</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>617830</code></span>
+      <span><strong>Oficial:</strong> SUPERHOT VR</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="617830">
+  <a class="steam-action steam-play" href="steam://run/617830" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/617830" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/617830" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-690040" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=690040">
+    <img src="../../assets/games/690040/steam-header.jpg" alt="SUPERHOT: MIND CONTROL DELETE" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=690040">🎮 SUPERHOT: MIND CONTROL DELETE</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>690040</code></span>
+      <span><strong>Oficial:</strong> SUPERHOT: MIND CONTROL DELETE</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="690040">
+  <a class="steam-action steam-play" href="steam://run/690040" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/690040" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/690040" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1049410" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1049410">
     <img src="../../assets/games/1049410/steam-header.jpg" alt="Superliminal" loading="lazy" />
@@ -2059,6 +2773,48 @@
   <a class="steam-action steam-play" href="steam://run/2670630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2670630" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2670630" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2709570" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2709570">
+    <img src="../../assets/games/2709570/steam-header.jpg" alt="Supermarket Together" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2709570">🎮 Supermarket Together</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2709570</code></span>
+      <span><strong>Oficial:</strong> Supermarket Together</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2709570">
+  <a class="steam-action steam-play" href="steam://run/2709570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2709570" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2709570" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-813630" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=813630">
+    <img src="../../assets/games/813630/steam-header.jpg" alt="Supraland" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=813630">🎮 Supraland</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>813630</code></span>
+      <span><strong>Oficial:</strong> Supraland</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="813630">
+  <a class="steam-action steam-play" href="steam://run/813630" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/813630" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/813630" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

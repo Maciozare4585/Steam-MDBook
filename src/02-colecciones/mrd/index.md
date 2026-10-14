@@ -1,4 +1,4 @@
-# 🧊 ZZZ) MRD
+# 🧊 ZZZ) MRD · 57 juegos
 
 `ZZZ) MRD` queda como sección propia de **cuarentena dura / descarte / baja prioridad**.
 

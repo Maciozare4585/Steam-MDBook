@@ -1,6 +1,6 @@
 # Juegos — M
 
-> Página alfabética compacta. Contiene **62** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **70** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -127,6 +127,27 @@
   <a class="steam-action steam-play" href="steam://run/3716600" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3716600" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3716600" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2141910" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2141910">
+    <img src="../../assets/games/2141910/steam-header.jpg" alt="Magic: The Gathering Arena" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2141910">🎮 Magic: The Gathering Arena</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2141910</code></span>
+      <span><strong>Oficial:</strong> Magic: The Gathering Arena</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2141910">
+  <a class="steam-action steam-play" href="steam://run/2141910" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2141910" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2141910" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -488,6 +509,48 @@
   </div>
 </article>
 
+<article id="game-meta-311340" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=311340">
+    <img src="../../assets/games/311340/steam-header.jpg" alt="METAL GEAR SOLID V: GROUND ZEROES" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=311340">🎮 METAL GEAR SOLID V: GROUND ZEROES</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>311340</code></span>
+      <span><strong>Oficial:</strong> METAL GEAR SOLID V: GROUND ZEROES</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="311340">
+  <a class="steam-action steam-play" href="steam://run/311340" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/311340" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/311340" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-287700" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=287700">
+    <img src="../../assets/games/287700/steam-header.jpg" alt="METAL GEAR SOLID V: THE PHANTOM PAIN" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=287700">🎮 METAL GEAR SOLID V: THE PHANTOM PAIN</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>287700</code></span>
+      <span><strong>Oficial:</strong> METAL GEAR SOLID V: THE PHANTOM PAIN</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="287700">
+  <a class="steam-action steam-play" href="steam://run/287700" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/287700" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/287700" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-366250" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=366250">
     <img src="../../assets/games/366250/steam-header.jpg" alt="Metal Slug" loading="lazy" />
@@ -740,6 +803,27 @@
   </div>
 </article>
 
+<article id="game-meta-2669410" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2669410">
+    <img src="../../assets/games/2669410/steam-header.jpg" alt="Metro Awakening" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2669410">🎮 Metro Awakening</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2669410</code></span>
+      <span><strong>Oficial:</strong> Metro Awakening</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2669410">
+  <a class="steam-action steam-play" href="steam://run/2669410" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2669410" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2669410" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-412020" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=412020">
     <img src="../../assets/games/412020/steam-header.jpg" alt="Metro Exodus" loading="lazy" />
@@ -908,6 +992,48 @@
   </div>
 </article>
 
+<article id="game-meta-1875580" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1875580">
+    <img src="../../assets/games/1875580/steam-header.jpg" alt="Mina the Hollower" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1875580">🎮 Mina the Hollower</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1875580</code></span>
+      <span><strong>Oficial:</strong> Mina the Hollower</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1875580">
+  <a class="steam-action steam-play" href="steam://run/1875580" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1875580" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1875580" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1672970" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1672970">
+    <img src="../../assets/games/1672970/steam-header.jpg" alt="Minecraft Dungeons" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1672970">🎮 Minecraft Dungeons</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1672970</code></span>
+      <span><strong>Oficial:</strong> Minecraft Dungeons</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1672970">
+  <a class="steam-action steam-play" href="steam://run/1672970" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1672970" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1672970" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-481870" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=481870">
     <img src="../../assets/games/481870/steam-header.jpg" alt="Mini Thief" loading="lazy" />
@@ -925,6 +1051,27 @@
   <a class="steam-action steam-play" href="steam://run/481870" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/481870" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/481870" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-489520" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=489520">
+    <img src="../../assets/games/489520/steam-header.jpg" alt="Minion Masters" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=489520">🎮 Minion Masters</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>489520</code></span>
+      <span><strong>Oficial:</strong> Minion Masters</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="489520">
+  <a class="steam-action steam-play" href="steam://run/489520" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/489520" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/489520" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1051,6 +1198,27 @@
   <a class="steam-action steam-play" href="steam://run/2350790" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2350790" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2350790" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1035110" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1035110">
+    <img src="../../assets/games/1035110/steam-header.jpg" alt="Moonrise Fall" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1035110">🎮 Moonrise Fall</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1035110</code></span>
+      <span><strong>Oficial:</strong> Moonrise Fall</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1035110">
+  <a class="steam-action steam-play" href="steam://run/1035110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1035110" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1035110" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

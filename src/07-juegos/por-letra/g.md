@@ -1,10 +1,31 @@
 # Juegos — G
 
-> Página alfabética compacta. Contiene **35** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **46** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
+<article id="game-meta-3892270" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3892270">
+    <img src="../../assets/games/3892270/steam-header.jpg" alt="Gamble With Your Friends" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3892270">🎮 Gamble With Your Friends</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3892270</code></span>
+      <span><strong>Oficial:</strong> Gamble With Your Friends</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3892270">
+  <a class="steam-action steam-play" href="steam://run/3892270" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3892270" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3892270" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-239820" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=239820">
     <img src="../../assets/games/239820/steam-header.jpg" alt="Game Dev Tycoon" loading="lazy" />
@@ -68,6 +89,27 @@
   </div>
 </article>
 
+<article id="game-meta-1085510" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1085510">
+    <img src="../../assets/games/1085510/steam-header.jpg" alt="Garfield Kart - Furious Racing" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1085510">🎮 Garfield Kart - Furious Racing</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1085510</code></span>
+      <span><strong>Oficial:</strong> Garfield Kart - Furious Racing</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1085510">
+  <a class="steam-action steam-play" href="steam://run/1085510" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1085510" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1085510" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1990740" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1990740">
     <img src="../../assets/games/1990740/steam-header.jpg" alt="Garro GT" loading="lazy" />
@@ -106,6 +148,69 @@
   <a class="steam-action steam-play" href="steam://run/4000" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/4000" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/4000" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-916730" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=916730">
+    <img src="../../assets/games/916730/steam-header.jpg" alt="Gato Roboto" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=916730">🎮 Gato Roboto</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>916730</code></span>
+      <span><strong>Oficial:</strong> Gato Roboto</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="916730">
+  <a class="steam-action steam-play" href="steam://run/916730" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/916730" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/916730" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1097840" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1097840">
+    <img src="../../assets/games/1097840/steam-header.jpg" alt="Gears 5" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1097840">🎮 Gears 5</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1097840</code></span>
+      <span><strong>Oficial:</strong> Gears 5</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1097840">
+  <a class="steam-action steam-play" href="steam://run/1097840" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1097840" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1097840" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2523720" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2523720">
+    <img src="../../assets/games/2523720/steam-header.jpg" alt="Gears of War: Reloaded" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2523720">🎮 Gears of War: Reloaded</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2523720</code></span>
+      <span><strong>Oficial:</strong> Gears of War: Reloaded</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2523720">
+  <a class="steam-action steam-play" href="steam://run/2523720" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2523720" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2523720" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -362,6 +467,48 @@
   </div>
 </article>
 
+<article id="game-meta-12230" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=12230">
+    <img src="../../assets/games/12230/steam-header.jpg" alt="Grand Theft Auto III (macOS)" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=12230">🎮 Grand Theft Auto III (macOS)</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>12230</code></span>
+      <span><strong>Oficial:</strong> Grand Theft Auto III (macOS)</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="12230">
+  <a class="steam-action steam-play" href="steam://run/12230" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/12230" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/12230" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-12250" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=12250">
+    <img src="../../assets/games/12250/steam-header.jpg" alt="Grand Theft Auto: San Andreas (macOS)" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=12250">🎮 Grand Theft Auto: San Andreas (macOS)</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>12250</code></span>
+      <span><strong>Oficial:</strong> Grand Theft Auto: San Andreas (macOS)</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="12250">
+  <a class="steam-action steam-play" href="steam://run/12250" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/12250" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/12250" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-12110" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=12110">
     <img src="../../assets/games/12110/steam-header.jpg" alt="Grand Theft Auto: Vice City" loading="lazy" />
@@ -379,6 +526,27 @@
   <a class="steam-action steam-play" href="steam://run/12110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/12110" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/12110" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-12240" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=12240">
+    <img src="../../assets/games/12240/steam-header.jpg" alt="Grand Theft Auto: Vice City (macOS)" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=12240">🎮 Grand Theft Auto: Vice City (macOS)</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>12240</code></span>
+      <span><strong>Oficial:</strong> Grand Theft Auto: Vice City (macOS)</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="12240">
+  <a class="steam-action steam-play" href="steam://run/12240" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/12240" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/12240" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -421,6 +589,27 @@
   <a class="steam-action steam-play" href="steam://run/599140" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/599140" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/599140" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-858710" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=858710">
+    <img src="../../assets/games/858710/steam-header.jpg" alt="Gravity Circuit" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=858710">🎮 Gravity Circuit</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>858710</code></span>
+      <span><strong>Oficial:</strong> Gravity Circuit</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="858710">
+  <a class="steam-action steam-play" href="steam://run/858710" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/858710" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/858710" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -635,6 +824,27 @@
   </div>
 </article>
 
+<article id="game-meta-275390" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=275390">
+    <img src="../../assets/games/275390/steam-header.jpg" alt="Guacamelee! Super Turbo Championship Edition" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=275390">🎮 Guacamelee! Super Turbo Championship Edition</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>275390</code></span>
+      <span><strong>Oficial:</strong> Guacamelee! Super Turbo Championship Edition</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="275390">
+  <a class="steam-action steam-play" href="steam://run/275390" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/275390" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/275390" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1284210" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1284210">
     <img src="../../assets/games/1284210/steam-header.jpg" alt="Guild Wars 2" loading="lazy" />
@@ -673,6 +883,27 @@
   <a class="steam-action steam-play" href="steam://run/1384160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/1384160" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/1384160" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1580180" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1580180">
+    <img src="../../assets/games/1580180/steam-header.jpg" alt="Gunbrella" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1580180">🎮 Gunbrella</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1580180</code></span>
+      <span><strong>Oficial:</strong> Gunbrella</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1580180">
+  <a class="steam-action steam-play" href="steam://run/1580180" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1580180" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1580180" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

@@ -1,6 +1,6 @@
 # Juegos — F
 
-> Página alfabética compacta. Contiene **32** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **36** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -211,6 +211,27 @@
   <a class="steam-action steam-play" href="steam://run/377160" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/377160" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/377160" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-611660" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=611660">
+    <img src="../../assets/games/611660/steam-header.jpg" alt="Fallout 4 VR" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=611660">🎮 Fallout 4 VR</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>611660</code></span>
+      <span><strong>Oficial:</strong> Fallout 4 VR</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="611660">
+  <a class="steam-action steam-play" href="steam://run/611660" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/611660" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/611660" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -530,6 +551,27 @@
   </div>
 </article>
 
+<article id="game-meta-732690" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=732690">
+    <img src="../../assets/games/732690/steam-header.jpg" alt="FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=732690">🎮 FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>732690</code></span>
+      <span><strong>Oficial:</strong> FIVE NIGHTS AT FREDDY&#39;S: HELP WANTED</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="732690">
+  <a class="steam-action steam-play" href="steam://run/732690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/732690" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/732690" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-1799370" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=1799370">
     <img src="../../assets/games/1799370/steam-header.jpg" alt="Flash Party" loading="lazy" />
@@ -635,6 +677,27 @@
   </div>
 </article>
 
+<article id="game-meta-883680" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=883680">
+    <img src="../../assets/games/883680/steam-header.jpg" alt="Four Kings One War" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=883680">🎮 Four Kings One War</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>883680</code></span>
+      <span><strong>Oficial:</strong> Four Kings One War</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="883680">
+  <a class="steam-action steam-play" href="steam://run/883680" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/883680" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/883680" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-2021910" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=2021910">
     <img src="../../assets/games/2021910/steam-header.jpg" alt="FPS Chess" loading="lazy" />
@@ -673,6 +736,27 @@
   <a class="steam-action steam-play" href="steam://run/2943650" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2943650" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2943650" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-486780" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=486780">
+    <img src="../../assets/games/486780/steam-header.jpg" alt="Fruit Ninja VR" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=486780">🎮 Fruit Ninja VR</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>486780</code></span>
+      <span><strong>Oficial:</strong> Fruit Ninja VR</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="486780">
+  <a class="steam-action steam-play" href="steam://run/486780" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/486780" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/486780" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

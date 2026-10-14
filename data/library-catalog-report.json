@@ -1,0 +1,14 @@
+{
+  "version": "6.6.12",
+  "updatedAt": "2026-10-13T22:26:08.0463320-06:00",
+  "registryEntries": 1116,
+  "targetEntries": 1116,
+  "markdownEntries": 1162,
+  "externalEntries": 34,
+  "catalogTotal": 1207,
+  "resolvedSteam": 1116,
+  "unresolvedOrCatalogOnly": 91,
+  "externalOrNoSteam": 34,
+  "output": ".\\data\\library-catalog.json",
+  "publicOutput": ".\\src\\assets\\data\\library-catalog.json"
+}

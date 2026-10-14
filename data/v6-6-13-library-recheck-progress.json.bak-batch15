@@ -1,0 +1,1902 @@
+{
+  "version": "6.6.13-work-in-progress",
+  "purpose": "Repaso contra capturas actuales de colecciones Steam y alta de adquisiciones faltantes",
+  "batches": [
+    {
+      "batch": 1,
+      "collections": {
+        "Age of Empires": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "Arcade / Casual": {
+          "screenshotCount": 28,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Keyboard Killers",
+              "steamAppId": 699240
+            },
+            {
+              "action": "add",
+              "title": "Pinball FX Classic",
+              "steamAppId": 442120
+            },
+            {
+              "action": "add",
+              "title": "Pinball Storm: Lokanta",
+              "steamAppId": 2642570
+            },
+            {
+              "action": "add",
+              "title": "Tetris® Effect: Connected",
+              "steamAppId": 1003590
+            },
+            {
+              "action": "add",
+              "title": "TouHou Makuka Sai ~ Fantastic Danmaku Festival",
+              "steamAppId": 882710
+            }
+          ]
+        },
+        "Assassin's Creed": {
+          "screenshotCount": 5,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "remove_from_collection",
+              "title": "Assassin’s Creed II",
+              "note": "La captura actual de Steam no lo muestra dentro de esta colección; no se elimina del catálogo global."
+            },
+            {
+              "action": "add",
+              "title": "Assassin’s Creed Valhalla",
+              "steamAppId": 2208920
+            }
+          ]
+        },
+        "Batman": {
+          "screenshotCount": 6,
+          "status": "match",
+          "changes": []
+        },
+        "Battlefield": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": []
+        },
+        "BioShock": {
+          "screenshotCount": 5,
+          "status": "match",
+          "changes": []
+        }
+      }
+    },
+    {
+      "batch": 2,
+      "collections": {
+        "Borderlands": {
+          "screenshotCount": 9,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "Nueva entrega de New Tales from the Borderlands",
+              "catalogTitle": "New Tales from the Borderlands",
+              "steamAppId": 1454970,
+              "note": "Mismo juego; diferencia de localización del cliente Steam."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Tiny Tina’s Wonderlands",
+              "steamAppId": 1286680,
+              "note": "No aparece en la colección actual; no se elimina del catálogo global."
+            },
+            {
+              "action": "add",
+              "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+              "steamAppId": 1712840,
+              "screenshotTitle": "Tina Chiquitina asalta la mazmorra del dragón: una aventura única"
+            }
+          ]
+        },
+        "Campaña": {
+          "screenshotCount": 45,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Cyberpunk 2077",
+              "steamAppId": 1091500
+            },
+            {
+              "action": "add",
+              "title": "OCTOPATH TRAVELER II",
+              "steamAppId": 1971650
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Horizon Zero Dawn Complete Edition",
+              "note": "No aparece en la captura actual."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Horizon Zero Dawn Remastered",
+              "note": "No aparece en la captura actual."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Metal Gear Solid Δ: Snake Eater",
+              "note": "No aparece en la captura actual."
+            }
+          ]
+        },
+        "Carreras": {
+          "screenshotCount": 14,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "rename_in_collection",
+              "from": "Garro GT",
+              "to": "Barro GT",
+              "steamAppId": 1990740,
+              "note": "El AppID ya apuntaba a Barro GT; se corrige el typo del título."
+            },
+            {
+              "action": "add",
+              "title": "Drift86",
+              "steamAppId": 1070580
+            },
+            {
+              "action": "replace_title",
+              "from": "Garfield Kart",
+              "fromSteamAppId": 362930,
+              "to": "Garfield Kart - Furious Racing",
+              "steamAppId": 1085510,
+              "note": "La captura corresponde al juego Furious Racing, no al Garfield Kart original."
+            },
+            {
+              "action": "add",
+              "title": "Wreckfest",
+              "steamAppId": 228380
+            }
+          ]
+        },
+        "Chill / Relax": {
+          "screenshotCount": 13,
+          "status": "match",
+          "changes": []
+        }
+      }
+    },
+    {
+      "batch": 3,
+      "collections": {
+        "Company of Heroes": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "Counter Strike": {
+          "screenshotCount": 5,
+          "status": "match",
+          "changes": [],
+          "note": "La colección visible en Steam se llama “Counter Strike”; el MDBook conserva “Counter-Strike” como nombre canónico de la saga."
+        },
+        "Cozy / Farming / Vida tranquila": {
+          "screenshotCount": 8,
+          "status": "match",
+          "changes": [
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "Spiritfarer®: Edición Farewell",
+              "catalogTitle": "Spiritfarer",
+              "note": "Mismo juego; diferencia de nombre/localización mostrada por Steam."
+            }
+          ]
+        },
+        "Crysis": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "Dead Island": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": []
+        },
+        "Dead Rising": {
+          "screenshotCount": 5,
+          "status": "match",
+          "changes": []
+        },
+        "Dead Space": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "Deus Ex": {
+          "screenshotCount": 2,
+          "status": "match",
+          "changes": []
+        },
+        "Dishonored": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "DMC": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": [],
+          "note": "Steam usa “DMC”; el MDBook conserva “DMC / Devil May Cry” como nombre descriptivo de la saga."
+        },
+        "DOOM": {
+          "screenshotCount": 8,
+          "status": "match",
+          "changes": []
+        },
+        "Dragon Ball": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": []
+        },
+        "Dying Light": {
+          "screenshotCount": 2,
+          "status": "match",
+          "changes": []
+        },
+        "Estrategia": {
+          "screenshotCount": 21,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Crusader Kings II",
+              "steamAppId": 203770
+            },
+            {
+              "action": "add",
+              "title": "Four Kings One War",
+              "steamAppId": 883680
+            },
+            {
+              "action": "add",
+              "title": "Minion Masters",
+              "steamAppId": 489520
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "The Lamplighters League",
+              "steamAppId": 1167750,
+              "note": "No aparece en la colección actual de Steam; no se elimina del catálogo global y conserva su clasificación Táctico por turnos."
+            }
+          ]
+        },
+        "Etrian Odyssey": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        }
+      }
+    },
+    {
+      "batch": 4,
+      "collections": {
+        "F.E.A.R.": {
+          "screenshotCount": 5,
+          "status": "match",
+          "changes": []
+        },
+        "Fallout": {
+          "screenshotCount": 7,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "remove_from_collection",
+              "title": "Fallout 2",
+              "note": "No aparece en la colección actual de Steam; no se elimina del catálogo global/externos."
+            },
+            {
+              "action": "add",
+              "title": "Fallout 4 VR",
+              "steamAppId": 611660
+            }
+          ]
+        },
+        "FATE": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": []
+        },
+        "Final Fantasy VII": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": []
+        },
+        "Gestión": {
+          "screenshotCount": 11,
+          "status": "match",
+          "changes": []
+        },
+        "God of War": {
+          "screenshotCount": 2,
+          "status": "match",
+          "changes": []
+        },
+        "Grind / Loot / Progreso": {
+          "screenshotCount": 12,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Minecraft Dungeons",
+              "steamAppId": 1672970
+            }
+          ]
+        },
+        "GTA": {
+          "screenshotCount": 6,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "platform_duplicate_identified",
+              "screenshotTitle": "Grand Theft Auto III",
+              "windowsSteamAppId": 12100,
+              "macosSteamAppId": 12230,
+              "catalogMacTitle": "Grand Theft Auto III (macOS)",
+              "note": "Los dos renglones visibles corresponden a las apps Windows y macOS del clásico, no a The Definitive Edition."
+            },
+            {
+              "action": "platform_duplicate_identified",
+              "screenshotTitle": "Grand Theft Auto: San Andreas",
+              "windowsSteamAppId": 12120,
+              "macosSteamAppId": 12250,
+              "catalogMacTitle": "Grand Theft Auto: San Andreas (macOS)",
+              "note": "Los dos renglones visibles corresponden a las apps Windows y macOS del clásico."
+            },
+            {
+              "action": "platform_duplicate_identified",
+              "screenshotTitle": "Grand Theft Auto: Vice City",
+              "windowsSteamAppId": 12110,
+              "macosSteamAppId": 12240,
+              "catalogMacTitle": "Grand Theft Auto: Vice City (macOS)",
+              "note": "Los dos renglones visibles corresponden a las apps Windows y macOS del clásico."
+            }
+          ]
+        },
+        "Half-Life": {
+          "screenshotCount": 14,
+          "status": "match",
+          "changes": []
+        },
+        "Halo": {
+          "screenshotCount": 6,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Halo: Campaign Evolved",
+              "steamAppId": 2806050,
+              "screenshotTitle": "Halo: Campaign Evolved - Actualización en cola"
+            }
+          ]
+        },
+        "Hitman": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "Horizon": {
+          "screenshotCount": 3,
+          "status": "new_collection",
+          "changes": [
+            {
+              "action": "create_collection",
+              "title": "Horizon"
+            },
+            {
+              "action": "add",
+              "title": "Horizon Forbidden West Complete Edition",
+              "steamAppId": 2420110,
+              "screenshotTitle": "Edición Completa de Horizon Forbidden West™"
+            },
+            {
+              "action": "add",
+              "title": "Horizon Zero Dawn Complete Edition",
+              "steamAppId": 1151640,
+              "screenshotTitle": "Horizon Zero Dawn™ Complete Edition"
+            },
+            {
+              "action": "add",
+              "title": "Horizon Zero Dawn Remastered",
+              "steamAppId": 2561580,
+              "screenshotTitle": "Horizon Zero Dawn™ remasterizado"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "batch": 5,
+      "collections": {
+        "Internet Persistente": {
+          "screenshotCount": 81,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "source_inconsistency_fixed",
+              "oldHeaderCount": 59,
+              "oldRowCount": 60,
+              "newCount": 81,
+              "note": "La fuente ya estaba desfasada internamente antes de esta captura: el encabezado decía 59, pero había 60 filas."
+            },
+            {
+              "action": "add",
+              "title": "33 Immortals",
+              "steamAppId": 958520
+            },
+            {
+              "action": "add",
+              "title": "Angels Fall First",
+              "steamAppId": 367270
+            },
+            {
+              "action": "add",
+              "title": "BLOODSTRIKE",
+              "steamAppId": 3199170
+            },
+            {
+              "action": "add",
+              "title": "BROKE PROTOCOL",
+              "steamAppId": 696370
+            },
+            {
+              "action": "add",
+              "title": "Blue Protocol: Star Resonance",
+              "steamAppId": 3681810
+            },
+            {
+              "action": "add",
+              "title": "Endix",
+              "steamAppId": 4356840
+            },
+            {
+              "action": "add",
+              "title": "FragPunk",
+              "steamAppId": 2943650
+            },
+            {
+              "action": "add",
+              "title": "Honkai Impact 3rd",
+              "steamAppId": 1671200
+            },
+            {
+              "action": "add",
+              "title": "Magic: The Gathering Arena",
+              "steamAppId": 2141910
+            },
+            {
+              "action": "add",
+              "title": "NTE: Neverness to Everness",
+              "steamAppId": 4508340
+            },
+            {
+              "action": "add",
+              "title": "Scramble Knights Online Playtest",
+              "steamAppId": 4127570
+            },
+            {
+              "action": "add",
+              "title": "Skillshot City",
+              "steamAppId": 308600
+            },
+            {
+              "action": "add",
+              "title": "SMITE",
+              "steamAppId": 386360
+            },
+            {
+              "action": "add",
+              "title": "Team Fortress Classic",
+              "steamAppId": 20
+            },
+            {
+              "action": "add",
+              "title": "The Division Resurgence",
+              "steamAppId": 3749720
+            },
+            {
+              "action": "add",
+              "title": "THE FINALS",
+              "steamAppId": 2073850
+            },
+            {
+              "action": "add",
+              "title": "Transformice",
+              "steamAppId": 335240
+            },
+            {
+              "action": "add",
+              "title": "Umamusume: Pretty Derby",
+              "steamAppId": 3224770
+            },
+            {
+              "action": "add",
+              "title": "Unturned",
+              "steamAppId": 304930
+            },
+            {
+              "action": "add",
+              "title": "Wild Terra 2: New Lands",
+              "steamAppId": 1134700
+            },
+            {
+              "action": "add",
+              "title": "World War Z",
+              "steamAppId": 699130
+            },
+            {
+              "action": "add",
+              "title": "Wuthering Waves",
+              "steamAppId": 3513350
+            },
+            {
+              "action": "add",
+              "title": "Zenless Zone Zero",
+              "steamAppId": 4162040
+            },
+            {
+              "action": "rename_in_collection",
+              "from": "STALCRAFT: X",
+              "to": "STALZONE",
+              "steamAppId": 1818450,
+              "note": "Es la misma aplicación de Steam; el producto fue renombrado."
+            },
+            {
+              "action": "rename_in_collection",
+              "from": "PUBG",
+              "to": "PUBG: BATTLEGROUNDS",
+              "steamAppId": 578080
+            },
+            {
+              "action": "rename_in_collection",
+              "from": "Suicide Squad",
+              "to": "Suicide Squad: Kill the Justice League",
+              "steamAppId": 315210
+            },
+            {
+              "action": "rename_in_collection",
+              "from": "SUPER VIVE",
+              "to": "SUPERVIVE",
+              "steamAppId": 1283700
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Yu-Gi-Oh! Duel Links",
+              "note": "No aparece en la captura actual; no se elimina del catálogo global."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Yu-Gi-Oh! Master Duel",
+              "note": "No aparece en la captura actual; no se elimina del catálogo global."
+            }
+          ]
+        },
+        "Kingdom Hearts": {
+          "screenshotCount": 3,
+          "status": "new_collection",
+          "changes": [
+            {
+              "action": "create_collection",
+              "title": "Kingdom Hearts"
+            },
+            {
+              "action": "add",
+              "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+              "steamAppId": 2552430
+            },
+            {
+              "action": "add",
+              "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+              "steamAppId": 2552440
+            },
+            {
+              "action": "add",
+              "title": "KINGDOM HEARTS III + Re Mind (DLC)",
+              "steamAppId": 2552450
+            }
+          ]
+        },
+        "LEGO": {
+          "screenshotCount": 17,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "LEGO Batman: Legacy of the Dark Knight",
+              "steamAppId": 2215200,
+              "screenshotTitle": "LEGO® Batman™: El Legado del Caballero de la Noche"
+            },
+            {
+              "action": "add",
+              "title": "LEGO Harry Potter Collection",
+              "steamAppId": 2950340,
+              "screenshotTitle": "LEGO® Harry Potter™ Collection"
+            }
+          ]
+        },
+        "Little Nightmares": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        }
+      }
+    },
+    {
+      "batch": 6,
+      "collections": {
+        "Mafia": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": [
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "Mafia II (Classic)",
+              "catalogTitle": "Mafia II Classic",
+              "note": "Mismo juego; diferencia de formato del nombre mostrado por Steam."
+            }
+          ]
+        },
+        "Marathon": {
+          "screenshotCount": 3,
+          "status": "new_collection",
+          "changes": [
+            {
+              "action": "create_collection",
+              "title": "Marathon"
+            },
+            {
+              "action": "add",
+              "title": "Classic Marathon",
+              "steamAppId": 2398450
+            },
+            {
+              "action": "add",
+              "title": "Classic Marathon 2",
+              "steamAppId": 2398490
+            },
+            {
+              "action": "add",
+              "title": "Classic Marathon Infinity",
+              "steamAppId": 2398520
+            }
+          ]
+        },
+        "Metal Gear": {
+          "screenshotCount": 3,
+          "status": "new_collection",
+          "changes": [
+            {
+              "action": "create_collection",
+              "title": "Metal Gear"
+            },
+            {
+              "action": "add",
+              "title": "METAL GEAR SOLID V: GROUND ZEROES",
+              "steamAppId": 311340
+            },
+            {
+              "action": "add",
+              "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+              "steamAppId": 287700
+            },
+            {
+              "action": "add",
+              "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+              "steamAppId": 2417610
+            }
+          ]
+        },
+        "Metal Slug": {
+          "screenshotCount": 8,
+          "status": "match",
+          "changes": []
+        },
+        "Metro": {
+          "screenshotCount": 7,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Metro Awakening",
+              "steamAppId": 2669410
+            }
+          ]
+        },
+        "Metroidvania": {
+          "screenshotCount": 19,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Gato Roboto",
+              "steamAppId": 916730
+            },
+            {
+              "action": "replace_title",
+              "from": "Guacamelee!",
+              "fromSteamAppId": 214770,
+              "to": "Guacamelee! Super Turbo Championship Edition",
+              "steamAppId": 275390,
+              "note": "La captura corresponde a STCE; Guacamelee! Gold Edition (214770) es una aplicación distinta."
+            },
+            {
+              "action": "add",
+              "title": "Mina the Hollower",
+              "steamAppId": 1875580
+            },
+            {
+              "action": "add",
+              "title": "Prince of Persia The Lost Crown",
+              "steamAppId": 2751000
+            },
+            {
+              "action": "add",
+              "title": "Shantae and the Pirate's Curse",
+              "steamAppId": 345820
+            },
+            {
+              "action": "add",
+              "title": "Shantae: Half-Genie Hero Ultimate Edition",
+              "steamAppId": 764300
+            }
+          ]
+        },
+        "Monster Hunter": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "Mortal Kombat": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "Música / Ritmo": {
+          "screenshotCount": 7,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Dead as Disco",
+              "steamAppId": 3404260
+            }
+          ]
+        },
+        "Narrativos / Experiencia": {
+          "screenshotCount": 37,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Bramble: The Mountain King",
+              "steamAppId": 1623940
+            },
+            {
+              "action": "add",
+              "title": "The Life and Suffering of Sir Brante",
+              "steamAppId": 1272160
+            },
+            {
+              "action": "add",
+              "title": "The Red Lantern",
+              "steamAppId": 1053710
+            },
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "Spiritfarer®: Edición Farewell",
+              "catalogTitle": "Spiritfarer",
+              "note": "Mismo juego; diferencia de edición/localización mostrada por Steam."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "batch": 7,
+      "collections": {
+        "Naruto": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": []
+        },
+        "NieR": {
+          "screenshotCount": 2,
+          "status": "match",
+          "changes": [
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "NieR Replicant ver.1.22474487139...",
+              "catalogTitle": "NieR Replicant",
+              "steamAppId": 1113560,
+              "note": "Misma aplicación; la captura muestra el título comercial largo truncado por el ancho de Steam."
+            },
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "NieR:Automata™",
+              "catalogTitle": "NieR:Automata",
+              "steamAppId": 524220,
+              "note": "Misma aplicación; solo cambia la marca registrada mostrada por Steam."
+            }
+          ]
+        },
+        "Ori": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "PAC-MAN": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": [
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "PAC-MAN™ CHAMPIONSHIP EDITION 2",
+              "catalogTitle": "PAC-MAN Championship Edition 2",
+              "note": "Mismo juego; diferencia de marca registrada/capitalización."
+            },
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "PAC-MAN MUSEUM+",
+              "catalogTitle": "PAC-MAN Museum+",
+              "note": "Mismo juego; diferencia de capitalización."
+            }
+          ]
+        },
+        "Peleas": {
+          "screenshotCount": 16,
+          "status": "match",
+          "changes": []
+        },
+        "Persona": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": []
+        },
+        "Plataformas": {
+          "screenshotCount": 30,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Disney Epic Mickey: Rebrushed",
+              "steamAppId": 1522160
+            },
+            {
+              "action": "add",
+              "title": "Gravity Circuit",
+              "steamAppId": 858710
+            },
+            {
+              "action": "add",
+              "title": "Gunbrella",
+              "steamAppId": 1580180
+            },
+            {
+              "action": "add",
+              "title": "Spelunky 2",
+              "steamAppId": 418530
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado para coincidir con la captura actual de Steam."
+            }
+          ]
+        },
+        "Portal": {
+          "screenshotCount": 5,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Portal with RTX",
+              "steamAppId": 2012840
+            }
+          ]
+        }
+      }
+    },
+    {
+      "batch": 8,
+      "collections": {
+        "Puzzle / Ingenio": {
+          "screenshotCount": 38,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Eets",
+              "steamAppId": 6100
+            },
+            {
+              "action": "add",
+              "title": "Fireboy & Watergirl: Fairy Tales",
+              "steamAppId": 1781350
+            },
+            {
+              "action": "add",
+              "title": "Helltaker",
+              "steamAppId": 1289310
+            },
+            {
+              "action": "add",
+              "title": "IQ Under Construction",
+              "steamAppId": 3771740
+            },
+            {
+              "action": "add",
+              "title": "Moonrise Fall",
+              "steamAppId": 1035110
+            },
+            {
+              "action": "add",
+              "title": "Pure Logic",
+              "steamAppId": 1861500
+            },
+            {
+              "action": "add",
+              "title": "Supraland",
+              "steamAppId": 813630
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado para coincidir con la captura actual de Steam."
+            }
+          ]
+        },
+        "Resident Evil": {
+          "screenshotCount": 15,
+          "status": "match",
+          "changes": []
+        },
+        "Roguelike / Roguelite": {
+          "screenshotCount": 39,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "33 Immortals",
+              "steamAppId": 958520
+            },
+            {
+              "action": "add",
+              "title": "Absolum",
+              "steamAppId": 1904480
+            },
+            {
+              "action": "add",
+              "title": "Children of Morta",
+              "steamAppId": 330020
+            },
+            {
+              "action": "add",
+              "title": "Ember Knights",
+              "steamAppId": 1135230
+            },
+            {
+              "action": "add",
+              "title": "Rabbit and Steel",
+              "steamAppId": 2132850
+            },
+            {
+              "action": "add",
+              "title": "Ravenswatch",
+              "steamAppId": 2071280
+            },
+            {
+              "action": "add",
+              "title": "ScourgeBringer",
+              "steamAppId": 1037020
+            },
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "Darkest Dungeon®",
+              "catalogTitle": "Darkest Dungeon",
+              "note": "Misma aplicación; la captura muestra la marca registrada."
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado para coincidir con la captura actual de Steam."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "batch": 9,
+      "collections": {
+        "RPG": {
+          "screenshotCount": 11,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Catgirl",
+              "steamAppId": 3569430
+            },
+            {
+              "action": "add",
+              "title": "Shin Megami Tensei V: Vengeance",
+              "steamAppId": 1875830
+            },
+            {
+              "action": "rename_in_collection",
+              "from": "Sea of Stars",
+              "to": "Sea of Stars: Sunset Edition",
+              "steamAppId": 1244090,
+              "note": "Misma aplicación; Steam cambió el título oficial."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Baldur's Gate 3",
+              "note": "No aparece en la captura actual; no se elimina del catálogo global."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Cyberpunk 2077",
+              "note": "No aparece en la captura actual; no se elimina del catálogo global."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "TheOuterWorldsSpacersChoiceEdition",
+              "note": "No aparece en la captura actual; no se elimina del catálogo global."
+            },
+            {
+              "action": "display_alias_verified",
+              "screenshotTitle": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+              "catalogTitle": "Pathfinder: Wrath of the Righteous",
+              "note": "Misma aplicación; se conserva el nombre canónico interno actual."
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado para coincidir con la captura actual de Steam."
+            }
+          ]
+        },
+        "Serious Sam": {
+          "screenshotCount": 15,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Serious Sam: Siberian Mayhem",
+              "steamAppId": 1792250
+            },
+            {
+              "action": "add",
+              "title": "Serious Sam VR: The First Encounter",
+              "steamAppId": 552450
+            },
+            {
+              "action": "add",
+              "title": "Serious Sam VR: The Last Hope",
+              "steamAppId": 465240
+            },
+            {
+              "action": "add",
+              "title": "Serious Sam VR: The Second Encounter",
+              "steamAppId": 552460
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado para coincidir con la captura actual de Steam."
+            }
+          ]
+        },
+        "Shooter": {
+          "screenshotCount": 66,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Alien Shooter 2 Conscription",
+              "steamAppId": 211010
+            },
+            {
+              "action": "add",
+              "title": "Angels Fall First",
+              "steamAppId": 367270
+            },
+            {
+              "action": "add",
+              "title": "Arabian Gulf",
+              "steamAppId": 3744480
+            },
+            {
+              "action": "rename_in_collection",
+              "from": "Arma: Cold War Assault",
+              "to": "Arma: Cold War Assault Remastered",
+              "steamAppId": 65790,
+              "note": "Misma aplicación; Steam actualizó el título."
+            },
+            {
+              "action": "add",
+              "title": "Binary Domain",
+              "steamAppId": 203750
+            },
+            {
+              "action": "add",
+              "title": "Blackout Z: Slaughterhouse Edition",
+              "steamAppId": 729660
+            },
+            {
+              "action": "add",
+              "title": "Dark Sector",
+              "steamAppId": 29900
+            },
+            {
+              "action": "add",
+              "title": "Gears 5",
+              "steamAppId": 1097840
+            },
+            {
+              "action": "add",
+              "title": "Gears of War: Reloaded",
+              "steamAppId": 2523720
+            },
+            {
+              "action": "add",
+              "title": "Lost Planet: Extreme Condition",
+              "steamAppId": 6510
+            },
+            {
+              "action": "add",
+              "title": "Prey: Typhon Hunter",
+              "steamAppId": 741820
+            },
+            {
+              "action": "add",
+              "title": "Rising Storm/Red Orchestra 2 Multiplayer",
+              "steamAppId": 35450
+            },
+            {
+              "action": "add",
+              "title": "Spectre Divide",
+              "steamAppId": 2641470
+            },
+            {
+              "action": "replace_title",
+              "from": "S.T.A.L.K.E.R.",
+              "to": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+              "steamAppId": 4500,
+              "note": "Se sustituye el nombre genérico por el título exacto mostrado en Steam."
+            },
+            {
+              "action": "add",
+              "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl - Enhanced Edition",
+              "steamAppId": 2427410
+            },
+            {
+              "action": "add",
+              "title": "Strange Brigade",
+              "steamAppId": 312670
+            },
+            {
+              "action": "add",
+              "title": "Suicide Squad: Kill the Justice League",
+              "steamAppId": 315210
+            },
+            {
+              "action": "add",
+              "title": "Thunder Tier One",
+              "steamAppId": 377300
+            },
+            {
+              "action": "add",
+              "title": "Tom Clancy's Ghost Recon Wildlands",
+              "steamAppId": 460930
+            },
+            {
+              "action": "add",
+              "title": "Yet Another Zombie Defense HD",
+              "steamAppId": 674750
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "SUPERHOT",
+              "note": "No aparece en Shooter; conserva su casa principal Super Hot."
+            },
+            {
+              "action": "normalize_display_titles",
+              "note": "PUBG, The Division 1/2, Wolfenstein II y Zombie Army 4 se actualizaron a sus títulos completos mostrados en Steam."
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado para coincidir con la captura actual de Steam."
+            }
+          ]
+        },
+        "Sid Meier's": {
+          "screenshotCount": 9,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "rename_collection",
+              "from": "Civilization",
+              "to": "Sid Meier's",
+              "note": "La captura actual de Steam agrupa estos títulos bajo Sid Meier’s."
+            },
+            {
+              "action": "add",
+              "title": "Sid Meier's Civilization: Beyond Earth",
+              "steamAppId": 65980
+            },
+            {
+              "action": "add",
+              "title": "Sid Meier's Starships",
+              "steamAppId": 282210
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado para coincidir con la captura actual de Steam."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "batch": 10,
+      "collections": {
+        "Simulator": {
+          "screenshotCount": 26,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "rename_in_collection",
+              "from": "Car Dealer Simulator: Prologue",
+              "to": "Car Dealer Simulator: Prologue - Early Days",
+              "steamAppId": 3115010,
+              "note": "Misma aplicación; se usa el título completo mostrado en Steam."
+            },
+            {
+              "action": "add",
+              "title": "Car Mechanic Simulator 2018",
+              "steamAppId": 645630
+            },
+            {
+              "action": "replace_title",
+              "from": "Construction Simulator: Prologue",
+              "to": "Deconstruction Simulator: Prologue",
+              "steamAppId": 2778430,
+              "note": "La captura actual corresponde a Deconstruction Simulator: Prologue."
+            },
+            {
+              "action": "rename_in_collection",
+              "from": "Microsoft Flight Simulator X",
+              "to": "Microsoft Flight Simulator X: Steam Edition",
+              "steamAppId": 314160,
+              "note": "Misma aplicación; se usa el título completo de Steam."
+            },
+            {
+              "action": "add",
+              "title": "Steam Engine Simulator",
+              "steamAppId": 2381620
+            },
+            {
+              "action": "add",
+              "title": "Supermarket Together",
+              "steamAppId": 2709570
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado para coincidir con la captura actual de Steam."
+            }
+          ]
+        },
+        "Sniper Elite": {
+          "screenshotCount": 4,
+          "status": "new_collection",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Sniper Elite V2",
+              "steamAppId": 63380
+            },
+            {
+              "action": "add",
+              "title": "Sniper Elite 4",
+              "steamAppId": 312660
+            },
+            {
+              "action": "add",
+              "title": "Sniper Elite 5",
+              "steamAppId": 1029690
+            },
+            {
+              "action": "add",
+              "title": "Sniper Elite V2 Remastered",
+              "steamAppId": 728740
+            }
+          ]
+        },
+        "Sonic": {
+          "screenshotCount": 4,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Sonic Superstars",
+              "steamAppId": 2022670
+            }
+          ]
+        },
+        "Souls/Soulslike": {
+          "screenshotCount": 14,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Black Myth: Wukong",
+              "steamAppId": 2358720
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden y presentación ajustados a la captura actual de Steam."
+            }
+          ]
+        },
+        "Spiderman": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": [],
+          "note": "Steam muestra la colección como “SPIDERMAN”; el MDBook conserva “Spider-Man” como nombre canónico."
+        },
+        "Spore": {
+          "screenshotCount": 3,
+          "status": "match",
+          "changes": []
+        },
+        "Super Hot": {
+          "screenshotCount": 3,
+          "status": "new_collection",
+          "changes": [
+            {
+              "action": "add",
+              "title": "SUPERHOT",
+              "steamAppId": 322500
+            },
+            {
+              "action": "add",
+              "title": "SUPERHOT: MIND CONTROL DELETE",
+              "steamAppId": 690040
+            },
+            {
+              "action": "add",
+              "title": "SUPERHOT VR",
+              "steamAppId": 617830
+            }
+          ],
+          "note": "La colección estaba registrada en auditorías previas pero faltaba físicamente en la fuente maestra actual; se reincorpora."
+        },
+        "Supervivencia / Crafting": {
+          "screenshotCount": 26,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Breathedge",
+              "steamAppId": 738520
+            },
+            {
+              "action": "add",
+              "title": "Chernobylite Complete Edition",
+              "steamAppId": 1016800
+            },
+            {
+              "action": "add",
+              "title": "Subnautica",
+              "steamAppId": 264710
+            },
+            {
+              "action": "add",
+              "title": "Subnautica: Below Zero",
+              "steamAppId": 848450
+            },
+            {
+              "action": "add",
+              "title": "Wildmender",
+              "steamAppId": 1599330
+            },
+            {
+              "action": "fix_count",
+              "fromHeader": 23,
+              "fromRows": 21,
+              "to": 26,
+              "note": "La fuente tenía un encabezado desincronizado: decía 23 pero contenía 21 filas."
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado para coincidir con la captura actual de Steam."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "batch": 11,
+      "collections": {
+        "Terror": {
+          "screenshotCount": 34,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Choo-Choo Charles",
+              "steamAppId": 1766740
+            },
+            {
+              "action": "add",
+              "title": "Darkwood",
+              "steamAppId": 274520
+            },
+            {
+              "action": "add",
+              "title": "EMPTY SHELL",
+              "steamAppId": 2243110
+            },
+            {
+              "action": "add",
+              "title": "Happy's Humble Burger Farm",
+              "steamAppId": 1433340
+            },
+            {
+              "action": "add",
+              "title": "HELL OF FEAR: Mind Breach",
+              "steamAppId": 3372090
+            },
+            {
+              "action": "add",
+              "title": "REANIMAL",
+              "steamAppId": 2129530
+            },
+            {
+              "action": "add",
+              "title": "Remothered: Tormented Fathers",
+              "steamAppId": 633360
+            },
+            {
+              "action": "add",
+              "title": "SIGNALIS",
+              "steamAppId": 1262350
+            },
+            {
+              "action": "alias_only",
+              "source": "Inunaki Tunnel",
+              "steamDisplay": "Inunaki Tunnel | 犬鳴トンネル",
+              "note": "Misma aplicación; no se duplica."
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado a la captura actual de Steam."
+            }
+          ]
+        },
+        "The Elder Scrolls": {
+          "screenshotCount": 4,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "The Elder Scrolls V: Skyrim VR",
+              "steamAppId": 611670
+            }
+          ]
+        },
+        "Tomb Raider": {
+          "screenshotCount": 5,
+          "status": "match",
+          "changes": []
+        },
+        "Táctico por turnos": {
+          "screenshotCount": 10,
+          "status": "match",
+          "changes": []
+        },
+        "VR": {
+          "screenshotCount": 26,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Fallout 4 VR",
+              "steamAppId": 611660
+            },
+            {
+              "action": "add",
+              "title": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+              "steamAppId": 732690
+            },
+            {
+              "action": "add",
+              "title": "Fruit Ninja VR",
+              "steamAppId": 486780
+            },
+            {
+              "action": "add",
+              "title": "Metro Awakening",
+              "steamAppId": 2669410
+            },
+            {
+              "action": "add",
+              "title": "Serious Sam VR: The First Encounter",
+              "steamAppId": 552450
+            },
+            {
+              "action": "add",
+              "title": "Serious Sam VR: The Last Hope",
+              "steamAppId": 465240
+            },
+            {
+              "action": "add",
+              "title": "Serious Sam VR: The Second Encounter",
+              "steamAppId": 552460
+            },
+            {
+              "action": "add",
+              "title": "SUPERHOT VR",
+              "steamAppId": 617830
+            },
+            {
+              "action": "add",
+              "title": "The Elder Scrolls V: Skyrim VR",
+              "steamAppId": 611670
+            },
+            {
+              "action": "add",
+              "title": "The Talos Principle VR",
+              "steamAppId": 552440
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado a la captura actual de Steam."
+            }
+          ]
+        },
+        "Warhammer": {
+          "screenshotCount": 7,
+          "status": "match",
+          "changes": []
+        },
+        "We Were Here": {
+          "screenshotCount": 5,
+          "status": "match",
+          "changes": []
+        },
+        "The Witcher": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": [],
+          "note": "Steam muestra el encabezado como WITCHER; se conserva The Witcher como nombre canónico."
+        },
+        "XCOM": {
+          "screenshotCount": 4,
+          "status": "match",
+          "changes": []
+        },
+        "Yu-Gi-Oh!": {
+          "screenshotCount": 2,
+          "status": "match",
+          "changes": []
+        }
+      }
+    },
+    {
+      "batch": 12,
+      "collections": {
+        "YYY) Historia / Puzzle": {
+          "screenshotCount": 21,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Magicka 2",
+              "steamAppId": 238370
+            },
+            {
+              "action": "add",
+              "title": "Spelunky 2",
+              "steamAppId": 418530
+            },
+            {
+              "action": "add",
+              "title": "Twin Shot Deluxe",
+              "steamAppId": 3618520
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado a la captura actual de Steam."
+            }
+          ]
+        },
+        "YYY) Party / Versus / Mesa": {
+          "screenshotCount": 38,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "Bucket Brawl: Ahlman Edition",
+              "steamAppId": 2413660,
+              "note": "Se usa el título oficial de Steam: Ahlman, no Allman."
+            },
+            {
+              "action": "add",
+              "title": "EA SPORTS FC™ 26",
+              "steamAppId": 3405690
+            },
+            {
+              "action": "add",
+              "title": "Exploding Kittens® 2",
+              "steamAppId": 2999030
+            },
+            {
+              "action": "add",
+              "title": "Gamble With Your Friends",
+              "steamAppId": 3892270
+            },
+            {
+              "action": "add",
+              "title": "Screencheat",
+              "steamAppId": 301970
+            },
+            {
+              "action": "add",
+              "title": "ShellShock Live",
+              "steamAppId": 326460
+            },
+            {
+              "action": "add",
+              "title": "Tetris® Effect: Connected",
+              "steamAppId": 1003590
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Overcooked2",
+              "note": "Ya no aparece en la colección social actual; no se elimina del catálogo global."
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado a la captura actual de Steam."
+            }
+          ]
+        },
+        "YYY) PvE / Acción": {
+          "screenshotCount": 31,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "33 Immortals",
+              "steamAppId": 958520
+            },
+            {
+              "action": "add",
+              "title": "Absolum",
+              "steamAppId": 1904480
+            },
+            {
+              "action": "add",
+              "title": "Ember Knights",
+              "steamAppId": 1135230
+            },
+            {
+              "action": "add",
+              "title": "Minecraft Dungeons",
+              "steamAppId": 1672970
+            },
+            {
+              "action": "add",
+              "title": "Rabbit and Steel",
+              "steamAppId": 2132850
+            },
+            {
+              "action": "add",
+              "title": "Yet Another Zombie Defense HD",
+              "steamAppId": 674750
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado a la captura actual de Steam."
+            }
+          ]
+        },
+        "YYY) Survival / Sandbox": {
+          "screenshotCount": 18,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "add",
+              "title": "PEAK",
+              "steamAppId": 3527290
+            },
+            {
+              "action": "add",
+              "title": "R.E.P.O.",
+              "steamAppId": 3241660
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado a la captura actual de Steam."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "batch": 13,
+      "collections": {
+        "ZZZ) Demos": {
+          "screenshotCount": 17,
+          "status": "updated_split",
+          "changes": [
+            {
+              "action": "split_collection",
+              "from": "ZZZ) Demos y otros",
+              "note": "Steam actual separa demos de herramientas/betas."
+            },
+            {
+              "action": "add",
+              "title": "ASTLIBRA ～生きた証～ Revision Demo",
+              "steamAppId": 1761070
+            },
+            {
+              "action": "add",
+              "title": "BOMBANANA! Demo",
+              "steamAppId": 4747510
+            },
+            {
+              "action": "add",
+              "title": "EA SPORTS FC™ 26 SHOWCASE",
+              "steamAppId": 3629260
+            },
+            {
+              "action": "add",
+              "title": "Eriksholm: The Stolen Dream Demo",
+              "steamAppId": 3675810
+            },
+            {
+              "action": "add",
+              "title": "Whisper Mountain Outbreak - Pase Amigo",
+              "steamAppId": 2595010
+            },
+            {
+              "action": "add",
+              "title": "Whispers from the Star Demo",
+              "steamAppId": 3745500
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado a la captura actual de Steam."
+            }
+          ]
+        },
+        "ZZZ) Otros": {
+          "screenshotCount": 29,
+          "status": "updated_split",
+          "changes": [
+            {
+              "action": "split_collection",
+              "from": "ZZZ) Demos y otros",
+              "note": "Se concentran software, utilidades, betas y test servers."
+            },
+            {
+              "action": "add",
+              "title": "Desktop Mate",
+              "steamAppId": 3301060
+            },
+            {
+              "action": "add",
+              "title": "Lossless Scaling",
+              "steamAppId": 993090
+            },
+            {
+              "action": "add",
+              "title": "REDkit DE THE WITCHER 3",
+              "steamAppId": 2684660
+            },
+            {
+              "action": "add",
+              "title": "SMITE - Public Test",
+              "steamAppId": 858460
+            },
+            {
+              "action": "add",
+              "title": "The Jackbox Megapicker",
+              "steamAppId": 2828500
+            },
+            {
+              "action": "rename",
+              "from": "Space Marine 2 - Public Test Server",
+              "to": "Warhammer 40,000: Space Marine 2 - Public Test Server",
+              "steamAppId": 3417590
+            },
+            {
+              "action": "add",
+              "title": "Wreckfest Throw-A-Santa + Sneak Peek 2.0",
+              "steamAppId": 272860
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Hellblade: Senua’s Sacrifice VR Edition",
+              "note": "No aparece en ZZZ) Otros; permanece donde corresponda, p. ej. VR."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "Monster Hunter Wilds Benchmark",
+              "note": "No aparece en las colecciones técnicas actuales de la captura."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "SteamVR",
+              "note": "No aparece en ZZZ) Otros actual."
+            },
+            {
+              "action": "remove_from_collection",
+              "title": "VRChat",
+              "note": "No aparece en ZZZ) Otros; permanece en VR."
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado a la captura actual de Steam."
+            }
+          ]
+        },
+        "Bandas sonoras": {
+          "screenshotCount": 13,
+          "status": "updated",
+          "changes": [
+            {
+              "action": "replace",
+              "from": "Clair Obscur: Expedition 33 – Nos Vies En Lumière",
+              "to": "Clair Obscur: Expedition 33 – Nos Vies En Lumière (Bonus Edition)",
+              "steamAppId": 3873750
+            },
+            {
+              "action": "add",
+              "title": "Cyberpunk 2077 Bonus Content",
+              "steamAppId": 1495710
+            },
+            {
+              "action": "add",
+              "title": "Rebel Inc: Escalation - Soundtrack",
+              "steamAppId": 1181630
+            },
+            {
+              "action": "display_alias",
+              "from": "Darkest Dungeon: The Soundtrack",
+              "to": "Darkest Dungeon®: The Soundtrack",
+              "note": "Misma entrada; diferencia visual por marca registrada."
+            },
+            {
+              "action": "reorder_collection",
+              "note": "Orden ajustado a la captura actual de Steam."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "batch": 14,
+      "collections": {
+        "ZZZ) MRD": {
+          "screenshotCount": 57,
+          "status": "match",
+          "changes": [],
+          "note": "La captura actual coincide 57/57 y en el mismo orden con data/mrd-inventario-v6-5-13.json. No hay altas, bajas ni renombres."
+        }
+      }
+    }
+  ]
+}

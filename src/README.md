@@ -1,7 +1,8 @@
 # 🎮 Biblioteca Steam — High Family
 
-> mdBook estructurado generado el **2026-05-05**.
-> Base: `Steam-High-Family.md`.
+> mdBook estructurado y auditado el **2026-08-17**.
+> Fuente maestra: `source-Steam-High-Family.md`.
+> Auditoría actual: **93 colecciones corroboradas**, `ZZZ) El Pozo` en **190** y `ZZZ) MRD` en **57**.
 
 Este libro separa el sistema en capas claras:
 
@@ -31,7 +32,7 @@ mdbook build
 Las imágenes por juego van en:
 
 ```text
-src/assets/games/<slug>/header.jpg
-src/assets/games/<slug>/capsule.jpg
-src/assets/games/<slug>/hero.jpg
+src/assets/games/<steamAppId>/steam-header.jpg
+src/assets/games/<steamAppId>/steam-capsule.jpg
+src/assets/games/<steamAppId>/steam-background.jpg
 ```

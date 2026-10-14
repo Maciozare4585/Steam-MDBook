@@ -1,10 +1,52 @@
 # Juegos — E
 
-> Página alfabética compacta. Contiene **20** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **28** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
 <div class="compact-game-list">
+<article id="game-meta-3405690" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3405690">
+    <img src="../../assets/games/3405690/steam-header.jpg" alt="EA SPORTS FC™ 26" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3405690">🎮 EA SPORTS FC™ 26</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3405690</code></span>
+      <span><strong>Oficial:</strong> EA SPORTS FC™ 26</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3405690">
+  <a class="steam-action steam-play" href="steam://run/3405690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3405690" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3405690" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3629260" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3629260">
+    <img src="../../assets/games/3629260/steam-header.jpg" alt="EA SPORTS FC™ 26 SHOWCASE" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3629260">🎮 EA SPORTS FC™ 26 SHOWCASE</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3629260</code></span>
+      <span><strong>Oficial:</strong> EA SPORTS FC™ 26 SHOWCASE</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3629260">
+  <a class="steam-action steam-play" href="steam://run/3629260" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3629260" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3629260" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-3293010" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=3293010">
     <img src="../../assets/games/3293010/steam-header.jpg" alt="Easy Delivery Co." loading="lazy" />
@@ -22,6 +64,27 @@
   <a class="steam-action steam-play" href="steam://run/3293010" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3293010" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3293010" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-6100" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=6100">
+    <img src="../../assets/games/6100/steam-header.jpg" alt="Eets" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=6100">🎮 Eets</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>6100</code></span>
+      <span><strong>Oficial:</strong> Eets</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="6100">
+  <a class="steam-action steam-play" href="steam://run/6100" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/6100" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/6100" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -110,6 +173,69 @@
   </div>
 </article>
 
+<article id="game-meta-1135230" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1135230">
+    <img src="../../assets/games/1135230/steam-header.jpg" alt="Ember Knights" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1135230">🎮 Ember Knights</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1135230</code></span>
+      <span><strong>Oficial:</strong> Ember Knights</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1135230">
+  <a class="steam-action steam-play" href="steam://run/1135230" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1135230" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1135230" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2243110" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2243110">
+    <img src="../../assets/games/2243110/steam-header.jpg" alt="EMPTY SHELL" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2243110">🎮 EMPTY SHELL</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2243110</code></span>
+      <span><strong>Oficial:</strong> EMPTY SHELL</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2243110">
+  <a class="steam-action steam-play" href="steam://run/2243110" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2243110" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2243110" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-4356840" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=4356840">
+    <img src="../../assets/games/4356840/steam-header.jpg" alt="Endix" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=4356840">🎮 Endix</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>4356840</code></span>
+      <span><strong>Oficial:</strong> Endix</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="4356840">
+  <a class="steam-action steam-play" href="steam://run/4356840" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/4356840" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/4356840" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-311690" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=311690">
     <img src="../../assets/games/311690/steam-header.jpg" alt="Enter the Gungeon" loading="lazy" />
@@ -127,6 +253,27 @@
   <a class="steam-action steam-play" href="steam://run/311690" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/311690" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/311690" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-3675810" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3675810">
+    <img src="../../assets/games/3675810/steam-header.jpg" alt="Eriksholm: The Stolen Dream Demo" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3675810">🎮 Eriksholm: The Stolen Dream Demo</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3675810</code></span>
+      <span><strong>Oficial:</strong> Eriksholm: The Stolen Dream Demo</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3675810">
+  <a class="steam-action steam-play" href="steam://run/3675810" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3675810" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3675810" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -421,6 +568,27 @@
   <a class="steam-action steam-play" href="steam://run/281820" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/281820" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/281820" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2999030" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2999030">
+    <img src="../../assets/games/2999030/steam-header.jpg" alt="Exploding Kittens&#174; 2" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2999030">🎮 Exploding Kittens&#174; 2</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2999030</code></span>
+      <span><strong>Oficial:</strong> Exploding Kittens&#174; 2</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>provided</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2999030">
+  <a class="steam-action steam-play" href="steam://run/2999030" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2999030" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2999030" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>

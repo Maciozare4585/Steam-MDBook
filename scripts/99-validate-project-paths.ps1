@@ -1,3 +1,14 @@
+<#
+.SYNOPSIS
+    Valida rutas y archivos esperados del proyecto.
+.DESCRIPTION
+    Comprueba que existan carpetas, JSON, assets y páginas clave. Con `-Strict` puede fallar ante problemas
+    que normalmente solo serían advertencias.
+.PARAMETER Strict
+    Trata advertencias importantes como errores.
+.EXAMPLE
+    .\scripts\99-validate-project-paths.ps1 -Strict
+#>
 param(
     [switch]$Strict
 )

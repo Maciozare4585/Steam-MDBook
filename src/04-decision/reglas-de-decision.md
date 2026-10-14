@@ -8,7 +8,7 @@
 | Cierre secundario | `2.5) POSTGAME / EXTRAS` |
 | Algo seguro y conocido | `7) TOCA REPLAY` o `Favoritos` |
 | Algo social | `YYY)` |
-| Algo ligero | `Chill`, `Cozy`, `Arcade / Casual` |
+| Algo ligero | `Chill`, `Cozy`, `Arcade / Casual / Rápido` |
 | Algo intenso | `Souls`, `Terror`, `Shooter`, `Metroidvania` |
 | Algo mental | `Puzzle`, `Táctico por turnos`, `Gestión` |
 | Algo online | `Internet Persistente` |
@@ -18,7 +18,7 @@
 
 | Tengo... | Quiero... | Mejor opción |
 |---|---|---|
-| Poco tiempo | Algo con cierre rápido | Arcade / Casual, Roguelike, Puzzle corto |
+| Poco tiempo | Algo con cierre rápido | Arcade / Casual / Rápido, Roguelike, Puzzle corto |
 | Mucho tiempo | Avance serio | Campaña, RPG, Sin terminar |
 | Cansancio | Baja fricción | Chill / Relax, Cozy, Dave, Peggle |
 | Energía | Reto | Souls, Hollow Knight, Cuphead |

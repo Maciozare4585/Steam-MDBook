@@ -1,6 +1,6 @@
 # Juegos — P
 
-> Página alfabética compacta. Contiene **64** entradas generadas desde `data/steam-games-registry.json`.
+> Página alfabética compacta. Contiene **70** entradas generadas desde `data/steam-games-registry.json`.
 
 [← Volver al índice de juegos](../index.md) · [Ficha dinámica](../detalle.md)
 
@@ -383,6 +383,27 @@
   </div>
 </article>
 
+<article id="game-meta-3527290" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=3527290">
+    <img src="../../assets/games/3527290/steam-header.jpg" alt="PEAK" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=3527290">🎮 PEAK</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>3527290</code></span>
+      <span><strong>Oficial:</strong> PEAK</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="3527290">
+  <a class="steam-action steam-play" href="steam://run/3527290" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/3527290" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/3527290" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-3480" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=3480">
     <img src="../../assets/games/3480/steam-header.jpg" alt="Peggle Deluxe" loading="lazy" />
@@ -635,6 +656,27 @@
   </div>
 </article>
 
+<article id="game-meta-442120" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=442120">
+    <img src="../../assets/games/442120/steam-header.jpg" alt="Pinball FX Classic" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=442120">🎮 Pinball FX Classic</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>442120</code></span>
+      <span><strong>Oficial:</strong> Pinball FX Classic</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="442120">
+  <a class="steam-action steam-play" href="steam://run/442120" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/442120" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/442120" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-2337640" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=2337640">
     <img src="../../assets/games/2337640/steam-header.jpg" alt="Pinball FX Midnight" loading="lazy" />
@@ -652,6 +694,27 @@
   <a class="steam-action steam-play" href="steam://run/2337640" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/2337640" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/2337640" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2642570" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2642570">
+    <img src="../../assets/games/2642570/steam-header.jpg" alt="Pinball Storm: Lokanta" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2642570">🎮 Pinball Storm: Lokanta</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2642570</code></span>
+      <span><strong>Oficial:</strong> Pinball Storm: Lokanta</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2642570">
+  <a class="steam-action steam-play" href="steam://run/2642570" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2642570" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2642570" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1034,6 +1097,27 @@
   </div>
 </article>
 
+<article id="game-meta-2012840" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2012840">
+    <img src="../../assets/games/2012840/steam-header.jpg" alt="Portal with RTX" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2012840">🎮 Portal with RTX</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2012840</code></span>
+      <span><strong>Oficial:</strong> Portal with RTX</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2012840">
+  <a class="steam-action steam-play" href="steam://run/2012840" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2012840" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2012840" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
 <article id="game-meta-601360" class="compact-game-card">
   <a class="compact-game-card__cover" href="../detalle.html?id=601360">
     <img src="../../assets/games/601360/steam-header.jpg" alt="Portal: Revolution" loading="lazy" />
@@ -1156,6 +1240,27 @@
   <a class="steam-action steam-play" href="steam://run/3714460" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/3714460" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/3714460" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-2751000" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=2751000">
+    <img src="../../assets/games/2751000/steam-header.jpg" alt="Prince of Persia The Lost Crown" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=2751000">🎮 Prince of Persia The Lost Crown</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>2751000</code></span>
+      <span><strong>Oficial:</strong> Prince of Persia The Lost Crown</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="2751000">
+  <a class="steam-action steam-play" href="steam://run/2751000" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/2751000" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/2751000" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
@@ -1345,6 +1450,27 @@
   <a class="steam-action steam-play" href="steam://run/880940" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
   <a class="steam-action steam-install" href="steam://install/880940" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
   <a class="steam-action steam-store" href="https://store.steampowered.com/app/880940" title="Abrir la página del juego en Steam">Tienda</a>
+</div>
+  </div>
+</article>
+
+<article id="game-meta-1861500" class="compact-game-card">
+  <a class="compact-game-card__cover" href="../detalle.html?id=1861500">
+    <img src="../../assets/games/1861500/steam-header.jpg" alt="Pure Logic" loading="lazy" />
+  </a>
+  <div class="compact-game-card__body">
+    <div class="compact-game-card__title"><a href="../detalle.html?id=1861500">🎮 Pure Logic</a></div>
+    <div class="compact-game-card__meta">
+      <span><strong>App ID:</strong> <code>1861500</code></span>
+      <span><strong>Oficial:</strong> Pure Logic</span>
+      <span><strong>Tipo:</strong> <code>game</code></span>
+      <span><strong>Match:</strong> <code>manual-override</code></span>
+      <span><strong>Imagen:</strong> <code>steam</code></span>
+    </div>
+    <div class="steam-actions steam-actions--compact" data-steam-appid="1861500">
+  <a class="steam-action steam-play" href="steam://run/1861500" title="Abrir o lanzar este juego con Steam">▶ Jugar</a>
+  <a class="steam-action steam-install" href="steam://install/1861500" title="Abrir el flujo de instalación de Steam">⬇ Instalar</a>
+  <a class="steam-action steam-store" href="https://store.steampowered.com/app/1861500" title="Abrir la página del juego en Steam">Tienda</a>
 </div>
   </div>
 </article>
